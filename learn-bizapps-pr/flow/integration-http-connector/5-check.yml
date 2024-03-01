@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integration-http-connector.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/22/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the difference between the GET and POST methods?
+    choices: 
+    - content: GET is to get information and POST is to add data.
+      isCorrect: false
+      explanation: By using HTTP requests, you can use REST endpoints to do typical CRUD operations against SharePoint.
+    - content: GET is to read data and POST is to add and delete data.
+      isCorrect: false 
+      explanation: By using HTTP requests, you can use REST endpoints to do typical CRUD operations against SharePoint.
+    - content: GET is to read data and POST is to add, edit, and delete data.
+      isCorrect: true 
+      explanation: By using HTTP requests, you can use REST endpoints to do typical CRUD operations against SharePoint.
+    - content: GET is to read and add data, and POST is to edit and delete data.
+      isCorrect: false 
+      explanation: By using HTTP requests, you can use REST endpoints to do typical CRUD operations against SharePoint.
+  - content: What are the required fields for the HTTP action?
+    choices: 
+    - content: Site address and Headers
+      isCorrect: false
+      explanation: The HTTP request requires the Site Address, Method, Uri, and Headers fields.
+    - content: Site Address, Method, Uri, and Headers
+      isCorrect: true 
+      explanation: The HTTP request requires the Site Address, Method, Uri, and Headers fields.
+    - content: Site address, Method, and Headers
+      isCorrect: false 
+      explanation: The HTTP request requires the Site Address, Method, Uri, and Headers fields.
+    - content: Method and Headers
+      isCorrect: false 
+      explanation: The HTTP request requires the Site Address, Method, Uri, and Headers fields.
+  - content: Which two email address types are available in SharePoint?
+    choices: 
+    - content: A user email address and the no-reply@m365service.com mailbox
+      isCorrect: false
+      explanation: You can create flows that send email notifications directly from SharePointOnline.com. The Send an HTTP request to SharePoint action is used to create an email that comes from the no-reply@sharepointonline.com mailbox.
+    - content: A user email address in the From and To fields
+      isCorrect: false 
+      explanation: You can create flows that send email notifications directly from SharePointOnline.com. The Send an HTTP request to SharePoint action is used to create an email that comes from the no-reply@sharepointonline.com mailbox.
+    - content: A user email address in the From field and the no-reply@sharepoint.com mailbox
+      isCorrect: false 
+      explanation: You can create flows that send email notifications directly from SharePointOnline.com. The Send an HTTP request to SharePoint action is used to create an email that comes from the no-reply@sharepointonline.com mailbox.
+    - content: A user email address in the From field and the no-reply@sharepointonline.com mailbox
+      isCorrect: true 
+      explanation: You can create flows that send email notifications directly from SharePointOnline.com. The Send an HTTP request to SharePoint action is used to create an email that comes from the no-reply@sharepointonline.com mailbox.
+  - content: Which feature is useful in the POST method for editing and deleting actions?
+    choices: 
+    - content: Option to edit and delete a specific item number
+      isCorrect: true 
+      explanation: By using the IF-MATCH and X-HTTP-Method headers and the Uri, you can isolate the specific item number that you want to edit or delete.
+    - content: Option to edit and delete random item numbers
+      isCorrect: false 
+      explanation: By using the IF-MATCH and X-HTTP-Method headers and the Uri, you can isolate the specific item number that you want to edit or delete.
+    - content: Option to edit a specific item number and delete all
+      isCorrect: false 
+      explanation: By using the IF-MATCH and X-HTTP-Method headers and the Uri, you can isolate the specific item number that you want to edit or delete.
+    - content: Option to edit all and delete a specific item number
+      isCorrect: false 
+      explanation: By using the IF-MATCH and X-HTTP-Method headers and the Uri, you can isolate the specific item number that you want to edit or delete.

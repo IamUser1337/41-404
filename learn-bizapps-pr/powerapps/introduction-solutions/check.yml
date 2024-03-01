@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-solutions.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 08/31/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When should you use a patch solution?
+    choices: 
+    - content: When making bulk updates
+      isCorrect: false 
+      explanation: Incorrect. We don’t recommend that you use patches for large updates. 
+    - content: When you need to delete components
+      isCorrect: false 
+      explanation: Incorrect. When patches are imported, they're layered on top of the parent solution. You can't delete components with a patch.
+    - content: When making small updates
+      isCorrect: true 
+      explanation: Correct. We recommend that you only use patches when making small updates.
+  - content: What provides a collection of ALM-related tasks for Microsoft Power Platform?
+    choices: 
+    - content: Microsoft Power Apps admin center
+      isCorrect: false 
+      explanation: Incorrect. Power Apps admin center has moved to Microsoft Power Platform admin center, which is where admins can manage environments and settings for Power Apps.
+    - content: Microsoft Power Platform CLI
+      isCorrect: true 
+      explanation: Correct. Microsoft Power Platform CLI is a simple, one-stop developer CLI that empowers developers to perform various operations in Microsoft Power Platform that are related to ALM.
+    - content: Power Apps portals admin center
+      isCorrect: false 
+      explanation: Incorrect. You would use Power Apps portals admin center to perform advanced administrative actions on portals. Additionally, you can use it to set up admin options for Microsoft Power Pages.
+  - content: What command is used to reversibly decompose a solution .zip file by dividing it into a logical folder structure?
+    choices: 
+    - content: Solution unpack
+      isCorrect: true 
+      explanation: Correct. Solution unpack reversibly decomposes a solution .zip file by dividing it into a logical folder structure. 
+    - content: Solution pack
+      isCorrect: false 
+      explanation: Incorrect. The Solution pack option will package solution components on a local filesystem into a solution .zip file.
+    - content: Solution upgrade
+      isCorrect: false 
+      explanation: Incorrect. This option is used to stage the Dataverse solution for an upgrade.

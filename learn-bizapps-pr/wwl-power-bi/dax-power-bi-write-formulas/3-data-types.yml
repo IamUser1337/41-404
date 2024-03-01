@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-write-formulas.3-data-types 
+title: DAX data types
+metadata: 
+  title: DAX data types 
+  description: Learn about DAX data types.  
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-data-types.md)] 

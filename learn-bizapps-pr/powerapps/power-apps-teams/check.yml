@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-teams.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/05/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What application do you need to add to your Teams before you can create a canvas application?
+    choices: 
+    - content: Dataverse services
+      isCorrect: false
+      explanation: Incorrect. Dataverse is the relational database that you'll use as a data source.
+    - content: Power Pages
+      isCorrect: false 
+      explanation: Incorrect. Power Pages is a way to create custom public websites.
+    - content: Canvas for Teams
+      isCorrect: false 
+      explanation: Incorrect. This option isn't a standalone offering.
+    - content: Power Apps
+      isCorrect: true 
+      explanation: Correct. Power Apps for Teams allows you to create the desired canvas app.
+  - content: What data type will you select for a column that will let the user select one of many options?
+    choices: 
+    - content: Choice data type
+      isCorrect: true 
+      explanation: Correct. Choice data type allows the user to select one of many options.
+    - content: Lookup data type
+      isCorrect: false 
+      explanation: Incorrect. This data type is for selected related tables.
+    - content: List data type
+      isCorrect: false 
+      explanation: Incorrect. List is a collection of data rows.
+  - content: You've created a new canvas application. How do you add it to your Teams channel?
+    choices: 
+    - content: Publish the application and then select the add (+) button of the target channel.
+      isCorrect: true 
+      explanation: Correct. This action will add the app to the desired channel.
+    - content: The application should automatically appear on your Teams channel after you've saved it.
+      isCorrect: false 
+      explanation: Incorrect. You need to publish the app.
+    - content: You need to ask your IT department to add the application to your Teams channel.
+      isCorrect: false 
+      explanation: Incorrect. A user is able to complete this action for the apps that they've built.
+    - content: Canvas applications can't be added to a Teams channel.
+      isCorrect: false 
+      explanation: Incorrect. You can publish the application by selecting the add (+) button of the target channel.

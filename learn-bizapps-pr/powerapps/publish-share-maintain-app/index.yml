@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.publish-share-maintain-app 
+metadata: 
+ title: Publish, share, and maintain a canvas app
+ description: You've built your first app. Now, it's time to publish, share it with others, and maintain subsequent versions of the app.
+ ms.date: 01/13/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Publish, share, and maintain a canvas app 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  You've built your first app. Now, it's time to publish, share it with others, and maintain subsequent versions of the app.
+abstract: |  
+    In this module, you will: 
+    - Learn how to introduce the primary app build.
+    - Discover how to launch future iterations of the app.
+    - Learn how to manage versions and publish your app.
+prerequisites: Basic understanding of Microsoft Power Apps canvas apps and Microsoft Dataverse
+iconUrl: /training/achievements/publish-share-maintain-app.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products: 
+ - power-apps
+ - dataverse 
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.publish-share-maintain-app.1-introduction 
+- learn-bizapps.publish-share-maintain-app.2-publish-app 
+- learn-bizapps.publish-share-maintain-app.3-share-app 
+- learn-bizapps.publish-share-maintain-app.4-maintain-app 
+- learn-bizapps.publish-share-maintain-app.5-lifecycle-management 
+- learn-bizapps.publish-share-maintain-app.6-check 
+- learn-bizapps.publish-share-maintain-app.7-summary 
+badge: 
+  uid: learn-bizapps.publish-share-maintain-app.badge

@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn.wwl.challenge-project-build-applications-automation-solutions
+metadata:
+  title: Challenge project - Build applications and automation solutions
+  description: "Configure your own Power Platform model-driven application, canvas application and Power Automate cloud flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the company's applications and automation requirements to complete this project. [!NOTE] This is a Challenge Project module where you complete an end-to-end project using high-level guidance; there are no step-by-step instructions."
+  ms.date: 06/29/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: module-challenge-project
+  ms.service: power-platform
+title: Challenge project - Build applications and automation solutions
+summary: |
+  Configure your own Microsoft Power Platform model-driven app, canvas app and Power Automate cloud flow to support a scenario for a fictional company. You'll be provided with high-level specifications to complete this project.
+  [!INCLUDE [](../../includes/wwl/challenge-project-notes.md)]
+abstract: |
+  In this module, you'll demonstrate your ability to:
+  - Evaluate requirements
+  - Perform gap analysis of existing assets
+  - Create needed assets from the stated requirements
+  - Compose apps and automation
+prerequisites: |
+  None
+iconUrl: /training/achievements/generic-badge.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- power-apps
+- power-automate
+- power-platform
+units:
+- learn.wwl.challenge-project-build-applications-automation-solutions.introduction
+- learn.wwl.challenge-project-build-applications-automation-solutions.prepare
+- learn.wwl.challenge-project-build-applications-automation-solutions.exercise-create-dataverse-tables-columns-assets
+- learn.wwl.challenge-project-build-applications-automation-solutions.exercise-compose-model-driven-app
+- learn.wwl.challenge-project-build-applications-automation-solutions.exercise-build-canvas-app
+- learn.wwl.challenge-project-build-applications-automation-solutions.exercise-automate-cloud-flow
+- learn.wwl.challenge-project-build-applications-automation-solutions.knowledge-check
+- learn.wwl.challenge-project-build-applications-automation-solutions.summary
+badge:
+  uid: learn.wwl.challenge-project-build-applications-automation-solutions.badge

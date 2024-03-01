@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-teams.create-topic 
+title: Exercise - Create a topic
+metadata: 
+  title: Exercise - Create a topic
+  description: In this task, you'll create a topic for the bot to answer common questions from employees.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 20
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/create-topic.md)] 

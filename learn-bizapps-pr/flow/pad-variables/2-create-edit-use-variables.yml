@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-variables.2-create-edit-use-variables 
+title: Create, edit, and use variables
+metadata: 
+  title: Create, edit, and use variables
+  description: Create, edit, and use variables
+  ms.date: 10/01/2023 
+  author: DaveBeasley  
+  ms.author: dbeasley   
+  ms.topic: unit
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-create-edit-use-variables.md)] 

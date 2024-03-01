@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-events-fundraising-engagement.6-exercise 
+title: Exercise - Set up an event and add a registration package 
+metadata: 
+  title: Exercise - Set up an event and add a registration package 
+  description: Steps to set up an event and add a registration package.  
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-exercise.md)] 

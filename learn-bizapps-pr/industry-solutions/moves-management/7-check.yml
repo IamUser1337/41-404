@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.moves-management.7-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/01/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: "An Expected Amount of \\$50,000 is added to an opportunity. When creating the designation plan, the amount column on a designation plan line is set to \\$10,000. What will happen to the % column of the line item?"
+    choices: 
+    - content: It will remain blank until the user enters a value in the % column.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: It will remain blank and cannot be edited by the user.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: It will automatically update to 20%.
+      isCorrect: true
+      explanation: Users can either enter in a $ Amount or the Percentage %. The incomplete column will autopopulate with the equivalent amount.
+    - content: It will automatically update to the remaining balance of 80%.
+      isCorrect: false
+      explanation: Incorrect.
+  - content: What can users do from the Preferences tab of an opportunity record?
+    choices:
+    - content: Specify how funds should be allocated across designations.
+      isCorrect: false
+      explanation: This is done from the Designation Plan tab.
+    - content: Add objectives of the constituent to the opportunity.
+      isCorrect: true
+      explanation: Users can associate objectives to the opportunity here.
+    - content: Specify the donor's contact preferences.
+      isCorrect: false
+      explanation: This is done on the constituent's contact or organization record.
+    - content: Specify the Primary Objective for the opportunity.
+      isCorrect: false
+      explanation: This is done on the opportunity main form.
+  - content: What are the types of Funding Reports that can be created?
+    choices:
+    - content: Financial Report, Program Progress Report, Quarterly Filing, Donor Impact Report.
+      isCorrect: true
+      explanation: Correct.
+    - content: Donor Impact Report, Annual Report, Development Report.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Development Report, Financial Report, Quarterly Filing.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Financial Report, Major Gifts Report, Quarterly Filing, Donor Impact Report.
+      isCorrect: false
+      explanation: Incorrect.

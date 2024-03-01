@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.integrate-power-automate
+metadata:
+  title: Integrate SharePoint and Power Automate 
+  description: Learn how SharePoint and Power Automate are integrated.
+  ms.date: 04/14/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Integrate SharePoint and Power Automate
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Using SharePoint and Power Automate helps you automate day-to-day tasks. This Learning Path covers approvals in SharePoint and Power Automate, best practices, connectors, and error handling within flows. 
+prerequisites: |
+  - A basic understanding of Microsoft Power Automate. 
+  - Familiarity with SharePoint.
+iconUrl: /training/achievements/integrate-power-automate.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- business-applications
+- process-workflow
+modules:
+- learn-bizapps.email-power-automate
+- learn-bizapps.approvals-power-automate
+- learn-bizapps.http-connectors 
+- learn-bizapps.best-practices-email 
+- learn-bizapps.error-handling 
+- learn-bizapps.integration-http-connector 
+- learn-bizapps.troubleshoot-slow-flows 
+trophy:
+  uid: learn.integrate-power-automate.trophy

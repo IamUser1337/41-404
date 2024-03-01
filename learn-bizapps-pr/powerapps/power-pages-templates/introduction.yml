@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-templates.introduction
+title: Introduction to site templates in Power Pages
+metadata:
+  title: Introduction to site templates in Power Pages
+  description: When you create a new Power Pages site, you can choose a site design template, scenario-based template, or Dynamics 365 template to accelerate creating your site.
+  ms.date: 01/06/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

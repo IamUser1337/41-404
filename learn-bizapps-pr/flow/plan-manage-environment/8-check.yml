@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-manage-environment.8-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/28/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: By using automation, what is your best way to communicate Microsoft Power Platform policies?
+    choices: 
+    - content: Send makers an email when they have built their first flow or app by using Microsoft Power Platform Management connectors and Power Automate.
+      isCorrect: true 
+      explanation: No in-product experience exists to help you communicate policies within Power Automate. However, administrators can use Power Automate and Microsoft Power Platform Management connectors to build flows that detect when a user creates a flow for the first time and then send them an email that includes policy information.
+    - content: Display policy information in the Admin Analytics reports in Microsoft Power Platform Admin Center.
+      isCorrect: false 
+      explanation: No in-product experience exists to help you communicate policies within Power Automate. However, administrators can use Power Automate and Microsoft Power Platform Management connectors to build flows that detect when a user creates a flow for the first time and then send them an email that includes policy information.
+    - content: Display policy information in the Power Automate maker portal.
+      isCorrect: false 
+      explanation: No in-product experience exists to help you communicate policies within Power Automate. However, administrators can use Power Automate and Microsoft Power Platform Management connectors to build flows that detect when a user creates a flow for the first time and then send them an email that includes policy information.
+    - content: Update the terms and conditions statements in Microsoft Power Platform Admin Center.
+      isCorrect: false 
+      explanation: No in-product experience exists to help you communicate policies within Power Automate. However, administrators can use Power Automate and Microsoft Power Platform Management connectors to build flows that detect when a user creates a flow for the first time and then send them an email that includes policy information.
+  - content: Suppose you have two Data Loss Prevention (DLP) policies. Within policy one is the Microsoft Teams connector and the Office 365 Users connector in the Business data only data group. Policy two contains the SharePoint and Office 365 Groups connectors in the Business data only data group. What happens if you try to create a flow that includes Microsoft Teams and SharePoint connectors within the same environment?
+    choices: 
+    - content: The flow is successfully saved and remains in an enabled state.
+      isCorrect: false
+      explanation: Because SharePoint and Microsoft Teams connectors appear in two different Data Loss Prevention (DLP) policies, they cannot be included within the same flow because it will conflict with DLP policies. The default behavior of DLP policy enforcement is that, when saving, DLP rules will be checked. If a flow violates a DLP policy, it will still be saved but will be in a disabled state.
+    - content: The flow is successfully saved, runs for 30 minutes, and then is disabled.
+      isCorrect: false 
+      explanation: Because SharePoint and Microsoft Teams connectors appear in two different Data Loss Prevention (DLP) policies, they cannot be included within the same flow because it will conflict with DLP policies. The default behavior of DLP policy enforcement is that, when saving, DLP rules will be checked. If a flow violates a DLP policy, it will still be saved but will be in a disabled state.
+    - content: The flow is successfully saved but is immediately disabled due to a DLP violation.
+      isCorrect: true
+      explanation: Because SharePoint and Microsoft Teams connectors appear in two different Data Loss Prevention (DLP) policies, they cannot be included within the same flow because it will conflict with DLP policies. The default behavior of DLP policy enforcement is that, when saving, DLP rules will be checked. If a flow violates a DLP policy, it will still be saved but will be in a disabled state.
+    - content: The flow is not successfully saved, and the maker will lose all of their work.
+      isCorrect: false 
+      explanation: Because SharePoint and Microsoft Teams connectors appear in two different Data Loss Prevention (DLP) policies, they cannot be included within the same flow because it will conflict with DLP policies. The default behavior of DLP policy enforcement is that, when saving, DLP rules will be checked. If a flow violates a DLP policy, it will still be saved but will be in a disabled state.
+  - content: What role is needed for creating environment-wide DLP policies?
+    choices: 
+    - content: Admin
+      isCorrect: true 
+      explanation: That is correct. Either an environment admin or tenant admin is needed to create DLP policies.
+    - content: User
+      isCorrect: false 
+      explanation: Either an environment admin or tenant admin is needed to create DLP policies.
+    - content: Application 
+      isCorrect: false 
+      explanation: Either an environment admin or tenant admin is needed to create DLP policies.

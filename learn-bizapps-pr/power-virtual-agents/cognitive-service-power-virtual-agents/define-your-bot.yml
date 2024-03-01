@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cognitive-service-power-virtual-agents.define-your-bot
+title: Define your bot
+metadata:
+  title: Define your bot
+  description: Learn how to create and set up your bot.
+  ms.date: 09/28/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/define-your-bot.md)]

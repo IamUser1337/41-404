@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.testing-performance-checks.2-data-sources 
+title: Improve performance with data sources
+metadata: 
+  title: Improve performance with data sources 
+  description: Improve performance with data sources 
+  ms.date: 05/25/2022  
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+   
+durationInMinutes: 12 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-data-sources.md)] 
+

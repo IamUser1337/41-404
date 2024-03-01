@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-effective-bots.analytics
+title: Validate and iterate on your design
+metadata:
+  title: Validate and iterate on your design
+  description: Learn about measuring and adjusting your design after it's been made available for use.
+  ms.date: 04/11/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/analytics.md)]

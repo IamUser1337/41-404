@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-center-excellence.2-core-components
+title: Set up core components
+metadata:
+  title: Set up core components
+  description: Learn about setting up the core components.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-core-components.md)]

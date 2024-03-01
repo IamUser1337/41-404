@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.work-health-text-analytics
+metadata:
+ title: Work with Text Analytics for health API
+ description: Learn how to work with Text Analytics for health API in Microsoft Cloud for Healthcare.
+ ms.date: 02/28/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Work with Text Analytics for health API
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Text Analytics for health, a feature of Azure Cognitive Services, converts unstructured health data into structured health data to provide valuable insights on your data in Microsoft Cloud for Healthcare. 
+abstract: |
+    In this module, you'll:
+    - Learn how to use Text Analytics for health as a cloud service or deploy it by using a Docker container.
+    - Learn how to use REST API and SDKs.
+    - Use the SDK to access the service and deploy a Text Analytics for health container to your local computer.
+prerequisites: Knowledge of the general use of REST APIs
+iconUrl: /learn/achievements/work-health-text-analytics.svg
+levels:
+- advanced
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions 
+- mscloud-healthcare
+subjects:
+- business-applications
+units:
+- learn-bizapps.work-health-text-analytics.introduction
+- learn-bizapps.work-health-text-analytics.use-rest-api
+- learn-bizapps.work-health-text-analytics.use-sdk
+- learn-bizapps.work-health-text-analytics.call-cloud-service
+- learn-bizapps.work-health-text-analytics.use-containers
+- learn-bizapps.work-health-text-analytics.set-up-container
+- learn-bizapps.work-health-text-analytics.check
+- learn-bizapps.work-health-text-analytics.summary
+badge:
+  uid: learn-bizapps.work-health-text-analytics.badge

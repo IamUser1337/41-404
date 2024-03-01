@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-clarity.configure-clarity 
+title: Exercise 2 - Configure Microsoft Clarity
+metadata: 
+  title: Exercise 2 - Configure Microsoft Clarity
+  description: Learn how to set up Microsoft Clarity.
+  ms.date: 04/22/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/configure-clarity.md)] 

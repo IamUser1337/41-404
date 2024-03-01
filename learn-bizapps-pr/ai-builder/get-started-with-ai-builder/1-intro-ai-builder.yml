@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder.1-intro-ai-builder 
+title: Introduction to AI Builder
+metadata: 
+  title: Introduction to AI Builder
+  description: Learn about the AI Builder Microsoft Power Platform capability.
+  ms.date: 03/15/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-intro-ai-builder.md)] 

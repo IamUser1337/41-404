@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-design-report-layouts.lab-02b-develop-report-template
+title: 'Lab 02B: Develop a report template'
+metadata:
+  title: 'Lab 02B: Develop a report template'
+  description: "Lab 02B: Develop a report template"
+  ms.date: 03/05/2021
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 30
+content: |
+  [!include[](includes/5-lab-develop-report-template.md)]

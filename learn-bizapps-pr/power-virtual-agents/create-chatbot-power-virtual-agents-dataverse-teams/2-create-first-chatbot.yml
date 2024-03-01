@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.2-create-first-chatbot 
+title: Create your first copilot
+metadata: 
+  title: Create your first copilot 
+  description: Learn how to create a copilot. 
+  ms.date: 01/05/2024
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-create-first-chatbot.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.2b-design-apps
+title: Design model-driven apps
+metadata:
+  title: Design model-driven apps
+  description: Learn how to design a model-driven app.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2b-design-apps.md)]

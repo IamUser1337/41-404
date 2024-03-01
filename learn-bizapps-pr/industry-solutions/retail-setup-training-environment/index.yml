@@ -1,0 +1,60 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-setup-training-environment
+metadata:
+ title: Set up a training environment for Store Operations Assist
+ description: Follow the steps in the exercises to learn how to set up a training environment to use with Microsoft Cloud for Retail.
+ ms.date: 02/27/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Set up a training environment for Store Operations Assist
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn about licensing requirements for Store Operations Assist and how to set up a Store Operations Assist trial environment.
+abstract: |
+    In this module, you'll:
+    - Set up a new trial tenant.
+    - Set up Microsoft 365, set up Power BI Premium licenses, and add users.
+    - Create a new Microsoft Power Platform environment and deploy Store Operations Assist.
+    - Assign the manager security role to the manager user.
+    - Import a sample data package for training.
+    - Update the loyalty account number for a customer account.
+    - Upload product images.
+    - Set up Microsoft Teams and manage Microsoft Dataverse security setup.
+prerequisites: |
+  - Microsoft Power Platform licenses
+  - Microsoft Power Platform admin or tenant admin credentials
+  - Microsoft Power Platform environment with a database; for more information, see [Create an environment with a database](/power-platform/admin/create-environment/?azure-portal=true)
+  - 1 gigabyte (GB) of available database capacity to create the environment with a database
+  - [Power BI workspace permissions (optional)](/industry/retail/deploy-store-operations-assist?azure-portal=true#enable-creating-a-new-power-bi-workspace-for-advanced-analytics-optional)
+  - [Microsoft 365 licenses for your frontline workers](https://www.microsoft.com/microsoft-365/enterprise/frontline?azure-portal=true&rtc=1#office-SKUChooser-0dbn8nt)(Microsoft Teams)
+  - Power BI Pro or Premium license to set up the Retail Insights dashboard (optional)
+  - Device with at least 4 GB RAM or more to run the Store Operations Assist Mobile
+iconUrl: /learn/achievements/retail-setup-training-environment.svg
+levels:
+- intermediate
+roles:
+- administrator
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-setup-training-environment.introduction
+- learn-bizapps.retail-setup-training-environment.obtain-dynamics-trial
+- learn-bizapps.retail-setup-training-environment.obtain-microsoft-office
+- learn-bizapps.retail-setup-training-environment.obtain-power-bi
+- learn-bizapps.retail-setup-training-environment.create-users
+- learn-bizapps.retail-setup-training-environment.create-power-environment
+- learn-bizapps.retail-setup-training-environment.deploy-store-operations
+- learn-bizapps.retail-setup-training-environment.assign-role
+- learn-bizapps.retail-setup-training-environment.import-sample-data
+- learn-bizapps.retail-setup-training-environment.update-loyalty-account
+- learn-bizapps.retail-setup-training-environment.upload-product-images
+- learn-bizapps.retail-setup-training-environment.check
+- learn-bizapps.retail-setup-training-environment.summary
+badge:
+  uid: learn-bizapps.retail-setup-training-environment.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.analytics-excel.how-to-deliver-lab-01a-01b
+title: How to deliver labs 01A and 01B
+metadata:
+  title: How to deliver labs 01A and 01B
+  description: "How to deliver labs 01A and 01B"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/6-how-deliver-lab.md)]

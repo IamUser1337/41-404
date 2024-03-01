@@ -1,0 +1,51 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-extend-store-operations-assist
+metadata:
+ title: Extend Store Operations Assist 
+ description: Learn to extend Store Operations Assist solution to integrate with your line of business applications using Microsoft Cloud for Retail.
+ ms.date: 02/27/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Extend Store Operations Assist solution
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn to extend Store Operations Assist solution to integrate with your line of business applications
+abstract: |
+    In this module, you:
+    - Customize Store Operations Assist solution to integrate with a third-party application and fetch product prices and stock count.
+    - Modify the frequency of the "Trigger execution plan" Power Automate flow.
+    - Extract survey response data.
+    - Develop a Power Automate flow to extract product audit responses for price update checks.
+    - Develop a Power Automate flow to extract product audit responses for inventory spot count.
+    - Customize forms for Store Operations Assist and publish the template plans.
+prerequisites: |
+  - Microsoft Power Apps licenses with power platform administrator credentials
+  - Microsoft Teams
+  - Microsoft Power BI Pro or Premium
+  - You must complete the previous modules in the learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) before you can complete this one.
+iconUrl: /learn/achievements/retail-extend-store-operations-assist.svg
+levels:
+- intermediate
+roles:
+- administrator
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-extend-store-operations-assist.introduction
+- learn-bizapps.retail-extend-store-operations-assist.complete-prerequisites
+- learn-bizapps.retail-extend-store-operations-assist.customize-integrate-fetch-prices-stock-count
+- learn-bizapps.retail-extend-store-operations-assist.extract-survey-response
+- learn-bizapps.retail-extend-store-operations-assist.extract-price-update
+- learn-bizapps.retail-extend-store-operations-assist.extract-inventory-spot-count
+- learn-bizapps.retail-extend-store-operations-assist.customize-forms
+- learn-bizapps.retail-extend-store-operations-assist.publish-template-plans
+- learn-bizapps.retail-extend-store-operations-assist.check
+- learn-bizapps.retail-extend-store-operations-assist.summary
+badge:
+  uid: learn-bizapps.retail-extend-store-operations-assist.badge

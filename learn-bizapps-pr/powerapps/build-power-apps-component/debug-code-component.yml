@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-power-apps-component.debug-code-component 
+title: Test and debug code components
+metadata: 
+  title: Test and debug code components
+  description: Learn how to test and debug a custom Power Apps component.
+  ms.date: 10/30/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: interactive-tutorial 
+  ms.subservice: mda-developer
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/debug-code-component.md)] 

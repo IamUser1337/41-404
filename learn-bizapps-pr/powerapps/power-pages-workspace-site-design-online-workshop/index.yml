@@ -1,0 +1,38 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-workspace-site-design-online-workshop 
+metadata: 
+ title: Power Pages workspace site design - Online workshop
+ description: Learn about workspace site design in Power Pages.
+ ms.date: 01/24/2024 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module
+ ms.service: power-pages
+title: Power Pages workspace site design - Online workshop
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  In this module, you'll customize your webpages and edit the site header and footer in Power Pages.
+abstract: | 
+    In this module, you'll: 
+    - Edit the site header and footer.
+    - Customize webpages.
+prerequisites: Completion of [Power Pages styling workspace - Online workshop](/training/modules/power-pages-styling-workspace-online-workshop/) module.
+iconUrl: /learn/achievements/power-pages-workspace-site-design-online-workshop.svg 
+levels: 
+- intermediate 
+roles: 
+- functional-consultant
+- maker 
+products: 
+- power-platform
+- power-pages
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.power-pages-workspace-site-design-online-workshop.introduction 
+- learn-bizapps.power-pages-workspace-site-design-online-workshop.edit-header-footer 
+- learn-bizapps.power-pages-workspace-site-design-online-workshop.customize-web-pages 
+- learn-bizapps.power-pages-workspace-site-design-online-workshop.check 
+- learn-bizapps.power-pages-workspace-site-design-online-workshop.summary 
+badge: 
+  uid: learn-bizapps.power-pages-workspace-site-design-online-workshop.badge 

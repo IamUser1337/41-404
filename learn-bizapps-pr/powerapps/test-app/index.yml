@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.test-app 
+metadata: 
+ title: Test your app like a pro
+ description: Learn how to test your app from Power Apps like a professional.
+ ms.date: 06/30/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Test your app like a pro
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Your app isn't complete until you put it to the test. In this module, you'll learn the proper way to test your app.
+abstract: |  
+    In this module, you’ll: 
+    - Identify the types of testing that you can complete on your app.
+    - Plan and complete three types of tests on your app.
+prerequisites: Moderate Power Apps experience
+iconUrl: /training/achievements/test-app.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.test-app.introduction 
+- learn-bizapps.test-app.test-types 
+- learn-bizapps.test-app.unit
+- learn-bizapps.test-app.end-to-end 
+- learn-bizapps.test-app.tools 
+- learn-bizapps.test-app.exercise 
+- learn-bizapps.test-app.check 
+- learn-bizapps.test-app.summary 
+badge: 
+  uid: learn-bizapps.test-app.badge 

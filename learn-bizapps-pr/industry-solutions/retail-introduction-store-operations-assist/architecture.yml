@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-introduction-store-operations-assist.architecture
+title: Architecture
+metadata:
+  title: Architecture
+  description: Learn about Store Operations Assist architecture.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/architecture.md)]

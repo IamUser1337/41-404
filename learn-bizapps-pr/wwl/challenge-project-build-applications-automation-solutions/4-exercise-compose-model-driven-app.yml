@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-build-applications-automation-solutions.exercise-compose-model-driven-app
+title: 'Exercise - Compose a model-driven app '
+metadata:
+  title: Exercise - Compose a model-driven app
+  description: "Exercise - Compose a model-driven app"
+  ms.date: 06/29/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 45
+content: |
+  [!include[](includes/4-exercise-compose-model-driven-app.md)]

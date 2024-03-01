@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-canvas-app-figma.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 07/24/2023 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You want to include a chart in a canvas app design that you're creating in Figma. You can’t find the component in the list of available assets from the Figma UI Kit. What should you do?
+    choices: 
+    - content: Duplicate the UI kit.
+      isCorrect: false 
+      explanation: Incorrect. Only a limited list of canvas app components is available in the Figma UI Kit. Duplicating the kit doesn't result in adding this missing component.
+    - content: Use an image to represent the chart as a workaround.
+      isCorrect: true 
+      explanation: Correct. Charts aren't yet available in the Figma UI Kit. You can use an image to represent this component to help create the design. The image is converted as it is in Power Apps.
+    - content: Import a graph asset from other available sources into the project. Then, add this asset to the app design.
+      isCorrect: false 
+      explanation: Incorrect. To convert a Figma design to a Power Apps application, the design must include only components from the Figma UI Kit.
+  - content: After you work on an app design by using the Figma UI Kit, you convert the design to a canvas app by using the Start from Figma option. You test the app and notice that a form doesn't store data in the data source location that you expect. What could cause this situation?
+    choices: 
+    - content: The Figma design didn't include the data source connection information.
+      isCorrect: false 
+      explanation: Incorrect. No data source connection is available during the Figma design process.
+    - content: You need to create the app by using the Start with data option. 
+      isCorrect: false 
+      explanation: Incorrect. The Start with data option wouldn't include the app design, which would defeat the purpose of creating a design with Figma.
+    - content: You need to connect the form and data card components to the data source location. 
+      isCorrect: true 
+      explanation: Correct. When you create an app that includes data operations and you select Start from Figma, the app must be connected to a data source.
+  - content: You create a duplicate screen in Figma. You can't convert the screen into the target canvas app. How should you proceed?
+    choices: 
+    - content: Rename the duplicate screen as msft_Ignore.
+      isCorrect: true 
+      explanation: Correct. Power Apps doesn't create screens named msft_Ignore.
+    - content: Rename the duplicate screen as any name other than the default name.
+      isCorrect: false 
+      explanation: Incorrect. Only a specific name (msft_Ignore) ensures that the screen isn't converted.
+    - content: Set the visible property of the screen to False.
+      isCorrect: false 
+      explanation: Incorrect. The visibility property doesn't affect whether a screen is imported in Power Apps or not.

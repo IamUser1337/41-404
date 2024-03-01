@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-canvas-apps.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 11/07/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: unit
+  ms.service: power-platform
+durationInMinutes: 3
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "To build a mobile app that allows complete control over the user experience and design. What type of Power Apps app should be built?"
+    choices:
+    - content: "A model-driven app"
+      isCorrect: false
+      explanation: "Incorrect. With canvas apps, you start with a blank canvas choosing your type of mobile or tablet. Then you can design the app to meet your design needs."
+    - content: "A canvas app"
+      isCorrect: true
+      explanation: "Correct. With canvas apps, you start with a blank canvas choosing your type of mobile or tablet. Then you can design the app to meet your design needs."
+    - content: "A portal app"
+      isCorrect: false
+      explanation: "Incorrect. With canvas apps, you start with a blank canvas choosing your type of mobile or tablet. Then you can design the app to meet your design needs."
+  - content: "When a customer submits a Booking Request, what should be the Decision column default?"
+    choices:
+    - content: "Accepted"
+      isCorrect: false
+      explanation: "Incorrect. The Status should always default to undecided when a customer submits a Booking Request."
+    - content: "Declined"
+      isCorrect: false
+      explanation: "Incorrect. The Status should always default to undecided when a customer submits a Booking Request."
+    - content: "Undecided"
+      isCorrect: true
+      explanation: "Correct. The Status should always default to undecided when a customer submits a Booking Request."
+  - content: "Which of these statements about data sources is true?"
+    choices:
+    - content: "In Power Apps, app data comes primarily from your local device."
+      isCorrect: false
+      explanation: "Incorrect. You can use many external data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce."
+    - content: "Power Apps uses connectors to connect to Data Sources. If the data source supports it, Power Apps can read and write to the data source."
+      isCorrect: true
+      explanation: "Correct. You can use many external data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce."
+    - content: "Power Apps isn't able to connect to external data. All data must be stored in the Power Apps app."
+      isCorrect: false
+      explanation: "Incorrect. You can use many external data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce."
+  - content: "A customer sales team is in desperate need of a mobile application that can display rows living in a SharePoint list. When the app displays the records, multiple pieces of information about each record need to be visible to the user. Which of the following Power Apps tools should be used when designing the app to achieve this functionality?"
+    choices:
+    - content: "Create an input control to display the sales rows."
+      isCorrect: false
+      explanation: "Incorrect. Galleries are used to display tables of data from your data source. They're highly customizable, so you can show whatever information about a particular row that is necessary. You could then use a form to edit individual records, if desired."
+    - content: "Create a form to display the sales rows."
+      isCorrect: false
+      explanation: "Incorrect. Galleries are used to display tables of data from your data source. They're highly customizable, so you can show whatever information about a particular row that is necessary. You could then use a form to edit individual records, if desired."
+    - content: "Create a gallery to display the sales rows."
+      isCorrect: true
+      explanation: "Correct. Galleries are used to display tables of data from your data source. They're highly customizable, so you can show whatever information about a particular row that is necessary. You could then use a form to edit individual records, if desired."

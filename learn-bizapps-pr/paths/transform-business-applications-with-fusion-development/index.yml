@@ -1,0 +1,40 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.transform-with-fusion-dev
+metadata:
+  title: Transform your business applications with fusion development
+  description: Fusion development allows your business to build better applications, faster by bringing together professional developers with citizen, or low-code, developers. This learning path will teach you how a fusion development team functions, introduce low-code concepts for professional developers, and explain how a professional developer can enable their citizen developer counterparts to build amazing Power Apps applications using pro-code tools and frameworks they're already familiar and comfortable with, like JavaScript, ASP.NET Core web APIs, and Azure API Management.
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: learning-path
+  ms.contributors:
+  - masoucou-04272021
+title: Transform your business applications with fusion development
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Fusion development allows your business to build better applications, faster by bringing together professional developers with citizen, or low-code, developers.
+  This learning path will teach you how a fusion development team functions, introduce low-code concepts for professional developers, and explain how a professional developer can enable their citizen developer counterparts to build amazing Power Apps applications using pro-code tools and frameworks they're already familiar and comfortable with, like JavaScript, ASP.NET Core web APIs, and Azure API Management.
+prerequisites: |
+  - Passing familiarity with web development, Azure App Service, Azure API Management, and Power Apps.
+iconUrl: /training/achievements/transform-with-fusion-development.svg
+levels:
+- beginner
+roles:
+- maker
+- developer
+products:
+- azure
+- azure-api-management
+- dotnet
+- power-apps
+- power-platform
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev
+- learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer
+- learn-bizapps.build-power-apps-component
+- learn.azure.integrate-openapi-enabled-web-api-with-apim-and-visual-studio
+- learn-bizapps.powerapps.discover-web-apis-power-apps
+trophy:
+  uid: learn-bizapps.transform-with-fusion-development.trophy

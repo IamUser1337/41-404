@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.process-advisor-introduction
+metadata:
+ title: Analyze process mining reports in Power Automate
+ description: Learn about process mining and its role in hyperautomation. This module provides an in-depth description of process mining and explains how you can use Power Automate's process mining capability to glean insights from sample data.
+ ms.date: 12/05/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+title: Analyze process mining reports in Power Automate
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module introduces process mining and uses Power Automate's process mining capability to showcase the role of process mining in hyperautomation. You’ll learn how to create a process report and how to analyze KPIs and charts on the report to glean insights. Such insights are integral in identifying inefficiencies and automation opportunities in the sample process that you're provided.
+abstract: |
+    In this module, you'll:
+    - Analyze process mining reports in Power Automate
+    - Learn about process mining and hyperautomation.
+    - Create a process report and read data visualization charts.
+    - Read a process map and variant DNA, and view process KPIs.
+    - Filter a report.
+prerequisites: |
+    - Power Automate Premium license or Power Automate trial [license](/power-automate/process-advisor-overview#licensing)
+iconUrl: /learn/achievements/process-advisor-introduction.svg
+levels:
+- beginner
+roles:
+- business-user
+- business-analyst
+- data-analyst
+- functional-consultant
+products:
+- power-automate
+subjects:
+- business-applications
+- automation
+units:
+- learn-bizapps.process-advisor-introduction.introduction
+- learn-bizapps.process-advisor-introduction.hyperautomation
+- learn-bizapps.process-advisor-introduction.harness-power-automate
+- learn-bizapps.process-advisor-introduction.exercise-process
+- learn-bizapps.process-advisor-introduction.analyze-reports
+- learn-bizapps.process-advisor-introduction.check
+- learn-bizapps.process-advisor-introduction.summary
+badge:
+  uid: learn-bizapps.process-advisor-introduction.badge

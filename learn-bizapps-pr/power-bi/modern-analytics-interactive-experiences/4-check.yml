@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-interactive-experiences.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2021 
+ author: davidiseminger 
+ manager: kfollis 
+ ms.author: davdi 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What visual type is most like a PivotTable in Excel?
+    choices: 
+    - content: Card visual 
+      isCorrect: false 
+      explanation: Matrix visual is the most like a Pivot Table in Excel. 
+    - content: Slicer visual
+      isCorrect: false 
+      explanation: Matrix visual is the most like a Pivot Table in Excel.
+    - content: Matrix visual 
+      isCorrect: true 
+      explanation: Matrix visual is the most like a Pivot Table in Excel.
+    - content: Custom visual
+      isCorrect: false 
+      explanation: Matrix visual is the most like a Pivot Table in Excel.
+  - content: The decomposition tree is what kind of visual?
+    choices: 
+    - content: Custom visual 
+      isCorrect: false 
+      explanation: The decomposition tree is an Artificial intelligence visual. 
+    - content: Artificial intelligence (AI visual)
+      isCorrect: true 
+      explanation: The decomposition tree is an Artificial intelligence visual. 
+    - content: What-if scenario 
+      isCorrect: false 
+      explanation: The decomposition tree is an Artificial intelligence visual. 
+    - content: Matrix visual
+      isCorrect: false 
+      explanation: The decomposition tree is an Artificial intelligence visual. 

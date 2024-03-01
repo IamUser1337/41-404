@@ -1,0 +1,30 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.command-bar-power-apps 
+metadata:
+  title: Customize the command bar in Power Apps
+  description: Power Apps model-driven apps implement a consistent user experience. A key component of that experience is how users are presented and can interact with available commands. As part of designing the model-driven app, a maker can customize the bars to add commands, hide commands and modify their behavior. This learning path introduces you to how to customize the command bar. We also cover common scenarios and advanced concepts.
+  ms.date: 12/28/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Customize the command bar in Power Apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Power Apps model-driven apps implement a consistent user experience. A key component of that experience is how users are presented and can interact with available commands. As part of designing the model-driven app, a maker can customize the bars to add commands, hide commands and modify their behavior. This learning path introduces you to how to customize the command bar. We also cover common scenarios and advanced concepts.
+prerequisites: None
+iconUrl: /training/achievements/command-bar-power-apps.svg
+levels:
+- intermediate
+roles: 
+- functional-consultant
+- developer
+products:
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.command-bar-customize
+- learn-bizapps.command-bar-scenarios
+- learn-bizapps.command-bar-advanced
+trophy: 
+  uid: learn-bizapps.command-bar-power-apps.trophy

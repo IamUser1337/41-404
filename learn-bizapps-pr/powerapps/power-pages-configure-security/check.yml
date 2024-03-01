@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-configure-security.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/08/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What table defines the data access privileges that a web role has in Power Pages?
+    choices:
+    - content: Contacts
+      isCorrect: false
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access a web role has to individual Dataverse tables.
+    - content: Data Access Permissions
+      isCorrect: false
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access a web role has to individual Dataverse tables.
+    - content: Table Permissions
+      isCorrect: true
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access a web role has to individual Dataverse tables.
+    - content: Web Page Access Rules
+      isCorrect: false
+      explanation: Web Page Access Rules define which pages are visible to a web role and what actions can be taken. Table Permissions define what access a web role has to individual Dataverse tables.
+  - content: You added column permissions to allow the creation of Dataverse table rows by using portals Web API. However, you’re still unable to add rows through API. What could be the reason?   
+    choices:
+    - content: Portals Web API provides read access only
+      isCorrect: false
+      explanation: When permissions are evaluated, table permissions are evaluated first. If a user has access to a table, the table's column permissions are applied. If the user doesn't have access to the table, any configured column permissions are ignored.
+    - content: Missing table permissions
+      isCorrect: true
+      explanation: When permissions are evaluated, table permissions are evaluated first. If a user has access to a table, the table's column permissions are applied. If the user doesn't have access to the table, any configured column permissions are ignored.
+    - content: The page isn't secured
+      isCorrect: false
+      explanation: When permissions are evaluated, table permissions are evaluated first. If a user has access to a table, the table's column permissions are applied. If the user doesn't have access to the table, any configured column permissions are ignored.
+    - content: The website is in a trial mode
+      isCorrect: false
+      explanation: When permissions are evaluated, table permissions are evaluated first. If a user has access to a table, the table's column permissions are applied. If the user doesn't have access to the table, any configured column permissions are ignored.
+  - content: You added a currency filter to your list. However, at runtime, the list of available currencies in the filter is empty. You double-checked your Dataverse instance, which shows that active currency rows do exist. What do you need to do to display currencies in the filter?
+    choices:
+    - content: Remove and then add the filter again.
+      isCorrect: false
+      explanation: Whenever Dataverse data is accessed, regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
+    - content: Update the currency exchange rate in a Dataverse model-driven app.
+      isCorrect: false
+      explanation: Whenever Dataverse data is accessed, regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
+    - content: Sign in as an administrator.
+      isCorrect: false
+      explanation: Whenever Dataverse data is accessed, regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
+    - content: Add a table permission row for the currency table.
+      isCorrect: true
+      explanation: Whenever Dataverse data is accessed, regardless of the method, table permissions are applied automatically, including metadata filters where the Dynamic Lookup Filter is used. For a table to display lookup values, a table permission row is required.
+  - content: You have a product list page that uses a list to display the data. You’ve set up Read permissions for the product list table and have set the scope to Global. Users have complained that they can browse a product listing page anonymously but are denied access to the page after they sign in. How would you resolve the issue?
+    choices:
+    - content: Change the scope to Contact.
+      isCorrect: false
+      explanation: One web role in the portal can be marked as Anonymous and the other as Authenticated. These roles allow you to apply permissions and access rules to all website users based on whether they access the site anonymously or if they're signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
+    - content: Ask a developer to create a web template that can bypass the security check.
+      isCorrect: false
+      explanation: One web role in the portal can be marked as Anonymous and the other as Authenticated. These roles allow you to apply permissions and access rules to all website users based on whether they access the site anonymously or if they're signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
+    - content: Associate a table permission with the All Users role.
+      isCorrect: false
+      explanation: One web role in the portal can be marked as Anonymous and the other as Authenticated. These roles allow you to apply permissions and access rules to all website users based on whether they access the site anonymously or if they're signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.
+    - content: Associate a table permission with the Authenticated users role.
+      isCorrect: true
+      explanation: One web role in the portal can be marked as Anonymous and the other as Authenticated. These roles allow you to apply permissions and access rules to all website users based on whether they access the site anonymously or if they're signed in. Because users can access the data anonymously but can't when they're authenticated, it indicates that the table permission is associated with the Anonymous role but not with the Authenticated one.

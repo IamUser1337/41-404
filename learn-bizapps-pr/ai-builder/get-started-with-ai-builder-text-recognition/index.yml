@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-with-ai-builder-text-recognition 
+metadata: 
+ title: Recognize text with AI Builder
+ description: Learn about AI Builder Text recognition and how to use it with other Microsoft Power Platform products.
+ ms.date: 04/10/2020  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.collection: get-started
+title: Recognize text with AI Builder
+summary: |  
+   [!include[](../includes/module-banner.md)] 
+   Learn about AI Builder Text recognition and how to use it with other Microsoft Power Platform products.
+abstract: |  
+    In this module, you will: 
+    - Integrate AI Builder Text recognition.
+    - Identify how to use AI Builder Text recognition within Microsoft Power Platform.
+    - Evaluate which business problems can be solved by AI Builder Text recognition.
+    - Develop a simple flow with Power Automate that uses AI Builder Text recognition.
+    - Practice processing files from a OneDrive folder and saving recognized text to Microsoft Dataverse.
+    - Develop a Power Apps application that will use AI Builder Text recognition.
+    - Practice retrieving recognized text.
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Dataverse](https://powerapps.microsoft.com/common-data-service/)
+    - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
+iconUrl: /learn/achievements/get-started-with-text-recognition.svg  
+levels:  
+- beginner   
+roles:
+- business-user
+- maker
+products:    
+- ai-builder
+- power-platform
+- power-automate
+units: 
+- learn-bizapps.get-started-with-ai-builder-text-recognition.1-introduction
+- learn-bizapps.get-started-with-ai-builder-text-recognition.2-solve-problems 
+- learn-bizapps.get-started-with-ai-builder-text-recognition.3-build-flow 
+- learn-bizapps.get-started-with-ai-builder-text-recognition.4-build-application 
+- learn-bizapps.get-started-with-ai-builder-text-recognition.4a-check 
+- learn-bizapps.get-started-with-ai-builder-text-recognition.5-summary 
+badge: 
+  uid: learn-bizapps.get-started-with-text-recognition.badge 

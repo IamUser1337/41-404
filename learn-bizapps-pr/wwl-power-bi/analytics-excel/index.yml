@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn.wwl.analytics-excel
+metadata:
+  title: 'Prepare to teach the module: Analytics in Excel'
+  description: "Prepare to teach the module: Analytics in Excel"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Analytics in Excel'
+summary: Deliver the “Analytics in Excel” module of instructor-led course “Modern Excel Analyst in a day” to your Data Analyst customers covering Excel tools including Power Query, Power Pivot, relationships, measures, slicers, and conditional formatting.
+abstract: |
+  After the completion of this module, you will be able to explain and demonstrate how to:
+  - Load data into Excel with Power Query
+  - Analyze data in Excel with Power Pivot
+  - Create reports with relationships, measures, slicers, timeline, and conditional formatting
+prerequisites: |
+  - Basic familiarity with data analysis and reporting tools.
+  - Experience with Excel.
+iconUrl: /training/achievements/analytics-in-excel.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- office-excel
+- power-bi
+subjects:
+- productivity
+units:
+- learn.wwl.analytics-excel.introduction
+- learn.wwl.analytics-excel.introduction-slides
+- learn.wwl.analytics-excel.what-is-modern-excel
+- learn.wwl.analytics-excel.power-query-excel
+- learn.wwl.analytics-excel.pivot-tables
+- learn.wwl.analytics-excel.how-to-deliver-lab-01a-01b
+- learn.wwl.analytics-excel.knowledge-check
+- learn.wwl.analytics-excel.summary
+badge:
+  uid: learn.wwl.analytics-excel.badge

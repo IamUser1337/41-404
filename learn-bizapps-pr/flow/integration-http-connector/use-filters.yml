@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integration-http-connector.use-filters
+title: Use OData filtering with SharePoint
+metadata:
+  title: Use OData filtering with SharePoint
+  description: Learn how to use OData filtering with SharePoint.
+  ms.date: 09/22/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/use-filters.md)]

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.healthcare-integration-interoperability
+metadata:
+ title: Explore integration and interoperability in Microsoft Cloud for Healthcare
+ description: Learn about the integration and interoperability solutions in Microsoft Cloud for Healthcare.
+ ms.date: 02/13/2024
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.service: microsoft-cloud-healthcare
+ ms.topic: module-standard-task-based
+title: Explore integration and interoperability in Microsoft Cloud for Healthcare
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module provides an in-depth explanation of the integration and interoperability solutions that are available in Microsoft Cloud for Healthcare. It describes solutions such as Azure Health Data Services, Data integration toolkit, Dataverse Healthcare API, Healthcare data pipeline template, and virtual health data tables. Additionally, the hands-on lab experience helps you tailor your integration and interoperability solutions.
+abstract: |
+    This module explains how to:
+    - Set up an Azure Health Data Services workspace and FHIR API.
+    - Set up the complex features of Data integration toolkit and virtual health data tables.
+    - Set up the Healthcare data pipeline to move data between FHIR server and Microsoft Dataverse.
+prerequisites: |
+    Make sure that you complete the following modules before starting this one:
+    - [Microsoft Cloud for Healthcare training environment preparation](/training/modules/training-environment-preparation-healthcare/)
+    - [Get started with integration and interoperability in Microsoft Cloud for Healthcare](/training/modules/healthcare-interoperability/)
+iconUrl: /learn/achievements/healthcare-integration-interoperability.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+units:
+- learn-bizapps.healthcare-integration-interoperability.introduction
+- learn-bizapps.healthcare-integration-interoperability.set-up-azure-health-data-services
+- learn-bizapps.healthcare-integration-interoperability.healthcare-data-pipeline-template
+- learn-bizapps.healthcare-integration-interoperability.virtual-health-data-table
+- learn-bizapps.healthcare-integration-interoperability.configure-virtual-health-data-table
+- learn-bizapps.healthcare-integration-interoperability.check
+- learn-bizapps.healthcare-integration-interoperability.summary
+badge:
+  uid: learn-bizapps.healthcare-integration-interoperability.badge

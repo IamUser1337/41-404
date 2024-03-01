@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow.pad-custom-forms.handle-custom-form-data 
+title: Use form data in your desktop flows
+metadata:
+  title: Use form data in your desktop flows
+  description: Use form data in your desktop flows
+  ms.date: 04/29/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/handle-custom-form-data.md)] 

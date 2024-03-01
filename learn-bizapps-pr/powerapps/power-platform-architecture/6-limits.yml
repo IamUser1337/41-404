@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-platform-architecture.6-limits
+title: Platform limits
+metadata:
+  title: Platform limits
+  description: Learn about the service protection limits of Power Platform.
+  ms.date: 03/09/2023
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-limits.md)]

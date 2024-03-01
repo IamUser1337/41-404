@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-ai-builder-process-invoice.4-model 
+title: Add fields and collections of documents
+metadata: 
+  title: Add fields and collections of documents
+  description: Learn how to extract fields and add collections of documents to customize your model.
+  ms.date: 08/01/2023  
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-model.md)] 

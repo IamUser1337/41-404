@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.3-manage-documents 
+title: Manage documents related to Volunteer Management in SharePoint  
+metadata: 
+  title: Manage documents related to Volunteer Management in SharePoint  
+  description: Learn how to manage documents related to Volunteer Management in SharePoint.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-manage-documents.md)] 

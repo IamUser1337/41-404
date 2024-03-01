@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.create-document-mock-ups
+title: Create and document mock-ups
+metadata:
+  title: Create and document mock-ups
+  description: "Create and document mock-ups"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-create-document-mock-ups.md)]

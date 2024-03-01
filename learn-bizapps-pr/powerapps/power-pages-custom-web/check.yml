@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-custom-web.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/26/2023
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following Liquid tags isn't used to build templates?
+    choices: 
+    - content: "{% include %}"
+      isCorrect: false
+      explanation: Include, block, and extend are essential Liquid tags for building flexible, reusable web templates. Template isn't a valid Liquid tag.
+    - content: "{% block %}"
+      isCorrect: false 
+      explanation: Include, block, and extend are essential Liquid tags for building flexible, reusable web templates. Template isn't a valid Liquid tag.
+    - content: "{% template %}"
+      isCorrect: true
+      explanation: Include, block, and extend are essential Liquid tags for building flexible, reusable web templates. Template isn't a valid Liquid tag.
+    - content: "{% extend %}"
+      isCorrect: false 
+      explanation: Include, block, and extend are essential Liquid tags for building flexible, reusable web templates. Template isn't a valid Liquid tag.
+  - content: What do you need to do to apply table permissions when you're accessing Microsoft Dataverse data in Liquid templates?
+    choices: 
+    - content: Use a secure Liquid filter.
+      isCorrect: false
+      explanation: All data access that's performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off this feature.
+    - content: Nothing, table permissions are applied automatically.
+      isCorrect: true
+      explanation: All data access that's performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off this feature.
+    - content: Place Liquid code on a secured webpage.
+      isCorrect: false 
+      explanation: All data access that's performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off this feature.
+    - content: Select the Enable Table Permissions option on the web template that contains Liquid code.
+      isCorrect: false 
+      explanation: All data access that's performed by Liquid objects and tags is governed by table permissions, and it's not possible to switch off this feature.
+  - content: You're building webpages that document the use of Liquid language. What would you do to avoid having your samples being interpreted as instructions and having them displayed as they are?
+    choices: 
+    - content: 'Use HTML code block.'
+      isCorrect: false
+      explanation: The raw Liquid tag allows output of Liquid code on a page without having it parsed and implemented.
+    - content: 'Place your sample code inside the {% comment %} tag.'
+      isCorrect: false 
+      explanation: The raw Liquid tag allows output of Liquid code on a page without having it parsed and implemented.
+    - content: 'Place your sample code inside the {% raw %} tag.'
+      isCorrect: true
+      explanation: The raw Liquid tag allows output of Liquid code on a page without having it parsed and implemented.
+    - content: 'Start your code with <!-- SAMPLE --> HTML comment instruction.'
+      isCorrect: false 
+      explanation: The raw Liquid tag allows output of Liquid code on a page without having it parsed and implemented.
+  - content: How do you stop the default footer from rendering in the portal?
+    choices: 
+    - content: Create a blank web template and then select it as a Footer Template on the Website record.
+      isCorrect: true 
+      explanation: If you don't specify a header or a footer template in the Website record, the default content is rendered. To remove the footer, specify a blank template.
+    - content: Select Web Templates, locate the Footer Template field, and then delete it.
+      isCorrect: false 
+      explanation: If you don't specify a header or a footer template in the Website record, the default content is rendered. To remove the footer, specify a blank template.
+    - content: Clear the Footer Template field on the Website record.
+      isCorrect: false 
+      explanation: If you don't specify a header or a footer template in the Website record, the default content is rendered. To remove the footer, specify a blank template.
+    - content: Select the No Footer flag on the Web Template table.
+      isCorrect: false 
+      explanation: If you don't specify a header or a footer template in the Website record, the default content is rendered. To remove the footer, specify a blank template.

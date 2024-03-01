@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.automate-data-cleaning-power-query.3-import-data 
+title: Import data
+metadata: 
+  title: Import data
+  description: Learn how to connect to multiple types of data sources.
+  ms.date: 09/09/2021 
+  author: DougKlopfenstein
+  ms.author: dougklo
+  ms.topic: unit
+durationInMinutes: 20
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-import-data.md)] 

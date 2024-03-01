@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-bizapps.architect-analytics
+metadata:
+ title: "Solution Architect series: Evaluate Power Platform analytics and AI"
+ description: Learn about reporting and analytics in Microsoft Power Platform.
+ ms.date: 03/09/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: "Solution Architect series: Evaluate Power Platform analytics and AI"
+summary: |
+  [!include[](../includes/module-banner.md)]
+  A solution architect for Microsoft Power Platform evaluates the needs for reporting and then identifies the best approach. This module examines the available reporting and analytics options for Power Platform.
+abstract: |
+    In this module, you will:
+    - Discover the planning and evaluating requirements.
+    - Learn about operational reporting.
+    - Review the capabilities of Microsoft Power BI and how to use it with Power Platform components.
+    - Learn how to use pre-built insights and custom AI.
+prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
+iconUrl: /training/achievements/architect-analytics.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- power-apps
+- power-automate
+- power-platform
+- ms-copilot
+- ai-builder
+- power-bi
+- dataverse
+subjects:
+- artificial-intelligence
+- business-applications
+units:
+- learn-bizapps.architect-analytics.1-introduction
+- learn-bizapps.architect-analytics.2-report-capabilities
+- learn-bizapps.architect-analytics.3-power-bi
+- learn-bizapps.architect-analytics.4-requirements
+- learn-bizapps.architect-analytics.5-power-platform
+- learn-bizapps.architect-analytics.6-dataflows
+- learn-bizapps.architect-analytics.7-ai
+- learn-bizapps.architect-analytics.8-check
+- learn-bizapps.architect-analytics.9-summary
+badge:
+  uid: learn-bizapps.architect-analytics.badge

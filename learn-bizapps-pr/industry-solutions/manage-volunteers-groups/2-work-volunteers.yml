@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-volunteers-groups.2-work-volunteers 
+title: Work with volunteers
+metadata: 
+  title: Work with volunteers
+  description: Learn to manage volunteer availability, qualifications, and participation history.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-work-volunteers.md)] 

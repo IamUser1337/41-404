@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-dataverse-triggers-actions.exercise 
+title: Exercise - Create a cloud flow with a Dataverse connector
+metadata: 
+  title: Exercise - Create a cloud flow with a Dataverse connector
+  description: Follow the steps to create a cloud flow with a Dataverse connector.
+  ms.date: 12/18/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 25 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

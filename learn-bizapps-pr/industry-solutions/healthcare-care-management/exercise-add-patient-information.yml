@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-care-management.exercise-add-patient-information
+title: Exercise - Add a care plan and care team for the patient 
+metadata: 
+  title: Exercise - Add a care plan and care team for the patient 
+  description: Follow the steps to learn how to add patient information and assign a care plan and care team for the patient.
+  ms.date: 10/30/2023  
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit 
+  ms.service: microsoft-cloud-healthcare
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-add-patient-information.md)] 

@@ -1,0 +1,1 @@
+You learned how to filter data to find the most relevant information for making better business decisions. We analyzed multi-page reports and how to navigate to each page. We set bookmarks and learned to export to PowerPoint and Excel. 

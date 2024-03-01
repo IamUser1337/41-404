@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.how-to-build-ui-canvas-app.4-images 
+title: Images
+metadata: 
+  title: Images 
+  description: Images 
+  ms.date: 01/03/2024 
+  author: jadaphillips
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-images.md)] 
+

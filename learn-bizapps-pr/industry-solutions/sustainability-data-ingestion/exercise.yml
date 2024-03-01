@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-data-ingestion.exercise
+title: Exercise - Import data
+metadata:
+  title: Exercise - Import data
+  description: Follow the steps to import data.
+  ms.date: 11/08/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 36
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

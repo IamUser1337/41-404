@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-model-driven.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/07/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you update a table view in a model-driven app?
+    choices:
+    - content: In the App Designer, remove the entity, add it again, and then the changes to the table view will show.
+      isCorrect: false
+      explanation: Incorrect. Find the table that you want to modify the view for, update the view, and then select Publish. Changes to the table view will show automatically in the model-driven app.
+    - content: Find the table that you want to modify the view for, update the view, and then select Publish. Changes to the table view will show automatically in the model-driven app.
+      isCorrect: true
+      explanation: Correct. Find the table that you want to modify the view for, update the view, and then select Publish. Changes to the table view will show automatically in the model-driven app.
+    - content: Use Visual Studio to modify the view to update it in a model-driven app.
+      isCorrect: false
+      explanation: Incorrect. Find the table that you want to modify the view for, update the view, and then select Publish. Changes to the table view will show automatically in the model-driven app.
+    - content: It's not possible to update a view in a model-driven app after it’s been published.
+      isCorrect: false
+      explanation: Incorrect. Find the table that you want to modify the view for, update the view, and then select Publish. Changes to the table view will show automatically in the model-driven app.
+  - content: How can you view related records from a model-driven app?
+    choices:
+    - content: Find the record that you want to view related records for, select Related, and then select a related table.
+      isCorrect: true
+      explanation: Correct. Find the record that you want to view related records for, select Related, and then select a related table. These actions are standard if relationships exist between the tables.
+    - content: It isn't possible to view related records by using model-driven apps.
+      isCorrect: false
+      explanation: Incorrect. Find the record that you want to view related records for, select Related, and then select a related table. These actions are standard if relationships exist between the tables.
+    - content: You need custom plug-ins to build views to display related records.
+      isCorrect: false
+      explanation: Incorrect. Find the record that you want to view related records for, select Related, and then select a related table. These actions are standard if relationships exist between the tables.
+    - content: Create a new custom form to display related records.
+      isCorrect: false
+      explanation: Incorrect. Find the record that you want to view related records for, select Related, and then select a related table. These actions are standard if relationships exist between the tables.
+  - content: Which of the following options are components of model-driven apps that are found in the site map?
+    choices:
+    - content: Area, Group, and Sub Area
+      isCorrect: true
+      explanation: Correct. Area, Group, and Sub Area are components of model-driven apps that are found in the site map.
+    - content: Field, Column, and Table
+      isCorrect: false
+      explanation: Incorrect. Area, Group, and Sub Area are components of model-driven apps that are found in the site map.
+    - content: Entity, Group, and Area
+      isCorrect: false
+      explanation: Incorrect. Area, Group, and Sub Area are components of model-driven apps that are found in the site map.
+    - content: Table, Group, and Area
+      isCorrect: false
+      explanation: Incorrect. Area, Group, and Sub Area are components of model-driven apps that are found in the site map.

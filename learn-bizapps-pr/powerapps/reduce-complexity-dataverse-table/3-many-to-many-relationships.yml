@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.reduce-complexity-dataverse-table.3-many-to-many-relationships 
+title: Work with many-to-many relationships 
+metadata: 
+  title: Work with many-to-many relationships 
+  description: Learn how to work with many-to-many relationships.
+  ms.date: 11/16/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-many-to-many-relationships.md)] 

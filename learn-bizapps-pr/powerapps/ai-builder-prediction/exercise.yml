@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-prediction.exercise 
+title: Exercise – Build a prediction model and use it in a model-driven app
+metadata: 
+  title: Exercise – Build a prediction model and use it in a model-driven app
+  description: Practice building a prediction model and using it in a model-driven app.
+  ms.date: 06/30/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

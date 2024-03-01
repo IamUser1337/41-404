@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-analytics-microsoft.3-roles
+title: Roles in data
+metadata:
+  title: Roles in data
+  description: "Learn about roles in data."
+  ms.date: 07/03/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-roles.md)]

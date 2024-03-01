@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.4-relationships 
+title: Relationships
+metadata: 
+  title: Relationships
+  description: Learn about relationships between table fields.
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-relationships.md)] 

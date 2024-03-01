@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-goals-scorecard.exercise-set-up
+title: Exercise - Set up Teams collaboration
+metadata:
+  title: Exercise - Set up Teams collaboration
+  description: Follow the steps to set up integration with Microsoft Teams for Microsoft Sustainability Manager.
+  ms.date: 05/04/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-set-up.md)]

@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-create-microsoft-power-platform-solutions.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 08/02/2023
+  author: wwlpublish
+  ms.author: hakimm
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/4-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "What is the main function of the Fit Gap Analysis?"
+    choices:
+    - content: "Design a security model."
+      isCorrect: false
+      explanation: "Incorrect. Security modeling isn't part of Fit Gap Analysis."
+    - content: "Identify what is built in, configurable or custom for a requirement."
+      isCorrect: true
+      explanation: "Correct. Fit Gap can help you understand how your requirement can be satisfied. For example, by using a view in a Dynamics 365 app."
+    - content: "Discover customer requirements."
+      isCorrect: false
+      explanation: "Incorrect. Fit Gap analyzes fit of requirements you already discovered. It isn't a requirement discovery tool."
+  - content: "When building an ALM strategy, users should consider?"
+    choices:
+    - content: "The number of environments, and how the solution is promoted between them."
+      isCorrect: true
+      explanation: "Correct. Environments are a key part of your ALM strategy."
+    - content: "The security roles users need."
+      isCorrect: false
+      explanation: "Incorrect. You should consider security roles when creating the Security Model."
+    - content: "Which tables are required."
+      isCorrect: false
+      explanation: "Incorrect. You should consider tables when creating the Data Model."
+  - content: "When creating a data model, users shouldn't use an existing table if?"
+    choices:
+    - content: "The table doesn't have all the columns you need."
+      isCorrect: false
+      explanation: "Incorrect. You can easily create missing columns."
+    - content: "The table was created as a custom table."
+      isCorrect: false
+      explanation: "Incorrect. Custom table just means it wasn't built in, you can still use it and add more columns as needed."
+    - content: "The original purpose of the table was different than your intended use."
+      isCorrect: true
+      explanation: "Correct. You shouldn't repurpose an existing table if your intended use isn't compatible."

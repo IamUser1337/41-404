@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-source-limits.2-functions-predicates-data-source
+title: Functions, predicates, and data sources combine to determine delegation
+metadata:
+  title: Functions, predicates, and data sources combine to determine delegation
+  description: Functions, predicates, and data sources combine to determine delegation
+  ms.date: 12/01/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-functions-predicates-data-source.md)]

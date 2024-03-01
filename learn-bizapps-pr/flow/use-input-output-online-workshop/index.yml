@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.use-input-output-online-workshop
+metadata:
+ title: Use input and output variables - Online workshop
+ description: Learn how to use input and output variables for automatic invoice entry.
+ ms.date: 02/07/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Use input and output variables - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In the module **Create your first desktop flow - Online workshop**, you created your first desktop flow that can automate entering of a new invoice with fixed parameter values for Contoso Coffee shop. In this module, you'll use real-time input variables instead of fixed values.
+abstract: |
+    In this module, you'll:
+    - Create a new Power Automate desktop flow with predefined inputs.
+    - Record actions that are performed in the desktop-based Contoso Invoicing application by using these inputs and capturing application data for output.
+    - Perform a test run of the new desktop flow with a new set of inputs.
+prerequisites: |
+   - Complete the **Install required software - Online workshop** module.
+   - Complete the **Create your first desktop flow - Online workshop** module or import the provided solution in the resources folder.
+   - As you're recording actions that are performed in your UI in this module, we recommend that you view the module instructions on a separate device or in a printout. You can still complete the module while perusing the instructions during UI action recording. However, you'll need to perform extra work to cut the recorded actions of viewing the instructions from your flow.
+
+   This module is designed for use with the Power Automate: Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+iconUrl: /learn/achievements/use-input-output-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.use-input-output-online-workshop.introduction
+- learn-bizapps.use-input-output-online-workshop.exercise-import
+- learn-bizapps.use-input-output-online-workshop.exercise-parameters
+- learn-bizapps.use-input-output-online-workshop.check
+- learn-bizapps.use-input-output-online-workshop.summary
+badge:
+  uid: learn-bizapps.use-input-output-online-workshop.badge

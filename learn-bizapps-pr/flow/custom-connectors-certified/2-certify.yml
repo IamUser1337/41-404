@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connectors-certified.certify 
+title: Explore certified custom connectors
+metadata: 
+  title: Explore certified custom connectors
+  description: Learn how to get Microsoft approval to publish a certified custom connector.
+  ms.date: 07/04/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-certify.md)] 

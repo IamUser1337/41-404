@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visualize-data.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/03/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Jim has created a view from within a model-driven app from Power Apps. When Jim’s colleagues access the same app, the newly created view doesn't appear. Why won’t this view display for them?
+    choices:
+    - content: Jim created a system view but didn't publish it.
+      isCorrect: false
+      explanation: Incorrect. System views are created by using the Power Apps maker portal, not by using model-driven apps.
+    - content: Jim created a personal view that isn't shared.
+      isCorrect: true
+      explanation: Correct. A view that’s been created by using the model-driven app is personal and can't be shared with other users.
+    - content: Jim created a public view but didn't activate it.
+      isCorrect: false
+      explanation: Incorrect. Public views are created by using the Power Apps maker portal, not by using model-driven apps.
+  - content: You need to add a sorting criterion for a view on a specific column. This column isn't available to select from the **Sort by** list of columns. What could cause this situation?
+    choices:
+    - content: The column is part of the filter criteria and can't be sorted.
+      isCorrect: false
+      explanation: Incorrect. A column that’s part of the filter criteria can also be part of the sorting definition.
+    - content: The column is of data type text and can't be sorted.
+      isCorrect: false
+      explanation: Incorrect. A column of data type text can be used in the sorting definition.
+    - content: The column isn't displayed in the view and can't be sorted.
+      isCorrect: true
+      explanation: Correct. Only columns that are displayed in the view can be selected in the sorting definition.
+  - content: A customer service manager wants you to create a view where accounts for two specific regions are listed. How should you implement this request by using Dataverse table views?
+    choices:
+    - content: Create a view with filter criteria for the two specific regions by using an Or operator between the two criteria.
+      isCorrect: true
+      explanation: Correct. If you apply the Or operator, all records where one of the two criteria is true will be displayed.
+    - content: Create a view with filter criteria for the two specific regions by using an And operator between the two criteria.
+      isCorrect: false
+      explanation: Incorrect. If you apply the And operator, only records where the two criteria are true will be displayed.
+    - content: Create two views, each with a filter criterion for one of the two specific regions; otherwise, this action isn't possible.
+      isCorrect: false
+      explanation: Incorrect. It's possible to filter on the two regions. Creating two views isn't optimal.

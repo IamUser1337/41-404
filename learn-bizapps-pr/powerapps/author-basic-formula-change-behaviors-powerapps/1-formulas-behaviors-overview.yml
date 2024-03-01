@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.change-behaviors.1-formulas-behaviors-overview
+title: Formulas and functionality
+metadata: 
+  title: Formulas and functionality
+  description: Formulas and functionality
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 2 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-formulas-behaviors-overview.md)] 
+

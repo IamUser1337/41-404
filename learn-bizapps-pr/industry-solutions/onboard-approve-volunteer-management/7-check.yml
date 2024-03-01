@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.onboard-approve-volunteer-management.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: An engagement opportunity has been set up so that applicants need to be manually approved to join. When a participant signs up, what will the volunteer manager need to do to approve them?
+    choices: 
+    - content: Change the participation status from Pending to In Review.
+      isCorrect: false 
+      explanation: Pending isn't an option for the participation status.
+    - content: Change the participation status from In Review to Needs Review.
+      isCorrect: false 
+      explanation: In a correct workflow, Needs Review would be the status before In Review.
+    - content: Change the participation status from Needs Review to Approved.
+      isCorrect: true 
+      explanation: The participation will be set to Needs Review by default. It can then manually be changed to Approved.
+    - content: Change the participation status from In Review to In Approved.
+      isCorrect: false 
+      explanation: By default, the participation status won't be In Review.
+  - content: In which of the following scenarios would it be suitable to use an onboarding process?
+    choices: 
+    - content: To track the activities a volunteer manager needs to do to complete the background check of a volunteer.
+      isCorrect: true 
+      explanation: An onboarding process can be used to manage tasks necessary for a volunteer to gain the background check qualification.
+    - content: For a new volunteer to mark off a checklist as they complete onboarding tasks.
+      isCorrect: false 
+      explanation: Volunteers can't use onboarding processes themselves.
+    - content: For a volunteer manager to track tasks they need to complete to organize an engagement opportunity.
+      isCorrect: false 
+      explanation: Onboarding processes can only be associated to a qualification for a volunteer.
+    - content: To indicate that a volunteer has a training certification.
+      isCorrect: false 
+      explanation: No onboarding process is necessary since the qualification has already been achieved by the volunteer.
+  - content: Which of the following statements is true?
+    choices: 
+    - content: If an engagement opportunity has been published privately, approved participants can sign up for a shift themselves via the Volunteer Engagement portal.
+      isCorrect: false 
+      explanation: Volunteers can't see the engagement opportunity if it has been published privately.
+    - content: If an engagement opportunity has been published to the web, approved participants can sign up for a shift themselves via the Volunteer Engagement portal.
+      isCorrect: true 
+      explanation: Approved participants can sign up for a shift themselves via the Volunteer Engagement portal.
+    - content: Only volunteer managers can assign participants to a shift.
+      isCorrect: false 
+      explanation: It's possible for volunteers to assign themselves to a shift via the Volunteer Engagement portal if the engagement opportunity has been published.
+    - content: Participants can sign up for a shift from the Volunteer Engagement portal regardless of whether they've been approved yet or not.
+      isCorrect: false 
+      explanation: Participants can only sign up to a shift themselves once they've been approved.

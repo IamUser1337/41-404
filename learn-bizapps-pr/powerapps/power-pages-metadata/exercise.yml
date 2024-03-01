@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-metadata.exercise
+title: Exercise - Build side navigation
+metadata:
+  title: Exercise - Build side navigation
+  description: Learn how to build side navigation.
+  ms.date: 01/04/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

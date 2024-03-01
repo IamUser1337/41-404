@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-text-analytics.text-analytics-output 
+title: Explore Text Analytics output
+metadata: 
+  title: Explore Text Analytics output
+  description: Learn about Text Analytics output in Microsoft Cloud for Healthcare.
+  ms.date: 10/25/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 17 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/text-analytics-output.md)] 

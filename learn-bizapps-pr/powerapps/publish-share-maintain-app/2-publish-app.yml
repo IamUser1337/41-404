@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-maintain-app.2-publish-app 
+title: Exercise - Publish your app
+metadata: 
+  title: Exercise - Publish your app
+  description: Publish an app to ensure that you don't lose work, and then save the most recent version. 
+  ms.date: 01/13/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-publish-app.md)] 

@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn.wwl.describe-ai-authoring-experience-power-platform
+metadata:
+  title: Describe the AI authoring experience in Power Platform
+  description: "This module introduces the learner to the ways in which you can harness artificial intelligence to improve your business processes. Microsoft Copilot Studio provides you with the capability to build copilots. AI Builder lets you build and use AI models that with Power Apps or Power Automate to optimize your business processes."
+  ms.date: 02/15/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.service: copilot-studio
+title: Describe the AI authoring experience in Power Platform
+summary: |
+  Learn about Microsoft Copilot Studio, a low-code solution for customizing Copilot experiences and building generative AI tools. AI Builder, in turn, allows you to build and use AI models that optimize your business processes.
+  [!INCLUDE [](../../includes/wwl/ai-contribution-notes.md)]
+abstract: |
+  In this module, we will:
+  - Describe the capabilities of Copilot Studio and the business value it provides.
+  - Examine the process of building a simple copilot.
+  - Describe the capabilities of AI Builder and the business value it provides.
+prerequisites: |
+  None
+iconUrl: /training/achievements/power-plat-fundamentals.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+units:
+- learn.wwl.describe-ai-authoring-experience-power-platform.introduction
+- learn.wwl.describe-ai-authoring-experience-power-platform.explore-copilot-studio
+- learn.wwl.describe-ai-authoring-experience-power-platform.describe-purpose-topics-entities-actions
+- learn.wwl.describe-ai-authoring-experience-power-platform.create-topic-using-copilot-studio
+- learn.wwl.describe-ai-authoring-experience-power-platform.describe-use-cases-generative-ai-power-virtual-agents-bots
+- learn.wwl.describe-ai-authoring-experience-power-platform.describe-use-cases-ai-builder
+- learn.wwl.describe-ai-authoring-experience-power-platform.describe-lifecycle-create-ai-builder-model
+- learn.wwl.describe-ai-authoring-experience-power-platform.knowledge-check
+- learn.wwl.describe-ai-authoring-experience-power-platform.summary
+badge:
+  uid: learn.wwl.describe-ai-authoring-experience-power-platform.badge

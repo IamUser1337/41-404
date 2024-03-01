@@ -1,0 +1,1 @@
+In this module, you learned how to set up different environment variables to give your frontline workers access to Store Operations Assist on their mobile devices through Microsoft Teams. You also learned how to set up policies to pin Store Operations Assist Teams as the first app in Teams.

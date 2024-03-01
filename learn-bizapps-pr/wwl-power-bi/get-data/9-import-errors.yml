@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.9-import-errors
+title: Resolve data import errors
+metadata:
+  title: Resolve data import errors
+  description: "Learn how to resolve data import errors."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+  [!include[](includes/9-import-errors.md)]

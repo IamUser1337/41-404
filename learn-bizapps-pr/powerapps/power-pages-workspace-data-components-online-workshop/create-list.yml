@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-workspace-data-components-online-workshop.create-list
+title: Create a list
+metadata:
+  title: Create a list
+  description: Follow the steps to create a list.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-list.md)]

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.power-automate-teams
+metadata:
+ title: Create an approval flow for Contoso Coffee - Online Workshop
+ description: Learn how to work with the Power Automate application for Microsoft Teams.
+ ms.date: 10/07/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Create an approval flow for Contoso Coffee - Online Workshop
+summary: |
+  [!include[.](../includes/module-banner.md)]
+  In this module, you'll work with the Power Automate app for Microsoft Teams to automate approvals and notifications. Power Automate has trigger and action style flows that help make workdays easier. The Power Automate app for Teams provides a straightforward experience for creating flows in Teams, providing over 50 templates to help you get started.
+abstract: |
+    In this module, you'll:
+    - Create a cloud flow with a template.
+    - Create a cloud flow to send a message to new team members.
+    - Create an approval flow.
+    - Create an approval flow notification.
+prerequisites: |
+    - Completion of the prior module. If you didn't complete the prior exercises, download [Dataverse exercises](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) to import the needed components before you start these exercises.
+    - You'll need an environment with a licensed user to complete these exercises. Follow the sign-up process by going to [Microsoft 365](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5/?azure-portal=true) if you need a training environment. We don't recommend that you use your production (live environment for work or school) user or tenant for completing these exercises.
+iconUrl: /learn/achievements/power-automate-teams.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- power-platform
+- power-apps
+- power-automate
+- dataverse
+subjects:
+- business-applications
+- productivity
+units:
+- learn-bizapps.power-automate-teams.introduction
+- learn-bizapps.power-automate-teams.exercise-create-flow
+- learn-bizapps.power-automate-teams.exercise-collaboration
+- learn-bizapps.power-automate-teams.exercise-create-approval
+- learn-bizapps.power-automate-teams.exercise-create-notification
+- learn-bizapps.power-automate-teams.check
+- learn-bizapps.power-automate-teams.summary
+badge:
+  uid: learn-bizapps.power-automate-teams.badge

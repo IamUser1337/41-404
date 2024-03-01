@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-relational-data.4-knowledge-check
+metadata:
+  title: Work with relational data in a Power Apps canvas app knowledge check
+  description: Work with relational data in a Power Apps canvas app knowledge check
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Work with relational data in a Power Apps canvas app knowledge check
+  questions:
+  - content: What are commonly used functions in Power Apps to connect related data sources not in Microsoft Dataverse for apps?
+    choices:
+    - content: Parent and Child
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Relate and LookUp
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Filter and Search
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Filter and LookUp
+      isCorrect: true
+      explanation: Correct. Filter and LookUp are functions to connect related data sources.
+  - content: What is important to remember when using a LookUp function to query for additional information?
+    choices:
+    - content: Each LookUp function creates a new connection to the data source, which you should evaluate to avoid performance concerns.
+      isCorrect: true
+      explanation: Correct. The LookUp function creates a new connection to the data source.
+    - content: LookUp automatically caches data calls to reduce round trips.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: LookUp isn't used to query additional information.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: LookUp only works after configuring the Filter settings.
+      isCorrect: false
+      explanation: Incorrect.
+  - content: Dataverse has built-in relationship functionality, to take advantage of it you need to do which of the following?
+    choices:
+    - content: Nothing, Dataverse automatically determines your data relationships.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Dataverse isn't used for relational data.
+      isCorrect: false
+      explanation: Incorrect.
+    - content: Create the relationship for the table in the Data section of Power Apps Studio.
+      isCorrect: true
+      explanation: Correct. Create the relationship for the table in Power Apps Studio.
+    - content: Create the relationship at the tenant level for Microsoft Power Platform.
+      isCorrect: false
+      explanation: Incorrect.

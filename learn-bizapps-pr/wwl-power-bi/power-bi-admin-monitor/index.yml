@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-admin-monitor 
+metadata: 
+ title: Monitor and audit usage
+ description: Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment.
+ ms.date: 04/30/2021  
+ author: wwlpublish  
+ ms.author: shlindsay  
+ ms.topic: module
+ ms.service: powerbi  
+title: Monitor and audit usage
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  Usage metrics help you understand the impact of your dashboards and reports. When you run either dashboard usage metrics or report usage metrics, you discover how those dashboards and reports are being used throughout your organization, who's using them, and for what purpose. Knowing who is taking what action on which item in your Power BI tenant can be critical in helping your organization fulfill its requirements, like meeting regulatory compliance and records management. This module outlines what is available in usage metrics reports and audit logs.
+abstract: |  
+    In this module, you will: 
+    - Discover what usage metrics are available through the Power BI admin portal
+    - Optimize use of usage metrics for dashboards and reports
+    - Distinguish between audit logs and the activity logs
+prerequisites: We recommend completing [Dashboard in a Day](https://www.microsoftevents.com/profile/web/index.cfm?PKwebID=0x1728241abcd&azure-portal=true) before beginning this module.
+iconUrl: /training/achievements/power-bi-admin-monitor.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator   
+products: 
+- power-platform
+- power-bi 
+subjects:
+- it-management-monitoring
+units:
+- learn-bizapps.power-bi-admin-monitor.1-introduction 
+- learn-bizapps.power-bi-admin-monitor.2-metrics 
+- learn-bizapps.power-bi-admin-monitor.3-metrics-new 
+- learn-bizapps.power-bi-admin-monitor.4-logs 
+- learn-bizapps.power-bi-admin-monitor.5-activity-log 
+- learn-bizapps.power-bi-admin-monitor.6-check 
+- learn-bizapps.power-bi-admin-monitor.7-summary 
+badge: 
+  uid: learn-bizapps.power-bi-admin-monitor.badge

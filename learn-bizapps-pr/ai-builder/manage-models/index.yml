@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.manage-models 
+metadata: 
+ title: Manage models in AI Builder
+ description: Learn how to manage models in AI Builder.
+ ms.date: 03/15/2020  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Manage models in AI Builder
+summary: |  
+  [!include[](../includes/module-banner.md)]
+  Understand your model, model versions, and model sharing in AI Builder.
+abstract: |  
+    In this module, you will: 
+    - Learn about the lifecycle of a model. 
+    - Learn how to manage model versions. 
+    - Explore how to share a model, including permissions. 
+    - Get a better understanding of AI Builder.
+prerequisites: |
+    - A Power Apps or Power Automate
+      [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerplatform.microsoft.com/dataverse/)
+    - An [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
+iconUrl: /training/achievements/manage-models.svg  
+levels:  
+- beginner   
+roles:  
+- business-user
+- maker
+products:  
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+units:
+- learn-bizapps.manage-models.1-lifecycle 
+- learn-bizapps.manage-models.2-manage-versions 
+- learn-bizapps.manage-models.3-share 
+- learn-bizapps.manage-models.4-check 
+- learn-bizapps.manage-models.5-summary 
+badge: 
+  uid: learn-bizapps.manage-models.badge

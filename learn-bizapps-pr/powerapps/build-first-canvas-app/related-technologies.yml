@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-canvas-app.related-technologies
+title: Build a more complete Power Apps solution
+metadata:
+  title: Build a more complete Power Apps solution
+  description: Learn how to use related technologies to build a more complete Power Apps solution.
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/related-technologies.md)]

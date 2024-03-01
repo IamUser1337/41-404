@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.introduction-dataverse-developers
+metadata: 
+  title: Introduction to Dataverse for developers
+  description: The goal of this module is to give an introductory overview of Microsoft Power Platform SDKs that are available from Microsoft via NuGet.
+  ms.date: 09/28/2023  
+  author: DaveBeasley
+  ms.author: dbeasley  
+  ms.topic: module
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+title: Introduction to Dataverse for developers 
+summary: |
+  [!include[](../includes/module-banner.md)]
+  The goal of this module is to give an introductory overview of Microsoft Power Platform SDKs that are available from Microsoft via NuGet. 
+abstract: |  
+    In this module, you will: 
+    - Explain what functions can be executed against Microsoft Power Platform via Microsoft Power Platform SDKs. 
+    - Perform basic operations against Microsoft Power Platform such as create/read/update/delete operations. 
+prerequisites: |   
+    - Basic understanding of Microsoft Power Platform
+    - Experience in software development against the Microsoft stack and Visual Studio
+    - Experience in administering solutions in Azure is preferred
+iconUrl: /training/achievements/introduction-dataverse-developers.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- functional-consultant 
+products:  
+- dynamics-365
+- power-platform
+- power-apps
+- dataverse
+units:
+- learn-bizapps.introduction-dataverse-developers.introduction 
+- learn-bizapps.introduction-dataverse-developers.extensibility 
+- learn-bizapps.introduction-dataverse-developers.framework 
+- learn-bizapps.introduction-dataverse-developers.check 
+- learn-bizapps.introduction-dataverse-developers.summary 
+badge: 
+  uid: learn-bizapps.introduction-dataverse-developers.badge

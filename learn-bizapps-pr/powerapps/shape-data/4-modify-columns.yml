@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.4-modify-columns
+title: Modify the columns from your data source
+metadata:
+  title: Modify the columns from your data source
+  description: Modify the columns from your data source
+  ms.date: 12/01/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-modify-columns.md)]

@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.architect-power-virtual-agents
+metadata: 
+ title: "Solution architect series: Explore Microsoft Copilot Studio"
+ description: Learn how Microsoft Copilot Studio is used in solutions.
+ ms.date: 04/19/2021
+ author: DaveBeasley  
+ ms.author: dbeasley   
+ ms.topic: module
+ ms.service: copilot-studio
+  
+title: "Solution architect series: Explore Microsoft Copilot Studio"
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Increasingly, chatbots are becoming an important component of business applications. Solution architects need to understand the capabilities of Microsoft Copilot Studio when designing a Microsoft Power Platform solution. This module provides an in-depth description of Microsoft Copilot Studio and its capabilities.
+abstract: |  
+    In this module, you will: 
+    - Explore options for chatbots and how to choose where to start.
+    - Explore scenarios for chatbots.
+    - Learn about the components of Microsoft Copilot Studio.
+prerequisites: Experience working on Microsoft Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
+iconUrl: /training/achievements/architect-power-virtual-agents.svg  
+levels:  
+- advanced
+roles:  
+- solution-architect
+products:    
+- ms-copilot
+- dataverse
+subjects:
+- chatbot
+units:
+- learn-bizapps.architect-power-virtual-agents.1-introduction
+- learn-bizapps.architect-power-virtual-agents.2-chatbot-options
+- learn-bizapps.architect-power-virtual-agents.3-concepts
+- learn-bizapps.architect-power-virtual-agents.4-best-practice
+- learn-bizapps.architect-power-virtual-agents.5-integrate-chatbots
+- learn-bizapps.architect-power-virtual-agents.6-pva-teams
+- learn-bizapps.architect-power-virtual-agents.7-check
+- learn-bizapps.architect-power-virtual-agents.8-summary
+badge: 
+  uid: learn-bizapps.architect-power-virtual-agents.badge

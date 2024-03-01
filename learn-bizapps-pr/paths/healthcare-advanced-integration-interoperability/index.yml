@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.healthcare-advanced-integration-interoperability
+metadata:
+  title: Explore advanced integration and interoperability in Microsoft Cloud for Healthcare 
+  description: Learn how to use advanced integration and interoperability features in Microsoft Cloud for Healthcare.
+  ms.date: 11/28/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+title:  Explore advanced integration and interoperability in Microsoft Cloud for Healthcare 
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Cloud for Healthcare provides advanced integration and interoperability solutions. These solutions include Azure Health Data Services, Data integration toolkit, Dataverse Healthcare API, Healthcare data pipeline template, and Virtual Health Data Tables. 
+  
+
+  In this Learning Path, you gain a deeper understanding on the integration and interoperability solutions. You'll be guided through practical hands-on exercises that help you tailor integration and interoperability solutions.
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the following module on:
+    - [Microsoft Cloud for Healthcare training environment preparation](/training/modules/training-environment-preparation-healthcare/).
+    - [Get started with integration and interoperability in Microsoft Cloud for Healthcare](/training/modules/healthcare-interoperability/).
+iconUrl: /training/achievements/healthcare-advanced-integration-interoperability.svg
+levels:
+- beginner
+roles:
+- solution-architect
+- developer
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+modules:
+- learn-bizapps.healthcare-interoperability 
+- learn-bizapps.healthcare-integration-interoperability
+- learn-bizapps.healthcare-interoperability-build-application 
+trophy:
+  uid: learn.healthcare-advanced-integration-interoperability.trophy

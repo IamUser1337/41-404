@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-documentation.05-knowledge-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 01/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the smallest component of testing?
+    choices:
+    - content: Unit
+      isCorrect: true
+      explanation: A unit is the smallest component of testing, testing a specific function.
+    - content: User acceptance
+      isCorrect: false
+      explanation: Incorrect. This is an opportunity to have direct feedback from the actual users of the system.
+    - content: End-to-end
+      isCorrect: false
+      explanation: Incorrect. End-to-end evaluates the entire solution; it tests the integration of unit tests.
+    - content: Performance
+      isCorrect: false
+      explanation: Incorrect. Performance relates to how efficient an app is.
+  - content: What is the name of the main diagnostic testing tool that Microsoft provides for both canvas and model-driven apps?
+    choices:
+    - content: Microsoft Power Automate Cloud flow activity
+      isCorrect: false
+      explanation: Incorrect. This is a great tool for Power Automate but, unfortunately, it can't help you with Power Apps. The correct answer is - Monitor.
+    - content: Monitor
+      isCorrect: true
+      explanation: That's right! Monitor is a diagnostic testing tool that works for both canvas and model-driven apps.
+    - content: DirectX End-User Runtimes
+      isCorrect: false
+      explanation: Incorrect. Monitor is the diagnostic tool that works for both types of app.
+    - content: EasyRepro
+      isCorrect: false
+      explanation: Incorrect. EasyRepro is available for model-driven apps, but Monitor is the tool that works well for both types of app.
+  - content: What are good examples of documentation that you could produce/provide for your customer? (Choose the best answer)
+    choices:
+    - content: Change ("bug") logs
+      isCorrect: false
+      explanation: Incorrect. Change logs are a useful form of documentation and could certainly be included, but all of these items are good examples.
+    - content: User instructions
+      isCorrect: false
+      explanation:  Incorrect. Your customer may ask for user instructions, but all of these items are good examples.
+    - content: Technical specifications and administrator instructions
+      isCorrect: false
+      explanation: Incorrect. These are important instructions to include with your documentation, however all of the listed items are good examples.
+    - content: All of the above
+      isCorrect: true
+      explanation: Right! Though you may not include all of them in your documentation, all are good examples of what you might produce/provide.
+  - content: Which of the following occurrences is NOT a common source of slow performance for canvas apps?
+    choices:
+    - content: Bottleneck in the data source
+      isCorrect: false
+      explanation: Incorrect. This is a common source of slow performance. The correct answer is User authentication.
+    - content: Client browsers, devices, and locations
+      isCorrect: false
+      explanation: Incorrect. This is a common source of slow performance. The correct answer is User authentication.
+    - content: User authentication
+      isCorrect: true
+      explanation: Correct! User authentication is the first execution phase for an app that is being used, but it isn't considered a source of slow performance.
+    - content: Temporary throttling of high-volume requests at the back end
+      isCorrect: false
+      explanation: Incorrect. This is a common source of slow performance. The correct answer is User authentication.

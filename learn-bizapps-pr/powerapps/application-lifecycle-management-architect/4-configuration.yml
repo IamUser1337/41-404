@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.application-lifecycle-management-architect.4-configuration
+title: Configuration and reference data
+metadata:
+  title: Configuration and reference data
+  description: Learn about references through the release process.
+  ms.date: 07/30/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-configuration.md)]

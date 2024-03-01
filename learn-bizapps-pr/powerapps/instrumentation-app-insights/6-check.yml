@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.instrumentation-app-insights.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/12/2021 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is required for your app to send telemetry to Application Insights? 
+    choices: 
+    - content: New apps are preconfigured to send telemetry to Application Insights. 
+      isCorrect: false
+      explanation: The Application Insights feature requires initial configuration to start sending telemetry data.
+    - content: Configure the Instrumentation Key, and then save and publish the app. 
+      isCorrect: true 
+      explanation: This action starts sending data when a user runs the published app outside of Power Apps Studio.
+    - content: Use the Application Insights connector. 
+      isCorrect: false 
+      explanation: Application Insights connector allows you to run and visualize the Analytics query, but it is not used to configure the feature. 
+    - content: Install Application Insights from Microsoft AppSource. 
+      isCorrect: false
+      explanation: Sending data to Application Insights is a built-in feature. 
+  - content: How do you send a custom message from your app to Application Insights? 
+    choices: 
+    - content: Use the Notify() function. 
+      isCorrect: false
+      explanation: The Notify() function displays a notification message to the user on the Power Apps screen. It does not send information to Application Insights.
+    - content: Use the Patch(CustomMessage,{ Message:”Your message”}) function.
+      isCorrect: false 
+      explanation: The Patch() function modifies or creates one or more records in a data source. It does not send information to Application Insights.
+    - content: Use the Trace() function.
+      isCorrect: true 
+      explanation: The Trace() function allows you to log a custom message along with contextual data.
+  - content: You can use default app telemetry that is sent to Application Insights to analyze which one of the following issues? 
+    choices: 
+    - content: Accessibility issues
+      isCorrect: false
+      explanation: This issue would be done by using App Checker in Power Apps Studio.
+    - content: Delegation problems
+      isCorrect: false
+      explanation: The Monitor tool can help identify delegation issues in the event data.
+    - content: Slow screen load time
+      isCorrect: true
+      explanation: You can view and analyze page performance data in Application Insights.
+    - content: Errors from Dataverse data source actions
+      isCorrect: false
+      explanation: Errors from data source actions aren’t automatically sent to Application Insights. 

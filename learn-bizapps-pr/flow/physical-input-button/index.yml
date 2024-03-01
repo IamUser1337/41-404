@@ -1,0 +1,52 @@
+### YamlMime:Module 
+uid: learn-bizapps.physical-input-button 
+metadata: 
+ title: Create a flow that uses a physical button
+ description: Do you want to build basic flows by using buttons as triggers? This module demonstrates how to configure a Flic button, a wireless bluetooth smart button, with its app on your smartphone and then how to trigger a flow by using that button.  
+ ms.date: 06/21/2021 
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based
+ 
+title: Create a flow that uses a physical button 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+
+  Microsoft Power Automate Buttons that run with user input are a powerful tool to execute both simple and complex business logic using information provided by the User at the time the Button Flow is run.  
+abstract: |  
+    In this module, you will: 
+    - Discover the possible uses of a physical button.
+    - Learn how to install and configure the Flic app.
+    - Use the flow trigger to connect to the Flic app.
+    - Create a flow button that tells your next appointment that you are running late.
+    - Create a flow button that lets your manager know that you are on site.
+prerequisites: |  
+    - The target audience should have a basic understanding of Microsoft Power Automate and how to create an event driven Flow.
+    - It is also beneficial if the student has already taken the module Getting started with Microsoft Power Automation Buttons.
+    - A Microsoft Power Automate app is required on your smart device. To get one go to the **App Store** of your smartphone or tablet and search for **Power Automate.**
+    - A **Shortcut Labs** app called **Flic App** is required on your smart device. To get one go to the **App Store** of your smartphone or tablet and search for **Flic.**
+    - Login to **Power Automate** using your Microsoft 365 credentials.
+iconUrl: /training/achievements/physical-input-button.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant
+- maker
+- business-user  
+products:  
+- power-automate
+- power-platform 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.physical-input-button.1-introduction-uses 
+- learn-bizapps.physical-input-button.2-flic-app 
+- learn-bizapps.physical-input-button.3-trigger 
+- learn-bizapps.physical-input-button.4-appointment 
+- learn-bizapps.physical-input-button.5-onsite 
+- learn-bizapps.physical-input-button.6-sms-message 
+- learn-bizapps.physical-input-button.7-exercise 
+- learn-bizapps.physical-input-button.8-check 
+- learn-bizapps.physical-input-button.9-summary 
+badge: 
+  uid: learn-bizapps.physical-input-button.badge

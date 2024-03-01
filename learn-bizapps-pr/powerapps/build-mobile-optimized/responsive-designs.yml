@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-mobile-optimized.responsive-designs
+title: Create a mobile-optimized app that uses responsive designs
+metadata:
+  title: Create a mobile-optimized app that uses responsive designs
+  description: Learn how to create a mobile-optimized app that uses responsive designs.
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/responsive-designs.md)]

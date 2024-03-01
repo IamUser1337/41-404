@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-transition.2-power-query 
+title: Power Query in Power BI Desktop
+metadata: 
+  title: Power Query in Power BI Desktop
+  description: Learn about Power Query in Power BI Desktop. 
+  ms.date: 06/30/2023 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 12 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-power-query.md)] 

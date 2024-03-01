@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-intelligence-ai-copilot.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of adding intelligence with AI Builder and GPT
+  ms.date: 09/25/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

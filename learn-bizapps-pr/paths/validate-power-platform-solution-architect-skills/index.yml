@@ -1,0 +1,28 @@
+### YamlMime:LearningPath
+uid: learn.wwl.validate-power-platform-solution-architect-skills
+metadata:
+  title: Validate your Microsoft Power Platform Solution Architect skills
+  description: Validate your Microsoft Power Platform Solution Architect skills
+  ms.date: 08/04/2023
+  author: wwlpublish
+  ms.author: hakimm
+  ms.topic: learning-path
+title: Validate your Microsoft Power Platform Solution Architect skills
+prerequisites: |
+  •	Experience architecting solutions using Power Platform
+summary: |
+  This learning path prepares you to complete the Microsoft Power Platform Solution Architect challenge project and validate your skills. You should have already completed the following modules as part of the PL-600: Microsoft Power Platform Solution Architect course. If you haven't, it's recommended that you take some time to complete these modules before beginning the challenge project.
+iconUrl: /training/achievements/validate-power-platform-solution-architect-skills.svg
+levels:
+- intermediate
+roles:
+- business-analyst
+- functional-consultant
+products:
+- power-platform
+modules:
+- learn-dynamics.becoming-solution-architect
+- learn-bizapps.design-model-power-bi
+- learn.wwl.challenge-project-create-microsoft-power-platform-solutions
+trophy:
+  uid: learn.wwl.validate-power-platform-solution-architect-skills.trophy

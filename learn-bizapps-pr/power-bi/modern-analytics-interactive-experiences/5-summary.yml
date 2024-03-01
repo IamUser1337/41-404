@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-interactive-experiences.5-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of Power BI Desktop interactive reports using visuals, slicers, bookmarks and more. 
+  ms.date: 09/28/2021 
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-summary.md)] 

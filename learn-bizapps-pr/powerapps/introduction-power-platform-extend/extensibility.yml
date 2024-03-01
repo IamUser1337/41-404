@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-extend.extensibility
+title: User experience extensibility
+metadata: 
+  title: User experience extensibility
+  description: Learn about user experience extensibility.
+  ms.date: 09/27/2023 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/extensibility.md)] 
+

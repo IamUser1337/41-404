@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.medtech-iot.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/30/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: The data from weekly weigh-ins, which is automatically reported by scales with IoT connectivity, would be considered what type of health data?
+    choices: 
+    - content: High velocity data
+      isCorrect: false 
+      explanation: Incorrect. The expected volume with a weekly reading and the relatively simple data to report makes weekly weigh-ins low velocity data.
+    - content: Low velocity data
+      isCorrect: true 
+      explanation: Correct. The expected volume with a weekly reading and the relatively simple data to report makes weekly weigh-ins low velocity data.
+    - content: Neither of these options
+      isCorrect: false 
+      explanation: Incorrect. The expected volume with a weekly reading and the relatively simple data to report makes weekly weigh-ins low velocity data.
+  - content: Which one of the following options is a benefit of IoT devices?
+    choices: 
+    - content: Improved doctor/patient engagement
+      isCorrect: false 
+      explanation: Incorrect. All are benefits of IoT devices.
+    - content: Patient accountability
+      isCorrect: false 
+      explanation: Incorrect. All are benefits of IoT devices.
+    - content: Increased patient compliance with treatment plans
+      isCorrect: false 
+      explanation: Incorrect. All are benefits of IoT devices.
+    - content: All of these options
+      isCorrect: true 
+      explanation: Correct. All are benefits of IoT devices.
+  - content: How does IoT device data become useable data?
+    choices: 
+    - content: Device data is normalized and transformed into a FHIR® Observation resource that is useable by your custom, or industry, healthcare apps.
+      isCorrect: true 
+      explanation: Correct. Messages from the device are grouped and normalized. After that the IoT connector transforms them into a normalized schema to become useable data.
+    - content: Making device data useable is dependent on the intended outcome/use case.
+      isCorrect: false 
+      explanation: Incorrect. Messages from the device are grouped and normalized. After that the IoT connector transforms them into a normalized schema to become useable data.
+    - content: Normalizing and transforming data is only possible with high-code proprietary offerings.
+      isCorrect: false 
+      explanation: Incorrect. Messages from the device are grouped and normalized. After that the IoT connector transforms them into a normalized schema to become useable data.

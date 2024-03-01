@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.intro-power-automate-buttons 
+metadata: 
+ title: Introduction to using Power Automate buttons 
+ description: Do you want to learn about how to use buttons in Power Automate? This module focuses on introducing the basics of flow buttons, the different types of buttons, using trigger tokens, sharing buttons with other users, and using buttons in the Power Automate mobile app.
+ ms.date: 01/03/2022 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: Introduction to using Power Automate buttons  
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+
+  Do you want to learn about how to use buttons in Power Automate? This module focuses on introducing the basics of flow buttons, the different types of buttons, using trigger tokens, sharing buttons with other users, and using buttons in the Power Automate mobile app.
+abstract: |  
+    In this module, you will: 
+    - Become familiar with the three different types of flow buttons.
+    - Find out about trigger tokens and how to use them.
+    - Learn how to share buttons.
+    - Learn how buttons work in the Power Automate mobile app.
+prerequisites: A basic understanding of Microsoft Power Automate. Basic understanding of how to create an event-driven flow and a working mobile device with a Power Automate license.
+iconUrl: /training/achievements/intro-power-automate-buttons.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant
+- business-user
+- maker  
+products:   
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.intro-power-automate-buttons.1-introduction 
+- learn-bizapps.intro-power-automate-buttons.2-types 
+- learn-bizapps.intro-power-automate-buttons.3-mobile 
+- learn-bizapps.intro-power-automate-buttons.4-trigger-tokens 
+- learn-bizapps.intro-power-automate-buttons.5-share 
+- learn-bizapps.intro-power-automate-buttons.6-troubleshoot 
+- learn-bizapps.intro-power-automate-buttons.8-check 
+- learn-bizapps.intro-power-automate-buttons.9-summary 
+badge: 
+  uid: learn-bizapps.intro-power-automate-buttons.badge

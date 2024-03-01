@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-cloud-flows-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/29/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Once a machine is registered to an environment, where can you view its details?
+    choices:
+    - content: From the Power Automate website
+      isCorrect: true
+      explanation: Correct. Once a machine is registered to an environment, you can view its details from the Power Automate website. You can also view all other machines that you have access to.
+    - content: Using device manager on your PC
+      isCorrect: false
+      explanation: Incorrect. Once a machine is registered to an environment, you can view its details from the Power Automate website. You can also view all other machines that you have access to.
+    - content: make.powerapps.com
+      isCorrect: false
+      explanation: Incorrect. Once a machine is registered to an environment, you can view its details from the Power Automate website. You can also view all other machines that you have access to.
+    - content: Power Platform admin center
+      isCorrect: false
+      explanation: Incorrect. Once a machine is registered to an environment, you can view its details from the Power Automate website. You can also view all other machines that you have access to.
+  - content: What type of administrator access is required to trigger the desktop flow?
+    choices:
+    - content: No special admin credentials are required.
+      isCorrect: true
+      explanation: Correct. Local admin access is only needed for installation of Power Automate for desktop, not to trigger flow.
+    - content: Tenant admin rights are required.
+      isCorrect: false
+      explanation: Incorrect. Local admin access is only needed for installation of Power Automate for desktop, not to trigger flow.
+    - content: The account you use must have local admin rights on your machine.
+      isCorrect: false
+      explanation: Incorrect. Local admin access is only needed for installation of Power Automate for desktop, not to trigger flow.
+  - content: Which run model should you select for a flow that runs when you’re signed in?
+    choices:
+    - content: Attended
+      isCorrect: true
+      explanation: Correct. This mode runs the desktop flow while you're signed in the same machine.
+    - content: Unattended
+      isCorrect: false
+      explanation: Incorrect. This mode runs the desktop flow while you're signed in the same machine.
+    - content: Either of these
+      isCorrect: false
+      explanation: Incorrect. This mode runs the desktop flow while you're signed in the same machine.
+    - content: Neither of these
+      isCorrect: false
+      explanation: Incorrect. This mode runs the desktop flow while you're signed in the same machine.

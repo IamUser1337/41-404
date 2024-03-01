@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.medical-imaging-data
+metadata:
+ title: Work with medical imaging data and DICOM
+ description: Learn about medical imaging data and DICOM® (Digital Imaging and Communications in Medicine) in Microsoft Cloud for Healthcare.
+ ms.date: 11/30/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Work with medical imaging data and DICOM
+summary: |
+  [!include[](../includes/module-banner.md)]
+  DICOM® (Digital Imaging and Communications in Medicine) is the international standard for medical images, imaging formats, and related information. It's the ISO 12052 standard that defines the data quality and exchange specifications for images to meet clinical use requirements. Digitization of medical imaging data by using the DICOM standard will enable health data interoperability. Microsoft cloud is equipped to ingest, persist, and connect DICOM imaging data to help improve patient outcomes.
+abstract: |
+    In this module, you'll:
+    - Learn why DICOM standards are important.
+    - Explore the DICOM standards and DICOM service.
+    - Review the use case for radiology data in cancer treatment with examples.
+prerequisites: None
+iconUrl: /training/achievements/medical-imaging-data.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- mscloud-healthcare
+- industry-solutions
+subjects:
+- data-modeling
+- business-applications
+units:
+- learn-bizapps.medical-imaging-data.introduction
+- learn-bizapps.medical-imaging-data.dicom-service
+- learn-bizapps.medical-imaging-data.service-radiology
+- learn-bizapps.medical-imaging-data.use-case-medical-imaging
+- learn-bizapps.medical-imaging-data.use-case-model-cancer-prediction
+- learn-bizapps.medical-imaging-data.check
+- learn-bizapps.medical-imaging-data.summary
+badge:
+  uid: learn-bizapps.medical-imaging-data.badge

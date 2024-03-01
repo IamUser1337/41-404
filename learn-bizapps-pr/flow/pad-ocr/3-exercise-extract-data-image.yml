@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-ocr.3-exercise-extract-data-image
+title: Exercise - Extract data from images
+metadata:
+  title: Exercise - Extract data from images
+  description: Exercise - Extract data from images
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-exercise-extract-data-image.md)]

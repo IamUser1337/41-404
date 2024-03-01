@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.medical-imaging-data.dicom-service
+title: DICOM service
+metadata:
+  title: DICOM service
+  description: Learn about DICOM service in Azure Health Data Services.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/dicom-service.md)]

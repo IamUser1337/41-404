@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-integrate-dataverse
+metadata:
+ title: Integrate Power Pages websites with Microsoft Dataverse
+ description: Learn how to integrate Power Pages websites with Microsoft Dataverse.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: power-pages 
+title: Integrate Power Pages websites with Dataverse
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  The ability to find and interact with Dataverse data on a website is a central benefit of implementing a Power Pages website. Several methods are available for you to display Dataverse data. Learning and knowing about these different options can help you have successful portal implementations. This module focuses on the techniques that you can use to set up lists, forms, and multistep forms to build powerful web applications.
+abstract: |
+    In this module, you'll:
+    - Set up lists to display Dataverse data in different ways and allow website users to interact with the data by using various techniques.
+    - Implement forms to allow the creating, reading, and updating of Dataverse rows.
+    - Build a multistep form process to allow for complex and decision-based data entry.
+    - Trigger classic Dataverse workflows from the website.
+    - Combine the various Power Pages components to build powerful web applications.
+prerequisites: A basic understanding of how to navigate and set up a Power Pages website and knowledge of how to customize and set up model-driven apps. Knowledge of the Dataverse tables and concepts and familiarity with Power Pages design studio would be beneficial.
+iconUrl: /training/achievements/power-pages-integrate-dataverse.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- developer
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-integrate-dataverse.introduction
+- learn-bizapps.power-pages-integrate-dataverse.forms
+- learn-bizapps.power-pages-integrate-dataverse.multistep-forms
+- learn-bizapps.power-pages-integrate-dataverse.form-configure
+- learn-bizapps.power-pages-integrate-dataverse.extend-lists-forms
+- learn-bizapps.power-pages-integrate-dataverse.exercise
+- learn-bizapps.power-pages-integrate-dataverse.check
+- learn-bizapps.power-pages-integrate-dataverse.summary
+badge:
+  uid: learn-bizapps.power-pages-integrate-dataverse.badge

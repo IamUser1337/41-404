@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-mouse-keyboard.4-check-your-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned
+ ms.date: 12/10/2020
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: unit
+ 
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "The Set Key State action refers to which keys?"
+    choices: 
+    - content: "Alt, Control, Shift, Windows Key"
+      isCorrect: false 
+      explanation: "Your answer is incorrect. The Set Key State action refers to the Caps Lock, Num Lock and Scroll Lock keys."
+    - content: Caps Lock, Num Lock, Scroll Lock
+      isCorrect: true 
+      explanation: "That is correct!"
+    - content: "Mouse Buttons"
+      isCorrect: false 
+      explanation: "Your answer is incorrect. The Set Key State action refers to the Caps Lock, Num Lock and Scroll Lock keys."
+    - content: "All of the above"
+      isCorrect: false 
+      explanation: "Your answer is incorrect. The Set Key State action refers to the Caps Lock, Num Lock and Scroll Lock keys."
+  - content: "What is the role of the Tolerance field in the Move mouse to image action?"
+    choices: 
+    - content: "Determines the degree to which an image found on the screen can differ from the one for which the action is searching."
+      isCorrect: true 
+      explanation: "That is correct!"
+    - content: "Determines the degree to which low-quality images can be compared to an image found on the screen."
+      isCorrect: false 
+      explanation: "That is incorrect, the field determines the degree to which an image found on the screen can differ from the one for which the action is searching."
+  - content: "Which one of the following statements about the Move Mouse to Text on Screen action is true?"
+    choices: 
+    - content: "It always moves the mouse to the first occurrence of the specified text on the screen."
+      isCorrect: false 
+      explanation: "The occurrence of the text that the mouse moves to, can be configured in the action properties."
+    - content: "It can move the mouse to any occurrence of the specified text on the screen"
+      isCorrect: true 
+      explanation: "The occurrence of the text that the mouse moves to, can be configured in the action properties."
+  - content: "Which one of the following statements about the Move Mouse action is true?"
+    choices: 
+    - content: "You can use images as a way to designate the point to which the mouse should move."
+      isCorrect: false 
+      explanation: 'This functionality is provided by the Move Mouse to Image action.'
+    - content: "You can use the current position of the mouse to designate the point to which the mouse should move."
+      isCorrect: true 
+      explanation: "That is correct! You can move the mouse relatively to its current position."

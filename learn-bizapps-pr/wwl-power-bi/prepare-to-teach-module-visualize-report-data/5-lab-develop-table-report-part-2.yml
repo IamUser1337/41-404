@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-visualize-report-data.lab-05b-develop-table-report-part-2
+title: Lab 05B  Develop a table report part 2
+metadata:
+  title: Lab 05B  Develop a table report part 2
+  description: "Lab 05B  Develop a table report part 2"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 20
+content: |
+  [!include[](includes/5-lab-develop-table-report-part-2.md)]

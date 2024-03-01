@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-powerapps
+metadata:
+  title: Create a canvas app in Power Apps
+  description: Do you want to create apps to help make your business more efficient? Then, this path is for you. It introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.
+  ms.date: 07/07/2021
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: learning-path
+title: Create a canvas app in Power Apps
+video:
+  title: "Create a Canvas App in Power Apps"
+  url: https://www.microsoft.com/videoplayer/embed/RWG1Ws
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Do you want to create apps to help make your business more efficient? Then this path is for you. It introduces you to Power Apps, helps you create and customize an app, and then manage and distribute it.
+
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
+prerequisites: |
+  - Familiarity with OneDrive, SharePoint, and Excel. 
+iconUrl: /training/achievements/create-powerapps.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.powerapps-get-started
+- learn-bizapps.powerapps-customize
+- learn-bizapps.how-to-build-ui-canvas-app
+- learn-bizapps.navigation-canvas-app
+- learn-bizapps.powerapps-manage
+- learn-bizapps.build-mobile-optimized
+trophy:
+  uid: learn.create-powerapps.trophy

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.team-development-power-platform.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/06/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is a benefit of continuous integration? 
+    choices: 
+    - content: Low effort to implement
+      isCorrect: false
+      explanation: Incorrect. In most cases, it takes a large amount of effort to implement continuous integration in an organization and/or team. However, the benefits are worth the effort.
+    - content: Increased use of manual test
+      isCorrect: false 
+      explanation: Incorrect. Continuous integration causes an increase of automated test. 
+    - content: Merge code when it’s fresh to eliminate the buildup of technical debt
+      isCorrect: true 
+      explanation: Correct. This answer is a major benefit of continuous integration.
+    - content: Encourages developers to share code after large task completions 
+      isCorrect: false 
+      explanation: Incorrect. Continuous integration encourages developers to share code after small task completions.
+  - content: If a team deploys a new unmanaged solution with each sprint, in which sprint will this method work best?
+    choices: 
+    - content: Sprint 1
+      isCorrect: true 
+      explanation: Correct. The processes are clean at first. After more sprints, production will begin to break down due to hundreds of solutions.
+    - content: Sprint 2
+      isCorrect: false 
+      explanation: Incorrect. After several sprints, you’ll start to have a breakdown in production where a clear benefit for the logical separation between solutions is no longer present.
+    - content: Sprint N + 1
+      isCorrect: false 
+      explanation: Incorrect. After several sprints, you’ll start to have a breakdown in production where a clear benefit for the logical separation between solutions is no longer present.
+    - content: Sprint N+ 2 
+      isCorrect: false 
+      explanation: Incorrect. After several sprints, you’ll start to have a breakdown in production where a clear benefit for the logical separation between solutions is no longer present.
+  - content: Two team members realized they had been working on overlapping components during the same sprint. What is the first critical step in supporting team development efforts that they missed?  
+    choices: 
+    - content: Deploy alignment
+      isCorrect: false 
+      explanation: Incorrect. This step isn't the one that they should have understood to help them avoid many issues in co-development.
+    - content: Monitor Alignment
+      isCorrect: false 
+      explanation: Incorrect. This step isn't the one that they should have understood to help them avoid many issues in co-development.
+    - content: Tracking
+      isCorrect: false 
+      explanation: Incorrect. This step isn't the one that they should have understood to help them avoid many issues in co-development.
+    - content: Planning 
+      isCorrect: true 
+      explanation: Correct. The team members should have understood the critical planning step to help them avoid many issues in co-development. An effective process for work item planning must be in place. 

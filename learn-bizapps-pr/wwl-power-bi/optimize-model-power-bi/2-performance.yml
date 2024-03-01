@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.optimize-model-power-bi.2-performance
+title: Review performance of measures, relationships, and visuals
+metadata:
+  title: Review performance of measures, relationships, and visuals
+  description: "Review performance of measures, relationships, and visuals"
+  ms.date: 10/26/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 19
+content: |
+  [!include[](includes/2-performance.md)]

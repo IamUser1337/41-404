@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-data-connectivity.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 03/30/2021 
+ author: minewiskan 
+ manager: kfollis 
+ ms.author: owend 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What part of Power BI is used to perform extract, transform, and load processes?
+    choices: 
+    - content: Power Query Editor
+      isCorrect: false 
+      explanation: With Power Query in Power BI, you can connect to many different data sources, transform the data into the shape you want, and quickly be ready to create reports and insights.
+    - content: Advanced Query Editor
+      isCorrect: false 
+      explanation: The Advanced Query editor lets you see the code that Power Query Editor is creating with each step.
+    - content: Dataflows
+      isCorrect: true 
+      explanation: Dataflows can be used to easily ingest, cleanse, transform, integrate, enrich, and schematize data from a large array of sources.
+    - content: Relationships
+      isCorrect: false 
+      explanation: Relationships allow business users to connect to data from multiple tables. It allows visualizations to be sliced and diced by data from different tables.
+  - content: Which features are similar between Tableau and Power BI?
+    choices: 
+    - content: DirectQuery mode and live connections
+      isCorrect: true 
+      explanation: Both DirectQuery mode and live connections directly connect to the data source and use its performance.
+    - content: DirectQuery mode and extracts
+      isCorrect: false 
+      explanation: DirectQuery mode allows users to query the data source itself, while Tableau extracts are compressed snapshots of data stored on disk and loaded into memory.
+    - content: Composite mode and live connections
+      isCorrect: false 
+      explanation: Composite mode is a combination of Import and DirectQuery modes, while live connections are one of the two options that allow users to directly query the data source itself.
+  - content: Your colleague has asked for your help with Power BI. The task is to find out the total number of hours that their team has worked on the new, high priority project. Your colleague has brought in two separate tables, ProjectHours and CompanyProject. The ProjectHours table records the number of hours that a person has worked on a project, while the CompanyProject table lists all projects and their assigned priorities. Your colleague is struggling to perform any analysis on the data from both tables. Where do you look first?
+    choices: 
+    - content: Relationships
+      isCorrect: true 
+      explanation: Relationships allow business users to connect to data from multiple tables. Since your colleague is having issues taking any action with the data, you should investigate if there's a relationship field that connects to the two tables.
+    - content: Power Query editor
+      isCorrect: false 
+      explanation: Power Query does not help with creating relationships between tables. Instead, Power Query focuses on connecting to data sources and transforming the data.
+    - content: Get data
+      isCorrect: false 
+      explanation: Get data is the first step in connecting to the data you want to access. It doesn't help with setting up any relationships for the data.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-power-automate.1-introduction 
+title: Introduction to AI Builder usage in Power Automate 
+metadata: 
+  title: Introduction to AI Builder usage in Power Automate 
+  description: Learn how AI Builder is used in Power Automate.
+  ms.date: 11/30/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

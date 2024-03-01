@@ -1,0 +1,1 @@
+This module explained how to automate system-related tasks with the system and workstation groups of actions and how to automate the management of Windows services. Now, you should have a good understanding of how to incorporate system, workstation, and service actions into flow design.

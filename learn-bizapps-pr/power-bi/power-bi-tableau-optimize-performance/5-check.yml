@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-optimize-performance.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 03/31/2021 
+ author: minewiskan 
+ manager: kfollis 
+ ms.author: owend 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is a way that you can improve your data model?
+    choices: 
+    - content: Turn on Auto date/time.
+      isCorrect: false
+      explanation: By turning on Auto date/time, your model size grows significantly. Reducing model size optimizes performance, especially with larger datasets. Optimally, you would create one date table and link to that date table.
+    - content: Change BLANK values to zero.
+      isCorrect: false 
+      explanation: Converting the BLANK values to zero will force the calculation to evaluate more rows and return a large query result set, which often leads to slow report rendering.
+    - content: Remove redundant and unnecessary fields.
+      isCorrect: true 
+      explanation: By removing redundant and unnecessary fields, you're attempting to limit the width of your tables, which will improve refresh performance.
+  - content: What is a way that you can improve your calculations?
+    choices: 
+    - content: Use variables.
+      isCorrect: true 
+      explanation: If a calculation references a variable, it calculates the variable once instead of every time you use the calculation.
+    - content: Use iterator functions.
+      isCorrect: false 
+      explanation: Iterator functions will calculate a result row-by-row, which isn't ideal for a columnar data store like DAX.
+    - content: Limit the number of measures and calculated columns in your report; the recommended count is 9.
+      isCorrect: false 
+      explanation: You are not limited to a recommended number of calculations that you should use in your reports. Calculated columns and measures are extensions of your data that allow you to create values to help get the results that you want.
+  - content: What is a way that you can improve your visual's performance?
+    choices: 
+    - content: The more interactions you have between visuals and reports, the more high-performance they become.
+      isCorrect: false
+      explanation: More interactions in your reports leads to more updating and recalculating. It could also lead to complicated interactions that take a while to process.
+    - content: Instead of cluttering your report with multiple filters and slicers, use the Filter pane.
+      isCorrect: true 
+      explanation: Each slicer in your report acts like a visual; slicers are loaded and updated every time a change is made to the report. The Filter pane is only loaded when it's opened.
+    - content: Use as many bar charts as possible in your reports. They're known to be the highest performing visual from the visual library.
+      isCorrect: false 
+      explanation: One visualization doesn't outperform all other visualizations. As an analyst, you must choose the right charts and graphs for the job that will best tell the story and answer key questions from the data.

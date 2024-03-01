@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn.wwl.how-to-build-basic-chatbot
+metadata:
+  title: How to build a basic copilot
+  description: "How to build a basic coplot"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  
+title: How to build a basic coplot
+summary: |
+  Learn how you can use Microsoft Copilot Studio to quickly and easily create powerful copilots
+  using a guided, no-code graphical experience.
+abstract: |
+  In this module, you will:
+  -   Create a copilot for the first time
+  -   Add topics to your copilot
+  -   Test content changes in real time
+  -   Deploy your copilot to a test page
+  -   Analyze the performance of your copilot after it has been deployed
+prerequisites: |
+  None
+iconUrl: /training/achievements/how-to-build-a-basic-chatbot.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- developer
+- maker
+products:
+- power-platform
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn.wwl.how-to-build-basic-chatbot.introduction
+- learn.wwl.how-to-build-basic-chatbot.create-chatbot
+- learn.wwl.how-to-build-basic-chatbot.create-topics
+- learn.wwl.how-to-build-basic-chatbot.test-chatbot
+- learn.wwl.how-to-build-basic-chatbot.publish-chatbot
+- learn.wwl.how-to-build-basic-chatbot.analyze-chatbot
+- learn.wwl.how-to-build-basic-chatbot.knowledge-check
+- learn.wwl.how-to-build-basic-chatbot.summary
+badge:
+  uid: learn.wwl.how-to-build-basic-chatbot.badge

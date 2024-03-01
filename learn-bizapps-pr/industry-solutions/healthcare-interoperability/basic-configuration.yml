@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability.basic-configuration 
+title: Exercise - Data Integration Toolkit basic configuration
+metadata: 
+  title: Exercise - Data Integration Toolkit basic configuration
+  description: Learn about the basic configuration of Data Integration Toolkit.
+  ms.date: 12/27/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/basic-configuration.md)] 

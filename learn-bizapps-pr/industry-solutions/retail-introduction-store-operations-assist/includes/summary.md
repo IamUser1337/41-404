@@ -1,0 +1,1 @@
+In this module, you learned about the features and architecture of Store Operations Assist. In addition, you've learned about the retail story of Contoso Retail, which you'll use in further modules in this learning path.

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.physical-input-button.7-exercise 
+title: Exercise - Use the Flic button to block your Outlook calendar for an hour 
+metadata: 
+  title: Exercise - Use the Flic button to block your Outlook calendar for an hour  
+  description: Practice using the Flic button to block your Outlook calendar for an hour.  
+  ms.date: 06/21/2021 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-exercise.md)] 

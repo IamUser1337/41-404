@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.3-formula-for-calculation
+title: Use formulas to perform calculations
+metadata:
+  title: Use formulas to perform math calculations
+  description: Use a formula to perform calculations for canvas apps in Power Apps.
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-formula-for-calculation.md)]

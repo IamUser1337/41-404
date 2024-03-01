@@ -1,0 +1,28 @@
+### YamlMime:LearningPath
+uid: learn.wwl.get-transform-data-power-bi
+metadata:
+  title: Get and transform data with Power BI
+  description: Get and transform data with Power BI
+  ms.date: 07/31/2023
+  author: wwlpublish
+  ms.author: shlindsay
+  ms.topic: learning-path
+title: Get and transform data with Power BI
+prerequisites: |
+  There are no prerequisites for this learning path.
+summary: |
+  The first step to insights begins in Power BI Desktop where you connect to and transform your data in preparation for data modeling. Start here to learn how to ingest and transform data in Power BI.
+iconUrl: /training/achievements/get-transform-data-power-bi.svg
+levels:
+- beginner
+roles:
+- data-analyst
+products:
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.get-data
+- learn-bizapps.clean-data-power-bi
+trophy:
+  uid: learn.wwl.get-transform-data-power-bi.trophy

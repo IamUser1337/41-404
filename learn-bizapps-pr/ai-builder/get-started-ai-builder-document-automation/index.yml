@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-ai-builder-document-automation 
+metadata: 
+ title: Automate the processing of documents with the AI Builder prepackaged solution
+ description: Learn about document automation, how to install, configure and use it.
+ ms.date: 01/31/2021  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Automate the processing of documents with the AI Builder prepackaged solution
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn about document automation, how to install, configure and use it.
+abstract: |  
+    In this module, you will: 
+    - Understand which scenarios are addressed by document automation.
+    - Learn what you can accomplish with document automation.
+prerequisites: none
+iconUrl: /training/achievements/get-started-ai-builder-document-automation.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products:  
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+units:
+- learn-bizapps.get-started-ai-builder-document-automation.1-introduction 
+- learn-bizapps.get-started-ai-builder-document-automation.2-install 
+- learn-bizapps.get-started-ai-builder-document-automation.3-configure 
+- learn-bizapps.get-started-ai-builder-document-automation.4-monitor 
+- learn-bizapps.get-started-ai-builder-document-automation.5-check 
+- learn-bizapps.get-started-ai-builder-document-automation.6-summary 
+badge: 
+  uid: learn-bizapps.get-started-ai-builder-document-automation.badge

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-canvas-app.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/12/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: There are five phases in the development cycle. What is the next phase in the cycle after the planning phase?
+    choices:
+    - content: Design Phase
+      isCorrect: true
+      explanation: Correct. Designing the app is an important part of the process, where you start to specify what you'll be creating in the making phase based on the information you've gathered in the planning phase. 
+    - content: Deploy & Refine Phase
+      isCorrect: false
+      explanation: Incorrect. The design phase is after the planning phase. The deploy and refine phase comes after you have completed the planning, designing, developing, and testing phases. 
+    - content: Make (Develop) Phase
+      isCorrect: false
+      explanation: Incorrect. The design phase is after the planning phase. The make/develop phase comes after you have completed the planning and designing phases.
+  - content: What is the typical nomenclature for naming controls?
+    choices:
+    - content: control_screen
+      isCorrect: false
+      explanation: Incorrect. A typical nomenclature follows the pattern of control_purpose_screen.
+    - content: control_purpose_screen
+      isCorrect: true
+      explanation: Correct. A typical nomenclature follows the pattern of control_purpose_screen.
+    - content: purpose_screen_control
+      isCorrect: false
+      explanation: A typical nomenclature follows the pattern of control_purpose_screen.
+    - content: purpose_control_screen
+      isCorrect: false
+      explanation: A typical nomenclature follows the pattern of control_purpose_screen.
+  - content: When building a Canvas app in Power Apps Studio, does it save automatically?
+    choices:
+    - content: Yes, every two minutes.
+      isCorrect: false
+      explanation: Incorrect. Canvas apps save automatically every two minutes when you're building in Power Apps Studio, except for the first time.
+    - content: Yes, every two minutes, except for the first time.
+      isCorrect: true
+      explanation: Correct. It's essential to save your work the first time, then it will automatically save every two minutes.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.moves-management.6-lab 
+title: Exercise - Create an opportunity and convert to a donor commitment
+metadata: 
+  title: Exercise - Create an opportunity and convert to a donor commitment
+  description: Walk through the steps to create an opportunity and convert it to a donor commitment.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 12
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-lab.md)] 

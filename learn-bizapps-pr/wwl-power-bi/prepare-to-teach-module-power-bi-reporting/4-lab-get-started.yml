@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-power-bi-reporting.lab-01a-get-started
+title: Lab 01A get started
+metadata:
+  title: Lab 01A get started
+  description: "Lab 01A get started"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 10
+content: |
+  [!include[](includes/4-lab-get-started.md)]

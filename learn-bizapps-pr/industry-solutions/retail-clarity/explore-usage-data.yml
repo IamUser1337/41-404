@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-clarity.explore-usage-data 
+title: Exercise 3 - Explore your website's usage data with Clarity
+metadata: 
+  title: Exercise 3 - Explore your website's usage data with Clarity
+  description: Learn how to explore your website's usage data with Clarity.
+  ms.date: 04/22/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 11 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/explore-usage-data.md)] 

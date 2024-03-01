@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-ai-authoring-experience-power-platform.describe-use-cases-ai-builder
+title: Describe AI Builder
+metadata:
+  title: Describe AI Builder
+  description: "Overview of AI Builder snd its capabilities."
+  ms.date: 02/15/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](includes/6-describe-use-cases-ai-builder.md)]

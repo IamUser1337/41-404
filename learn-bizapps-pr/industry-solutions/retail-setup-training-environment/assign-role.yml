@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.assign-role
+title: Exercise - Assign manager security role to user
+metadata:
+  title: Exercise - Assign manager security role to user
+  description: Follow the steps to assign manager security role to user.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/assign-role.md)]

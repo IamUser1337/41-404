@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-health-text-analytics.use-rest-api
+title: Use the REST API
+metadata:
+  title: Use the REST API for Text Analytics
+  description: Watch a video that explains how to use the REST Text Analytics for health API in Microsoft Cloud for Healthcare.
+  ms.date: 02/28/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/use-rest-api.md)]

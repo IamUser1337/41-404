@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-power-apps-online-workshop.exercise-test
+title: Exercise - Test the cloud flow
+metadata:
+  title: Exercise - Test the cloud flow
+  description: Follow the steps to test your cloud flow.
+  ms.date: 01/09/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-test.md)]

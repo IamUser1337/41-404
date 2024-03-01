@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-dataverse-triggers-actions.triggers 
+title: Dataverse triggers
+metadata: 
+  title: Dataverse triggers
+  description: Learn about Dataverse triggers.
+  ms.date: 12/18/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/triggers.md)] 

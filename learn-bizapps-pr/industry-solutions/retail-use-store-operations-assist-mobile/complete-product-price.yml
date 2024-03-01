@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist-mobile.complete-product-price
+title: Exercise - Complete a product price update template task
+metadata:
+  title: Exercise - Complete a product price update template task
+  description: Follow the steps to complete a task from the product price update template.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/complete-product-price.md)]

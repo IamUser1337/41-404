@@ -1,0 +1,5 @@
+Microsoft Copilot Studio aims to democratize conversational AI. To do so, it provides no-code, low-code, and pro-code experiences. The requirements gathering spreadsheet also covers more information that you can gather when planning your bot, which helps you build and accelerate knowledge of the expected project scope so that you can create the correct fusion team together and deliver what's expected.
+
+Explore the rest of the spreadsheet to determine if other topics, such as IVR requirements, or code is required by using Bot Framework Skills. This process could require you to go further in designing the expected conversation flow in a tool such as Microsoft Visio. You might require a team member with more detailed knowledge on extending Microsoft Copilot Studio for some tasks. These other tasks aren't required to complete this lab.
+
+We recommend that you review the **Bot Building Handbook**, which is included as part of the materials for the course, to understand what a full project that uses Microsoft Copilot Studio includes.

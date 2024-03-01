@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.connect-other-data
+metadata:
+  title: Connect to other data in a Power Apps canvas app
+  description: Learn how to connect to other data in Power Apps canvas app.
+  ms.date: 01/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: module
+title: Connect to other data in a Power Apps canvas app
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Do you need to connect to data that isn't tabular? This module will help with that. It includes discussion of action-based connectors, Flow, and user data.
+abstract: |
+    In this module, you'll:
+    - Understand and use action-based connectors
+    - Integrate user information and user-profile information into a canvas app
+    - Use Power Automate with Power Apps
+prerequisites: A basic understanding of how to create a Power Apps canvas app.
+iconUrl: /training/achievements/connect-other-data.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+- data-management
+units:
+- learn-bizapps.connect-other-data.1-overview-data-sources
+- learn-bizapps.connect-other-data.2-work-with-action-based-data-sources
+- learn-bizapps.connect-other-data.3-flow-and-powerapps
+- learn-bizapps.connect-other-data.4-knowledge-check
+- learn-bizapps.connect-other-data.5-summary
+badge:
+  uid: learn.connect-other-data.badge

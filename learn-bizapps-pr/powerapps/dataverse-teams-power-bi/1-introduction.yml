@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dataverse-teams-power-bi.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to creating reports with Power BI and Dataverse for Teams
+  ms.date: 08/16/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

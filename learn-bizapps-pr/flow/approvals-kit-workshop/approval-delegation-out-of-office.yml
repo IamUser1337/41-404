@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.approvals-kit-workshop.approval-delegation-out-of-office 
+title: Approvals delegation and out of office
+metadata: 
+  title: Approvals delegation and out of office
+  description: Learn about approvals delegation and out of office.
+  ms.date: 11/02/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/approval-delegation-out-of-office.md)] 

@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-setup-environment
+metadata:
+ title: Set up your training environment
+ description: Learn how to set up your training environment for Microsoft Cloud for Sustainability.
+ ms.date: 09/26/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Set up your training environment
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will focus on how to create your training environment for Microsoft Cloud for Sustainability.
+abstract: |
+    In this module, you'll:
+    - Discuss Microsoft Solution Center
+    - Set up a new Microsoft Office E5 trial tenant.
+    - Set up a new Microsoft Cloud for Sustainability trial instance.
+prerequisites: None
+iconUrl: /learn/achievements/sustainability-setup-environment.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-setup-environment.introduction
+- learn-bizapps.sustainability-setup-environment.exercise
+- learn-bizapps.sustainability-setup-environment.exercise-trial
+- learn-bizapps.sustainability-setup-environment.check
+- learn-bizapps.sustainability-setup-environment.summary
+badge:
+  uid: learn-bizapps.sustainability-setup-environment.badge

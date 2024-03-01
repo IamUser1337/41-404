@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-document-automation.2-install 
+title: Install the document automation base kit
+metadata: 
+  title: Install the document automation base kit
+  description: Learn how to install the kit, what key components are installed, and how to configure the connection to Outlook and Dataverse.
+  ms.date: 01/31/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-install.md)] 

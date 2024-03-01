@@ -1,0 +1,14 @@
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.3-text-controls
+title: Entering and displaying data with text controls
+metadata:
+  title: Entering and displaying data with text controls
+  description: Entering and displaying data with text controls
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-text-controls.md)]

@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-extend.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/27/2023 
+ author: davebeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ ms.service: powerapps 
+ ms.subservice: dataverse-developer
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the out-of-the-box mechanisms we have to apply business logic without code within a model-driven app?  
+    choices: 
+    - content: Business Rules, Workflows, Client Script  
+      isCorrect: false 
+      explanation: Client Script is a solution based on the custom code written in JavaScript. 
+    - content: Calculated Columns, Workflows, Plug-ins
+      isCorrect: false 
+      explanation: A plug-in is a .NET assembly, containing custom code written in C# that you can upload to Microsoft Dataverse.
+    - content: Business Rules, Workflows, Calculated Columns 
+      isCorrect: true 
+      explanation: Business Rules, Workflows, and Calculated Columns are all available with model-driven apps to apply business logic without code.  
+  - content: Which of the following is a mechanism for applying business logic with code?  
+    choices: 
+    - content: Plug-ins 
+      isCorrect: true 
+      explanation: Use Plug-ins to apply business logic with code. 
+    - content: Calculated Columns
+      isCorrect: false 
+      explanation: Calculated columns are simple expressions allowing the value in a column to be calculated in real-time using constants and other columns' values
+    - content: Business Rules  
+      isCorrect: false 
+      explanation: Business rules provide a simple interface to implement and maintain fast-changing and commonly used rules that apply logic and validations without writing code.  
+  - content: When would you use the organization service to access Dataverse?
+    choices: 
+    - content: App is written using open-source technology such as Node.js.
+      isCorrect: false 
+      explanation: The organization service is optimized for use with the .NET Framework. Instead, use the Dataverse Web API that provides a development experience that can be used across a wide variety of programming languages, platforms, and devices.
+    - content: When implementing plug-ins 
+      isCorrect: true 
+      explanation: The organization service is the only option when using plug-ins to extend Dataverse.
+    - content: App is a iOS or Android client. 
+      isCorrect: false 
+      explanation: The organization service is optimized for use with the .NET Framework. Instead, use the Dataverse Web API that provides a development experience that can be used across a wide variety of programming languages, platforms, and devices.

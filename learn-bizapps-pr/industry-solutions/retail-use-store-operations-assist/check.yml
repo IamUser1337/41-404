@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/24/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of these template types aren't valid?
+    choices:
+    - content: Survey
+      isCorrect: true
+      explanation: You can use form templates to include survey questions that are related to the planned task, to seek responses from store associates, and to also include a photo of the setup.
+    - content: Product price update
+      isCorrect: false
+      explanation: You can use a product price update template to capture new price updates in the store.
+    - content: Inventory spot count
+      isCorrect: false
+      explanation: You can use an inventory spot count template to capture a spot count for a list of products in a store.
+    - content: Form
+      isCorrect: false
+      explanation: With a form template, you can share task guidelines in the form of rich text, including hyperlinks, images, PDF attachments, and photos, as part of planned tasks such as promotion setup and store layout changes.
+  - content: You want to share task guidelines in the form of rich text, including hyperlinks, images, PDF attachments, and photos, as part of planned tasks such as promotion setup and store layout changes. Which template would you use?
+    choices:
+    - content: Form
+      isCorrect: true
+      explanation: With a form template, you can share task guidelines in the form of rich text, including hyperlinks, images, PDF attachments, and photos, as part of planned tasks such as promotion setup and store layout changes.
+    - content: Product price update
+      isCorrect: false
+      explanation: You can use a product price update template to capture new price updates in the store.
+    - content: Inventory spot count
+      isCorrect: false
+      explanation: You can use an inventory spot count template to capture a spot count for a list of products in a store.
+    - content: Blank
+      isCorrect: false
+      explanation: A blank template is a lighter version of the form template that you can use for daily in-store tasks.
+  - content: Which of the following templates can you use to update the product markdowns?
+    choices:
+    - content: Product price update
+      isCorrect: true
+      explanation: You can use a product price update template to capture new price updates in the store.
+    - content: Inventory spot count
+      isCorrect: false
+      explanation: You can use an inventory spot count template to capture a spot count for a list of products in a store.
+    - content: Blank
+      isCorrect: false
+      explanation: A blank template is a lighter version of the form template that you can use for daily in-store tasks.
+    - content: Form
+      isCorrect: false
+      explanation: With a form template, you can share task guidelines in the form of rich text, including hyperlinks, images, PDF attachments, and photos, as part of planned tasks such as promotion setup and store layout changes.

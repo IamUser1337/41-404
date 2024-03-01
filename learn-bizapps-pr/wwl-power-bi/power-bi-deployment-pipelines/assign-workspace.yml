@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-deployment-pipelines.assign-workspace
+title: Assign a workspace
+metadata:
+  title: Assign a workspace
+  description: "Learn how to add the content you want to manage to the pipeline."
+  ms.date: 01/30/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](includes/assign-workspace.md)]

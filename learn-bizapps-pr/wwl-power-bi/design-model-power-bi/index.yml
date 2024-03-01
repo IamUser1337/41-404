@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.design-model-power-bi
+metadata:
+  title: Design a semantic model in Power BI
+  description: "The process of creating a complicated semantic model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great semantic model is about simplifying the disarray. A star schema is one way to simplify a semantic model, and you learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you learn about improving performance with your Power BI semantic models."
+  ms.date: 04/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Design a semantic model in Power BI
+summary: The process of creating a complicated semantic model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great semantic model is about simplifying the disarray. A star schema is one way to simplify a semantic model, and you learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you learn about improving performance with your Power BI semantic models.
+abstract: |
+  In this module, you will:
+   - Create common date tables
+   - Configure many-to-many relationships
+   - Resolve circular relationships
+   - Design star schemas
+prerequisites: |
+  None
+iconUrl: /training/achievements/design-a-data-model-in-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- custom-app-development
+- data-modeling
+units:
+- learn-bizapps.design-model-power-bi.1-introduction
+- learn-bizapps.design-model-power-bi.2-tables
+- learn-bizapps.design-model-power-bi.3-date-table
+- learn-bizapps.design-model-power-bi.4-dimensions
+- learn-bizapps.design-model-power-bi.5-data-granularity
+- learn-bizapps.design-model-power-bi.6-relationships-cardinality
+- learn-bizapps.design-model-power-bi.7-modeling-challenges
+- learn-bizapps.design-model-power-bi.8-lab
+- learn-bizapps.design-model-power-bi.10-check
+- learn-bizapps.design-model-power-bi.11-summary
+badge:
+  uid: learn-bizapps.design-model-power-bi.badge

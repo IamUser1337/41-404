@@ -1,0 +1,1 @@
+This exercise focused on performing the emission calculations by using a combination of factor libraries, emission factors, estimation factors, and calculation profiles. After the calculations were performed, you reviewed the emission calculations output.

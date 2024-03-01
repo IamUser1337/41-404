@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-waste-overview.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to water and waste sustainability overview.
+  ms.date: 11/10/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

@@ -1,0 +1,1 @@
+In this module, you learned how to create visuals, report pages, and dashboards that bring quick, actionable insight in Power BI. You learned about the visualization process. You learned how to apply formatting, how slicers and interactions function, how to incorporate custom visuals, and how to navigate between bookmarks.

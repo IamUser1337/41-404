@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-interactive-experiences.2-use-power-bi 
+title: Use Power BI
+metadata: 
+  title: Use Power BI
+  description: Discover Power BI features that help you create stunning reports. 
+  ms.date: 09/28/2021 
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-use-power-bi.md)] 

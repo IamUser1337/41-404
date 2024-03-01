@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.make-app
+metadata:
+ title: Make your app like a pro
+ description: Learn how to make your app from Power Apps like a professional.
+ ms.date: 05/03/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Make your app like a pro
+summary: |
+  [!include[](../includes/module-banner.md)]
+  You've planned and designed your app. Now, you use the available tools to help make your design a reality.
+abstract: |
+    In this module, you:
+    - Set up data sources.
+    - Create a solution.
+    - Set up automation.
+    - Make your app more secure.
+prerequisites: Basic Microsoft Dataverse experience
+iconUrl: /training/achievements/make-app.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.make-app.introduction
+- learn-bizapps.make-app.tables-data-connectors
+- learn-bizapps.make-app.solutions
+- learn-bizapps.make-app.exercise-prepare-canvas-app
+- learn-bizapps.make-app.canvas-app
+- learn-bizapps.make-app.exercise-create-canvas-app
+- learn-bizapps.make-app.model-driven-app
+- learn-bizapps.make-app.flows
+- learn-bizapps.make-app.exercise-connect-flow-app
+- learn-bizapps.make-app.exercise-app-authorization
+- learn-bizapps.make-app.check
+- learn-bizapps.make-app.summary
+badge:
+  uid: learn-bizapps.make-app.badge

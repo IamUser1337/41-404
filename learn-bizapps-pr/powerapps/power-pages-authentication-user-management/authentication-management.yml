@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-authentication-user-management.authentication-management 
+title: Authentication management for Power Pages users
+metadata: 
+  title: Authentication management for Power Pages users
+  description: Learn how to control authentication behavior for Power Pages users.
+  ms.date: 05/08/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/authentication-management.md)] 

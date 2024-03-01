@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.power-automate
+title: Call Power Automate actions from the Web API
+metadata:
+  title: Call Power Automate actions from the Web API
+  description: Learn how to call Power Automate actions from the Web API.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: power-platform
+  ms.subservice: developer
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/power-automate.md)]

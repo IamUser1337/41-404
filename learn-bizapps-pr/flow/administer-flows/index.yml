@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.flow-administration
+metadata:
+  title: Use the Admin center to manage environments and data policies in Power Automate
+  description: Tenant and environment admins use the Power Automate Admin center to manage data policies and environments for Power Automate deployments.
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+title: Use the Admin center to manage environments and data policies in Power Automate
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Tenant and environment admins use the Power Automate Admin center to manage data policies and environments for Power Automate deployments.
+abstract: |
+    This module explains the concepts:
+    - The Admin center
+    - Importing and exporting flows
+    - Sharing flows
+prerequisites: |
+    - Signed up for Power Automate and a working mobile device with the Power Automate mobile app loaded.
+iconUrl: /training/achievements/administer-flows.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- maker
+- administrator
+products:
+- power-platform
+- power-automate
+subjects:
+- data-management
+units:
+- learn-bizapps.flow-administration.1-introduction
+- learn-bizapps.flow-administration.2-flow-export-import
+- learn-bizapps.flow-administration.3-share-flows
+- learn-bizapps.flow-administration.4-knowledge-check
+- learn-bizapps.flow-administration.5-summary
+badge:
+  uid: learn.flow-administration.badge

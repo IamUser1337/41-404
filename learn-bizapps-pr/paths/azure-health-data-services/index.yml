@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.azure-health-data-services-in-a-day
+metadata:
+  title: Get started with Azure Health Data Services 
+  description: Learn how to use Azure Health Data Services.
+  ms.date: 02/19/2024
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Azure Health Data Services
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Azure Health Data Services is a managed platform as a service (PaaS) based on OpenAPI standards and frameworks that enable more secure and scalable health data solutions. Azure Health Data Services empowers Microsoft Cloud for Healthcare and other health workloads by enabling more secure and compliant paths to ingest, persist, and connect health data in the cloud. 
+
+  In this Learning Path, you’ll gain a foundational understanding of Azure Health Data Services and its core components. You'll be guided through use cases as you explore interoperability challenges of health and life sciences data, examine the tools and connectors of Azure Health Data Services and their benefits, review the data architecture of FHIR® and the details of how the FHIR API is implemented, explore the DICOM® standards and DICOM® service using the use case for radiology data in cancer treatment and how to enable IoT data scenarios for remote patient monitoring.
+prerequisites: |
+  - None
+iconUrl: /training/achievements/azure-health-data-services-in-a-day.svg
+levels:
+- advanced
+roles:
+- solution-architect
+- functional-consultant
+- developer
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+modules:
+- learn-bizapps.azure-health-data-services 
+- learn-bizapps.health-data-fast-healthcare-interoperability-resources
+- learn-bizapps.medical-imaging-data
+- learn-bizapps.medtech-iot 
+trophy:
+  uid: learn.azure-health-data-services-in-a-day.trophy

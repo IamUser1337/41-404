@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of extending the Store Operations Assist solution
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

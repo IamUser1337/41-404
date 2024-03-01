@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-builder-text-generation.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to creating text with GPT in AI Builder
+  ms.date: 05/31/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-administration.lifecycle 
+title: Power Pages life cycle
+metadata: 
+  title: Power Pages life cycle
+  description: Discover the stages of a Power Pages website and how the website behavior and features are affected.
+  ms.date: 05/08/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/lifecycle.md)] 

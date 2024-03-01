@@ -1,0 +1,14 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.resources
+title: Overview of FHIR resources
+metadata:
+  title: Overview of FHIR resources
+  description: Learn about the types and structure of resources and how they connect in FHIR.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/resources.md)]

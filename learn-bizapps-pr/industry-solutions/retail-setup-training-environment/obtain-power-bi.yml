@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit    
+uid: learn-bizapps.retail-setup-training-environment.obtain-power-bi
+title: Exercise - Obtain a Power BI Premium trial license
+metadata:
+  title: Exercise - Obtain a Power BI Premium trial license
+  description: Follow the steps to get a Power BI Premium trial license.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/obtain-power-bi.md)]

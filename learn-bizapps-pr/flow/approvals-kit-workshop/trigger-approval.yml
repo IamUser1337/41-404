@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.approvals-kit-workshop.trigger-approval 
+title: Trigger a defined approval
+metadata: 
+  title: Trigger a defined approval
+  description: Learn how to trigger a defined approval.
+  ms.date: 11/02/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/trigger-approval.md)] 

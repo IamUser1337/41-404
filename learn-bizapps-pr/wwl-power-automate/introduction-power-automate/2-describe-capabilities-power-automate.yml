@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.describe-capabilities-power-automate
+title: Describe the capabilities of Power Automate
+metadata:
+  title: Describe the capabilities of Power Automate
+  description: "Introduction to the different Power Automate flows and their capabilities."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 18
+content: |
+  [!include[](includes/2-describe-capabilities-power-automate.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.optimize-app-load-time.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to optimizing app load time
+  ms.date: 11/17/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 9 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

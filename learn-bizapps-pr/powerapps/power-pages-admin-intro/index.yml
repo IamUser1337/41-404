@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-admin-intro 
+metadata: 
+ title: Introduction to Power Pages administration
+ description: Learn about Power Pages administration and explore how Power Pages tools can help you accomplish administrative tasks.
+ ms.date: 10/12/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: power-pages  
+title: Introduction to Power Pages administration 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
+  During the design and build stages, makers often perform various site administration duties. This module introduces Power Pages administration and explores the Power Pages tools that can help you accomplish administrative tasks.
+abstract: |  
+    In this module, you'll: 
+    - Discover the Set up workspace in Power Pages design studio.
+    - Identify available Power Pages administrative tools.
+    - Explore how to access Power Pages admin center and its basic functions.
+    - Learn about the user registration process.
+prerequisites: Basic understanding, use, and navigation of model-driven apps from Power Apps 
+iconUrl: /learn/achievements/power-pages-admin-intro.svg
+levels:  
+- intermediate   
+roles:  
+- maker
+- functional-consultant  
+products:  
+- power-pages
+- power-platform
+subjects:
+- custom-app-development
+- architecture
+units:
+- learn-bizapps.power-pages-admin-intro.introduction 
+- learn-bizapps.power-pages-admin-intro.tools 
+- learn-bizapps.power-pages-admin-intro.setup
+- learn-bizapps.power-pages-admin-intro.exercise 
+- learn-bizapps.power-pages-admin-intro.check
+- learn-bizapps.power-pages-admin-intro.summary 
+badge: 
+  uid: learn-bizapps.power-pages-admin-intro.badge

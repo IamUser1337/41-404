@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-mouse-keyboard.2-mouse-keyboard-actions 
+title: Mouse and keyboard actions
+metadata: 
+  title: Simulate mouse and keyboard actions
+  description: Simulate mouse and keyboard actions
+  ms.date: 12/10/2020
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-mouse-keyboard-actions.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.troubleshoot-slow-flows.3-analytics 
+title: Power Automate analytics
+metadata: 
+  title: Power Automate analytics
+  description: Learn how to monitor the health of your flows.
+  ms.date: 04/23/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-analytics.md)] 

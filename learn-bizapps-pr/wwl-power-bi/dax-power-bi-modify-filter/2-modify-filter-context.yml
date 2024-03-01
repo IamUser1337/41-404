@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-modify-filter.2-modify-filter-context 
+title: Modify filter context
+metadata: 
+  title: Modify filter context 
+  description: Learn how to modify filter context.   
+  ms.date: 07/18/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-modify-filter-context.md)] 

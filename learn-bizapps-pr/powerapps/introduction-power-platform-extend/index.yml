@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.introduction-power-platform-extend 
+metadata: 
+ title: Introduction to extending Power Platform
+ description: This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.
+ ms.date: 09/27/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: powerapps
+ ms.subservice: dataverse-developer 
+title: Introduction to extending Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will focus on the underlying solution architecture from a technical perspective and what extensibility options exist. It will also cover the ever-important element of Microsoft Power Platform development, which is the decision-making process of determining when to use configuration versus code.
+abstract: |  
+    In this module, you will: 
+    - Identify which elements architecturally comprise Microsoft Power Platform. 
+    - Learn about the areas of extensibility that are available to customize Microsoft Power Platform through code.
+    - Discover different approaches to common business scenarios in respect to achieving extensibility with configuration versus code. 
+prerequisites: Basic understanding of Microsoft Power Platform, experience in software development against the Microsoft stack and Visual Studio, and experience in administering solutions in Azure is preferred.   
+iconUrl: /training/achievements/introduction-power-platform-extend.svg  
+levels:  
+- advanced  
+roles:  
+- developer  
+- functional-consultant 
+products:  
+- dynamics-365  
+- power-platform
+- power-apps
+- dataverse
+units: 
+- learn-bizapps.introduction-power-platform-extend.introduction
+- learn-bizapps.introduction-power-platform-extend.extensibility
+- learn-bizapps.introduction-power-platform-extend.service-extensibility 
+- learn-bizapps.introduction-power-platform-extend.exercise
+- learn-bizapps.introduction-power-platform-extend.configure-code 
+- learn-bizapps.introduction-power-platform-extend.check 
+- learn-bizapps.introduction-power-platform-extend.summary 
+badge: 
+  uid: learn-bizapps.introduction-power-platform-extend.badge 

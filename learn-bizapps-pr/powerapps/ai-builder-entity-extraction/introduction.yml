@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-entity-extraction.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to AI Builder entity extraction
+  ms.date: 06/20/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

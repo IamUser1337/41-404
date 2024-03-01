@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.how-to-build-basic-chatbot.create-topics
+title: Create and work with topics
+metadata:
+  title: Create and work with topics
+  description: "Create and work with topics"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-create-topics.md)]

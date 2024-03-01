@@ -1,0 +1,30 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.data-preparation-in-power-bi
+metadata:
+  title: Prepare data for analysis with Power BI
+  description: You'll learn how to use Power Query to extract data from different data sources, choose a storage mode, and connectivity type. You'll also learn to profile, clean, and load data into Power BI before you model your data.   
+  ms.date: 07/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: learning-path
+title: Prepare data for analysis with Power BI
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  You'll learn how to use Power Query to extract data from different data sources, choose a storage mode, and connectivity type. You'll also learn to profile, clean, and load data into Power BI before you model your data.  
+  
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true).
+prerequisites: None
+iconUrl: /training/achievements/data-preparation-in-power-bi.svg
+levels:
+- intermediate
+roles: 
+- data-analyst
+products:
+- power-bi 
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.get-data
+- learn-bizapps.clean-data-power-bi
+trophy: 
+  uid: learn-bizapps.data-preparation-in-power-bi.trophy

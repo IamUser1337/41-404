@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-clarity.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/22/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following analytics features are provided by Microsoft Clarity?
+    choices: 
+    - content: Use the heatmap feature to observe where your site generates the most clicks, what people are ignoring, and how far they’re scrolling.
+      isCorrect: false
+      explanation: All of these analytics features are provided by Microsoft Clarity.
+    - content: Observe how customers use your site with anonymized, hi-definition recordings. Additionally, discover user frustrations by documenting rage clicks, dead clicks, and quick backs with behavior-focused insights, allowing you to develop solutions more efficiently. 
+      isCorrect: false 
+      explanation: All of these analytics features are provided by Microsoft Clarity.
+    - content: Understand customer engagement by using built-in web and mobile analytics and return customer activity recognition, which allows you to create custom reports and views based on real-time customer behavior data.
+      isCorrect: false 
+      explanation: All of these analytics features are provided by Microsoft Clarity.
+    - content: All the above
+      isCorrect: true 
+      explanation: Correct. All of these analytics features are provided by Microsoft Clarity.
+  - content: Which of the following capabilities are available with the Heatmaps feature in Microsoft Clarity? 
+    choices: 
+    - content: Observe in the E-Commerce website where users engage the most or the least and where they click, tap, or scroll.
+      isCorrect: true 
+      explanation: Correct. Observe is an available capability with the Heatmaps feature in Microsoft Clarity.
+    - content: Fraud protection
+      isCorrect: false 
+      explanation: Incorrect. Fraud protection isn’t an available capability with the Heatmaps feature in Microsoft Clarity.
+    - content: Increase customer traffic to e-commerce website
+      isCorrect: false 
+      explanation: Incorrect. Increase customer traffic to e-commerce website isn’t an available capability with the Heatmaps feature in Microsoft Clarity.
+    - content: All the above
+      isCorrect: false 
+      explanation: Incorrect. Not all the options are available capabilities with the Heatmaps feature in Microsoft Clarity.
+  - content: Which of the following controls are available in the settings for Microsoft Clarity?
+    choices: 
+    - content: Blocking IP addresses for which usage data isn’t required to be captured.
+      isCorrect: false 
+      explanation: All of these controls are available in the settings for Microsoft Clarity.
+    - content: Add a team of people to monitor and manage Microsoft Clarity data.
+      isCorrect: false 
+      explanation: All of these controls are available in the settings for Microsoft Clarity.
+    - content: Mask the information that Microsoft Clarity perceives as confidential, by default, with Balanced masking.
+      isCorrect: false 
+      explanation: All of these controls are available in the settings for Microsoft Clarity.
+    - content: All the above
+      isCorrect: true 
+      explanation: Correct. All of these controls are available in the settings for Microsoft Clarity.

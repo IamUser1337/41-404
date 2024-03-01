@@ -1,0 +1,41 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-variables.9-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/01/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following statements is true?
+    choices: 
+    - content: All actions produce variables automatically, but you can rename them. 
+      isCorrect: true 
+      explanation: Every action produces variables automatically and their names are customizable.
+    - content: You need to declare all the produced variables manually.
+      isCorrect: false 
+      explanation: Every action produces variables automatically and their names are customizable
+  - content: A variable is converted to another data type when
+    choices: 
+    - content: Data of another data type is stored into it.
+      isCorrect: true 
+      explanation: Every variable is converted to another data type when its content is changed.
+    - content: The flow developer manually changes it through the variables pane.
+      isCorrect: false 
+      explanation: Flow developers cannot manually change the data type of a variable.
+    - content: The data type of a variable cannot be converted.
+      isCorrect: false 
+      explanation: Every variable is converted to another data type when its content is changed.
+  - content: What is the use of the flow variables?
+    choices: 
+    - content: To exchange data between Power Automate and Power Automate for desktop.
+      isCorrect: false 
+      explanation: Only input and output variables are used to exchange data between Power Automate and Power Automate for desktop.
+    - content: To store data for use in later actions in the same flow.
+      isCorrect: true 
+      explanation: Flow variables are used to store data locally in the flow.

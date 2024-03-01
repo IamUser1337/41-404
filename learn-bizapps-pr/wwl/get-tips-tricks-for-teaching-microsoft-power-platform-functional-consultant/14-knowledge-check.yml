@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 07/31/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/14-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "How often is it recommended to download content from the [Learning Download Center](https://github.com/MicrosoftLearning/SC-300-Identity-and-Access-Administrator/blob/master/Instructions/Labs/Lab_26_ConfigurePrivilegedIdentityManagementForAADRoles.md) (LDC) to ensure possession of current course materials?"
+    choices:
+    - content: "Every three years"
+      isCorrect: false
+      explanation: "Feedback: Incorrect. The tech world is constantly changing so the curriculum content is updated to match. By downloading the course materials quarterly or before teaching the course you know you have the most up-to-date materials."
+    - content: "Quarterly"
+      isCorrect: true
+      explanation: "Feedback: Correct. The tech world is constantly changing so the curriculum content is updated to match. By downloading the course materials each quarter or before teaching the course you know you have the most up-to-date materials."
+    - content: "Once a year"
+      isCorrect: false
+      explanation: "Feedback: Incorrect. The tech world is constantly changing so the curriculum content is updated to match. By downloading the course materials quarterly or before teaching the course you know you have the most up-to-date materials."
+  - content: "Which tool is great for giving students a visual representation of topics?"
+    choices:
+    - content: "The Textbook"
+      isCorrect: false
+      explanation: "Feedback: Incorrect. While a textbook can be used as a standard work for the study of a particular subject, the Microsoft Whiteboard can help people visualize a process and increase collaboration by allowing participants to easily add ideas with sticky notes or colored markers."
+    - content: "Microsoft Whiteboard"
+      isCorrect: true
+      explanation: "Feedback: Correct. A Microsoft Whiteboard can help people visualize a process. Microsoft Whiteboard increase collaboration by allowing participants to easily add ideas with sticky notes or colored markers."
+    - content: "Flash Cards"
+      isCorrect: false
+      explanation: "Feedback: Incorrect. Flash cards contain a small amount of information, held up for students to see, as an aid to learning, however the Microsoft Whiteboard can help people visualize a process and increase collaboration by allowing participants to easily add ideas with sticky notes or colored markers."
+  - content: "What is the Common Data Model?"
+    choices:
+    - content: "The Common Data Model is an identity governance feature that enables organizations to manage identity and access lifecycle at scale, by automating access request workflows, access assignments, reviews, and expiration"
+      isCorrect: false
+      explanation: "Feedback: Incorrect. Azure AD entitlement management is an identity governance feature that enables organizations to manage identity and access lifecycle at scale, by automating access request workflows, access assignments, reviews, and expiration, whereas the Common Data Model is a declarative specification and a definition of standard tables that represent commonly used concepts and activities across business and productivity applications."
+    - content: "The Common Data Model is a tool in the Azure portal to edit and run log queries from data collected by Azure Monitor Logs and interactively analyze their results"
+      isCorrect: false
+      explanation: "Feedback: Incorrect: Log Analytics is a tool in the Azure portal to edit and run log queries from data collected by Azure Monitor Logs and interactively analyze their results, whereas the Common Data Model is a declarative specification and a definition of standard tables that represent commonly used concepts and activities across business and productivity applications."
+    - content: "The Common Data Model is a declarative specification and a definition of standard tables that represent commonly used concepts and activities across business and productivity applications"
+      isCorrect: true
+      explanation: "Feedback: Correct. The Common Data Model is a declarative specification and a definition of standard tables that represent commonly used concepts and activities across business and productivity applications."

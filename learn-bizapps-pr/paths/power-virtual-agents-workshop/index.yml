@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-virtual-agents-workshop
+metadata:
+  title: Create copilots with Microsoft Copilot Studio - Online Workshop
+  description: Learn how to create copilots with Microsoft Copilot Studio.
+  ms.date: 06/19/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.collection: bap-ai-copilot
+  ms.service: copilot-studio
+title: Create copilots with Microsoft Copilot Studio - Online Workshop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  In this learning path you'll complete hands on activities using Microsoft Power Platform, specifically Microsoft Copilot Studio and Power Automate. 
+  
+  This module is designed for use with the Microsoft Copilot Studio in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://aka.ms/PVAIADevent).
+prerequisites: |
+  - You'll need an environment with a licensed user to complete these exercises. 
+iconUrl: /training/achievements/power-virtual-agents-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- ms-copilot
+subjects:
+- chatbot
+modules:
+- learn-bizapps.plan-first-chatbot-online-workshop
+- learn-bizapps.power-virtual-agents-create-online-workshop
+- learn-bizapps.unified-authoring-online-workshop
+- learn-bizapps.build-flows-chatbot-online-workshop
+trophy:
+  uid: learn.power-power-virtual-agents-workshop.trophy

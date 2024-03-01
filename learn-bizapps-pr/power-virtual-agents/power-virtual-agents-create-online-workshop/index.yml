@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.power-virtual-agents-create-online-workshop
+metadata:
+ title: Create your first copilot in Microsoft Copilot Studio - Online workshop
+ description: Learn how to create your first copilot in Microsoft Copilot Studio.
+ ms.date: 01/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: copilot-studio
+ ms.collection: bap-ai-copilot
+title: Create your first copilot in Microsoft Copilot Studio - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to create your first copilot in Microsoft Copilot Studio.
+abstract: |
+    In this module, you'll:
+    - Create a new copilot by using the unified authoring canvas in Microsoft Copilot Studio.
+    - Create your first topic and add content to the topic, including rich text responses and more.
+    - Use the Copilot feature in Microsoft Copilot Studio to create a topic with AI.
+    - Learn how to test your copilot in Microsoft Copilot Studio.
+    - Publish your copilot on a demo website.
+prerequisites: |
+    Completion of previous modules in this learning path and access to the environment that you created in them.
+
+    This module is designed for use with the Microsoft Copilot Studio in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00&search=power%20virtual%20agents).
+iconUrl: /learn/achievements/power-virtual-agents-create-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- ms-copilot
+ 
+subjects:
+- chatbot
+units:
+- learn-bizapps.power-virtual-agents-create-online-workshop.introduction
+- learn-bizapps.power-virtual-agents-create-online-workshop.build-chatbot
+- learn-bizapps.power-virtual-agents-create-online-workshop.try-conversation
+- learn-bizapps.power-virtual-agents-create-online-workshop.create-topic
+- learn-bizapps.power-virtual-agents-create-online-workshop.publish-demo
+- learn-bizapps.power-virtual-agents-create-online-workshop.check
+- learn-bizapps.power-virtual-agents-create-online-workshop.summary
+badge:
+  uid: learn-bizapps.power-virtual-agents-create-online-workshop.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connectors-open-api.4-dynamic-schema 
+title: Use dynamic schema
+metadata: 
+  title: Use dynamic schema 
+  description: Learn how to use dynamic schema. 
+  ms.date: 05/12/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-dynamic-schema.md)] 

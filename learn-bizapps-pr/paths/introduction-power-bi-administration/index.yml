@@ -1,0 +1,29 @@
+### YamlMime:LearningPath
+uid: learn.wwl.introduction-power-bi-administration
+metadata:
+  title: Introduction to Power BI administration
+  description: Introduction to Power BI administration
+  ms.date: 12/13/2022
+  author: wwlpublish
+  ms.author: shlindsay
+  ms.topic: learning-path
+title: Introduction to Power BI administration
+prerequisites: |
+  There are no prerequisites for this learning path.
+summary: |
+  Understand Power BI licensing and environment management, including the responsibilities of an administrator and setting up a Power BI tenant.
+iconUrl: /training/achievements/generic-trophy.svg
+levels:
+- beginner
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.power-bi-admin-intro
+- learn-bizapps.power-bi-admin-environment
+trophy:
+  uid: learn.wwl.introduction-power-bi-administration.trophy

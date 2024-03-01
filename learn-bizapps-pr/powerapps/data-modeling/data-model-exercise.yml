@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.data-model-exercise
+title: Exercise - Model data
+metadata:
+  title: Exercise - Model data
+  description: Learn how to model data.
+  ms.date: 04/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/data-model-exercise.md)]

@@ -1,0 +1,1 @@
+You've now gone through the steps of installing required software on your computer for the Power Automate for desktop app and required extensions, registering the machine, and installing the Contoso Invoice app.

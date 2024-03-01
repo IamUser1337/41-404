@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.3a-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/02/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the possible outputs of key phrase extraction models? 
+    choices: 
+    - content: Always one phrase 
+      isCorrect: false
+      explanation: The possible outputs of key phrase extraction models are one or multiple phrases.
+    - content: One or multiple phrases 
+      isCorrect: true
+      explanation: The possible outputs of key phrase extraction models are one or multiple phrases.
+    - content: Key words only 
+      isCorrect: false
+      explanation: The possible outputs of key phrase extraction models are one or multiple phrases.
+  - content: What are some of the business scenarios that can be supported by key phrase extraction? 
+    choices: 
+    - content: Analyzing customer feedback and surveys 
+      isCorrect: false
+      explanation: Analyzing customer feedback, surveys, social media, employee sentiments, emails, and other unstructured text are all supported by key phrase extraction.
+    - content: Analyzing social media  
+      isCorrect: false
+      explanation: Analyzing customer feedback, surveys, social media, employee sentiments, emails, and other unstructured text are all supported by key phrase extraction.
+    - content: Analyzing emails and other unstructured text 
+      isCorrect: false
+      explanation: Analyzing customer feedback, surveys, social media, employee sentiments, emails, and other unstructured text are all supported by key phrase extraction.
+    - content: Analyzing employee sentiments 
+      isCorrect: false
+      explanation: Analyzing customer feedback, surveys, social media, employee sentiments, emails, and other unstructured text are all supported by key phrase extraction.
+    - content: All of the above 
+      isCorrect: true
+      explanation: Analyzing customer feedback, surveys, social media, employee sentiments, emails, and other unstructured text are all supported by key phrase extraction.
+  - content: Where can you use key phrase extraction analysis? 
+    choices: 
+    - content: Power Automate only 
+      isCorrect: false
+      explanation: Key phrase extraction analysis can be used with both Power Automate and Power Apps.
+    - content: Power Apps only 
+      isCorrect: false
+      explanation: Key phrase extraction analysis can be used with both Power Automate and Power Apps.
+    - content: Both Power Automate and Power Apps 
+      isCorrect: true
+      explanation: Key phrase extraction analysis can be used with both Power Automate and Power Apps.

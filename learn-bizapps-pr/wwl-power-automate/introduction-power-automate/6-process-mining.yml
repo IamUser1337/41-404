@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.process-mining
+title: Describe process mining
+metadata:
+  title: Describe process mining
+  description: "Gain a better understanding of and improve an organization's real processes using process mining."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+  [!include[](includes/6-process-mining.md)]

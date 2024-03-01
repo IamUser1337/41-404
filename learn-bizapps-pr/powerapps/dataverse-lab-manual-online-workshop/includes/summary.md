@@ -1,0 +1,4 @@
+Microsoft Dataverse is a relational database that Microsoft uses for its own Dynamics 365 applications. You can use this same technology for your own custom applications, such as the Contoso Coffee solution that you're building in this lab. In this module, you built the data model to support the Power Apps applications that the Contoso team needs.
+
+> [!NOTE]
+> This module is designed for use with the App in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?search=App%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=06:00&endTime=11:00).

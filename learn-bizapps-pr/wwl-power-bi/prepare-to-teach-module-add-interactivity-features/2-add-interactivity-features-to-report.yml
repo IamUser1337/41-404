@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-add-interactivity-features.to-report
+title: Add interactivity features to a report
+metadata:
+  title: Add interactivity features to a report
+  description: "Add interactivity features to a report"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 9
+content: |
+  [!include[](includes/2-add-interactivity-features-to-report.md)]

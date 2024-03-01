@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-bizapps.plan-first-chatbot-online-workshop
+metadata:
+ title: Plan your first copilot - Online workshop
+ description: Learn how to plan your first copilot.
+ ms.date: 01/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: copilot-studio
+ ms.collection: bap-ai-copilot
+title: Plan your first copilot - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you begin building your Microsoft Power Platform solution, starting with a basic copilot.
+abstract: |
+    This module explains how to:
+    - Use the [Try it feature](https://web.powerva.microsoft.com/tryit) on the Microsoft Copilot Studio website.
+    - Connect the Generative answers feature in Microsoft Copilot Studio with your website so you can start asking questions.
+    - Discover common goals for copilot projects and how to consider the fundamentals of business value when implementing copilots.
+    - Learn about the core components to consider first when building copilots, including topics, sub topics, and customer phrases.
+    - Learn how to expand on topic information and determine if topics are single or multi turn or if they require specific data to better serve customer needs.
+prerequisites: |
+    This module is designed for use with the Microsoft Copilot Studio in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00&search=power%20virtual%20agents).
+iconUrl: /learn/achievements/plan-first-chatbot-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+ 
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn-bizapps.plan-first-chatbot-online-workshop.introduction
+- learn-bizapps.plan-first-chatbot-online-workshop.scenarios-prequisites
+- learn-bizapps.plan-first-chatbot-online-workshop.copilot-creation
+- learn-bizapps.plan-first-chatbot-online-workshop.generative-answers
+- learn-bizapps.plan-first-chatbot-online-workshop.natural-language-understanding
+- learn-bizapps.plan-first-chatbot-online-workshop.ideation
+- learn-bizapps.plan-first-chatbot-online-workshop.requirements-gathering
+- learn-bizapps.plan-first-chatbot-online-workshop.practice
+- learn-bizapps.plan-first-chatbot-online-workshop.check
+- learn-bizapps.plan-first-chatbot-online-workshop.summary
+badge:
+  uid: learn-bizapps.plan-first-chatbot-online-workshop.badge

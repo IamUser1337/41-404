@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.introduction-power-platform-developer-resources
+metadata: 
+ title: Introduction to Microsoft Power Platform developer resources
+ description: The goal of this module is to give a broad-scoped overview of the developer experience as it relates to Microsoft Power Platform.  It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with Microsoft Power Platform. 
+ ms.date: 09/27/2023
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: powerapps
+ ms.subservice: dataverse-developer
+title: Introduction to Microsoft Power Platform developer resources
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  The goal of this module is to give a broad-scoped overview of the developer experience as it relates to Microsoft Power Platform. It will cover a high-level introduction how the ecosystem is represented, with the intended audience being a software developer with limited experience in working with Microsoft Power Platform. 
+abstract: |  
+    In this module you'll be able to: 
+    - Explain what solution components exist within Microsoft Power Platform. 
+    - Explain key components of Microsoft Dataverse and the Common Data Model. 
+    - Explain what Azure solution elements relate to Microsoft Power Platform. 
+    - Explain what AI Solutions exist as it relates to Microsoft Power Platform. 
+    - Navigate the Developer Guide successfully in support of their Microsoft Power Platform development efforts.
+prerequisites: Basic understanding of Microsoft Power Platform, experience in software development against the Microsoft stack and Visual Studio, and experience in administering solutions in Azure is preferred. 
+iconUrl: /training/achievements/introduction-power-platform-developer-resources.svg  
+levels:  
+- advanced  
+roles:  
+- developer
+products:  
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- custom-app-development
+units: 
+- learn-bizapps.introduction-power-platform-developer-resources.introduction
+- learn-bizapps.introduction-power-platform-developer-resources.dataverse
+- learn-bizapps.introduction-power-platform-developer-resources.azure
+- learn-bizapps.introduction-power-platform-developer-resources.environments
+- learn-bizapps.introduction-power-platform-developer-resources.exercise
+- learn-bizapps.introduction-power-platform-developer-resources.check
+- learn-bizapps.introduction-power-platform-developer-resources.summary
+badge: 
+  uid: learn-bizapps.introduction-power-platform-developer-resources.badge 

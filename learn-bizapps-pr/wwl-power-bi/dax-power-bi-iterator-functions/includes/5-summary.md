@@ -1,0 +1,1 @@
+In this module, you learned about a family of DAX functions known as the iterator functions. You learned that they can achieve complex or higher grain summarization and even ranking. Mastering the iterator functions requires more DAX knowledge, specifically about filter context. You can learn about filter context in the filter context module.

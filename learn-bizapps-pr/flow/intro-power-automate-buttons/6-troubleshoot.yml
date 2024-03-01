@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-power-automate-buttons.6-troubleshoot 
+title: Monitor, manage, and troubleshoot flow buttons 
+metadata: 
+  title: Monitor, manage, and troubleshoot flow buttons  
+  description: Learn how to monitor, manage, and troubleshoot flow buttons.  
+  ms.date: 11/01/2021
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-troubleshoot.md)] 

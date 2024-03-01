@@ -1,0 +1,14 @@
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.2-building-blocks-of-model-driven-apps
+title: Components of model-driven apps
+metadata:
+  title: Components of model-driven apps
+  description: Learn about the components of model-driven apps.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-building-blocks-of-model-driven-apps.md)]

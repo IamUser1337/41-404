@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-paginated-reports-power-bi.7-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Check your knowledge"
+  ms.date: 07/05/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "Why are parameters important in Power BI paginated reports?"
+    choices:
+    - content: "They allow the report developer to control the refresh interval of the report."
+      isCorrect: false
+      explanation: "The report developer has many ways to control how a report is refreshed. Report subscriptions are the main way to control refresh intervals."
+    - content: "They allow the user to control aspects of how the report is rendered when the report is run."
+      isCorrect: true
+      explanation: "Parameters can be used in the report dataset, the report design surface, and other places. Users insert values into the available parameters, and the report author uses those values in the appropriate location in the report."
+    - content: "They are required so that Power BI can call the paginated report."
+      isCorrect: false
+      explanation: "Parameters are not required."
+  - content: "Power BI paginated reports are created by using which tool?"
+    choices:
+    - content: "Power BI Desktop"
+      isCorrect: false
+      explanation: "They are only built by using the Power BI Report Builder."
+    - content: "Power BI service"
+      isCorrect: false
+      explanation: "They are only built by using the Power BI Report Builder."
+    - content: "Power BI Report Builder"
+      isCorrect: true
+      explanation: "They are only built by using the Power BI Report Builder."
+  - content: "Power BI paginated reports is an evolved technology that was built from which original tool?"
+    choices:
+    - content: "SQL Server Analysis Services"
+      isCorrect: false
+      explanation: "SQL Server Reporting Services was the original tool."
+    - content: "SQL Server Reporting Services"
+      isCorrect: true
+      explanation: "Power BI paginated reports was built from SQL Server Reporting Services."
+    - content: "Microsoft SharePoint"
+      isCorrect: false
+      explanation: "SQL Server Reporting Services was the original tool."

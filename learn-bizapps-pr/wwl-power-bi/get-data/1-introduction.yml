@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction to Get Data in Power BI."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

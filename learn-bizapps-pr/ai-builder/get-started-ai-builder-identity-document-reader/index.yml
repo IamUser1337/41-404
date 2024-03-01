@@ -1,0 +1,38 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-ai-builder-identity-document-reader 
+metadata: 
+ title: Extract data from passports and US driver licenses  
+ description: Explore the identity document reader (ID reader) in AI Builder and learn how to use it with other Microsoft Power Platform products.
+ ms.date: 07/06/2021  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Extract data from passports and US driver licenses 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Explore the identity document reader (ID reader) in AI Builder and learn how to use it with other Microsoft Power Platform products.
+abstract: |  
+    In this module, you will: 
+    - Learn about the identity document reader prebuilt model in AI Builder.
+    - Discover how the ID reader in AI Builder works within Microsoft Power Platform.
+    - Develop a simple flow with Microsoft Power Automate that uses the ID reader in AI Builder.
+prerequisites: A Microsoft Power Automate or Microsoft Power Apps license, access to Microsoft Dataverse, and an AI Builder add-on or trial.
+iconUrl: /training/achievements/get-started-ai-builder-identity-document-reader.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products: 
+- power-automate
+- ai-builder
+- power-platform
+subjects:
+- artificial-intelligence
+units:
+- learn-bizapps.get-started-ai-builder-identity-document-reader.1-introduction 
+- learn-bizapps.get-started-ai-builder-identity-document-reader.2-build-flow-id-reader 
+- learn-bizapps.get-started-ai-builder-identity-document-reader.3-check 
+- learn-bizapps.get-started-ai-builder-identity-document-reader.4-summary 
+badge: 
+  uid: learn-bizapps.get-started-ai-builder-identity-document-reader.badge

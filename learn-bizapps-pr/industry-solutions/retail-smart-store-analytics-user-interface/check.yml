@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.smart-store-analytics-user-interface.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 12/18/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Which of the following options isn't available from the More Options control in Smart Store Analytics?
+    choices:
+    - content: Export data
+      isCorrect: false
+      explanation: Incorrect. The More Options control has this option.
+    - content: Show as a table
+      isCorrect: false
+      explanation: Incorrect. The More Options control has this option.
+    - content: Spotlight
+      isCorrect: false
+      explanation: Incorrect. The More Options control has this option.
+    - content: Verbal analytical summary of the data
+      isCorrect: true
+      explanation: Correct. The More Options control doesn't have a verbal analytical summary of the data.
+  - content: What does the Chain summary section provide on the Performance page of Smart Store Analytics?
+    choices:
+    - content: Detailed insights into a specific store
+      isCorrect: false
+      explanation: Incorrect. The Chain summary section of the Performance page doesn't provide this feature.
+    - content: A dashboard view of the entire fleet of stores
+      isCorrect: false
+      explanation: Incorrect. The Chain summary section of the Performance page doesn't provide this feature.
+    - content: Customer demographics analysis
+      isCorrect: false
+      explanation: Incorrect. The Chain summary section of the Performance page doesn't provide this feature.
+    - content: Social media marketing campaign performance metrics
+      isCorrect: true
+      explanation: Correct. The Chain summary section of the Performance page provides social media marketing campaign performance metrics.
+  - content: What is the purpose of the product substitutes feature in Smart Store Analytics?
+    choices:
+    - content: To suggest alternative products to customers while they're shopping
+      isCorrect: false
+      explanation: Incorrect. This option isn't the purpose of the product substitutes feature in Smart Store Analytics.
+    - content: To suggest products that customers can view as alternatives to the products in the store
+      isCorrect: true
+      explanation: Correct. The product substitutes feature suggests products for customers that are alternatives to products in the store.
+    - content: To suggest alternative solutions for the solutions that are used in the retail store operations
+      isCorrect: false
+      explanation: Incorrect. This option isn't the purpose of the product substitutes feature in Smart Store Analytics.
+    - content: To analyze the use of alternate solutions that are used by retail associates for retail store operations
+      isCorrect: false
+      explanation: Incorrect. This option isn't the purpose of the product substitutes feature in Smart Store Analytics.
+  - content: What's the primary purpose of the Frequently bought together feature in Smart Store Analytics?
+    choices:
+    - content: To suggest other solutions that you can use with the Smart Store Analytics app
+      isCorrect: false
+      explanation: Incorrect. This option isn't the primary purpose of the Frequently bought together feature in Smart Store Analytics.
+    - content: To forecast inventory for the upcoming week
+      isCorrect: false
+      explanation: Incorrect. This option isn't the primary purpose of the Frequently bought together feature in Smart Store Analytics.
+    - content: To empower merchandising managers in product placement and promotions
+      isCorrect: true
+      explanation: Correct. The primary purpose of the Frequently bought together feature is to empower merchandising managers in product placement and promotions.
+    - content: To analyze the hourly foot traffic in different aisles
+      isCorrect: false
+      explanation: Incorrect. This option isn't the primary purpose of the Frequently bought together feature in Smart Store Analytics.

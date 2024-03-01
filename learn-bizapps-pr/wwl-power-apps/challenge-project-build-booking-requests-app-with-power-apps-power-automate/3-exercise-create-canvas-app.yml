@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.exercise-create-canvas-app
+title: Exercise - Build a data model and create a canvas app
+metadata:
+  unitType: exercise
+  title: Exercise - Build a data model and create a canvas app
+  description: "Build a data model with Microsoft Dataverse. Create a canvas app."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 30
+content: |
+  [!include[](includes/3-exercise-create-canvas-app.md)]

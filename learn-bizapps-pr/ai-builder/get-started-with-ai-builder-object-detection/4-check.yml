@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-object-detection.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/10/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many Object detection domains are available?
+    choices: 
+    - content: One
+      isCorrect: false
+      explanation: Three Object detection domains are available.
+    - content: Two
+      isCorrect: false 
+      explanation: Three Object detection domains are available.
+    - content: Three
+      isCorrect: true
+      explanation: Three Object detection domains are available.
+  - content: How many sample images for each object do you need to train your model? 
+    choices: 
+    - content: At least five 
+      isCorrect: false
+      explanation: You need at least fifteen sample images for each object to train your model.
+    - content: At least fifteen 
+      isCorrect: true
+      explanation: You need at least fifteen sample images for each object to train your model.
+    - content: At least fifty  
+      isCorrect: false
+      explanation: You need at least fifteen sample images for each object to train your model.
+  - content: What action is required to use your model in a canvas app?
+    choices: 
+    - content: Quick test the model
+      isCorrect: false
+      explanation: You must first publish your model to use it in a canvas app.
+    - content: Publish the model
+      isCorrect: true
+      explanation: You must first publish your model to use it in a canvas app.
+    - content: Tag the model
+      isCorrect: false
+      explanation: You must first publish your model to use it in a canvas app.

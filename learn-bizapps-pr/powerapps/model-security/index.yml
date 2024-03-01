@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.model-security
+metadata: 
+ title: "Solution architect series: Model security for Power Platform solutions"
+ description: Lean about security functionality within Microsoft Dataverse.
+ ms.date: 04/11/2022
+ author: DaveBeasley  
+ ms.author: dbeasley   
+ ms.topic: module
+ 
+title: "Solution architect series: Model security for Power Platform solutions"
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module explains the solution architect's role in security modeling for Microsoft Power Platform, security options for your tenant and environments, and access to data and functionality within Dataverse.
+abstract: |  
+    In this module, you will: 
+    - Discover the solution architect’s role in security modeling.
+    - Learn how to control access to environments and resources.
+    - Learn how to control access to data in Dataverse.
+prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer.
+iconUrl: /training/achievements/model-security.svg  
+levels:  
+- advanced
+roles:  
+- solution-architect
+products:    
+- power-platform
+- dataverse
+- dynamics-365
+subjects:
+- security
+units:
+- learn-bizapps.model-security.1-introduction
+- learn-bizapps.model-security.2-environment
+- learn-bizapps.model-security.3-data-loss-prevention
+- learn-bizapps.model-security.4-dataverse
+- learn-bizapps.model-security.5-apps
+- learn-bizapps.model-security.exercise
+- learn-bizapps.model-security.6-check
+- learn-bizapps.model-security.7-summary
+badge: 
+  uid: learn-bizapps.model-security.badge

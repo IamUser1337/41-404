@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.virtual-visits.4-schedule-virtual-visit
+title: Schedule a virtual visit
+metadata:
+  title: Schedule a virtual visit
+  description: Learn to use the items that you configured in the previous exercises to schedule a virtual visit.
+  ms.date: 07/27/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-schedule-virtual-visit.md)]

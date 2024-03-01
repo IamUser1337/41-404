@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.connect-cloud-desktop-flow.test-connection 
+title: Test your new connection
+metadata: 
+  title: Test your new connection 
+  description: Learn how to test your new connection. 
+  ms.date: 12/26/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/test-connection.md)] 

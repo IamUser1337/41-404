@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-user-experience.6-visual-headers
+title: Work with visual headers
+metadata: 
+  title: Work with visual headers
+  description: Visual headers make interactions available to report authors and consumers. 
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-visual-headers.md)] 

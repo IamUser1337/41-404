@@ -1,0 +1,1 @@
+This module shows how to create flows that simulate the use of mouse movement, clicks, typing, and key presses. Additionally, the module demonstrates how to select and locate a specific image or area on the screen with the mouse.

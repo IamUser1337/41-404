@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-power-virtual-agent-topics.2-topics
+title: Work with bot topics
+metadata:
+  title: Work with bot topics
+  description: Learn to work with topic triggers and conversation nodes.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 25
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-topics.md)]

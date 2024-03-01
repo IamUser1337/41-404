@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-visuals.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to creating Power BI visuals for Tableau users. 
+  ms.date: 3/31/2021 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

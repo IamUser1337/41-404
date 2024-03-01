@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-reports.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/11/2021 
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: At the Contoso Skateboard Company, Brandon is designing a dashboard report to show inventory stock levels over time. What type of report visual should Brandon choose to effectively show the stock levels?
+    choices: 
+    - content: Bar chart
+      isCorrect: false 
+      explanation: A bar chart would show time periods on a vertical axis. Report consumers will quickly understand time series data on the horizontal axis.
+    - content: Pie chart
+      isCorrect: false 
+      explanation: A pie chart can't effectively show a time series.
+    - content: Line chart
+      isCorrect: true 
+      explanation: A line chart is probably the most effective way to visualize a time series, such as stock inventory levels over time.
+    - content: Scatter chart
+      isCorrect: false 
+      explanation: A scatter chart shows a distribution of values and can't effectively communicate time series data.
+  - content: At the Contoso Skateboard Company, Sakura is designing an analytical report. It must include a visual that allows report consumers to explore and discover detailed sales values over time and by store. What type of report visual should Sakura choose to support the report consumer requirement?
+    choices: 
+    - content: Matrix
+      isCorrect: true 
+      explanation: A matrix visual allows the report consumer to drill down on the columns and rows to reveal detailed values.
+    - content: Table
+      isCorrect: false 
+      explanation: A table doesn't support drill down to reveal detailed values.
+    - content: Treemap
+      isCorrect: false 
+      explanation: While a treemap visual supports drill down, it can't easily allow report consumers to explore and discover detailed values across multiple dimensions, like date and store.
+    - content: Scatter chart
+      isCorrect: false 
+      explanation: A scatter chart shows a distribution of values. It can't easily allow report consumers to explore and discover detailed values across multiple dimensions, like date and store.
+  - content: At the Contoso Skateboard Company, James is designing a dashboard report. It must prominently show values of sales revenue, units sold, cost of goods sold, and profit, and each value should be compared to a target value. What type of report visual should James choose to support the report consumer requirement?
+    choices: 
+    - content: Card
+      isCorrect: false 
+      explanation: The answer is incorrect. A card visual displays only a single value. It cannot show a target value.
+    - content: KPI
+      isCorrect: true 
+      explanation: The answer is correct. A KPI visual can show and compare actual and target values.
+    - content: Ribbon chart
+      isCorrect: false 
+      explanation: The answer is incorrect. A ribbon chart is effective at showing rank change, with the highest range (value) always displayed on top for each time period. It cannot show and compare actual and target values.
+    - content: Stacked bar chart
+      isCorrect: false 
+      explanation: The answer is incorrect. A stacked bar chart shows bars of values. It cannot show and compare actual and target values.

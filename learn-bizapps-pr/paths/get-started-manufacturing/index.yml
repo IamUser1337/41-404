@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-manufacturing
+metadata:
+  title: Get started with Microsoft Cloud for Manufacturing
+  description: Learn how to use Microsoft Cloud for Manufacturing.
+  ms.date: 01/17/2024
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Microsoft Cloud for Manufacturing
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Cloud for Manufacturing accelerates the digital transformation in manufacturing bringing the best of Microsoft and our partners together.
+  
+  In this Learning Path, you gain a foundational understanding of Microsoft Cloud for Manufacturing. You learn about the manufacturing and the solution focus areas for Microsoft Cloud for Manufacturing. 
+prerequisites: |
+  - None
+iconUrl: /training/achievements/get-started-manufacturing.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-manufacturing
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.manufacturing-overview
+trophy:
+  uid: learn.get-started-manufacturing.trophy

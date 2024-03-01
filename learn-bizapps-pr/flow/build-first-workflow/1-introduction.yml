@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-workflow.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to building your first workflow with Microsoft Power Automate and Microsoft Dataverse for Teams
+  ms.date: 01/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

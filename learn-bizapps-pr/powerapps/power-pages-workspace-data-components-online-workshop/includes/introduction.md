@@ -1,0 +1,1 @@
+With the Microsoft Power Pages workspace, you can design and build webpages with in-context editing. Additionally, you can add content with no-code and low-code components, such as text, image, video, lists, forms, and others. In this module, you'll set up your website to align with Contoso Coffee's use case.

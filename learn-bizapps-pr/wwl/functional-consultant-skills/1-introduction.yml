@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+content: |
+  [!include[](includes/1-introduction.md)]

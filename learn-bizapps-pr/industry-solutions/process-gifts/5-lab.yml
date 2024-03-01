@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.process-gifts.5-lab 
+title: Exercise - Process gifts
+metadata: 
+  title: Exercise - Process gifts
+  description: Exercise with steps to create and process a recurring donation.
+  ms.date: 11/1/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-lab.md)] 

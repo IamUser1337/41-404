@@ -1,0 +1,14 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.technical-architecture
+title: Technical architecture
+metadata:
+  title: Technical architecture
+  description: Explore some primary functions in Azure Health Data Services.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/technical-architecture.md)]

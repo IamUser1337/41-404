@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-gift-batches-receipts-refunds.6-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of gift batches, receipts and refund management. 
+  ms.date: 10/29/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-summary.md)] 

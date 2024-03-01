@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-organize-fields.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/13/2023 
+ author: ajburnle 
+ manager: kfollis 
+ ms.author: ajburnle 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What benefit does a measures table provide?
+    choices: 
+    - content: It's possible to have the table appear at the bottom of the tables list.
+      isCorrect: false 
+      explanation: With a measures table, you can have the table appear at the top of the tables list.
+    - content: It's a dedicated table used to store some or all the measures in the workbook.
+      isCorrect: true 
+      explanation: This is considered a best practice since it manages all the measures you create on top of your data.
+    - content: It's a dedicated table used to store measures and calculated columns in the workbook.
+      isCorrect: false 
+      explanation: Calculated columns are tied to a specific table and can't be stored separately.
+  - content: Which concept allows users to type in business descriptions to fields?
+    choices: 
+    - content: Adding a field description.
+      isCorrect: true 
+      explanation: Field descriptions are a way to apply business descriptions to measures and columns.
+    - content: Changing the format of a field.
+      isCorrect: false 
+      explanation: Changing the format doesn't add business descriptions, it just changes the field format.
+    - content: Setting the default aggregation.
+      isCorrect: false 
+      explanation: Setting the default aggregation doesn't add any business descriptions. It just changes a default setting for the field.
+  - content: What is the difference between groups and bins?
+    choices: 
+    - content: Bins are an extension of groups, except you can define the bin size and create equally sized groups of values.
+      isCorrect: true 
+      explanation: Bins are an extension of groups, except you can define the bin size and create equally sized groups of values.
+    - content: You can separate some values with bins, while groups take all values.
+      isCorrect: false 
+      explanation: You aren't segregating some values with bins, you're analyzing all values and creating equally sized bins based on a value you set.
+    - content: Text fields only work with bins, while numerical values only work with groups.
+      isCorrect: false 
+      explanation: You can set the bin size for numerical and time fields only. There's not a specific data type that only works with groups.

@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/12-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Which type of Power Automate flow would an end user be most likely to use for the following scenario? They're trying to automate the process of capturing information from a website and entering it into an Excel spreadsheet."
+    choices:
+    - content: "Cloud flow."
+      isCorrect: false
+      explanation: "Incorrect. Cloud flows are used more to Automate using APIs. A series of connectors lets you connect to different cloud services and facilitate automations."
+    - content: "Business process flow."
+      isCorrect: false
+      explanation: "Incorrect. Business Process flows help guide users through different processes in model-driven applications."
+    - content: "Desktop flow."
+      isCorrect: true
+      explanation: "Correct. Desktop flows are often used for user interface automation. They can be used to record steps such as entering data into a website, and then copying data from the site and entering it into an Excel spreadsheet."
+  - content: "What is the purpose of Copilot in Power Automate?"
+    choices:
+    - content: "Copilot is a connector that allows you to automate your flows."
+      isCorrect: false
+      explanation: "Incorrect. Copilot isn't a connector, but rather an AI-powered assistant that helps you create flows."
+    - content: "Copilot allows you to describe what you want your flow to do, and it created the flow for you based on your description."
+      isCorrect: true
+      explanation: "Correct. Copilot uses AI to understand your intent and creates a flow based on the scenario prompt you provide."
+    - content: "Copilot is a tool that provides prebuilt templates for common automation scenarios."
+      isCorrect: false
+      explanation: "Incorrect. While Power Automate does provide prebuilt templates, Copilot is designed to help you create custom flows based on your specific needs."
+  - content: "How can data sources be used with Power Automate?"
+    choices:
+    - content: "Power Automate can connect to data sources using one of the hundreds of prebuilt connectors or by building your own custom connector."
+      isCorrect: true
+      explanation: "Correct. Power Automate allows you to automate business processes where your data lives."
+    - content: "Power Automate can only connect to Microsoft data sources such as Office 365 and Azure."
+      isCorrect: false
+      explanation: "Incorrect. Power Automate supports both Microsoft and third party data sources with more than 1,000 connectors."
+    - content: "Power Automate requires you to build custom connectors to access external data."
+      isCorrect: false
+      explanation: "Incorrect. Power Automate allows you to build a custom connector to access an external data source, but it also has over 1,000 prebuilt data connectors."
+  - content: "What is the main benefit of process mining in Power Automate?"
+    choices:
+    - content: "Enables organizations to create new processes from scratch"
+      isCorrect: false
+      explanation: "Incorrect. Process mining helps organizations gain a better understanding of their real processes, not create new ones."
+    - content: "Provides end-to-end solutions for automation and digitization"
+      isCorrect: false
+      explanation: "Incorrect. While process mining works with the existing Microsoft platform and ecosystem to provide end-to-end solutions, its main benefit is gaining a better understanding of real processes."
+    - content: "Provides processes visualization to improve operational efficiency."
+      isCorrect: true
+      explanation: "Correct. Process mining helps identify bottlenecks and inefficiencies in processes, allowing organizations to streamline their operations and improve productivity. It also enables businesses to identify opportunities for automation, reducing the need for manual intervention and allowing resources to be allocated more effectively."

@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-retail
+metadata:
+  title: Get started with Microsoft Cloud for Retail
+  description: Learn how to use Microsoft Cloud for Retail.
+  ms.date: 02/14/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Microsoft Cloud for Retail
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Welcome to this learning path on Microsoft Cloud for Retail, a comprehensive solution designed to manage retail data at scale. This learning path aims to guide retail organizations in using Microsoft Cloud for Retail to enhance customer experiences, boost operational efficiency, and ensure the security, compliance, and interoperability of retail data.
+
+  You gain a fundamental understanding of Microsoft Cloud for Retail and its key components. You delve into various scenarios where Microsoft Cloud for Retail can be utilized to extract maximum value from your data, enrich the shopping experience, establish a real-time retail supply chain, and empower store associates. Let's embark on this learning journey to unlock the full potential of retail data with Microsoft Cloud for Retail.
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/training/modules/retail-capability-mapping/).
+iconUrl: /training/achievements/get-started-retail.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-retail
+subjects:
+- business-applications
+modules:
+- learn-bizapps.retail-cloud-overview
+- learn-bizapps.retail-capability-mapping
+- learn-bizapps.retail-churn-model
+trophy:
+  uid: learn.get-started-retail.trophy

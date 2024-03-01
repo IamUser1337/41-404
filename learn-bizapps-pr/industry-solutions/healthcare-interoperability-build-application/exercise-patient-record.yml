@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-build-application.exercise-patient-record 
+title: Exercise – Create a patient record in Dataverse
+metadata: 
+  title: Exercise – Create a patient record in Dataverse
+  description: Follow the steps to practice creating a patient record in Dataverse.
+  ms.date: 11/23/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit 
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-patient-record.md)] 

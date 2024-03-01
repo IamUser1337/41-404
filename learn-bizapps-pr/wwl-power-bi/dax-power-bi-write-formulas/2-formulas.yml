@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-write-formulas.2-formulas 
+title: Write DAX formulas
+metadata: 
+  title: Write DAX formulas 
+  description: Learn how to write DAX formulas.  
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-formulas.md)] 

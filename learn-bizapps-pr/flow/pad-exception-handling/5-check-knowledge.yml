@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-exception-handling.5-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/01/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which actions have exception handling options?
+    choices: 
+    - content: Most of the actions
+      isCorrect: true
+      explanation: Most actions have configurable exception handling.
+    - content: Only critical actions that create instances and connections
+      isCorrect: false
+      explanation: Most actions have configurable exception handling.
+  - content: Which one of the following is an exception handling option in Power Automate for desktop?
+    choices: 
+    - content: Email supervisor
+      isCorrect: false
+      explanation: This option doesn't exist.
+    - content: Set variable
+      isCorrect: true
+      explanation: That is correct! Set variable is on of the available exception handling options.
+    - content: Stop flow run
+      isCorrect: false
+      explanation: This option doesn't exist.
+    - content: All of the above
+      isCorrect: false
+      explanation: Only one of the above options exists.
+  - content: Which one of the following statements about exceptions is true?
+    choices: 
+    - content: Exceptions are events that occur while a flow is running.
+      isCorrect: true
+      explanation: Exceptions occur while a flow is running and cause it to fail.
+    - content: Exceptions are events that occur while developing a flow.
+      isCorrect: false
+      explanation: Exceptions occur while a flow is running and cause it to fail.

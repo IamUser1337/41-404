@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-pages-get-started
+metadata:
+  title: Get started with Power Pages
+  description: Get started creating websites with Power Pages
+  ms.date: 12/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Get Started with Power Pages
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  [!include[](../../includes/power-pages-banner.md)]
+  Power Pages provide a great way to allow internal and external audiences to view and interact with data from Microsoft Dataverse or Dynamics 365, and should be a consideration as a pillar in an organization's overall web strategy. This learning path introduces you to Power Pages that can be quickly provisioned to serve a variety of different audiences and workloads. We also cover fundamentals of Power Pages architecture, components, features, tooling, and security. 
+prerequisites: |
+  - Power Pages trial [subscription](https://aka.ms/powerpages-trial).
+iconUrl: /training/achievements/power-pages-get-started.svg
+levels:
+- intermediate
+roles: 
+- maker
+- functional-consultant
+- administrator
+products:
+- power-platform
+- power-apps
+- power-pages
+modules:
+- learn-bizapps.power-pages-intro
+- learn-bizapps.power-pages-templates
+- learn-bizapps.power-pages-studio
+- learn-bizapps.power-pages-studio-data-security
+- learn-bizapps.power-pages-admin-intro
+trophy: 
+  uid: learn-bizapps.power-pages-get-started.trophy

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-get-started.10-knowledge-check
+title: Check your knowledge
+metadata: 
+  title: "Knowledge check: Get started with Power Automate" 
+  description: This knowledge check tests your knowledge of how to use Power Automate. 
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit  
+durationInMinutes: 6 
+quiz: 
+  title: "Knowledge check: Get started with Power Automate" 
+  questions: 
+  - content: How can you create a flow that reoccurs daily? 
+    choices:  
+    - content: Create the flow and connect the flow to a calendar.
+      explanation: Set the Schedule – Recurrence trigger frequency to daily and interval to 1 to create a flow that reoccurs daily.
+      isCorrect: false 
+    - content: Create the flow and set the flow flag frequency to daily reoccurrence.
+      explanation: Set the Schedule – Recurrence trigger frequency to daily and interval to 1 to create a flow that reoccurs daily.
+      isCorrect: false 
+    - content: Set the Schedule – Recurrence trigger frequency to daily and interval to 1.
+      explanation: This is how you can create a flow that reoccurs on a daily basis. 
+      isCorrect: true 
+    - content: Create the flow and set the flow flag frequency to hourly and the value to 24.
+      explanation: Set the Schedule – Recurrence trigger frequency to daily and interval to 1 to create a flow that reoccurs daily. 
+      isCorrect: false
+  - content: Every flow has two main parts, a trigger, and one or more actions. Which of the following best describes an action? 
+    choices: 
+    - content: Actions are what you want to happen when a trigger is invoked. 
+      explanation: Triggers invoke actions. 
+      isCorrect: true 
+    - content: Actions will trigger the frequency of the flow reoccurrence. 
+      explanation: Actions will not trigger a flow reoccurrence. Actions occur when triggers are invoked.
+      isCorrect: false 
+    - content: Triggers are what you want to happen when an action is invoked. 
+      explanation: Actions are what you want to happen when a trigger is invoked. 
+      isCorrect: false 
+    - content: Flow actions trigger the flow to occur as long as the defined value of the trigger is met.
+      explanation: Triggers invoke actions. 
+      isCorrect: false
+  - content: You would like to be alerted to when a change is made to a list, what are some ways in which Power Automate can help?
+    choices: 
+    - content:  Power Automate can send up a flare near you to alert you of changes.
+      explanation: No, but that would be cool.
+      isCorrect:  false
+    - content: You can write a flow with Power Automate to send push notifications, texts, or emails for various triggers.
+      explanation: Correct! Power Automate is good that way.
+      isCorrect:  true
+    - content: Sorry, Power Automate can't help with that.
+      explanation: Try again! Power Automate is good at this sort of task.
+      isCorrect: false
+    - content: Power Automate can send out a tweet whenever a list item is changed.
+      explanation: It could, but that doesn't seem like the most helpful type of alert.
+      isCorrect: false

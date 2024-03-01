@@ -1,0 +1,3 @@
+The Approvals connector in Power Automate can help you automate request approval and combine human decision making with background automation to help business users focus on their core tasks. With Power Automate, you can set up workflows that have multiple approvals that are set up in a sequential or parallel manner according to requirements. You also have the flexibility to add out-of-the-box responses, which are accept and reject. Or you can add your own responses to customize the workflow for your business needs.
+
+For more information, see [Power Automate licensing](https://flow.microsoft.com/pricing/?azure-portal=true) and [Retention limits](/power-automate/limits-and-config#duration-and-retention-limits/?azure-portal=true).

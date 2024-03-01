@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-fundraising-engagement.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following are capabilities in Fundraising and Engagement?
+    choices: 
+    - content: Constituent Management, Volunteer Management, Moves Management
+      isCorrect: false
+      explanation: Volunteer Management is a separate application available with the Microsoft Cloud for Nonprofit, but not part of Fundraising and Engagement.
+    - content: Constituent Management, Gift Processing, Moves Management
+      isCorrect: true
+      explanation: Constituent Management, Gift Processing, Moves Management are all capabilities in Fundraising and Engagement.
+    - content: Constituent Management, Case Management, Gift Processing
+      isCorrect: false 
+      explanation: Case Management is not part of Fundraising and Engagement, although it does exist in Dynamics 365 and can be used with Fundraising and Engagement where needed.
+  - content: What part of Fundraising and Engagement is used for major moves management?
+    choices: 
+    - content: Donor Commitments
+      isCorrect: false
+      explanation: Once a major gift is confirmed, it can be converted from an opportunity to a donor commitment. The major moves are managed through opportunities prior to that.
+    - content: Dashboards
+      isCorrect: false 
+      explanation: Dashboards are helpful in monitoring major gifts and identifying potential prospects, but moves management is done using opportunities.
+    - content: Opportunities
+      isCorrect: true 
+      explanation: Opportunities are used for major moves management.
+  - content: Which of the following is not part of the donor profile in Fundraising and Engagement?
+    choices: 
+    - content: Email campaign responses
+      isCorrect: true 
+      explanation: Email campaign responses are not part of Fundraising and Engagement but can be added by using Dynamics 365 Customer Insights - Journeys together with Fundraising and Engagement.
+    - content: Complete donation history
+      isCorrect: false 
+      explanation: You can view the complete donation history for a contact or organization from their profile.
+    - content: Timeline of activities and notes
+      isCorrect: false 
+      explanation: Activities and notes are tracked against a donor and appear in the timeline of the profile. 

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.azure-health-bot
+metadata:
+ title: Azure Health Bot in Microsoft Cloud for Healthcare
+ description: Explore the Azure Health Bot in Microsoft Cloud for Healthcare and discover how healthcare organizations can use it to build and deploy AI-powered, compliant, conversational healthcare experiences at scale.
+ ms.date: 01/23/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Azure Health Bot in Microsoft Cloud for Healthcare
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Explore the Azure Health Bot and discover how healthcare organizations can use it to build and deploy AI-powered, compliant, conversational healthcare experiences at scale. Azure Health Bot combines a built-in medical database with natural language capabilities to understand clinical terminology, and you can customize it to support your organization's clinical use cases. The service ensures alignment with industry compliance requirements and is privacy protected to HIPAA standards.
+abstract: |
+    This module explains how to:
+    - Set up Azure Health Bot.
+    - Set up Omnichannel for Customer Service live chat.
+    - Embed Azure Health Bot in a Power Apps portal.
+    - Extend Azure Health Bot with custom scenarios.
+prerequisites: | 
+    [Microsoft Cloud for Healthcare training environment preparation](/training/modules/training-environment-preparation-healthcare/), an Azure subscription with administrator access, Omnichannel for Dynamics 365 Customer Service, and Power Apps Customer self-service portal
+iconUrl: /training/achievements/azure-health-bot.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+units:
+- learn-bizapps.azure-health-bot.1-introduction
+- learn-bizapps.azure-health-bot.2-azure-health-bot
+- learn-bizapps.azure-health-bot.3-configure-customer-service-omnichannel-chat
+- learn-bizapps.azure-health-bot.4-embed-power-apps-health-bot
+- learn-bizapps.azure-health-bot.5-extend-custom-scenarios
+- learn-bizapps.azure-health-bot.6-check
+- learn-bizapps.azure-health-bot.7-summary
+badge:
+  uid: learn-bizapps.azure-health-bot.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-monitor.2-metrics 
+title: Usage metrics for dashboards and reports
+metadata: 
+  title: Usage metrics for dashboards and reports
+  description: Learn to view reports on who is viewing your dashboards and reports, and how often.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-metrics.md)] 

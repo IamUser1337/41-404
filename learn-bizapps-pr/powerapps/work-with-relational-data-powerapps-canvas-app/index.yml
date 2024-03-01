@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.work-with-relational-data
+metadata:
+  title: Work with relational data in a Power Apps canvas app
+  description: Learn how to work with relational data in Power Apps canvas apps.
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: module
+title: Work with relational data in a Power Apps canvas app
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Do you want to improve a user's experience in your canvas app? This module will show you how to work with relational data to provide a good experience for app users.
+abstract: |
+    This module explains how to:
+    - Understand relational data
+    - Use relational data to improve an app user's experience in Power Apps
+    - Understand how to use relational data in Microsoft Dataverse
+prerequisites: A basic understanding of how to create a Power Apps canvas app.
+iconUrl: /training/achievements/work-with-relational-data.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- data-management
+units:
+- learn-bizapps.work-with-relational-data.1-relational-data
+- learn-bizapps.work-with-relational-data.2-work-with-relationships
+- learn-bizapps.work-with-relational-data.3-exercise
+- learn-bizapps.work-with-relational-data.3-cds-for-apps
+- learn-bizapps.work-with-relational-data.4-knowledge-check
+- learn-bizapps.work-with-relational-data.5-summary
+badge:
+  uid: learn-bizapps.work-with-relational-data.badge

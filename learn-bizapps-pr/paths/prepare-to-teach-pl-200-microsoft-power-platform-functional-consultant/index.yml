@@ -1,0 +1,32 @@
+### YamlMime:LearningPath
+uid: learn.wwl.prepare-to-teach-pl-200-microsoft-power-platform-functional-consultant
+metadata:
+  title: 'Prepare to teach PL-200 Microsoft Power Platform Functional Consultant  '
+  description: Learn about the Microsoft Learn for Educators program and how to best deliver its content to your students. Prepare to deliver Microsoft’s PL-200 Microsoft Power Platform Functional Consultant in an academic program.
+  ms.date: 08/01/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: learning-path
+title: Prepare to teach PL-200 Microsoft Power Platform Functional Consultant
+prerequisites: |
+  None
+summary: |
+  Learn about the Microsoft Learn for Educators program and how to best deliver its content to your students. Prepare to deliver Microsoft’s PL-200 Microsoft Power Platform Functional Consultant in an academic program.
+iconUrl: /training/achievements/prepare-teach-pl-200-microsoft-power-platform-functional-consultant.svg
+levels:
+- beginner
+roles:
+- higher-ed-educator
+products:
+- power-platform
+modules:
+- learn.wwl.introduction-microsoft-learn-educators-program
+- learn.wwl.onboard-microsoft-learn-educators-program
+- learn.wwl.microsoft-learn-educators-course-preparation
+- learn.wwl.microsoft-learn-educators-course-plan
+- learn.wwl.learn-best-practices-from-microsoft-technical-trainers
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant
+- learn.wwl.prepare-for-course-delivery
+- learn.wwl.close-out-course
+trophy:
+  uid: learn.wwl.prepare-teach-pl-200-microsoft-power-platform-functional-consultant.trophy

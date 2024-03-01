@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-setup-environment.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to setting up your training environment for Microsoft Cloud for Sustainability
+  ms.date: 09/26/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

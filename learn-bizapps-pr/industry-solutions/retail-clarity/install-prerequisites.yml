@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-clarity.install-prerequisites 
+title: Install prerequisites
+metadata: 
+  title: Install prerequisites
+  description: Learn about the required prerequisites and then install them.
+  ms.date: 04/21/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/install-prerequisites.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-calculated-tables.2-calculated-columns
+title: Create calculated columns
+metadata: 
+  title: Create calculated columns 
+  description: Learn about creating calculated columns.  
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-calculated-columns.md)] 

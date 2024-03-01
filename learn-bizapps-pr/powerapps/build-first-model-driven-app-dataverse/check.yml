@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-first-model-driven-app-dataverse.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/16/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: In Microsoft Dataverse, where is your data being stored?
+    choices: 
+    - content: Tables
+      isCorrect: true 
+      explanation: In Dataverse, data is stored in tables. 
+    - content: Forms
+      isCorrect: false 
+      explanation: In Dataverse, data is stored in tables. 
+    - content: SharePoint
+      isCorrect: false 
+      explanation: In Dataverse, data is stored in tables. 
+    - content: Access
+      isCorrect: false 
+      explanation: In Dataverse, data is stored in tables. 
+  - content: What is the benefit of building a model-driven app?
+    choices: 
+    - content: Logic-focused design, no code required, and different UIs across multiple devices
+      isCorrect: false
+      explanation: The benefits of building a model-driven app are component-focused design, no code required, complex responsiveness with similar UI across multiple devices, and apps can be distributed as solutions. 
+    - content: Complex responsiveness with different UIs across multiple devices
+      isCorrect: false 
+      explanation: The benefits of building a model-driven app are component-focused design, no code required, complex responsiveness with similar UI across multiple devices, and apps can be distributed as solutions. 
+    - content: Apps can be distributed by using complex coding and different UIs across mobile devices
+      isCorrect: false 
+      explanation: The benefits of building a model-driven app are component-focused design, no code required, complex responsiveness with similar UI across multiple devices, and apps can be distributed as solutions. 
+    - content: Component-focused design, no code required, complex responsiveness with similar UI across multiple devices, and apps can be distributed as solutions
+      isCorrect: true
+      explanation: The benefits of building a model-driven app are component-focused design, no code required, complex responsiveness with similar UI across multiple devices, and apps can be distributed as solutions. 
+  - content: What are the three important areas to focus on when creating model-driven apps?
+    choices: 
+    - content: Licenses, business data and composing the app
+      isCorrect: false 
+      explanation: When creating a model-driven app, it's important to focus on modeling business data to see where data is read from and saved, the business process including who the users are and composing the app to make it easily accessible.
+    - content: App design pattern, business data and defining business process
+      isCorrect: false 
+      explanation: When creating a model-driven app, it's important to focus on modeling business data to see where data is read from and saved, the business process including who the users are and composing the app to make it easily accessible.
+    - content: Modeling business data, defining business process and composing the app
+      isCorrect: true 
+      explanation: When creating a model-driven app, it's important to focus on modeling business data to see where data is read from and saved, the business process including who the users are and composing the app to make it easily accessible.
+    - content: Model licensing design, defining business process and composing the app
+      isCorrect: false 
+      explanation: When creating a model-driven app, it's important to focus on modeling business data to see where data is read from and saved, the business process including who the users are and composing the app to make it easily accessible.

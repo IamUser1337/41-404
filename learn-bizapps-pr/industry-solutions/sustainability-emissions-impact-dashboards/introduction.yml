@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-emissions-impact-dashboards.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to working with Emissions Impact dashboards
+  ms.date: 02/08/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-foundational-components-microsoft-power-platform.examine-power-platform-connectors
+title: Examine Power Platform connectors
+metadata:
+  title: Examine Power Platform connectors
+  description: "Examine the data connectors that allow Power Platform to use data across many platforms."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+  [!include[](includes/5-examine-power-platform-connectors.md)]

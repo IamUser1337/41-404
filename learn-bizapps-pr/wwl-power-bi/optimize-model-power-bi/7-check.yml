@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.optimize-model-power-bi.7-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Check your knowledge"
+  ms.date: 10/26/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 3
+content: |
+  [!include[](includes/7-check.md)]
+quiz:
+  title: ""
+  questions:
+  - content: "What benefit do you get from analyzing the metadata?"
+    choices:
+    - content: "The benefit of analyzing the metadata is that you can clearly identify data inconsistences with your semantic model."
+      isCorrect: true
+      explanation: "The benefit of analyzing the metadata is that you can clearly identify data inconsistences with your semantic model."
+    - content: "The benefit of analyzing the metadata is to get familiar with your data."
+      isCorrect: false
+      explanation: "The benefit of analyzing the metadata is that you can clearly identify data inconsistences with your semantic model."
+    - content: "The benefit of analyzing the metadata is to know the number of rows, columns and tables being loaded into your model."
+      isCorrect: false
+      explanation: "The benefit of analyzing the metadata is that you can clearly identify data inconsistences with your semantic model."
+  - content: "What can be achieved by removing unnecessary rows and columns?"
+    choices:
+    - content: "It is not necessary to delete unnecessary rows and columns and it is a good practice to keep all metadata intact."
+      isCorrect: false
+      explanation: "Deleting unnecessary rows and columns will reduce a semantic model size and it's good practice to load only necessary data into your semantic model."
+    - content: "Deleting unnecessary rows and columns will reduce a semantic model size and it's good practice to load only necessary data into your semantic model."
+      isCorrect: true
+      explanation: "Deleting unnecessary rows and columns will reduce a semantic model size and it's good practice to load only necessary data into your semantic model."
+    - content: "Deleting unnecessary rows and columns can damage the structure of the semantic model."
+      isCorrect: false
+      explanation: "Deleting unnecessary rows and columns will reduce a semantic model size and it's good practice to load only necessary data into your semantic model."
+  - content: "Which of the following statements about relationships in Power BI Desktop is true?"
+    choices:
+    - content: "Relationships can only be created between columns that contain the same data type."
+      isCorrect: false
+      explanation: "Incorrect. This is not true as relationships can be created between columns that contain different data types in Power BI Desktop."
+    - content: "Relationships can only be created between tables that contain the same number of rows."
+      isCorrect: false
+      explanation: "Incorrect. This is not true as the number of rows in tables doesn't affect the creation of relationships in Power BI Desktop."
+    - content: "Relationships can be created between tables that contain different types of data."
+      isCorrect: true
+      explanation: "Correct. A working relationship can be created as long as there is at least one common column between them."

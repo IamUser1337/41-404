@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-first-desktop-flow 
+metadata: 
+ title: Build your first Power Automate for desktop flow
+ description: Learn how to build a Power Automate for desktop flow.
+ ms.date: 12/26/2022 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Build your first Power Automate for desktop flow
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn the basics of Power Automate for desktop flows. Additionally, learn how to build the first flow to help automate a repetitive task, freeing up time for more important endeavors.
+abstract: |  
+    In this module, you'll:
+    - Learn how to use Power Automate to create a new desktop flow. 
+    - Record actions that are performed in a desktop-based application. 
+    - Perform a test run of the new desktop flow.  
+prerequisites: |
+    - Basic understanding of Microsoft Power Automate 
+    - Recommended - View lab instructions on a separate device or in a printout 
+iconUrl: /training/achievements/build-first-desktop-flow.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.build-first-desktop-flow.1-introduction 
+- learn-bizapps.build-first-desktop-flow.2-set-up-environment 
+- learn-bizapps.build-first-desktop-flow.3-get-familiar-power-automate-desktop 
+- learn-bizapps.build-first-desktop-flow.4-create-first-desktop-flow 
+- learn-bizapps.build-first-desktop-flow.5-record-desktop-actions 
+- learn-bizapps.build-first-desktop-flow.6-edit-test-recorded-actions 
+- learn-bizapps.build-first-desktop-flow.7-check 
+- learn-bizapps.build-first-desktop-flow.8-summary 
+badge: 
+  uid: learn-bizapps.build-first-desktop-flow.badge

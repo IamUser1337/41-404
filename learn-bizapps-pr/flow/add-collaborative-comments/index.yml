@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.add-collaborative-comments
+metadata:
+ title: Add collaborative comments in Power Automate
+ description: In this module, you'll explore how to use comments to collaborate when you create cloud flows in Power Automate.
+ ms.date: 03/11/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ 
+title: Add collaborative comments in Power Automate
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to collaborate with other users on cloud flows by using collaborative comments. Additionally, you'll learn how copresence helps you collaborate in real time and how you can handle conflicts.
+abstract: |
+    In this module, you'll:
+    - Learn about collaborative comments and where to use them.
+    - Discover the reasons for using comments and with whom you can collaborate.
+    - Use copresence for real-time collaboration.
+prerequisites: Basic Power Automate experience
+iconUrl: /training/achievements/add-collaborative-comments.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.add-collaborative-comments.introduction
+- learn-bizapps.add-collaborative-comments.use-comments
+- learn-bizapps.add-collaborative-comments.collaboration
+- learn-bizapps.add-collaborative-comments.check
+- learn-bizapps.add-collaborative-comments.summary
+badge:
+  uid: learn-bizapps.add-collaborative-comments.badge

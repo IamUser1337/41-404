@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-teams.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to analysis meets collaboration. 
+  ms.date: 09/28/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

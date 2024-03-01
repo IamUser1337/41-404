@@ -1,0 +1,49 @@
+### YamlMime:Module 
+uid: learn-bizapps.common-low-code-plug-in 
+metadata: 
+ title: Use common low-code plug-in scenarios
+ description: Learn about using common low-code plug-in scenarios.
+ ms.date: 01/10/2024 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: module-standard-task-based 
+title: Use common low-code plug-in scenarios
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  With Dataverse low-code plug-ins, you can create reusable Power Fx logic that runs on demand or in response to a Dataverse data event. You can use low-code plug-ins to implement data validation and data manipulation of your Dataverse data. Low-code plug-in logic can use Microsoft Power Platform connectors as part of their logic. You can use instant plug-ins from Power Apps canvas apps and Power Automate flows.
+abstract: | 
+    This module explains how to: 
+    - Use low-code plug-ins for data validation
+    - Use low-code plug-ins to create and modify Dataverse table rows
+    - Use Microsoft Power Platform connectors from a low-code plug-in
+    - Create a Power Apps canvas app that uses a low-code plug-in
+    - Create a Power Automate flow that uses a low-code plug-in
+prerequisites: |  
+    - Basic understanding of Power Fx
+    - Basic understanding of building Dataverse low-code plug-ins
+    - Access to an environment with Dataverse that has sample apps installed
+iconUrl: /learn/achievements/common-low-code-plug-in.svg 
+levels: 
+- intermediate 
+roles: 
+- maker 
+- functional-consultant 
+products: 
+- power-platform
+- power-apps
+- power-automate
+- dataverse 
+subjects: 
+- development-tools
+units: 
+- learn-bizapps.common-low-code-plug-in.introduction 
+- learn-bizapps.common-low-code-plug-in.use-power-fx-plug-ins 
+- learn-bizapps.common-low-code-plug-in.implement-data-validation 
+- learn-bizapps.common-low-code-plug-in.data-manipulation 
+- learn-bizapps.common-low-code-plug-in.use-connectors-plug-in-logic 
+- learn-bizapps.common-low-code-plug-in.use-instant-plug-ins-power-apps 
+- learn-bizapps.common-low-code-plug-in.use-instant-plug-ins-power-automate 
+- learn-bizapps.common-low-code-plug-in.check 
+- learn-bizapps.common-low-code-plug-in.summary 
+badge: 
+  uid: learn-bizapps.common-low-code-plug-in.badge 

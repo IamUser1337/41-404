@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-ocr.2-ocr-actions
+title: OCR actions
+metadata:
+  title: OCR actions
+  description: OCR actions
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-ocr-actions.md)]

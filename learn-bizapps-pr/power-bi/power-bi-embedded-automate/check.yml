@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-automate.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/08/2022 
+ author: mberdugo 
+ manager: kfollis 
+ ms.author: monaberdugo 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Alice is a developer at Tailspin Toys who is developing an app that embeds Power BI content from a Power BI Embedded capacity. Part of the solution must monitor capacity metrics, such as CPU, CPU per workload, and Overload, to measure demand for computational resources. When demand suddenly increases, the solution should react by scaling up the capacity. Which automation library should Alice use to scale up the capacity?
+    choices: 
+    - content: Microsoft Graph
+      isCorrect: false
+      explanation: Incorrect. Microsoft Graph performs operations on various Microsoft cloud services. However, it can't manage Power BI Embedded capacities.
+    - content: Power BI Embedded Analytics Client API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI Embedded Analytics Client API is a client-side library that allows you to programmatically control your embedded Power BI content by using JavaScript or TypeScript. It can't manage Power BI Embedded capacities.
+    - content: Power BI Embedded ARM REST API
+      isCorrect: true 
+      explanation: Correct. The Power BI Embedded ARM REST API allows you to create, retrieve, update, and delete Power BI Embedded capacities. Scaling a capacity is achieved with the Update operation.
+    - content: Power BI REST API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI REST API provides service endpoints for embedding, administration, governance, and user resources. However, it can't manage Power BI Embedded capacities.
+  - content: Nick is a member of a developer team at Tailspin Toys that is developing a multi-tenancy app that embeds real-time Power BI reports. Nick is responsible for developing an onboarding process that automates workspace separation to set up the tenant workspace and content. Which automation library should Nick use to create a workspace?
+    choices: 
+    - content: Microsoft Graph
+      isCorrect: false
+      explanation: Incorrect. Microsoft Graph performs operations on various Microsoft cloud services. It can't create Power BI workspaces.
+    - content: Power BI Embedded Analytics Client API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI Embedded Analytics Client API is a client-side library that allows you to programmatically control your embedded Power BI content by using JavaScript or TypeScript. It can't create Power BI workspaces.
+    - content: Power BI Embedded ARM REST API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI Embedded ARM REST API allows you to create, retrieve, update, and delete Power BI Embedded capacities. It can't create Power BI workspaces.
+    - content: Power BI REST API
+      isCorrect: true 
+      explanation: Correct. The Power BI REST API provides service endpoints for embedding, administration, governance, and user resources. It can create Power BI workspaces.
+  - content: Dhvani is a member of a developer team at Tailspin Toys who is developing an app that embeds Power BI content. Dhvani is responsible for developing an onboarding process that automates the setup of Azure AD security objects, including app registrations and service principals. Which automation library should Dhvani use to create the Azure AD security objects?
+    choices: 
+    - content: Microsoft Graph
+      isCorrect: true 
+      explanation: Correct. Microsoft Graph performs operations on various Microsoft cloud services. It can create Azure AD security objects, including app registrations and service principals.
+    - content: Power BI Embedded Analytics Client API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI Embedded Analytics Client API is a client-side library that allows you to programmatically control your embedded Power BI content by using JavaScript or TypeScript. It can't create Azure AD security objects.
+    - content: Power BI Embedded ARM REST API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI Embedded ARM REST API allows you to create, retrieve, update, and delete Power BI Embedded capacities. It can't create Azure AD security objects.
+    - content: Power BI REST API
+      isCorrect: false 
+      explanation: Incorrect. The Power BI REST API provides service endpoints for embedding, administration, governance, and user resources. It can't create Azure AD security objects.

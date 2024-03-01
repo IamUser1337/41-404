@@ -1,0 +1,7 @@
+Volunteer Engagement is a pre-built Power Apps Portals solution, which is connected to Volunteer Management. When you set up an engagement opportunity in Volunteer Management and select publish to web, it is listed on the Volunteer Engagement portal for volunteers to find. The Volunteer Engagement portal allows volunteers to search for engagement opportunities, including filtering engagements by location, date, qualifications, and preferences.
+
+Volunteers can create an account on Volunteer Engagement and submit an application, which automatically comes through to Volunteer Management. Volunteers can then sign in anytime to update their contact information, availability, qualifications, and preferences, view details about their previous and upcoming engagements, and select shifts for engagements where they are approved as volunteers.
+
+You can set up authentication for the Volunteer Engagement portal as you prefer, using Microsoft Entra ID B2C and/or other authentication providers such as Facebook, Google, and LinkedIn.
+
+Volunteer Management and Volunteer Engagement together provide a fully connected solution for setting up volunteer engagement opportunities, and making them available online for volunteers to search, apply, and manage their profiles.

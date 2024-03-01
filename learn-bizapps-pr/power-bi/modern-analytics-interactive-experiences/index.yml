@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.modern-analytics-interactive-experiences 
+metadata: 
+ title: Design interactive data experiences with Power BI Desktop
+ description: Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.
+ ms.date: 09/28/2021  
+ author: davidiseminger 
+ manager: kfollis  
+ ms.author: davdi  
+ ms.topic: module
+ ms.service: powerbi  
+title: Design interactive data experiences with Power BI Desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.
+abstract: |  
+    In this module, you will: 
+    - Identify how Power BI Desktop empowers data exploration.
+    - Utilize the interactive capabilities of Power BI Desktop.
+    - Learn how user-friendly Power BI is for designing reports. 
+prerequisites: None
+iconUrl: /training/achievements/modern-analytics-interactive-experiences.svg  
+levels:  
+- beginner   
+roles:  
+- business-analyst  
+- business-user  
+products: 
+- power-bi 
+- power-platform
+subjects:
+- data-visualization
+units:
+- learn-bizapps.modern-analytics-interactive-experiences.1-introduction 
+- learn-bizapps.modern-analytics-interactive-experiences.2-use-power-bi 
+- learn-bizapps.modern-analytics-interactive-experiences.3-exercise-use-power-bi-desktop-to-build-data-model 
+- learn-bizapps.modern-analytics-interactive-experiences.4-check 
+- learn-bizapps.modern-analytics-interactive-experiences.5-summary 
+badge: 
+  uid: learn-bizapps.modern-analytics-interactive-experiences.badge

@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.introduction-process-advisor
+metadata:
+  title: Get started with process mining in Power Automate
+  description: Learn how to work with process mining in Power Automate
+  ms.date: 06/22/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Get started with process mining in Power Automate
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  This Learning Path is designed to equip you with the knowledge and tools necessary to implement hyperautomation in your organization. It comprises two modules, one on process mining in the web portal of Power Automate, and the other on process analysis using the Power Automate Process Mining desktop app. You'll learn how to identify inefficiencies and bottlenecks in your processes using both tools, and how to use Power Automate to automate and streamline your workflows. With this comprehensive understanding of hyperautomation, you'll be able to optimize your business processes and increase efficiency, saving valuable time and resources.
+prerequisites: |
+  - Power Automate per-user plan with attended RPA or Process advisor trial [license](/power-automate/process-advisor-overview#licensing)
+  - [Process mining add-on](/power-automate/process-advisor-overview#licensing)
+iconUrl: /training/achievements/introduction-process-advisor.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+- business-analyst
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- business-applications
+- process-workflow
+modules:
+- learn-bizapps.process-advisor-introduction
+- learn-bizapps.analyze-business-process-minit
+trophy:
+  uid: learn.introduction-process-advisor.svg.trophy

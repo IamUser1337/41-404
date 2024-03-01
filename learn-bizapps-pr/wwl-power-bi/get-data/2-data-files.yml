@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.2-data-files
+title: Get data from files
+metadata:
+  title: Get data from files
+  description: "Learn how to get data from files."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](includes/2-data-files.md)]

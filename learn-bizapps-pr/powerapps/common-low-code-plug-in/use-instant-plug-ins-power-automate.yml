@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.common-low-code-plug-in.use-instant-plug-ins-power-automate 
+title: Use instant plug-ins from Power Automate
+metadata: 
+  title: Use instant plug-ins from Power Automate
+  description: Learn how to use instant plug-ins from Power Automate.
+  ms.date: 01/10/2024 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/use-instant-plug-ins-power-automate.md)] 

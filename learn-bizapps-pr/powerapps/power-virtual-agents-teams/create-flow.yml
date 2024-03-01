@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-teams.create-flow 
+title: Exercise - Create a flow with the embedded flow experience
+metadata: 
+  title: Exercise - Create a flow with the embedded flow experience
+  description: In this exercise, you'll set up the chatbot to interact with the Dataverse for Teams tables.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 90 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/create-flow.md)] 

@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.manage-solutions-power-automate 
+metadata: 
+ title: Manage solutions in Power Apps and Power Automate
+ description: Learn how to manage solutions in Microsoft Power Apps and Power Automate. 
+ ms.date: 10/05/2023
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+title: Manage solutions in Power Apps and Power Automate 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Power Apps and Power Automate include such package features as apps from Microsoft Power Apps, site maps, flows, entities, customer connectors, and more. In this module, you'll learn how to manage solutions with Power Automate. 
+abstract: |  
+    In this module, you will: 
+    - Package existing items into a solution.
+    - Create solutions.
+    - Edit existing solution-aware apps, flows in a solution.
+    - Import and export solutions.
+    - Deploy complex solutions with many components. 
+    - Learn about component dependency on other components.
+prerequisites: None 
+iconUrl: /training/achievements/manage-solutions-power-automate.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- functional-consultant 
+- administrator
+products:  
+- power-automate 
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+- process-workflow
+units:
+- learn-bizapps.manage-solutions-power-automate.1-introduction 
+- learn-bizapps.manage-solutions-power-automate.2-add-remove-flow 
+- learn-bizapps.manage-solutions-power-automate.3-edit-solution-aware-flow 
+- learn-bizapps.manage-solutions-power-automate.4-import-export-solutions 
+- learn-bizapps.manage-solutions-power-automate.6-build-deploy-complex-solution 
+- learn-bizapps.manage-solutions-power-automate.6b-automate-solution-management
+- learn-bizapps.manage-solutions-power-automate.7-check 
+- learn-bizapps.manage-solutions-power-automate.8-summary 
+badge: 
+  uid: learn-bizapps.manage-solutions-power-automate.badge

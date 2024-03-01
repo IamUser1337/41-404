@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.visualize-data
+metadata:
+ title: Visualize data with Dataverse views
+ description: Learn how to use Dataverse views to visualize data.
+ ms.date: 10/03/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Visualize data with Dataverse views
+summary: |
+  [!include[](../includes/module-banner.md)]
+  The number of records and columns for many Dataverse tables can be overwhelming. To help Power Apps users be more efficient, you can create Dataverse views. You can access the sorting, filtering, and display properties of Dataverse views in Power Apps Studio. In this module, you’ll explore how to take advantage of Dataverse views to visualize data by using only the required columns, records, and applicable sorting.
+abstract: |
+    In this module, you'll:
+    - Discover the different types of Dataverse views.
+    - Learn how to create and edit views.
+    - Work with filters and sorting criteria.
+prerequisites: |
+    - A Microsoft Power Apps license
+    - Access to Microsoft Dataverse
+    - A basic understanding of what a database is and its role within a software solution
+iconUrl: /learn/achievements/visualize-data.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+subjects:
+- business-applications
+units:
+- learn-bizapps.visualize-data.introduction
+- learn-bizapps.visualize-data.create-edit-views
+- learn-bizapps.visualize-data.exercise-add-columns
+- learn-bizapps.visualize-data.filter-sort-data
+- learn-bizapps.visualize-data.exercise-list-accounts
+- learn-bizapps.visualize-data.check
+- learn-bizapps.visualize-data.summary
+badge:
+  uid: learn-bizapps.visualize-data.badge

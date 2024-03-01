@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-manage-environment.3-risk-assessment 
+title: Establish risk assessments and mitigation paths
+metadata: 
+  title: Establish risk assessments and mitigation paths 
+  description: Learn about establishing risk assessments and mitigation paths.  
+  ms.date: 10/02/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-risk-assessment.md)] 

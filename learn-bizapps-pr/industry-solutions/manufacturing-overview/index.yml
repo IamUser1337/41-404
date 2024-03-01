@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.manufacturing-overview 
+metadata: 
+ title: Microsoft Cloud for Manufacturing overview
+ description: Learn about Microsoft Cloud for Manufacturing.
+ ms.date: 12/22/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-manufacturing
+title: Microsoft Cloud for Manufacturing overview
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Cloud for Manufacturing brings the best of Microsoft and our partners together to accelerate the digital transformation in manufacturing.
+abstract: |  
+    This module explains the following concepts: 
+    - Current manufacturing trends and demands
+    - Priority manufacturing scenarios and featured capabilities of the solution
+prerequisites: None 
+iconUrl: /training/achievements/manufacturing-overview.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions 
+- mscloud-manufacturing
+subjects:
+- business-applications
+units:
+- learn-bizapps.manufacturing-overview.introduction 
+- learn-bizapps.manufacturing-overview.unlock-innovation 
+- learn-bizapps.manufacturing-overview.create-supply-chains
+- learn-bizapps.manufacturing-overview.intelligent-factories
+- learn-bizapps.manufacturing-overview.modernize-manufacturing
+- learn-bizapps.manufacturing-overview.check 
+- learn-bizapps.manufacturing-overview.summary 
+badge: 
+  uid: learn-bizapps.manufacturing-overview.badge

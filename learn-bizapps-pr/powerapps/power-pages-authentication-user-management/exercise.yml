@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-authentication-user-management.exercise 
+title: Exercise - Use an invitation to register users
+metadata: 
+  title: Exercise - Use an invitation to register users
+  description: Practice creating an invitation-based user registration.
+  ms.date: 05/08/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

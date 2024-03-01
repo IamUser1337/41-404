@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-data-workspace-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/14/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where do you create a form layout for your Power Pages site?
+    choices: 
+    - content: Forms are created in Dataverse in the Data Workspace.
+      isCorrect: true 
+      explanation: Correct. Forms are created in Dataverse in the Data Workspace.
+    - content: Forms are created using the form editor in the Pages Workspace.
+      isCorrect: false 
+      explanation: Incorrect. Forms are created in Dataverse in the Data Workspace.
+    - content: Forms are created when you select a table in Dataverse from the Styling workspace.
+      isCorrect: false 
+      explanation: Incorrect. Forms are created in Dataverse in the Data Workspace.
+    - content: Forms are created in the Setup Workspace.
+      isCorrect: false 
+      explanation: Incorrect. Forms are created in Dataverse in the Data Workspace.
+  - content: Can you set some fields on a form to be editable while some to be read-only?
+    choices: 
+    - content: "True"
+      isCorrect: true 
+      explanation: Correct. You can set some fields as read-only.
+    - content: "False"
+      isCorrect: false 
+      explanation: Incorrect. You can set some fields as read-only.
+  - content: Should you have unique forms for a Power Pages user that are separate from Power Apps users?
+    choices: 
+    - content: "True"
+      isCorrect: true 
+      explanation: Correct. You should have unique forms for Power Pages users.
+    - content: "False"
+      isCorrect: false 
+      explanation: Incorrect. You should have unique forms for Power Pages users.

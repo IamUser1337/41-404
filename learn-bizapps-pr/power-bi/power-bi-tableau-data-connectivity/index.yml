@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-data-connectivity 
+metadata: 
+ title: Connect data to Power BI for Tableau users
+ description: Learn the foundational information needed to connect to your data confidently with the new platform.
+ ms.date: 08/01/2023
+ author: minewiskan  
+ manager: kfollis 
+ ms.author: owend  
+ ms.topic: module
+ ms.service: powerbi  
+title: Connect data to Power BI for Tableau users
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  As an analyst moving from Tableau to Microsoft Power BI, you need to make sure that you can connect to the same data sources without losing functionality. This module provides information that you need to work confidently with the new platform.
+abstract: |  
+    In this module, learn to:
+    - Identify basic concepts and terminology on Power BI data connections.
+    - Connect to your data in Power BI by using live and import methods.
+    - Perform data transformations by using Power Query Editor.
+    - Share your data transformation steps by using Advanced Query Editor.
+    - Set up relationships in the data modeling view.
+    - Identify differences and similarities between Tableau and Power BI concepts.
+prerequisites: |
+    - Access to the Power BI service. 
+    - Familiarity with Tableau, and the following concepts in Tableau: level of detail calculations, data blending, connecting to data, and creating extracts.
+iconUrl: /training/achievements/power-bi-tableau-data-connectivity.svg
+levels:  
+- beginner   
+roles:  
+- maker  
+products:  
+- power-platform  
+- power-bi 
+subjects:
+- data-management
+units:
+- learn-bizapps.power-bi-tableau-data-connectivity.1-introduction 
+- learn-bizapps.power-bi-tableau-data-connectivity.2-data-transformation 
+- learn-bizapps.power-bi-tableau-data-connectivity.3-relationships 
+- learn-bizapps.power-bi-tableau-data-connectivity.4-lab 
+- learn-bizapps.power-bi-tableau-data-connectivity.5-check 
+- learn-bizapps.power-bi-tableau-data-connectivity.6-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-data-connectivity.badge

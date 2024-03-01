@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-setup-organization.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/04/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the purpose of setting up the organization   and facility data in the Microsoft Sustainability Manager application?   
+    choices: 
+    - content: Organizational and facility data are optional and beneficial when you have datasets  .
+      isCorrect: false 
+      explanation: Carbon accounting involves a reporting structure that’s based on the organizations' structure and their regions. This information is not optional.  
+    - content: Organizational and facility data are mandatory for slicing and dicing of information. 
+      isCorrect: false 
+      explanation: Slicing and dicing of information isn’t the basis for carbon accounting.   
+    - content: Organizational and facility data are linked to activity and emission data to group emissions by organization, facility, and regions.  
+      isCorrect: true 
+      explanation: The first step toward carbon emission reporting involves setting up the organizational structure, facility, and their region information.  
+    - content: Setting up organizational and facility data has no relevance to compliance standards.  
+      isCorrect: false 
+      explanation: Setting up of organization and facility data has no relevance to compliance standards.  
+  - content: What are contractual instrument types in the context of the Microsoft Sustainability Manager application?   
+    choices: 
+    - content: A type of reference data that describes contractual agreements between a firm and its providers and suppliers     
+      isCorrect: true 
+      explanation: Contractual instrument types provide access to different types of contractual instruments for the reporting firm.  
+    - content: A type of reference data that describes a firm and their electricity providers   
+      isCorrect: false 
+      explanation: Contractual instrument types aren’t limited to only electricity providers.  
+    - content: A set of different contractual instruments that you can purchase  from the market.   
+      isCorrect: false 
+      explanation: Contractual instrument types provide the foundation for Scope 2 and Scope 3 emission reporting.  
+    - content: An optional set of reference data that enriches the sustainability reporting    
+      isCorrect: false 
+      explanation: Reference data, such as contractual instruments, aren’t optional.   
+  - content: What is the purpose of unit groups in Microsoft Sustainability Manager?   
+    choices: 
+    - content: They group different types of measurement units for consolidation purposes.    
+      isCorrect: false 
+      explanation: Unit groups will group similar types of units together, such as currency or volume.   
+    - content: They group similar type of units, such as units to measure length/distance, to define a base unit by using a conversion factor.     
+      isCorrect: true 
+      explanation: To meet the emission calculation needs, unit groups are created as baseline units for consistency of emission calculations.   
+    - content: They’re a reference data type that you can optionally use and convert later for reporting.     
+      isCorrect: false 
+      explanation: Unit groups, whether used as default or created, aren’t optional for emission reporting.  
+    - content: They’re the metric system equivalent in sustainability reporting.      
+      isCorrect: false 
+      explanation: Sustainability reporting isn’t dependent on specific systems of measurement.    
+
+

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-power-automate.1-introduction
+title: Introduction to running Power Automate desktop flows from cloud flows
+metadata:
+  title: Introduction to running Power Automate desktop flows from cloud flows
+  description: Introduction to running Power Automate desktop flows from cloud flows
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

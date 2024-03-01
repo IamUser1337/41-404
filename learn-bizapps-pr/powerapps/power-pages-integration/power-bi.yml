@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-integration.power-bi
+title: Integration with Power BI in Power Pages
+metadata:
+  title: Integration with Power BI in Power Pages
+  description: Learn how to integrate Power BI into a Power Pages website.
+  ms.date: 05/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/power-bi.md)]

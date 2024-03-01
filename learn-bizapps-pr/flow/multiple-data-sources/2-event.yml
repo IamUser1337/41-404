@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.multiple-data-sources.2-event
+title: Exercise - Build a flow that runs when an event in Dynamics 365 occurs
+metadata:
+  title: Exercise - Build a flow that runs when an event in Dynamics 365 occurs
+  description: Learn to build a flow that runs when an event in Dynamics 365 occurs, such as copying a lead to an Excel list.
+  ms.date: 01/05/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-event.md)]

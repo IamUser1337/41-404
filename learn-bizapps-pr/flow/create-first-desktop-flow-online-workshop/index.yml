@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.create-first-desktop-flow-online-workshop
+metadata:
+ title: Create your first desktop flow - Online workshop
+ description: Follow the steps to create your first desktop flow.
+ ms.date: 02/07/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+title: Create your first desktop flow - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Developers use solutions to write, package, and maintain units of software that extend Microsoft Dataverse. This module guides you through the process of creating a desktop flow.
+abstract: |
+    This module explains how to:
+    - Get familiar with Power Automate desktop flows.
+    - Create a new solution.
+    - Create a new desktop flow.
+    - Record actions that are performed in the desktop-installed Contoso Invoicing application.
+    - Perform a test run of the new desktop flow.
+prerequisites: |
+  - This module builds on the initial setup module, **Install required software - Online workshop**. Make sure that you completed all tasks.
+  - This module is designed for use with the Power Automate: Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+  - You need an environment with a licensed user to complete these exercises. Ensure that you completed the setup steps that were previously outlined.
+iconUrl: /learn/achievements/create-first-desktop-flow-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.create-first-desktop-flow-online-workshop.introduction
+- learn-bizapps.create-first-desktop-flow-online-workshop.exercise-power-automate
+- learn-bizapps.create-first-desktop-flow-online-workshop.exercise-create-flow
+- learn-bizapps.create-first-desktop-flow-online-workshop.check
+- learn-bizapps.create-first-desktop-flow-online-workshop.summary
+badge:
+  uid: learn-bizapps.create-first-desktop-flow-online-workshop.badge

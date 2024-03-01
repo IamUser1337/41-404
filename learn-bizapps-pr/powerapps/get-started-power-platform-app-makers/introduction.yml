@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-power-platform-app-makers.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to getting started with Microsoft Power Platform for app makers 
+  ms.date: 12/13/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

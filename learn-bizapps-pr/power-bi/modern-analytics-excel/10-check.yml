@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-excel.10-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2021 
+ author: maggiesMSFT 
+ manager: kfollis 
+ ms.author: maggies 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the highest endorsement type that can be applied to a dataset? 
+    choices: 
+    - content: Promoted
+      isCorrect: false
+      explanation: The highest endorsement type that can be applied to a dataset is certified.
+    - content: Supported
+      isCorrect: false 
+      explanation: The highest endorsement type that can be applied to a dataset is certified.
+    - content: Verified
+      isCorrect: false 
+      explanation: The highest endorsement type that can be applied to a dataset is certified.
+    - content: Certified
+      isCorrect: true 
+      explanation: The highest endorsement type that can be applied to a dataset is certified.
+  - content: What formula can be used to reduce the scope of a table?
+    choices: 
+    - content: CUBEMEMBER()
+      isCorrect: false
+      explanation: FILTER() can be used to reduce the scope of a table.
+    - content: FILTER()
+      isCorrect: true 
+      explanation: FILTER() can be used to reduce the scope of a table.
+    - content: XLOOKUP()
+      isCorrect: false 
+      explanation: FILTER() can be used to reduce the scope of a table.
+    - content: CUBEVALUE()
+      isCorrect: false 
+      explanation: FILTER() can be used to reduce the scope of a table.
+  - content: What Office 365/Excel 2016 function can be used to look up a value in rows and columns, horizontally and vertically?
+    choices: 
+    - content: INDEX()
+      isCorrect: false
+      explanation: XLOOKUP() can be used to look up a value in rows and columns, horizontally and vertically.
+    - content: VLOOKUP()
+      isCorrect: false 
+      explanation: XLOOKUP() can be used to look up a value in rows and columns, horizontally and vertically.
+    - content: XLOOKUP()
+      isCorrect: true 
+      explanation: XLOOKUP() can be used to look up a value in rows and columns, horizontally and vertically.
+    - content: FILTER()
+      isCorrect: false 
+      explanation: XLOOKUP() can be used to look up a value in rows and columns, horizontally and vertically.

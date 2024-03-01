@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-expressions.5-expressions 
+title: Write complex expressions
+metadata: 
+  title: Write complex expressions 
+  description: Learn how to write complex expressions.  
+  ms.date: 10/01/2020 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-expressions.md)] 

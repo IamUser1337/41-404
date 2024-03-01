@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.dataverse-online-workshop
+metadata:
+  title: Create a solution with Dataverse for Teams - Online Workshop
+  description: Learn how to create a solution with Dataverse for Teams.
+  ms.date: 10/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Create a solution with Dataverse for Teams - Online Workshop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  This Learning Path takes you through the process to build databases, apps, workflows, chatbots, and reports for Microsoft Teams, using low code Power Platform tools.
+prerequisites: |
+  - None
+iconUrl: /training/achievements/dataverse-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- power-platform
+- power-apps
+- power-automate
+- ms-copilot
+subjects:
+- business-applications
+modules:
+- learn-bizapps.power-apps-teams
+- learn-bizapps.power-automate-teams
+- learn-bizapps.power-virtual-agents-teams
+- learn-bizapps.power-bi-teams
+- learn-bizapps.sample-power-apps-teams
+trophy:
+  uid: learn.dataverse-online-workshop.trophy

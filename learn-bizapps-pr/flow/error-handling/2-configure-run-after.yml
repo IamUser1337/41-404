@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.error-handling.2-configure-run-after 
+title: Configure run after option
+metadata: 
+  title: Configure run after option
+  description: Learn how the Configure run after option helps you to handle errors and notify the maker of issues.
+  ms.date: 11/02/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-configure-run-after.md)] 

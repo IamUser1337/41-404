@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.build-first-workflow
+metadata:
+ title: Build your first workflow with Power Automate and Dataverse for Teams
+ description: Bring automation and workflows to Microsoft Teams by using Microsoft Power Automate and Microsoft Dataverse for Teams.
+ ms.date: 11/02/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Build your first workflow with Power Automate and Dataverse for Teams
+summary: |
+  [!include[](../includes/module-banner.md)]
+  By using automated and scheduled flows, you can build powerful workflows inside of Microsoft Teams and increase productivity in your Microsoft Teams work.
+abstract: |
+    This module explains how to:
+    - Build a flow to respond to changes in Teams.
+    - Extend an app in Microsoft Power Apps to trigger a flow.
+    - Schedule a flow to complete routine tasks.
+prerequisites: None
+iconUrl: /training/achievements/build-first-workflow.svg
+levels:
+- beginner
+roles:
+- business-user
+- maker
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.build-first-workflow.1-introduction
+- learn-bizapps.build-first-workflow.2-workflow-types
+- learn-bizapps.build-first-workflow.3-create-workflow
+- learn-bizapps.build-first-workflow.4-add-flow
+- learn-bizapps.build-first-workflow.5-schedule
+- learn-bizapps.build-first-workflow.6-check
+- learn-bizapps.build-first-workflow.7-summary
+badge:
+  uid: learn-bizapps.build-first-workflow.badge

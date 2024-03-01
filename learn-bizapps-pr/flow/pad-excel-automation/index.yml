@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-excel-automation 
+metadata: 
+ title: Excel automation in Power Automate for desktop
+ description: Learn about automating Microsoft Excel actions in Power Automate for desktop.
+ ms.date: 10/01/2023
+ author: DaveBeasley  
+ ms.author: dbeasley
+ ms.topic: module
+ 
+title: Excel automation in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Power Automate for desktop provides an extensive variety of Microsoft Excel actions to help you read and manipulate Excel files.
+abstract: |  
+    In this module, you will: 
+    - Open Excel files and attach a process to an already opened file.
+    - Use the Excel group of actions to read data from and write data to an Excel file.
+    - Create and edit worksheets.
+    - Save and close Excel files.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and familiarity with Microsoft Excel.
+iconUrl: /training/achievements/pad-excel-automation.svg  
+levels:  
+- beginner   
+- intermediate  
+roles:  
+- maker  
+- developer 
+- functional-consultant
+products:  
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-excel-automation.1-introduction
+- learn-bizapps.pad-excel-automation.2-launching-saving-closing
+- learn-bizapps.pad-excel-automation.3-reading-excel-document
+- learn-bizapps.pad-excel-automation.4-writing-excel-worksheet
+- learn-bizapps.pad-excel-automation.5-additional-actions
+- learn-bizapps.pad-excel-automation.6-managing-worksheets
+- learn-bizapps.pad-excel-automation.7-exercise
+- learn-bizapps.pad-excel-automation.8-check-knowledge 
+- learn-bizapps.pad-excel-automation.9-summary 
+badge:  
+  uid: learn-bizapps.pad-excel-automation.badge

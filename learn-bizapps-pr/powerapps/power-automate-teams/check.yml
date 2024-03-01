@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-teams.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/07/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What connectors do you use for the Welcome new team members template?
+    choices:
+    - content: Dataverse and Microsoft Teams connectors
+      isCorrect: false
+      explanation: Incorrect. The required connectors are Office 365 Users and Microsoft Teams connectors.
+    - content: Office 365 Users and Microsoft Teams connectors
+      isCorrect: true
+      explanation: Correct. The required connectors are Office 365 Users and Microsoft Teams connectors.
+    - content: Power Automate connector
+      isCorrect: false
+      explanation: Incorrect. The required connectors are Office 365 Users and Microsoft Teams connectors.
+    - content: Notification connector
+      isCorrect: false
+      explanation: Incorrect. The required connectors are Office 365 Users and Microsoft Teams connectors.
+  - content: You want to use a flow to create an approval request when a new record is created. What trigger do you select for this flow?
+    choices:
+    - content: When a new record is created, trigger Microsoft Dataverse
+      isCorrect: false
+      explanation: Incorrect. When a new record is created, Microsoft Dataverse will trigger the flow as desired.
+    - content: Approval trigger Microsoft Dataverse
+      isCorrect: false
+      explanation: Incorrect. When a new record is created, Microsoft Dataverse will trigger the flow as desired.
+    - content: When a row is added, modified or deleted, trigger Microsoft Dataverse
+      isCorrect: true
+      explanation: Correct. When a new record is created, Microsoft Dataverse will trigger the flow as desired.
+    - content: Instant trigger
+      isCorrect: false
+      explanation: Incorrect. When a new record is created, Microsoft Dataverse will trigger the flow as desired.
+  - content: What flow action will you use to post a message in a chat or channel in Teams?
+    choices:
+    - content: Send a message to a chat or channel Microsoft Teams connector action
+      isCorrect: false
+      explanation: Incorrect. The Post message in a chat or channel Microsoft Teams connector action will post the message in chat.
+    - content: Post a message in a chat or channel Microsoft Teams connector action
+      isCorrect: true
+      explanation: Correct. The Post message in a chat or channel Microsoft Teams connector action will post the message in chat.
+    - content: Post to Teams Microsoft Teams connector action
+      isCorrect: false
+      explanation: Incorrect. The Post message in a chat or channel Microsoft Teams connector action will post the message in chat.
+    - content: Notify Teams channel Microsoft Teams connector action
+      isCorrect: false
+      explanation: Incorrect. The Post message in a chat or channel Microsoft Teams connector action will post the message in chat.

@@ -1,0 +1,68 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-power-automate-buttons.8-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/03/2022
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 10 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the different ways to share a button?
+    choices: 
+    - content: By sharing your login credentials.
+      isCorrect: false
+      explanation: There are two ways to share a button in the Microsoft Power Automate app. The Invite others option allows you to search people or groups who are part of your company tenant. The Share Button link provides you with the options to share by text message, email, or other methods that the smartphone device type and service provider allow.
+    - content: By sharing the flow with individuals or a group and by sharing the button link.
+      isCorrect: true
+      explanation: There are two ways to share a button in the Microsoft Power Automate app. The Invite others option allows you to search people or groups who are part of your company tenant. The Share Button link provides you with the options to share by text message, email, or other methods that the smartphone device type and service provider allow.
+    - content: By sharing the flow with individuals only, sharing the button link and sharing your credentials.
+      isCorrect: false 
+      explanation: There are two ways to share a button in the Microsoft Power Automate app. The Invite others option allows you to search people or groups who are part of your company tenant. The Share Button link provides you with the options to share by text message, email, or other methods that the smartphone device type and service provider allow.
+    - content: By sharing the flow with internal and external users, sharing the button link, sharing your credentials.
+      isCorrect: false 
+      explanation: There are two ways to share a button in the Microsoft Power Automate app. The Invite others option allows you to search people or groups who are part of your company tenant. The Share Button link provides you with the options to share by text message, email, or other methods that the smartphone device type and service provider allow.
+  - content: What are the three things to check when troubleshooting a flow?
+    choices: 
+    - content: Internet connection, device OS, and language.
+      isCorrect: false
+      explanation: Three verifications that you should make when troubleshooting a flow are user authorization, data connections, and Power Automate actions or conditions.
+    - content: Device OS, location, and screen size.
+      isCorrect: false 
+      explanation: Three verifications that you should make when troubleshooting a flow are user authorization, data connections, and Power Automate actions or conditions.
+    - content: User authorization, data connections, and Power Automate actions or conditions.
+      isCorrect: true
+      explanation: Three verifications that you should make when troubleshooting a flow are user authorization, data connections, and Power Automate actions or conditions.
+    - content: User interface, flow condition, and internet connection.
+      isCorrect: false 
+      explanation: Three verifications that you should make when troubleshooting a flow are user authorization, data connections, and Power Automate actions or conditions.
+  - content: What time and location do trigger tokens use?
+    choices: 
+    - content: Uses the time and geographic location of the user's office
+      isCorrect: false 
+      explanation: When you run a flow from a virtual button on a smartphone, the date, time, and the current address where the phone is located are automatically available for use. You can use these trigger tokens to build useful flows that will minimize repetitive tasks such as providing your location to someone or tracking how much time you spent on a particular job or service call.
+    - content: Uses the time and the geographic location of the tenant's HQ office.
+      isCorrect: false 
+      explanation: When you run a flow from a virtual button on a smartphone, the date, time, and the current address where the phone is located are automatically available for use. You can use these trigger tokens to build useful flows that will minimize repetitive tasks such as providing your location to someone or tracking how much time you spent on a particular job or service call.
+    - content: Uses the time and the geographic location of the tenant's Office 365 global admin.
+      isCorrect: false 
+      explanation: When you run a flow from a virtual button on a smartphone, the date, time, and the current address where the phone is located are automatically available for use. You can use these trigger tokens to build useful flows that will minimize repetitive tasks such as providing your location to someone or tracking how much time you spent on a particular job or service call.
+    - content: Uses the time and the geographic location of the device.
+      isCorrect: true 
+      explanation: When you run a flow from a virtual button on a smartphone, the date, time, and the current address where the phone is located are automatically available for use. You can use these trigger tokens to build useful flows that will minimize repetitive tasks such as providing your location to someone or tracking how much time you spent on a particular job or service call.
+  - content: Can a button flow be built entirely from the Power Automate mobile app?
+    choices: 
+    - content: Yes, with triggers, actions, and conditions
+      isCorrect: true 
+      explanation: The Power Automate mobile app gives you the flexibility to create an entire flow which includes setting up the connectors as well. 
+    - content: No, you have to use a computer
+      isCorrect: false 
+      explanation: The Power Automate mobile app gives you the flexibility to create an entire flow which includes setting up the connectors as well.
+    - content: Partially. You can add the button and trigger only. For actions and conditions, you need to use a computer.
+      isCorrect: false 
+      explanation: The Power Automate mobile app gives you the flexibility to create an entire flow which includes setting up the connectors as well.

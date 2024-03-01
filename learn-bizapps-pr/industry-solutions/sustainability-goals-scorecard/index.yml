@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-goals-scorecard
+metadata:
+ title: Define carbon reduction goals and scorecards
+ description: Learn how to set carbon reduction goals and track them by using scorecards in Microsoft Cloud for Sustainability.
+ ms.date: 05/04/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Define carbon reduction goals and scorecards
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will focus on how to set carbon emission reduction goals based on your organization's sustainability priorities and track them by using scorecards. 
+abstract: |
+    In this module, you'll:
+    - Create scorecards and goals to monitor progress toward carbon reduction targets.
+    - Learn about goal check-ins.
+    - Set up and use Microsoft Teams chat collaboration features.
+prerequisites: |
+    - Microsoft Sustainability manager environment is set up with sample data
+    - Module 01 organization and reference data are entered
+    - Module 02 activity data is ingested
+    - Module 03 emissions are calculated
+    - Module 04 deep analysis and reporting review
+iconUrl: /learn/achievements/sustainability-goals-scorecard.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- mscloud-sustainability
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-goals-scorecard.introduction
+- learn-bizapps.sustainability-goals-scorecard.exercise-define
+- learn-bizapps.sustainability-goals-scorecard.exercise-set-up
+- learn-bizapps.sustainability-goals-scorecard.check
+- learn-bizapps.sustainability-goals-scorecard.summary
+badge:
+  uid: learn-bizapps.sustainability-goals-scorecard.badge

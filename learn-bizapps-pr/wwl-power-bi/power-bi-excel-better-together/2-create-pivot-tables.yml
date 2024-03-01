@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.power-bi-excel-better-together.create-pivot-tables-from-certified-data-sets
+title: Create pivot tables from certified data sets
+metadata:
+  title: Create pivot tables from certified data sets
+  description: "Create pivot tables from certified data sets"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/2-create-pivot-tables.md)]

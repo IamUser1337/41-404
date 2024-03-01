@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.architecture-devices
+title: Architecture of Fabrikam data model and devices
+metadata:
+  title: Architecture of Fabrikam data model and devices
+  description: Learn about the architecture of Fabrikam data model and devices
+  ms.date: 04/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/architecture-devices.md)]

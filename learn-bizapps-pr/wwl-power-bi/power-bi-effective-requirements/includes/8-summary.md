@@ -1,0 +1,1 @@
+Scoping your report design requirements is imperative. A clear understanding of the business goals and your report audiences is essential in delivering an effective reporting solution. Other design aspects that you should consider include selecting the most fitting report type and factoring in user interface requirements.

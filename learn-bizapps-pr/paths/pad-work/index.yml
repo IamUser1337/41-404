@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.pad-work
+metadata:
+  title: Work with Power Automate for desktop
+  description: Learn how to use features of Power Automate for desktop.
+  ms.date: 02/09/2021
+  author: DaveBeasley  
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Work with Power Automate for desktop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Work with Power Automate for desktop options, flows, recording features, conditions, loops, variables, images, and error and exception handling.
+prerequisites: |
+  - Basic familiarity with Power Automate for desktop
+iconUrl: /training/achievements/pad-work.svg
+levels:
+- beginner
+roles: 
+- maker  
+- developer 
+- functional-consultant  
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+modules:
+- learn-bizapps.pad-variables
+- learn-bizapps.pad-loops
+- learn-bizapps.pad-conditionals
+- learn-bizapps.pad-flow-control
+- learn-bizapps.pad-power-automate-desktop-recording-features
+- learn-bizapps.pad-exception-handling
+trophy: 
+  uid: learn-bizapps.pad-work.trophy

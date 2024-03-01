@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-ai-model-process-invoice-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/29/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: After you've uploaded your sample documents in AI Builder, which button can you select to evaluate your documents to look for patterns?
+    choices:
+    - content: Analyze
+      isCorrect: true
+      explanation: Correct. You can select the Analyze button to evaluate your documents and look for patterns.
+    - content: Back
+      isCorrect: false
+      explanation: Incorrect. You can select the Analyze button to evaluate your documents and look for patterns.
+    - content: New collection
+      isCorrect: false
+      explanation: Incorrect. You can select the Analyze button to evaluate your documents and look for patterns.
+    - content: None of the above
+      isCorrect: false
+      explanation: Incorrect. You can select the Analyze button to evaluate your documents and look for patterns.
+  - content: After you've finished analyzing your document, how do you tag it?
+    choices:
+    - content: Press and hold the Ctrl key and then select that area
+      isCorrect: false
+      explanation: Incorrect. You can tag your document by hovering the mouse cursor over the area and then selecting it.
+    - content: Hover the mouse cursor over the area and then select it
+      isCorrect: true
+      explanation: Correct. You can tag your document by hovering the mouse cursor over the area and then selecting it.
+    - content: Press and hold the Alt key and then select that area
+      isCorrect: false
+      explanation: Incorrect. You can tag your document by hovering the mouse cursor over the area and then selecting it.
+    - content: Press and hold the Shift key and then select that area
+      isCorrect: false
+      explanation: Incorrect. You can tag your document by hovering the mouse cursor over the area and then selecting it.
+  - content: To ensure that all your documents recognize your fields, you need to select them one by one and then ensure that green check marks appear beside the fields.
+    choices:
+    - content: This statement is true.
+      isCorrect: true
+      explanation: Correct. All documents need to recognize fields for the document to train properly.
+    - content: This statement is false.
+      isCorrect: false
+      explanation: Incorrect. All documents need to recognize fields for the document to train properly.

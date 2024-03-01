@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-center-excellence.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/05/2024
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the difference between the CoE Starter Kit Power BI report and the out-of-the-box reports in Microsoft Power Platform admin center?
+    choices:
+    - content: They cover only canvas apps, Power Automate flows, and Dataverse
+      isCorrect: false
+      explanation: CoE has several flows that pick up important data across the entire Microsoft Power Platform and saves it in tables. Based on this information, a detailed Power BI report is available that includes more information such as model-driven apps and Power Virtual Agent chatbots.
+    - content: It is the same as what is covered in Microsoft Power Platform admin center
+      isCorrect: false
+      explanation: CoE has several flows that pick up important data across the entire Microsoft Power Platform and saves it in tables. Based on this information, a detailed Power BI report is available that includes more information such as model-driven apps and Power Virtual Agent chatbots.
+    - content: They cover more resources such as model-driven apps and chatbots, which are not in Microsoft Power Platform admin center
+      isCorrect: true
+      explanation: CoE has several flows that pick up important data across the entire Microsoft Power Platform and saves it in tables. Based on this information, a detailed Power BI report is available that includes more information such as model-driven apps and Power Virtual Agent chatbots.
+    - content: You have the option to build your own customized Power BI report
+      isCorrect: false
+      explanation: CoE has several flows that pick up important data across the entire Microsoft Power Platform and saves it in tables. Based on this information, a detailed Power BI report is available that includes more information such as model-driven apps and Power Virtual Agent chatbots.
+  - content: Which Microsoft Power Platform services are used in Microsoft Power Platform CoE?
+    choices:
+    - content: Apps in Power Apps and Power Automate flow only
+      isCorrect: false
+      explanation: Power Automate flows are used to collect the data, which is stored in Dataverse tables. Power Apps canvas contains the Developer Compliance center, Set Flow Permissions, and Set App permissions. Power Apps model-driven has Microsoft Power Platform Admin view app. Power BI report is used to view all information.
+    - content: Power Apps canvas and model-driven apps, Power Automate flows, Dataverse tables, and Power BI report
+      isCorrect: true
+      explanation: Power Automate flows are used to collect the data, which is stored in Dataverse tables. Power Apps canvas contains the Developer Compliance center, Set Flow Permissions, and Set App permissions. Power Apps model-driven has Microsoft Power Platform Admin view app. Power BI report is used to view all information.
+    - content: Power Automate flows, Dataverse tables, and Power BI report
+      isCorrect: false
+      explanation: Power Automate flows are used to collect the data, which is stored in Dataverse tables. Power Apps canvas contains the Developer Compliance center, Set Flow Permissions, and Set App permissions. Power Apps model-driven has Microsoft Power Platform Admin view app. Power BI report is used to view all information.
+    - content: Apps in Power Apps and Power BI report
+      isCorrect: false
+      explanation: Power Automate flows are used to collect the data, which is stored in Dataverse tables. Power Apps canvas contains the Developer Compliance center, Set Flow Permissions, and Set App permissions. Power Apps model-driven has Microsoft Power Platform Admin view app. Power BI report is used to view all information.
+  - content: How do you install the CoE Starter Kit?
+    choices:
+    - content: The CoE Starter Kit is a set of zipped files that are solutions that you import into your Microsoft Power Platform environment in a systematic order. You then turn on the flows to collect the data in your Dataverse tables and then connect your Power BI report to the environment.
+      isCorrect: true
+      explanation: Microsoft Power Platform CoE Starter Kit is a collection of components and tools that are designed to help you get started with developing a strategy for adopting and supporting Microsoft Power Platform, with a focus on Power Apps and Power Automate. A set of solutions is provided as zipped files that need to be imported in your Microsoft Power Platform environment in a systematic order.
+    - content: The CoE Starter kit is a single zipped file that has a single EXE file that does all the installation and configuration automatically.
+      isCorrect: false
+      explanation: Microsoft Power Platform CoE Starter Kit is a collection of components and tools that are designed to help you get started with developing a strategy for adopting and supporting Microsoft Power Platform, with a focus on Power Apps and Power Automate. A set of solutions is provided as zipped files that need to be imported in your Microsoft Power Platform environment in a systematic order.
+    - content: The CoE Starter Kit is a set of zipped files that are solutions that you import into your Microsoft Power Platform environment in any order that you want. You then run the flows to collect the data in your Dataverse tables and then connect your Power BI report to the environment.
+      isCorrect: false
+      explanation: Microsoft Power Platform CoE Starter Kit is a collection of components and tools that are designed to help you get started with developing a strategy for adopting and supporting Microsoft Power Platform, with a focus on Power Apps and Power Automate. A set of solutions is provided as zipped files that need to be imported in your Microsoft Power Platform environment in a systematic order.
+    - content: The COE Starter Kit comes as a single solution as a zipped file that you import into your Microsoft Power Platform. You then activate all the flows and apps, which will also configure the Power BI report.
+      isCorrect: false
+      explanation: Microsoft Power Platform CoE Starter Kit is a collection of components and tools that are designed to help you get started with developing a strategy for adopting and supporting Microsoft Power Platform, with a focus on Power Apps and Power Automate. A set of solutions is provided as zipped files that need to be imported in your Microsoft Power Platform environment in a systematic order.
+  - content: How much coding is involved in setting up and configuring the CoE Starter Kit?
+    choices:
+    - content: 25 percent of coding by using Visual Studio is required to configure the solutions to match your tenant
+      isCorrect: false
+      explanation: No coding is required to configure CoE in your tenant. Administrative tasks include setting information in your Microsoft Entra ID, importing solutions in your Microsoft Power Platform, turning on and running flows and connecting your Power BI report to your environment.
+    - content: 50 percent of coding by using Visual Studio is required to configure the Power Apps and Power Automate solutions to match your tenant
+      isCorrect: false
+      explanation: No coding is required to configure CoE in your tenant. Administrative tasks include setting information in your Microsoft Entra ID, importing solutions in your Microsoft Power Platform, turning on and running flows and connecting your Power BI report to your environment.
+    - content: Low-code PowerShell scripting is required to import all solutions in your tenant
+      isCorrect: false
+      explanation: No coding is required to configure CoE in your tenant. Administrative tasks include setting information in your Microsoft Entra ID, importing solutions in your Microsoft Power Platform, turning on and running flows and connecting your Power BI report to your environment.
+    - content: No coding is required
+      isCorrect: true
+      explanation: No coding is required to configure CoE in your tenant. Administrative tasks include setting information in your Microsoft Entra ID, importing solutions in your Microsoft Power Platform, turning on and running flows and connecting your Power BI report to your environment.

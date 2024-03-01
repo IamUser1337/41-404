@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.unified-authoring-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/10/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is a type of Variable in Microsoft Copilot Studio?
+    choices: 
+    - content: Power Platform Type 
+      isCorrect: false 
+      explanation: Incorrect. There's no type called Power Platform type variable in Microsoft Copilot Studio.
+    - content: Connection Type
+      isCorrect: false 
+      explanation: Incorrect. There's no type called Connection type variable in Microsoft Copilot Studio.
+    - content: Topic
+      isCorrect: true 
+      explanation: Correct. A topic variable is user made from the ‘Set a Variable Value’ node within the authoring canvas in Microsoft Copilot Studio. Other variable types in Microsoft Copilot Studio are System and Global.
+  - content: How can you use a Variable in Microsoft Copilot Studio and display its value to a user?
+    choices: 
+    - content: Type the name of it anywhere
+      isCorrect: false 
+      explanation: Incorrect. You can't type the variable name, it must be referenced.
+    - content: You can't use Variables in Microsoft Copilot Studio
+      isCorrect: false 
+      explanation: Incorrect. You can use variables in Microsoft Copilot Studio.
+    - content: By clicking in a Message or Variable Node, select the variables button, which looks like {X}
+      isCorrect: true 
+      explanation: Correct.
+  - content: Which of the following is functionality available in the Question Behavior Options?
+    choices: 
+    - content: Ask how many times to reprompts to repeat a question 
+      isCorrect: true 
+      explanation: Correct. 
+    - content: Convert to YAML
+      isCorrect: false 
+      explanation: Incorrect. The question node is already YAML, you're displaying the graphical version in the UI. To see the YAML underneath, code view is available in the authoring canvas header, not in the question behavior options.
+    - content: Customize the Question contents
+      isCorrect: false 
+      explanation: Incorrect. You can't change the name in the question behavior options and instead, this would be done within the node itself.

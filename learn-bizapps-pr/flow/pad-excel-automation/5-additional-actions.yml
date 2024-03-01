@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-excel-automation.5-additional-actions
+title: Additional actions and features
+metadata: 
+  title: Additional actions and features
+  description: Learn about additional actions and features.
+  ms.date: 10/03/2022 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-additional-actions.md)] 

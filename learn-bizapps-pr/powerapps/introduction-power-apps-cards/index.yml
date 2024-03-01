@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.introduction-power-apps-cards
+metadata:
+ title: Introduction to Power Apps cards
+ description: Watch videos and follow exercises that introduce you to Power Apps cards.
+ ms.date: 12/11/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module-standard-task-based
+title: Introduction to Power Apps cards
+summary: |
+  [!include[](../includes/module-banner.md)]
+  If you have a task that requires minimal input, such as sharing a poll, and you want to use Power Apps to accomplish that task, then consider using Power Apps cards. Moreover, you can share Power Apps cards with others in Microsoft Teams. In this module, you explore how to quickly design and share Power Apps cards.
+abstract: |
+    This module explains how to:
+    - Identify different use cases for Power Apps cards.
+    - Design and create Power Apps cards.
+    - Share Power Apps cards in Teams.
+    - Send a card by using a Power Automate cloud flow.
+    - Use Microsoft Dataverse as a data source for cards.
+prerequisites: |
+  - A Power Apps license
+  - A Power Automate license
+  - A Power Apps environment with Dataverse
+  - Access to Microsoft Teams
+  - A basic understanding of Power Apps and app design
+  - A basic understanding of Power Automate cloud flow design
+iconUrl: /learn/achievements/introduction-power-apps-cards.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+subjects:
+- business-applications
+units:
+- learn-bizapps.introduction-power-apps-cards.introduction
+- learn-bizapps.introduction-power-apps-cards.design-power-apps-cards
+- learn-bizapps.introduction-power-apps-cards.create-card-suggestions
+- learn-bizapps.introduction-power-apps-cards.send-cards-teams
+- learn-bizapps.introduction-power-apps-cards.share-suggestions-card
+- learn-bizapps.introduction-power-apps-cards.check
+- learn-bizapps.introduction-power-apps-cards.summary
+badge:
+  uid: learn-bizapps.introduction-power-apps-cards.badge

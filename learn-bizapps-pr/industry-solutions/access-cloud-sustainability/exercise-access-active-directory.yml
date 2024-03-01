@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.access-cloud-sustainability.exercise-access-active-directory
+title: Exercise - Access data through Dataverse API by using .NET Framework with ADAL
+metadata: 
+  title: Exercise - Access data through Dataverse API by using .NET Framework with ADAL
+  description: Learn Microsoft Authentication Library (MSAL) is recommended over Azure Active Directory Authentication Library (ADAL) because MSAL comes with more security and resiliency benefits. 
+  ms.date: 01/30/2024 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-access-active-directory.md)] 

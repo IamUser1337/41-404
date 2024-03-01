@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-custom-web 
+metadata: 
+ title: Build custom Power Pages web templates
+ description: Create custom Microsoft Power Pages web templates.
+ ms.date: 05/26/2023  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ ms.service: power-pages 
+title: Build custom Power Pages web templates
+summary: |  
+  [!include[](../includes/module-banner.md)]
+  This module describes custom web templates and how you can build and set up the templates to extend and enhance a Power Pages website. You can provision a website with a series of prebuilt web templates. As you encounter more complex scenarios, you’ll need to know how to use Liquid template language to create your own web templates that address project requirements.
+abstract: |  
+    In this module, you'll: 
+    - Learn about the relationship between web templates, page templates, and webpages.
+    - Discover how you can build custom web templates by using HTML, Cascading Style Sheets (CSS), Liquid, and JavaScript.
+    - Use Liquid template language to build and structure web templates.
+    - Learn how to embed custom CSS and JavaScript into web templates.
+    - Learn how to reference other web templates in a web template.
+prerequisites: Basic understanding of how to navigate and set up Power Pages websites and customize model-driven apps. Basic knowledge of Liquid template language and familiarity with JavaScript, HTML, CSS, and web application development would be beneficial.
+iconUrl: /training/achievements/power-pages-custom-web.svg  
+levels:  
+- advanced  
+roles:  
+- maker
+- developer
+products:  
+- power-platform 
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-custom-web.introduction 
+- learn-bizapps.power-pages-custom-web.build-web-templates 
+- learn-bizapps.power-pages-custom-web.build-api 
+- learn-bizapps.power-pages-custom-web.exercise 
+- learn-bizapps.power-pages-custom-web.check 
+- learn-bizapps.power-pages-custom-web.summary 
+badge: 
+  uid: learn-bizapps.power-pages-custom-web.badge

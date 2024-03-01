@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-with-ai-builder-sentiment-analysis 
+metadata: 
+ title: Analyze the sentiment of text with AI Builder
+ description: Learn about AI Builder Sentiment analysis and how to use it with other Microsoft Power Platform products.
+ ms.date: 04/10/2020  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Analyze the sentiment of text with AI Builder
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn about AI Builder Sentiment analysis and how to use it with other Microsoft Power Platform products.
+abstract: |  
+    In this module, you will: 
+    - Learn about AI Builder Sentiment analysis.
+    - Evaluate which business problems can be solved by AI Builder Sentiment analysis.
+    - Develop a simple flow with Power Automate that will use AI Builder Sentiment analysis.
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+    - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial
+iconUrl: /training/achievements/get-started-with-sentiment-analysis.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+- business-user
+products:    
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- classification-analysis
+units:
+- learn-bizapps.get-started-with-ai-builder-sentiment-analysis.1-introduction
+- learn-bizapps.get-started-with-ai-builder-sentiment-analysis.2-solve-problems
+- learn-bizapps.get-started-with-ai-builder-sentiment-analysis.3-build-flow
+- learn-bizapps.get-started-with-ai-builder-sentiment-analysis.4-check
+- learn-bizapps.get-started-with-ai-builder-sentiment-analysis.5-summary 
+badge: 
+  uid: learn-bizapps.get-started-with-sentiment-analysis.badge

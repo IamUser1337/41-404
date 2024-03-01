@@ -1,0 +1,1 @@
+You have learned about how to create a Power BI paginated report. Now, you can connect to a data source, extract data into a dataset, and populate a table or chart with that data. After you've finished creating the report, you can format your report to make it visually appealing and informative, and then publish it to Power BI.

@@ -1,0 +1,36 @@
+### YamlMime:Module 
+uid: learn-bizapps.team-development-power-platform 
+metadata: 
+ title: Introduction to team development for Microsoft Power Platform
+ description: Learn about team development for Microsoft Power Platform.
+ ms.date: 05/06/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+title: Introduction to team development for Microsoft Power Platform
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Setting team development standards for your Microsoft Power Platform environment can increase productivity and allow developers to work more efficiently. This module will share common mistakes and best practices and will give an example of how to set up a development process. 
+abstract: |  
+    In this module, you’ll:
+    - Compare the use of common versus ideal patterns for team development.
+    - Learn about continuous integration.
+    - Discover the benefits of continuous integration.
+prerequisites: Experience working on Microsoft Power Platform projects as a junior solution architect, a senior functional consultant, or a senior developer
+iconUrl: /training/achievements/team-development-power-platform.svg  
+levels:  
+- beginner   
+roles:  
+- developer  
+- functional-consultant 
+products: 
+- power-platform 
+units: 
+- learn-bizapps.team-development-power-platform.introduction 
+- learn-bizapps.team-development-power-platform.continuous-integration 
+- learn-bizapps.team-development-power-platform.team-development-best-practices 
+- learn-bizapps.team-development-power-platform.setup-development-process 
+- learn-bizapps.team-development-power-platform.check 
+- learn-bizapps.team-development-power-platform.summary 
+badge: 
+  uid: learn-bizapps.team-development-power-platform.badge 

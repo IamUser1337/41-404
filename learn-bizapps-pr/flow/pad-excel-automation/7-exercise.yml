@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-excel-automation.7-exercise 
+title: Exercise - Organize data in a spreadsheet
+metadata: 
+  title: Exercise - Organize data in a spreadsheet
+  description: Practice organizing data in an Excel spreadsheet.
+  ms.date: 12/09/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-exercise.md)] 

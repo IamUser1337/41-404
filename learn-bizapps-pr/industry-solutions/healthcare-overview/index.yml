@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.healthcare-overview 
+metadata: 
+ title: Microsoft Cloud for Healthcare overview
+ description: This module introduces Microsoft Cloud for Healthcare.
+ ms.date: 02/13/2024 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Microsoft Cloud for Healthcare overview
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module introduces Microsoft Cloud for Healthcare and the capabilities that are included in each solution package.
+abstract: |  
+    This module explains the following concepts: 
+    - Current healthcare trends and demands
+    - Basic elements of Microsoft Cloud for Healthcare
+    - Priority healthcare scenarios and featured capabilities of the solution
+prerequisites: None 
+iconUrl: /training/achievements/healthcare-overview.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions 
+- mscloud-healthcare
+subjects:
+- business-applications
+units:
+- learn-bizapps.healthcare-overview.1-introduction 
+- learn-bizapps.healthcare-overview.2-engagement 
+- learn-bizapps.healthcare-overview.3-collaboration
+- learn-bizapps.healthcare-overview.5-patient-information
+- learn-bizapps.healthcare-overview.4-insights
+- learn-bizapps.healthcare-overview.well-architected
+- learn-bizapps.healthcare-overview.7-check 
+- learn-bizapps.healthcare-overview.8-summary 
+badge: 
+  uid: learn-bizapps.healthcare-overview.badge

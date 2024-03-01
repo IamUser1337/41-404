@@ -1,0 +1,35 @@
+### YamlMime:Module
+uid: learn.wwl.create-manage-automated-processes-with-power-automate
+metadata:
+  title: Guided Project - Create and manage automated processes with Power Automate
+  description: "Create your own data model and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, and flow needed to complete this project."
+  ms.date: 10/19/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: module
+  ms.service: power-automate
+title: Guided Project - Create and manage automated processes with Power Automate
+summary: Create your own data model and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, and flow needed to complete this project.
+abstract: |
+  In this module, you'll demonstrate your ability to:
+  * Customize a Dataverse database to meet business requirements
+  * Create a Power Automate flow based on provided specifications
+prerequisites: |
+  * Experience creating custom tables and columns in Dataverse
+  * Experience building Power Automate cloud flows
+iconUrl: /training/achievements/generic-badge.svg
+hidden: false
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-platform
+units:
+- learn.wwl.create-manage-automated-processes-with-power-automate.introduction
+- learn.wwl.create-manage-automated-processes-with-power-automate.prepare
+- learn.wwl.create-manage-automated-processes-with-power-automate.exercise-build-flow-to-send-automated-emails
+- learn.wwl.create-manage-automated-processes-with-power-automate.knowledge-check
+- learn.wwl.create-manage-automated-processes-with-power-automate.summary
+badge:
+  uid: learn.wwl.create-manage-automated-processes-with-power-automate.badge

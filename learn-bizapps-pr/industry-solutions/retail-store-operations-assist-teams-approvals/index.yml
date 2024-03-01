@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-store-operations-assist-teams-approvals
+metadata:
+ title: Use Store Operations Assist with Microsoft Teams Approvals
+ description: Learn how to enable Store Operations Assist to create and approve requests in Microsoft Teams for Microsoft Cloud for Retail.
+ ms.date: 02/22/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Use Store Operations Assist with Microsoft Teams Approvals
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Within the Approvals app, store managers can conveniently review requests originating from Store Operations Assist Teams. This seamless integration alleviates the necessity for administrators to constantly switch between Teams and Store Operations Assist, thereby enhancing overall efficiency.
+abstract: |
+    This module explains how to:
+    - Enable Teams Approvals for the Requests flow.
+    - Assign approval requests to store managers by using Store Operations Assist Teams.
+    - Approve or reject any request by using the Approvals app in Microsoft Teams.
+prerequisites: You must complete the entire learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) before you can complete this one.
+iconUrl: /learn/achievements/retail-store-operations-assist-teams-approvals.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-store-operations-assist-teams-approvals.introduction
+- learn-bizapps.retail-store-operations-assist-teams-approvals.exercise-enable-approvals
+- learn-bizapps.retail-store-operations-assist-teams-approvals.exercise-create-request
+- learn-bizapps.retail-store-operations-assist-teams-approvals.exercise-approve-request
+- learn-bizapps.retail-store-operations-assist-teams-approvals.check
+- learn-bizapps.retail-store-operations-assist-teams-approvals.summary
+badge:
+  uid: learn-bizapps.retail-store-operations-assist-teams-approvals.badge

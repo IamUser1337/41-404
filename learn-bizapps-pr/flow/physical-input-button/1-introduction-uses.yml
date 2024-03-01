@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.physical-input-button.1-introduction-uses 
+title: Introduction to the possible uses of a physical button
+metadata: 
+  title: Introduction to the possible uses of a physical button  
+  description: Learn about the possible uses of a physical button.  
+  ms.date: 06/21/2021 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction-uses.md)] 

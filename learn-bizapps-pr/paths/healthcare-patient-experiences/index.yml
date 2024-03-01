@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.healthcare-patient-experiences
+metadata:
+  title: Create connected patient experiences with Microsoft Cloud for Healthcare
+  description: Learn how to create connected patient experiences with Microsoft Cloud for Healthcare.
+  ms.date: 02/19/2024
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Create connected patient experiences with Microsoft Cloud for Healthcare
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  With Microsoft Cloud for Healthcare, healthcare organizations can deliver personalized experiences to engage patients in more secure, individualized encounters through every point of care.
+
+  In this Learning Path, you gain a foundational understanding of Microsoft Cloud for Healthcare capabilities for patient experiences. You're guided through practical hands-on exercises as you set up the healthcare applications in Microsoft Cloud for Healthcare using Dynamics 365, Power Platform, Microsoft 365, and Azure. You dive into various modules namely Patient Outreach, Patient Access, Patient Service Center, Virtual Visits, and Azure Health Bot.
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/training/modules/training-environment-preparation-healthcare/).
+iconUrl: /training/achievements/healthcare-patient-experiences.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+modules:
+- learn-bizapps.training-environment-preparation-healthcare
+- learn-bizapps.patient-outreach 
+- learn-bizapps.azure-health-bot
+- learn-bizapps.patient-access-service-center
+- learn-bizapps.virtual-visits
+trophy:
+  uid: learn.healthcare-patient-experiences.trophy

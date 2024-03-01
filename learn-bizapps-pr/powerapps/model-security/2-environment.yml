@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.model-security.2-environment
+title: Environment security
+metadata:
+  title: Environment security
+  description: Learn how to control access to environments and resources.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-environment.md)]

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.row-level-security-power-bi.lab
+title: Exercise - Enforce row-level security in Power BI
+metadata:
+  title: Lab - Enforce row-level security in Power BI
+  description: "Use a virtual machine hosted lab to complete an exercise to enforce row-level security in Power BI."
+  ms.date: 07/18/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labId: 133470
+labModal: true
+durationInMinutes: 20
+content: |
+  [!include[](includes/lab.md)]

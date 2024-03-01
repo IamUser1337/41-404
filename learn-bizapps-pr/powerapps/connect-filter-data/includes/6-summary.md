@@ -1,0 +1,1 @@
+This module covered new information on working with canvas apps, including numerous new functions to help you combine all the elements together. You can tie in your data, consider your users, and grasp the more technical aspects of building a canvas app. Additionally, you can customize all parts of a canvas app by changing colors or trying to filter on a different field.

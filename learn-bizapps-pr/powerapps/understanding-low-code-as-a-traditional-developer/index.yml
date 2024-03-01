@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer
+title: Understanding Low Code as a Traditional Developer
+summary: |
+  Power Apps can be a powerful tool for citizen developers and traditional developers alike. Upon finishing this module, a traditional developer will have learned how Power Apps work, what the formula language is, and how to create an app using Power Apps
+metadata:
+  title: Understanding Low Code as a Traditional Developer
+  description: Understand Power Fx and how to use it to build an app within Power Apps as a traditional developer
+  ms.date: 04/22/2021
+  author: ghurlman
+  ms.author: grhurl
+  ms.topic: module-standard-task-based
+  ms.subservice: dataverse-developer
+  ms.contributors:
+  - grhurl-04072021
+abstract: |
+  In this module you will:
+  - Understand what Power Fx is and how to use it
+  - Create an app using Power Apps
+  - Modify an app using Power Fx
+prerequisites: |
+  -  Access to Microsoft Excel and OneDrive for Business.
+iconUrl: /training/achievements/understanding-low-code-development-as-a-traditional-developer.svg
+ratingEnabled: false
+levels:
+  - beginner
+roles: 
+  - developer
+  - maker  
+products: 
+  - power-platform
+  - power-apps
+subjects:
+- development-tools
+units:
+  - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.1-introduction
+  - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.2-what.is.low.code
+  - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.3-understand-power-fx
+  - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.4-create-your-first-app-as-a-traditional-developer
+  - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.5-knowledge-check
+  - learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.6-summary
+badge: 
+  uid: learn-bizapps.azure.understanding-low-code-development-as-a-traditional-developer.badge

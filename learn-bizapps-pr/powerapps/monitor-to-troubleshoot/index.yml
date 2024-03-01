@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.monitor-to-troubleshoot 
+metadata: 
+ title: Use Monitor to troubleshoot Power Apps
+ description: Learn how the Monitor tool from Power Apps Studio can help you proactively identify, troubleshoot, and resolve issues within your app.
+ ms.date: 01/31/2024  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Use Monitor to troubleshoot Power Apps
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn how the Monitor tool from Power Apps Studio can help you proactively identify, troubleshoot, and resolve issues within your app.
+abstract: |  
+    In this module, you will learn how to: 
+    - Identify common problems when working with Power Apps and how to troubleshoot by using Monitor.
+    - Collaborate remotely.
+    - Interpret events logged.
+    - Use trace to log custom events.
+    
+prerequisites: Basic knowledge of working with Microsoft Power Apps
+iconUrl: /training/achievements/monitor-to-troubleshoot.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products: 
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.monitor-to-troubleshoot.1-introduction 
+- learn-bizapps.monitor-to-troubleshoot.2-common-problems 
+- learn-bizapps.monitor-to-troubleshoot.3-remote-collaboration 
+- learn-bizapps.monitor-to-troubleshoot.4-monitor-exercise 
+- learn-bizapps.monitor-to-troubleshoot.5-knowledge-check 
+- learn-bizapps.monitor-to-troubleshoot.6-summary 
+badge: 
+  uid: learn-bizapps.monitor-to-troubleshoot.badge

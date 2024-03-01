@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-input-output-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/10/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: If you need to pass parameters from a cloud flow into a desktop flow, where do you define these values?
+    choices:
+    - content: Run
+      isCorrect: false
+      explanation: Incorrect. Input/output variables allow you to establish parameters that you can send from a cloud flow. In addition, you can use output variables to send data back to cloud flows.
+    - content: Run next action
+      isCorrect: false
+      explanation: Incorrect. Input/output variables allow you to establish parameters that you can send from a cloud flow. In addition, you can use output variables to send data back to cloud flows.
+    - content: Input/output variables
+      isCorrect: true
+      explanation: Correct. Input/output variables allow you to establish parameters that you can send from a cloud flow. In addition, you can use output variables to send data back to cloud flows.
+    - content: None of the above
+      isCorrect: false
+      explanation: Incorrect. Input/output variables allow you to establish parameters that you can send from a cloud flow. In addition, you can use output variables to send data back to cloud flows.
+  - content: Which keyboard combination do you need to use when selecting the UI element in Power Automate for desktop?
+    choices:
+    - content: Shift + Right click
+      isCorrect: false
+      explanation: Incorrect. Ctrl + Left click is the correct keyboard combination.
+    - content: Shift + Left click
+      isCorrect: false
+      explanation: Incorrect. Ctrl + Left click is the correct keyboard combination.
+    - content: Ctrl + Left click
+      isCorrect: true
+      explanation: Correct. Ctrl + Left click is the correct keyboard combination.
+    - content: Ctrl + Right click
+      isCorrect: false
+      explanation: Incorrect. Ctrl + Left click is the correct keyboard combination.
+  - content: Which of the following actions will allow you to use Invoice ID in downstream desktop flow actions or is required to return the value to a cloud flow?
+    choices:
+    - content: Create a new list
+      isCorrect: false
+      explanation: Incorrect. The Set variable action is correct. You can set an output type of variable that captures the Invoice ID. It allows you to use the Invoice ID in downstream processes or to send back to your cloud flow that you create in a future module.
+    - content: Set variable
+      isCorrect: true
+      explanation: Correct. The Set variable action is correct. You can set an output type of variable that captures the Invoice ID. It allows you to use the Invoice ID in downstream processes or to send back to your cloud flow that you create in a future module.
+    - content: Add item to list
+      isCorrect: false
+      explanation: Incorrect. The Set variable action is correct. You can set an output type of variable that captures the Invoice ID. It allows you to use the Invoice ID in downstream processes or to send back to your cloud flow that you create in a future module.
+    - content: Increase variable
+      isCorrect: false
+      explanation: Incorrect. The Set variable action is correct. You can set an output type of variable that captures the Invoice ID. It allows you to use the Invoice ID in downstream processes or to send back to your cloud flow that you create in a future module.

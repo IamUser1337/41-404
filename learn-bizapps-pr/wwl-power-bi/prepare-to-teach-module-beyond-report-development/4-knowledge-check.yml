@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-beyond-report-development.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/17/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/4-knowledge-check.md)]
+quiz:
+  title: "Beyond report development"
+  questions:
+  - content: "Is it recommended that paginated report users be granted access to the workspace?"
+    choices:
+    - content: "Yes, this level of access is secure."
+      isCorrect: false
+      explanation: "That's incorrect. Reports should be shared or distributed."
+    - content: "Yes, this is required to use parameters."
+      isCorrect: false
+      explanation: "That's incorrect. Reports should be shared or distributed."
+    - content: "No, reports should be shared or distributed"
+      isCorrect: true
+      explanation: "That's correct. Reports should be shared or distributed."
+  - content: "Which of these orders is correct?"
+    choices:
+    - content: "Data Sources retrieve data from Datasets to deliver Fields."
+      isCorrect: false
+      explanation: "That's incorrect. Datasets retrieve data from Data Sources to deliver Fields."
+    - content: "Fields retrieve data from Data Sources to deliver Datasets."
+      isCorrect: false
+      explanation: "That's incorrect. Datasets retrieve data from Data Sources to deliver Fields."
+    - content: "Datasets retrieve data from Data Sources to deliver Fields."
+      isCorrect: true
+      explanation: "That's correct. Datasets retrieve data from Data Sources to deliver Fields."
+  - content: "Which of these is a recommended method for embedding reports?"
+    choices:
+    - content: "Using a link, iframe, or URL"
+      isCorrect: true
+      explanation: "That's correct. Recommended methods include using a link, iframe, or URL."
+    - content: ".jpg or .png image in an email"
+      isCorrect: false
+      explanation: "That's incorrect. Recommended methods include using a link, iframe, or URL."
+    - content: "Granting workspace access"
+      isCorrect: false
+      explanation: "That's incorrect. Recommended methods include using a link, iframe, or URL."

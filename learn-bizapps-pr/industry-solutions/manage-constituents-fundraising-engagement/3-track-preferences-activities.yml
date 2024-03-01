@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-constituents-fundraising-engagement.3-track-preferences-activities 
+title: Track constituent preferences and activities 
+metadata: 
+  title: Track constituent preferences and activities 
+  description: Learn how to track constituent preferences and activities.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-track-preferences-activities.md)] 

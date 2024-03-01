@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-dashboards-power-bi.quick-insights 
+title: Review Quick insights
+metadata: 
+  title: Review Quick insights 
+  description: Learn about Quick insights. 
+  ms.date: 12/19/2023
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](includes/4-quick-insights.md)] 

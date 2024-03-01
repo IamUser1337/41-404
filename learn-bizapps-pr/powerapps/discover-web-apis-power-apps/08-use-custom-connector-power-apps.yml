@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.discover-web-apis-power-apps.08-use-custom-connector-in-power-apps
+title: Exercise - Use the custom connector in Power Apps canvas app
+metadata:
+  title: Exercise - Use the custom connector in Power Apps canvas app
+  description: Call the web API from a Power Apps app using the custom connector
+  ms.date: 04/16/2021
+  author: justinyoo
+  ms.author: juyoo
+  ms.topic: unit
+  ms.contributors:
+  - juyoo-04262021
+durationInMinutes: 8
+content: | 
+  [!include[](includes/08-use-custom-connector-power-apps.md)]

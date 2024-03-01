@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-database-handling.3-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 02/02/2021 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: unit
+ 
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the name of the action that is used to run queries on a database after a connection has been established?
+    choices: 
+    - content: Open SQL Connection
+      isCorrect: false 
+      explanation: The Execute SQL Statement action is used to run queries.
+    - content: Execute SQL Statement
+      isCorrect: true 
+      explanation: The Execute SQL Statement action is used to run queries.
+    - content: Select from Database
+      isCorrect: false 
+      explanation: The Execute SQL Statement action is used to run queries.
+    - content: Run Query
+      isCorrect: false 
+      explanation: The Execute SQL Statement action is used to run queries.
+  - content: What kind of input is required for the Open SQL connection action?
+    choices: 
+    - content: An SQL statement.
+      isCorrect: false 
+      explanation: The Open SQL connection action requires a connection string.
+    - content: A connection string.
+      isCorrect: true 
+      explanation: That is correct!
+    - content: A list of the database's tables.
+      isCorrect: false 
+      explanation: The Open SQL connection action requires a connection string.
+    - content: The SQL connection variable.
+      isCorrect: false 
+      explanation: The Open SQL connection action requires a connection string.
+  - content: What input is required for the Close SQL Connection action?
+    choices: 
+    - content: The SQL connection variable.
+      isCorrect: true 
+      explanation: That is correct!
+    - content: The connection string.
+      isCorrect:  false
+      explanation: The Close SQL Connection action requires the SQL connection variable.
+    - content: An SQL statement.
+      isCorrect: false
+      explanation: The Close SQL Connection action requires the SQL connection variable.
+    - content: A list of the database's tables.
+      isCorrect: false 
+      explanation: The Close SQL Connection action requires the SQL connection variable.
+

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-dataverse-teams.dataverse-teams
+title: Dataverse for Teams vs Dataverse
+metadata: 
+  title: Dataverse for Teams vs Dataverse
+  description: Learn about the differences between Dataverse for Teams and Dataverse.
+  ms.date: 12/08/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/dataverse-teams.md)] 

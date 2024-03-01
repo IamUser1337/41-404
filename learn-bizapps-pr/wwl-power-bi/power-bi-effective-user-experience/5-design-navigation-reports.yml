@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-user-experience.5-design-navigation-reports 
+title: Design reports for navigation
+metadata: 
+  title: Design reports for navigation 
+  description: Different button options are available to help you configure report navigation experiences. 
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-design-navigation-reports.md)] 

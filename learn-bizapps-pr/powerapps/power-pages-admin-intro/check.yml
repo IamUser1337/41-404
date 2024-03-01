@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-admin-intro.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/12/2022
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What do you need to do to make a Power Pages site accessible only to selected makers and system administrators?
+    choices: 
+    - content: Set the site visibility to Private
+      isCorrect: true 
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. You can restrict access to specific people in your organization by making the site private. If you choose to make the site public, anyone with the link will have access.
+    - content: Set the site visibility to Makers Only
+      isCorrect: false 
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. You can restrict access to specific people in your organization by making the site private. If you choose to make the site public, anyone with the link will have access.
+    - content: Mark the site as private in the Portal Management app
+      isCorrect: false 
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. You can restrict access to specific people in your organization by making the site private. If you choose to make the site public, anyone with the link will have access.
+    - content: Set the site visibility to Public
+      isCorrect: false 
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. You can restrict access to specific people in your organization by making the site private. If you choose to make the site public, anyone with the link will have access.
+  - content: What security setting isn't available in the Set up workspace in Power Pages design studio?
+    choices: 
+    - content: Table permissions
+      isCorrect: false
+      explanation: The Set up workspace in Power Pages design studio allows you to manage multiple security settings for Power Pages, including identity providers, table permissions, and site visibility. Page permissions are managed in the Pages workspace.
+    - content: Page permissions
+      isCorrect: true 
+      explanation: The Set up workspace in Power Pages design studio allows you to manage multiple security settings for Power Pages, including identity providers, table permissions, and site visibility. Page permissions are managed in the Pages workspace.
+    - content: Identity providers
+      isCorrect: false 
+      explanation: The Set up workspace in Power Pages design studio allows you to manage multiple security settings for Power Pages, including identity providers, table permissions, and site visibility. Page permissions are managed in the Pages workspace.
+    - content: Site visibility
+      isCorrect: false 
+      explanation: The Set up workspace in Power Pages design studio allows you to manage multiple security settings for Power Pages, including identity providers, table permissions, and site visibility. Page permissions are managed in the Pages workspace.
+  - content: Which one of the following tools isn't part of the Power Pages administrative toolset?
+    choices: 
+    - content: Portal Management app
+      isCorrect: false
+      explanation: Microsoft Power Platform provides a set of tools to help you administer, set up, and customize a Power Pages site to meet specific business requirements. Tools that are available to administrators include Power Pages design studio, the Portal Management app, and multiple admin centers. No tool called Visual Studio Code for Administrators is available.
+    - content: Power Pages admin center 
+      isCorrect: false 
+      explanation: Microsoft Power Platform provides a set of tools to help you administer, set up, and customize a Power Pages site to meet specific business requirements. Tools that are available to administrators include Power Pages design studio, the Portal Management app, and multiple admin centers. No tool called Visual Studio Code for Administrators is available.
+    - content: Microsoft Power Platform admin center
+      isCorrect: false
+      explanation: Microsoft Power Platform provides a set of tools to help you administer, set up, and customize a Power Pages site to meet specific business requirements. Tools that are available to administrators include Power Pages design studio, the Portal Management app, and multiple admin centers. No tool called Visual Studio Code for Administrators is available.
+    - content: Visual Studio Code for Administrators
+      isCorrect: true 
+      explanation: Microsoft Power Platform provides a set of tools to help you administer, set up, and customize a Power Pages site to meet specific business requirements. Tools that are available to administrators include Power Pages design studio, the Portal Management app, and multiple admin centers. No tool called Visual Studio Code for Administrators is available.

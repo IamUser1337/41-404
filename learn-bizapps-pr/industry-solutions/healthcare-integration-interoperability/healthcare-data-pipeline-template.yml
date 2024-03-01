@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-integration-interoperability.healthcare-data-pipeline-template
+title: Deploy the Healthcare data pipeline template
+metadata:
+  title: Deploy the Healthcare data pipeline template
+  description: Learn how to deploy the Healthcare data pipeline template.
+  ms.date: 11/22/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/healthcare-data-pipeline-template.md)]

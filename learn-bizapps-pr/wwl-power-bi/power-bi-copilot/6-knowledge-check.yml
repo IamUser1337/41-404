@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-copilot.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Check your knowledge of Power BI Copilot."
+  ms.date: 11/8/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+durationInMinutes: 3
+content: |
+quiz:
+  title: Check your knowledge
+  questions:
+  - content: "Which types of Copilots are available for Power BI?"
+    choices:
+    - content: "Create reports, Create a narrative summary, Create a page summary"
+      isCorrect: true
+      explanation: "Correct. Copilot can create reports, narrative summaries, and page summaries."
+    - content: "Create semantic models, Create reports, Create dashboards"
+      isCorrect: false
+      explanation: "Incorrect. Copilot doesn't support creating semantic models or dashboards."
+    - content: "Create data sources, Create relationships, Create reports"
+      isCorrect: false
+      explanation: "Incorrect. Copilot doesn't support creating data sources or relationships."
+  - content: "What is a limitation when using Copilot to create a report?" 
+    choices:
+    - content: "No limitations apply for Copilot use"
+      isCorrect: false
+      explanation: "Incorrect. You must properly prepare the semantic model before using Copilot."
+    - content: "A semantic model can't be bigger than 1-MB file"
+      isCorrect: false
+      explanation: "Incorrect. Semantic model size may affect the Copilot experience, but there's not a maximum file size."
+    - content: "A semantic model free of inconsistencies, errors, and duplicate values"
+      isCorrect: true
+      explanation: "Correct. You must first create a semantic model to ensure Copilot can effectively create a report."
+  - content: "What tool should you use to evaluate and prepare your data for use with Power BI Copilot?"
+    choices:
+    - content: "Power BI Report Server"
+      isCorrect: false
+      explanation: "Incorrect. Power BI Report Server is a tool for on-premises reporting, not modifying semantic models."
+    - content: "Power BI Desktop"
+      isCorrect: true
+      explanation: "Correct. Power Query Editor is a feature within Power BI Desktop that allows you to transform data."
+    - content: "Power BI service"
+      isCorrect: false
+      explanation: "Incorrect. Copilot runs in the Power BI service, but you need to transform the data in Power Query Editor first."

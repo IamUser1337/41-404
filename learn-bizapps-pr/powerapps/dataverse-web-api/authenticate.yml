@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.authenticate
+title: Authenticate against Microsoft Dataverse using OAuth
+metadata:
+  title: Authenticate against Dataverse using OAuth
+  description: Learn how to authenticate against Dataverse using OAuth.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/authenticate.md)]

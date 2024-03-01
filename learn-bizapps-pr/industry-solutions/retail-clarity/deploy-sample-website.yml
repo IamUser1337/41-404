@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-clarity.deploy-sample-website 
+title: Exercise 1 - Deployment of a sample custom website
+metadata: 
+  title: Exercise 1 - Deployment of a sample custom website
+  description: Learn about deploying a sample custom website.
+  ms.date: 04/22/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/deploy-sample-website.md)] 

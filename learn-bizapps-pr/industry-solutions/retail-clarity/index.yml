@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.retail-clarity 
+metadata: 
+ title: Analyze insights with Microsoft Clarity
+ description: Learn about Microsoft Clarity used along with Microsoft Cloud for Retail.
+ ms.date: 04/22/2022  
+ author: lavanyapg
+ ms.author: lsuresh 
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Analyze insights with Microsoft Clarity
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Shopper and operations analytics priority helps you unlock omnichannel insights with advanced analytics. With shopper and operations analytics, you can predict customer and operational needs, monitor and understand online engagement, and unify data integration, warehousing, and analytics. 
+abstract: |  
+    In this module, you’ll: 
+    - Create a Microsoft Clarity project.
+    - Integrate Microsoft Clarity with a custom website. 
+    - Interact with Microsoft Clarity dashboards, heatmaps, and recordings.
+prerequisites: | 
+    - Microsoft Azure subscription and an Azure resource group 
+    - Latest version of Visual Studio Code
+    - Latest version of .NET 6.0 SDK
+    - C#
+    - Azure App Service
+iconUrl: /training/achievements/retail-clarity.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+- business-user  
+products: 
+- mscloud-retail
+- industry-solutions
+- clarity 
+subjects:
+- business-applications
+units: 
+- learn-bizapps.retail-clarity.introduction 
+- learn-bizapps.retail-clarity.install-prerequisites 
+- learn-bizapps.retail-clarity.deploy-sample-website 
+- learn-bizapps.retail-clarity.configure-clarity 
+- learn-bizapps.retail-clarity.explore-usage-data 
+- learn-bizapps.retail-clarity.check 
+- learn-bizapps.retail-clarity.summary 
+badge: 
+  uid: learn-bizapps.retail-clarity.badge 

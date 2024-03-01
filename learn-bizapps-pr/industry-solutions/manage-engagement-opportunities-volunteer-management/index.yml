@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.manage-engagement-opportunities-volunteer-management 
+metadata: 
+ title: Manage engagement opportunities with Volunteer Management
+ description: In this module, you will learn how to set up engagement opportunities in Volunteer Management within Microsoft Cloud for Nonprofit. You will learn how to add descriptions, location, required qualifications, and preferences, and how to set up a shift schedule. 
+ ms.date: 11/01/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-nonprofit
+title: Manage engagement opportunities with Volunteer Management
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  In this module you will learn how to set up engagement opportunities in Volunteer Management. You will learn how to add descriptions, location, required qualifications, and preferences, and how to set up a shift schedule. You will also learn how to configure settings to send automated messages to participants, and how to configure which details about the engagement will be visible if you choose to publish the engagement to the Volunteer Engagement portal.  
+abstract: |  
+    In this module, you will: 
+    - Create a new engagement opportunity
+    - Set description, location, requirements, and schedule for an engagement opportunity
+    - Configure message settings to automatically send messages to participants at key stages
+    - Configure post settings for an engagement opportunity
+    - Publish an engagement opportunity
+    - View a summary of an engagement opportunity
+prerequisites: None
+iconUrl: /training/achievements/manage-engagement-opportunities-volunteer-management.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.1-introduction 
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.2-engagement-opportunities 
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.3-create-engagement-opportunity 
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.4-schedules 
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.5-exercise 
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.6-check 
+- learn-bizapps.manage-engagement-opportunities-volunteer-management.7-summary 
+badge: 
+  uid: learn-bizapps.manage-engagement-opportunities-volunteer-management.badge

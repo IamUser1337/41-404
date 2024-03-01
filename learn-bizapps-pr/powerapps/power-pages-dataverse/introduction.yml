@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-dataverse.introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to accessing Microsoft Dataverse data in Power Pages websites 
+  ms.date: 05/26/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

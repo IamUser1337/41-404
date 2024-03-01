@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.access-cloud-sustainability.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/30/2024 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 8
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following options is the first step that you would set up to access sustainability data through Dataverse API with .NET 6 with MSAL? 
+    choices: 
+    - content: Locate the endpoint of your Dataverse environment.
+      isCorrect: true 
+      explanation: Correct. As a first step, you need to locate the endpoint of your Dataverse environment.
+    - content: Register an application with Microsoft Entra ID and create a service principal.
+      isCorrect: false 
+      explanation: Incorrect. You can register an application with Microsoft Entra ID only after you locate the endpoint of your Dataverse environment.
+    - content: Create a .NET 6 console app to query the Emission table.
+      isCorrect: false 
+      explanation: Incorrect. You can create a .NET console app only after you locate the endpoint of your Dataverse environment.
+  - content: Which of the following options is a prerequisite for querying data by using Azure Synapse Link for Dataverse?
+    choices: 
+    - content: The storage account must be added as a pipeline within Synapse Studio. 
+      isCorrect: false 
+      explanation: Incorrect. The storage account must be added as a linked service within Synapse Studio. 
+    - content: The storage account and Synapse workspace must be created in a different Microsoft Entra ID tenant as your Power Apps tenant.
+      isCorrect: false 
+      explanation: Incorrect. The storage account and Synapse workspace must be created in the same Microsoft Entra ID tenant as your Power Apps tenant.
+    - content: The storage account and Synapse workspace must be created in the same region as the Power Apps environment that you’ll use the feature in.
+      isCorrect: true
+      explanation: Correct. The storage account and Synapse workspace must be created in the same region as the Power Apps environment that you’ll use the feature in.
+  - content: You want to confirm that your Dataverse data is linked to Synapse Analytics. When the query script is generated, you select Run. However, you’re encountering an error stating that the content can’t be displayed. Which of the following options could be the reason for the error?
+    choices: 
+    - content: You should have the Storage Blob Data Owner role at the resource level.
+      isCorrect: true 
+      explanation: Correct. You must be assigned the Storage Blob Data Owner role to query data from Synapse.
+    - content: You should have the Owner role at the resource level.
+      isCorrect: false 
+      explanation: Incorrect. The Owner role at resource level isn’t enough to query data from Synapse.
+    - content: You should have the Contributor role at the resource level.
+      isCorrect: false 
+      explanation: Incorrect. The Contributor role at resource level isn’t enough to query data from Synapse.
+

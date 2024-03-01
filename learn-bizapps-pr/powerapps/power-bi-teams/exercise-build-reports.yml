@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-teams.exercise-build-reports 
+title: Exercise - Build your report in Teams
+metadata: 
+  title: Exercise - Build your report in Teams
+  description: Learn how to build your report in Teams.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-build-reports.md)] 

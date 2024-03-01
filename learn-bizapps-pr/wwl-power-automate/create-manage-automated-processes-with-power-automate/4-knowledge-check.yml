@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.create-manage-automated-processes-with-power-automate.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 10/19/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: interactive-tutorial
+  ms.service: power-automate
+durationInMinutes: 3
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "What is the best way to configure a flow to run Monday through Friday each week?"
+    choices:
+    - content: "Create a scheduled flow, set to repeat each week, and then enable Monday, Tuesday, Wednesday, Thursday, and, Friday."
+      isCorrect: true
+      explanation: "Correct, you can specify the days of the week when setting the schedule in weeks."
+    - content: "Create two scheduled flows, schedule each flow with a different start date, and then set it to repeat in seven days."
+      isCorrect: false
+      explanation: "Incorrect, create a single scheduled flow, and set to repeat each week, and enable Monday, Tuesday, Wednesday, Thursday, and, Friday."
+    - content: "Create an automated flow that triggers based on a specific calendar entry."
+      isCorrect: false
+      explanation: "Incorrect, create a scheduled flow. Then set the flow to repeat each week, and enable Monday, Tuesday, Wednesday, Thursday, and, Friday."
+  - content: "When a new sales opportunity is added to the Dataverse table, what should be the Status column default?"
+    choices:
+    - content: "New"
+      isCorrect: true
+      explanation: "Correct, the Status should always default to New when adding a sales opportunity."
+    - content: "Open"
+      isCorrect: false
+      explanation: "Incorrect, the Status should always default to New when adding a sales opportunity."
+    - content: "Closed"
+      isCorrect: false
+      explanation: "Incorrect, the Status should always default to New when adding a sales opportunity."
+  - content: "Every flow has two main parts, a trigger, and one or more actions. Which of the following best describes an action?"
+    choices:
+    - content: "Actions trigger the frequency of the flow reoccurrence."
+      isCorrect: false
+      explanation: "Incorrect, actions are what you want to happen when a trigger is invoked."
+    - content: "Actions are what you want to happen when a trigger is invoked."
+      isCorrect: true
+      explanation: "Correct, triggers invoke actions."
+    - content: "Triggers are what you want to happen when an action is invoked."
+      isCorrect: false
+      explanation: "Incorrect, actions are what you want to happen when a trigger is invoked."
+  - content: "How can Power Automate help to create an alert when a change is made to the sales opportunity list?"
+    choices:
+    - content: "Add a column to the sales opportunity list that includes the date of the most recent change."
+      isCorrect: false
+      explanation: "Incorrect, a flow can be created so that when the trigger is invoked, alerts are sent to respective parties."
+    - content: "Create a new table where individuals identify when changes are made."
+      isCorrect: false
+      explanation: "Incorrect, a flow can be created so that when the trigger is invoked, alerts are sent to respective parties."
+    - content: "Write a flow with Power Automate to send push notifications, texts, or emails for various triggers."
+      isCorrect: true
+      explanation: "Correct, a flow can be created so that when the trigger is invoked, alerts are sent to respective parties."

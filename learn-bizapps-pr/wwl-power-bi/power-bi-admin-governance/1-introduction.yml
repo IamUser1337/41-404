@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-governance.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to provide governance in a Power BI environment
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

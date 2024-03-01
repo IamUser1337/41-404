@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-apps.power-platform-you
+title: Describe Power Apps
+metadata:
+  title: Describe Power Apps
+  description: "Power Apps is a no-code/low-code platform for building apps."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/2-describe-power-apps.md)]

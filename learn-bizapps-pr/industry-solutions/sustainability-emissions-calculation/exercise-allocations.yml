@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-emissions-calculation.exercise-allocations
+title: Exercise - Create allocation profiles and run calculations
+metadata:
+  title: Exercise - Create allocation profiles and run calculations
+  description: Follow the steps to create allocation methods and an allocation profile in Microsoft Cloud for Sustainability.
+  ms.date: 11/10/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-allocations.md)]

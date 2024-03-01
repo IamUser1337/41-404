@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-insights-reporting
+metadata:
+ title: Build reports and review insights
+ description: This lab provides insights into the emission activity trends in Microsoft Cloud for Sustainability.
+ ms.date: 09/27/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Build reports and review insights
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module focuses on how to generate emissions reports and activity reports, and review Power BI dashboards.
+abstract: |
+    In this module, you:
+    - Analyze various sustainability dashboards.
+    - Generate an emissions report.
+    - Generate an activity report.
+    - Review Power BI insights.
+prerequisites: |
+  - Microsoft Sustainability manager environment is set up with sample data
+  - Previous module - Organization and reference data is entered
+  - Previous module - Activity data is ingested
+  - Previous module - Emissions are calculated
+iconUrl: /learn/achievements/sustainability-insights-reporting.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-insights-reporting.introduction
+- learn-bizapps.sustainability-insights-reporting.exercise-sustainability-dashboards
+- learn-bizapps.sustainability-insights-reporting.exercise-generate-report
+- learn-bizapps.sustainability-insights-reporting.check
+- learn-bizapps.sustainability-insights-reporting.summary
+badge:
+  uid: learn-bizapps.sustainability-insights-reporting.badge

@@ -1,0 +1,1 @@
+Congratulations, you now know how to get data into Power BI Desktop and how to shape or transform that data so you can create compelling visuals.

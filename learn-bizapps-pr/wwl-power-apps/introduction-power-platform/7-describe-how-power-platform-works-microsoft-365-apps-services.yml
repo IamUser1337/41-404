@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.describe-how-power-platform-works-microsoft-365-apps-services
+title: Describe how Power Platform works with Microsoft 365 apps and services
+metadata:
+  title: Describe how Power Platform works with Microsoft 365 apps and services
+  description: "Describe how Power Platform works with Microsoft 365 apps and services such as Office 365 Outlook, Excel, and Sharepoint."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 3
+content: |
+  [!include[](includes/7-describe-how-power-platform-works-microsoft-365-apps-services.md)]

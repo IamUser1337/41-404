@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-filters.5-consumption-time
+title: Consumption-time filtering
+metadata:
+  title: Consumption-time filtering
+  description: "Learn about consumption-time filtering."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/5-consumption-time.md)]

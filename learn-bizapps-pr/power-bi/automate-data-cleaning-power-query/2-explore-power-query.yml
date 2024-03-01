@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.automate-data-cleaning-power-query.2-explore-power-query 
+title: Explore the Power Query user interface
+metadata: 
+  title: Explore the Power Query user interface
+  description: Learn how to find Power Query in Excel (also known as the Power Query Editor).
+  ms.date: 09/09/2021 
+  author: DougKlopfenstein
+  ms.author: dougklo
+  ms.topic: unit
+durationInMinutes: 5
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-explore-power-query.md)] 

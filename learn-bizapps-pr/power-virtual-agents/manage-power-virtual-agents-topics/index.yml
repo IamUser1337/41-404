@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.manage-power-virtual-agent-topics
+metadata:
+ title: Manage topics in Microsoft Copilot Studio
+ description: This module you're introduced to the basic principles of topics such as trigger phrases and conversation paths and how to create them.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: copilot-studio
+title: Manage topics in Microsoft Copilot Studio
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In Microsoft Copilot Studio, topics are used to small conversations related to a specific subject.  A Microsoft Copilot Studio bot typically includes many topics. This module you're introduced to the basic principles of topics such as trigger phrases and conversation paths and how to create them.
+abstract: |
+    This module explains how to:
+    - Use topics to create and manage conversation paths in a bot.
+    - Work with topic triggers and conversation nodes.
+    - Add branching to a topic.
+    - Use system topics and create topics from content.
+    - Set up fall-back topics to handle unrecognized user input.
+prerequisites: Experience with Microsoft Copilot Studio.
+iconUrl: /learn/achievements/manage-power-virtual-agent-topics.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+- ms-copilot
+units:
+- learn-bizapps.manage-power-virtual-agent-topics.1-introduction
+- learn-bizapps.manage-power-virtual-agent-topics.2-topics
+- learn-bizapps.manage-power-virtual-agent-topics.3-branch
+- learn-bizapps.manage-power-virtual-agent-topics.5-variables
+- learn-bizapps.manage-power-virtual-agent-topics.6-fall-back-topics
+- learn-bizapps.manage-power-virtual-agent-topics.7-manage-topics
+- learn-bizapps.manage-power-virtual-agent-topics.8-check
+- learn-bizapps.manage-power-virtual-agent-topics.9-summary
+badge:
+  uid: learn-bizapps.manage-power-virtual-agent-topics.badge

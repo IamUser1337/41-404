@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.specialized-components-model-form.embed-canvas-app
+title: Embed a canvas app in a model-driven form
+metadata:
+  title: Embed a canvas app in a model-driven form
+  description: Learn how to embed a canvas app in a model-driven form in classic and modern views.
+  ms.date: 06/21/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/embed-canvas-app.md)]

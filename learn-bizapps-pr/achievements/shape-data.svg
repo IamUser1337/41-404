@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Work with data in a canvas app in PowerApps/shape-data-filtering-criteria-conditions-in-a-canvas-app-in-powerapps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-12.9%" y="-13.3%" width="125.8%" height="126.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0956465127 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M22.4268511,10.862069 L30.3417447,10.862069 L19.7885532,0 L19.7885532,8.14655172 C19.7885532,9.64008621 20.9757872,10.862069 22.4268511,10.862069" id="path-4"></path>
+        <filter x="-9.5%" y="-9.2%" width="119.0%" height="136.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M17.1920475,42.9846034 L17.1920475,23.2277316 C17.1920475,23.1176837 17.1557414,23.0107097 17.0887582,22.9233953 L2.3855579,3.75737407 L42.0492083,3.75737407 L27.3498007,22.92341 C27.2828414,23.0107158 27.2465494,23.1176702 27.2465494,23.2276968 L27.2465494,34.4340543 C27.2465494,34.571628 27.1898646,34.7031234 27.0898416,34.7975794 L18.0353396,43.3481285 C17.8345703,43.5377235 17.5181174,43.5286649 17.3285224,43.3278956 C17.2408752,43.2350826 17.1920475,43.1122603 17.1920475,42.9846034 Z" id="path-6"></path>
+        <filter x="-2.5%" y="-2.5%" width="105.0%" height="109.8%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-with-data-in-a-canvas-app-in-PowerApps" transform="translate(-50.000000, -260.000000)">
+            <g id="Work-with-data-in-a-canvas-app-in-PowerApps/shape-data-filtering-criteria-conditions-in-a-canvas-app-in-powerapps" transform="translate(50.000000, 260.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#965596" xlink:href="#path-1"></use>
+                    <g id="Data" mask="url(#mask-2)">
+                        <g transform="translate(33.000000, 16.000000)">
+                            <g id="Group-12" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g id="Paper-Certified" filter="url(#filter-3)">
+                                    <path d="M0.00131914894,2.71551724 L0.00131914894,26.408287 C0.00131914894,27.9018214 1.18855319,29.1238042 2.63961702,29.1238042 L27.7034468,29.1238042 C29.1551702,29.1238042 30.3417447,27.9018214 30.3417447,26.408287 L30.3417447,10.862069 L19.7885532,0 L2.63961702,0 C1.18855319,0 0.00131914894,1.22198276 0.00131914894,2.71551724 Z" id="Fill-1" fill="#FFFFFF"></path>
+                                    <g id="Fill-2">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                        <use fill="#C4CBCD" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                    </g>
+                                </g>
+                                <g id="Graph" transform="translate(5.292683, 5.948276)" fill-rule="nonzero">
+                                    <rect id="Blue" fill="#55B7D9" x="0" y="4.07327586" width="3.25904121" height="12.2198276"></rect>
+                                    <rect id="Red" fill="#DF5142" x="5.21446594" y="0" width="3.25904121" height="16.2931034"></rect>
+                                    <rect id="Green" fill="#7CB65A" x="10.4289319" y="6.7887931" width="3.25904121" height="9.50431034"></rect>
+                                    <rect id="Green" fill="#F7CB64" x="15.6433978" y="10.1831897" width="3.25904121" height="6.10991379"></rect>
+                                </g>
+                            </g>
+                            <polygon id="Path-31" fill="#E6E6E6" fill-rule="nonzero" points="28.2323775 10.8237695 30.2990442 10.8237695 30.292055 12.892735"></polygon>
+                        </g>
+                    </g>
+                    <g id="Funnel" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(26.000000, 41.000000)">
+                            <g id="Path-112" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                <use fill="#D3DAD8" xlink:href="#path-6"></use>
+                            </g>
+                            <path d="M17.2152937,38.2283275 L21.1335226,34.5024063 C22.1261103,33.558535 22.688024,32.2487902 22.688024,30.8790736 L22.688024,12.9944414 C22.688024,10.2330177 24.9266002,7.99444144 27.688024,7.99444144 L39.0407697,7.99444144 L27.3730469,23.2075712 C27.3060876,23.294877 27.2697956,23.4018314 27.2697956,23.511858 L27.2697956,34.7182154 C27.2697956,34.8557892 27.2131108,34.9872846 27.1130878,35.0817405 L18.0585858,43.6322897 C17.8578165,43.8218847 17.5413636,43.8128261 17.3517686,43.6120567 C17.2641214,43.5192438 17.2152937,43.3964215 17.2152937,43.2687646 L17.2152937,38.2283275 Z" id="Combined-Shape" fill="#E1E4E1"></path>
+                            <rect id="Rectangle" fill="#ADBDC4" x="0" y="0" width="44" height="4.09302326" rx="2"></rect>
+                            <path d="M2,0 L42,0 C43.1045695,-2.02906125e-16 44,0.8954305 44,2 L44,2.04651163 L0,2.04651163 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="#BAC0C2"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="PowerApps-Border" stroke="#742774" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-store-operations-assist-teams-approvals.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/18/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: interactive-tutorial
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following options aren't available for tasks in the Approvals app?
+    choices:
+    - content: Approve the request
+      isCorrect: false
+      explanation: Incorrect. The options for tasks in the Approvals app are Approve, Reject, and Reassign.
+    - content: Reject the request
+      isCorrect: false
+      explanation: Incorrect. The options for tasks in the Approvals app are Approve, Reject, and Reassign.
+    - content: Edit the request
+      isCorrect: true
+      explanation: Correct. The options for tasks in the Approvals app are Approve, Reject, and Reassign.
+    - content: Reassign the request
+      isCorrect: false
+      explanation: Incorrect. The options for tasks in the Approvals app are Approve, Reject, and Reassign.
+  - content: Which of the following cloud flows should you enable to sync requests in Store Operations Assist with the Approvals app in Teams?
+    choices:
+    - content: When a task row is added or modified
+      isCorrect: false
+      explanation: Incorrect. You should enable the Teams Approvals for Requests flow to sync requests in Store Operations Assist with Approvals in Teams.
+    - content: Teams Approvals for Requests
+      isCorrect: true
+      explanation: Correct. You should enable the Teams Approvals for Requests flow to sync requests in Store Operations Assist with Approvals in Teams.
+    - content: When a request row is added or modified
+      isCorrect: false
+      explanation: Incorrect. You should enable the Teams Approvals for Requests flow to sync requests in Store Operations Assist with Approvals in Teams.
+    - content: Send approval and follow up with Teams
+      isCorrect: false
+      explanation: Incorrect. You should enable the Teams Approvals for Requests flow to sync requests in Store Operations Assist with Approvals in Teams.
+  - content: Which of the following details can't you modify after creating the task after it's synced to the Approvals app?
+    choices:
+    - content: Assignee
+      isCorrect: false
+      explanation: Incorrect. You can't modify any details of a request after it's synced to the Approvals app; otherwise, it's out of sync.
+    - content: Priority
+      isCorrect: false
+      explanation: Incorrect. You can't modify any details of a request after it's synced to the Approvals app; otherwise, it's out of sync.
+    - content: Name
+      isCorrect: false
+      explanation: Incorrect. You can't modify any details of a request after it's synced to the Approvals app; otherwise, it's out of sync.
+    - content: All of the options
+      isCorrect: true
+      explanation: Correct. You can't modify any details of a request after it's synced to the Approvals app; otherwise, it's out of sync.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.connect-cloud-desktop-flow.cloud-flow 
+title: Create a new cloud flow 
+metadata: 
+  title: Create a new cloud flow  
+  description: Learn how to create a new cloud flow.  
+  ms.date: 12/26/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/cloud-flow.md)] 

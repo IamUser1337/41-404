@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-bi.build-basic-dashboard
+title: Build a basic dashboard
+metadata:
+  title: Build a basic dashboard
+  description: "Introduction to the process of building a Power BI dashboard."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 12
+content: |
+  [!include[](includes/6-build-basic-dashboard.md)]

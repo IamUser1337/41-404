@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-emissions-impact-dashboards.install-dashboard-connect-data 
+title: Install the dashboard and connect to your organization's data
+metadata: 
+  title: Install the dashboard and connect to your organization's data
+  description: Learn about installing the dashboard and connecting to your organization's data.
+  ms.date: 02/08/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/install-dashboard-connect-data.md)] 

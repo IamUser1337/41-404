@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.incorporate-maps-address
+metadata:
+ title: Use the Map and Address Input controls in your app
+ description: In this module, you'll learn about the maps and address input controls in relation to the business value that they add to Power Apps.
+ ms.date: 08/31/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Use the Map and Address Input controls in your app
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Power Apps offers several geolocational controls that you can add to apps to provide robust functionality, which was previously done through complex coding and multiple controls that worked in tandem. This module reviews the maps and address input controls in relation to the business value that they add to apps from Power Apps.
+abstract: |
+    In this module, you'll:
+    - Identify the use cases for maps and address inputs in a canvas app.
+    - Identify how a map and address inputs interact with each other in a canvas app.
+    - Build a canvas app with map and address input fields.
+    - Identify the aspects of interactive maps.
+    - Pin locations on a map from a data source.
+    - Learn about geolocation and signals in a canvas app.
+prerequisites: None
+iconUrl: /training/achievements/incorporate-maps-address.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- data-modeling
+units:
+- learn-bizapps.incorporate-maps-address.introduction
+- learn-bizapps.incorporate-maps-address.configure-address-input
+- learn-bizapps.incorporate-maps-address.exercise
+- learn-bizapps.incorporate-maps-address.configure-map-control
+- learn-bizapps.incorporate-maps-address.build-canvas-app
+- learn-bizapps.incorporate-maps-address.additional-features
+- learn-bizapps.incorporate-maps-address.check
+- learn-bizapps.incorporate-maps-address.summary
+badge:
+  uid: learn-bizapps.incorporate-maps-address.badge

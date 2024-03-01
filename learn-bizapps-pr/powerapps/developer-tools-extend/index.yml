@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.developer-tools-extend 
+metadata: 
+ title: Use developer tools to extend Power Platform
+ description: This module will focus on the available developer tools that can help you perform development activities with Power Platform.
+ ms.date: 09/27/2023
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: powerapps 
+ ms.subservice: dataverse-developer 
+title: Use developer tools to extend Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will focus on the available developer tools that can help you perform development activities with Microsoft Power Platform.
+abstract: |  
+    In this module, you will: 
+    - Install NuGet packages available for Microsoft Power Platform development 
+    - Work with the Configuration Migration tool 
+    - Work with Package Deployer 
+    - Leverage Solution Packager to isolate features 
+    - Run the Plugin Registration Tool 
+prerequisites: |
+    - Basic understanding regarding Microsoft Power Platform and how users access Microsoft Dynamics 365. 
+    - Basic understanding of access to different features depending on user licenses is also beneficial.
+iconUrl: /training/achievements/developer-tools-extend.svg  
+levels:  
+- advanced  
+roles:  
+- developer  
+- functional-consultant 
+products:  
+- dynamics-365  
+- power-platform
+- power-apps
+- dataverse
+units: 
+- learn-bizapps.developer-tools-extend.introduction 
+- learn-bizapps.developer-tools-extend.exercise
+- learn-bizapps.developer-tools-extend.solution-packager 
+- learn-bizapps.developer-tools-extend.package-deploy
+- learn-bizapps.developer-tools-extend.exercise-tools 
+- learn-bizapps.developer-tools-extend.check 
+- learn-bizapps.developer-tools-extend.summary 
+badge: 
+  uid: learn-bizapps.developer-tools-extend.badge 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-expressions.2-get-started 
+title: Get started with expressions
+metadata: 
+  title: Get started with expressions 
+  description: Learn about getting started with expressions.  
+  ms.date: 10/01/2020 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-get-started.md)] 

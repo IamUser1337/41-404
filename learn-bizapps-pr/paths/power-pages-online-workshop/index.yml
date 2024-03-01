@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-pages-online-workshop
+metadata:
+  title: Build websites with Power Pages - Online Workshop
+  description: Learn how to create websites with Power Pages.
+  ms.date: 06/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Build websites with Power Pages - Online Workshop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  With Power Pages - the newest member of the Power Platform - anyone can build an enterprise trusted and secure low-code website quickly. This online workshop is designed for walking prospective makers through end-to-end creation of a Power Pages website.
+prerequisites: |
+  - It's recommended to complete [Create a machine ordering app with Power Apps - Online Workshop](/training/paths/power-apps-online-workshop/).
+  - Current version of Microsoft Edge or Google Chrome.
+iconUrl: /training/achievements/power-pages-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.power-pages-introduction-online-workshop
+- learn-bizapps.power-pages-styling-workspace-online-workshop
+- learn-bizapps.power-pages-workspace-site-design-online-workshop 
+- learn-bizapps.power-pages-solution-explorer-online-workshop
+- learn-bizapps.power-pages-data-workspace-online-workshop 
+- learn-bizapps.power-pages-workspace-data-components-online-workshop
+- learn-bizapps.power-pages-workspace-setup-online-workshop
+trophy:
+  uid: learn.power-power-pages-online-workshop.trophy

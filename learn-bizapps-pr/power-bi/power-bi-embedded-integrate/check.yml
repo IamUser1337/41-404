@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-integrate.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/07/2022
+ author: mberdugo
+ manager: kfollis 
+ ms.author: monaberdugo
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Gareth is a developer at Tailspin Toys. Gareth wants the app to open a dialog window when a user selects a state/province of a map visual from an embedded Power BI report. Which event should Gareth's app respond to?
+    choices:
+    - content: The `buttonClicked` event
+      isCorrect: false
+      explanation: Incorrect. The app raises the `buttonClicked` event when a user selects a Power BI report button.
+    - content: The `commandTriggered` event
+      isCorrect: false
+      explanation: Incorrect. The app raises the `commandTriggered` event when a user selects a command from a context menu.
+    - content: The `dataSelected` event
+      isCorrect: true
+      explanation: Correct. The app raises the `dataSelected` event when a user selects an element of a visual, such as a region of a map.
+    - content: The `visualClicked` event
+      isCorrect: false
+      explanation: Incorrect. The app raises the `visualClicked` event when a user selects a visual.
+  - content: Phoebe is a developer at Tailspin Toys who wants to allow users to store a specific Power BI report page state, including filters. Users should be able to reapply that state again within the same report session. Which client API operation should Phoebe use to store the report page state?
+    choices:
+    - content: Add report filters
+      isCorrect: false
+      explanation: Incorrect. Adding report filters doesn't capture a specific report page state. Instead, it filters the entire report.
+    - content: Apply the bookmark state
+      isCorrect: false
+      explanation: Incorrect. Applying the bookmark state doesn't capture a specific report page state. Instead, it overwrites the report page state with the bookmark state.
+    - content: Apply a custom layout
+      isCorrect: false
+      explanation: Incorrect. Applying a custom layout doesn't capture a specific report page state. Instead, it changes the report page layout.
+    - content: Capture the bookmark state
+      isCorrect: true
+      explanation: Correct. Capturing the bookmark state stores a specific report page state so that the user can reapply it later.
+  - content: Itzik is a developer at Tailspin Toys who wants to allow users to personalize visuals. Which client API function should Itzik's app use?
+    choices:
+    - content: The `applyTheme` function
+      isCorrect: false
+      explanation: Incorrect. The `applyTheme` function applies a new theme to the report page. It can't personalize a visual.
+    - content: The `customLayout` function
+      isCorrect: false
+      explanation: Incorrect. The `customLayout` function applies a new layout to the report page. It can't personalize a visual.
+    - content: The `createVisual` function
+      isCorrect: true
+      explanation: Correct. The `createVisual` function adds a new visual with a default layout to the authoring page.
+    - content: The `updateSettings` function
+      isCorrect: false
+      explanation: Incorrect. The `updateSettings` function applies new settings to an embedded artifact. It can't personalize a visual.

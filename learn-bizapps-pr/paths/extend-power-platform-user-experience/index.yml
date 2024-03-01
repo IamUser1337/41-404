@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.extend-power-platform-user-experience
+metadata:
+  title: Extend Power Platform user experience with model-driven apps
+  description: Learn how to extend Power Platform user experience with model-driven apps.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+title: Extend Power Platform user experience with model-driven apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Create client scripting, perform common actions with client script, and automate business process flow with client script is covered in this learning path. Learn about what client script can do, rules, and maintaining scripts. Discover when to use client script and when not to use client script.
+prerequisites: |
+  - A basic understanding of how to navigate the Dynamics 365 application.
+  - Experience with Power Apps, Power Automate, and Power BI.
+  - General developer experience.
+iconUrl: /learn/achievements/extend-power-platform-user-experience.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+modules:
+- learn-bizapps.get-started-power-apps-component-framework
+- learn-bizapps.actions-client-script-power-platform
+- learn-bizapps.power-platform-automate-client-script
+trophy:
+  uid: learn-bizapps.extend-power-platform-user-experience.trophy

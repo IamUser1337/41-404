@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-modify-filter.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 07/18/2022
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which type of model object is evaluated within a filter context?
+    choices: 
+    - content: Calculated column
+      isCorrect: false
+      explanation: Calculated columns are evaluated within row context. It's possible, however, to transition row context to filter context when a measure expression is evaluated.
+    - content: Calculated table
+      isCorrect: false 
+      explanation: Calculated tables aren't evaluated in any context.
+    - content: Measure
+      isCorrect: true 
+      explanation: Measures (or measure expressions) are always evaluated in filter context.
+    - content: Security role rule
+      isCorrect: false 
+      explanation: Security role rules, which filter rows, aren't evaluated in any context.
+  - content: Which one of the following DAX functions allows you to use an inactive relationship when evaluating a measure expression?
+    choices: 
+    - content: USERELATIONSHIP
+      isCorrect: true 
+      explanation: The USERELATIONSHIP function is a filter modifier function that can be passed in to the CALCULATE function. Its purpose is to engage an inactive relationship.
+    - content: CROSSFILTER
+      isCorrect: false 
+      explanation: The CROSSFILTER function isn't used to engage an inactive relationship. It's used to change relationship filter directions or disable a relationship.
+    - content: REMOVEFILTERS
+      isCorrect: false 
+      explanation: The REMOVEFILTERS function isn't used to engage an inactive relationship. It's used to remove filters from filter context.
+    - content: ISCROSSFILTERED
+      isCorrect: false 
+      explanation: The ISCROSSFILTERED function isn't used to engage an inactive relationship. It's used to test if a column is cross-filtered.
+  - content: Which one of the following statements about the CALCULATE function is true?
+    choices: 
+    - content: You must pass in at least one filter argument.
+      isCorrect: false
+      explanation: The CALCULATE function, when used to transition row context to filter context, does not require filter arguments.
+    - content: It modifies filter context to evaluate a given expression.
+      isCorrect: true 
+      explanation: The CALCULATE function modifies filter context by adding or removing filters or by modifying standard filter behavior.
+    - content: It modifies row context to evaluate a given expression.
+      isCorrect: false 
+      explanation: The CALCULATE function does not modify row context. It's not possible to modify row context.
+    - content: It can't be used by a calculated column formula.
+      isCorrect: false 
+      explanation: The CALCULATE function can be used by a calculated column formula. It's typically used to transition row context to filter context.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-power-query.exercise-add-accounts 
+title: Exercise – Add new accounts from a text file
+metadata: 
+  title: Exercise – Add new accounts from a text file
+  description: Steps to add new accounts from a text file.
+  ms.date: 08/31/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-add-accounts.md)] 

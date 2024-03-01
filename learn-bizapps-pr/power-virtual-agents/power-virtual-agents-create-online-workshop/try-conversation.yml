@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agents-create-online-workshop.try-conversation
+title: Exercise - Try out a conversation in the Test copilot pane
+metadata:
+  title: Exercise - Try out a conversation in the Test copilot pane
+  description: Follow the steps to try out a conversation in the Test copilot pane.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/try-conversation.md)]

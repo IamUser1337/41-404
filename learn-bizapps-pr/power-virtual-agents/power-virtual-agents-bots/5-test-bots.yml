@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agent-bots.5-test-bots
+title: Test bots
+metadata:
+  title: Test bots
+  description: Learn how to test bots.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-test-bots.md)]

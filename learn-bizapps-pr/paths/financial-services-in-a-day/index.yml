@@ -1,0 +1,32 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.financial-services-in-a-day
+metadata:
+  title: Get started with Microsoft Cloud for Financial Services
+  description: Learn how to use Microsoft Cloud for Financial Services.
+  ms.date: 11/27/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Microsoft Cloud for Financial Services
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Built on a foundation of intelligence, security, and compliance, Microsoft Cloud for Financial Services provides a powerful and flexible platform that helps unlock business value and deepen customer relationships. Financial services organizations can rely on the broad capabilities of the Microsoft Cloud as well as industry-specific solutions from our global partners to achieve impactful business outcomes quickly. Microsoft Cloud for Financial Services optimizes internal and external business processes through integrated collaboration and omnichannel communications capabilities; enhances the customer experience through comprehensive customer insights and personalized, intelligence-driven interactions; and helps accelerate products to market, removing data silos to turn insights into action, while defending against financial crime and supporting compliance needs.  
+  
+  In this learning path, you’ll gain a foundational understanding of Microsoft Cloud for Financial Services solution templates. While our overall value proposition encompasses the full extent of the financial services industry, the solution templates discussed in this learning path focus on the retail banking and to some extent the wealth management sub-verticals of this broad industry.
+prerequisites: None
+iconUrl: /training/achievements/financial-services-in-a-day.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-financial
+subjects:
+- modern-work
+modules:
+- learn-bizapps.financial-services-overview 
+trophy:
+  uid: learn.financial-services-in-a-day.trophy

@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.modern-analytics-data-modeling
+metadata: 
+ title: Introduction to foundations in data modeling 
+ description: This module introduces the key concepts that are related to developing a well-organized data model.
+ ms.date: 09/13/2021  
+ author: minewiskan  
+ manager: kfollis 
+ ms.author: owend  
+ ms.topic: module
+ ms.service: powerbi  
+title: Introduction to foundations in data modeling
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module introduces data modeling concepts and the recommended best practices for creating a data model. You will learn about data model relationships, table types, measures, and calculated columns.
+abstract: |  
+    In this module, you will: 
+    - Learn about the role and benefits of a data model in the Microsoft Modern Analytics ecosystem.
+    - Learn how Power Query feeds a data model.
+    - Discover the four foundational data modeling concepts.
+prerequisites: Microsoft Excel
+iconUrl: /training/achievements/modern-analytics-data-modeling.svg  
+levels: 
+- beginner   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform 
+- power-bi 
+subjects:
+- data-modeling
+units:
+- learn-bizapps.modern-analytics-data-modeling.1-introduction 
+- learn-bizapps.modern-analytics-data-modeling.2-data-model-relationships 
+- learn-bizapps.modern-analytics-data-modeling.3-data-model-table-types 
+- learn-bizapps.modern-analytics-data-modeling.4-data-model-measures 
+- learn-bizapps.modern-analytics-data-modeling.5-data-model-calculated-columns 
+- learn-bizapps.modern-analytics-data-modeling.6-benefits-data-models 
+- learn-bizapps.modern-analytics-data-modeling.7-check 
+- learn-bizapps.modern-analytics-data-modeling.8-summary 
+badge: 
+  uid: learn-bizapps.modern-analytics-data-modeling.badge

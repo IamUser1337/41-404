@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-workspace-data-components-online-workshop.modify-table-permission-scope
+title: Modify table permission scope
+metadata:
+  title: Modify table permission scope
+  description: Follow the steps to modify table permission scope.
+  ms.date: 1/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/modify-table-permission-scope.md)]

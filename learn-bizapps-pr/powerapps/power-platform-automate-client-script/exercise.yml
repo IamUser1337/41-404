@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-platform-automate-client-script.exercise
+title: Exercise - Use table data from client script
+metadata:
+  title: Exercise - Use table data from client script
+  description: Follow the steps to use table data from client script.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 14
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/exercise.md)]

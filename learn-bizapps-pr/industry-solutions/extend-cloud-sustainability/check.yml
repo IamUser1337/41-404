@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.extend-cloud-sustainability.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 07/07/2022 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: A customer wants to use Microsoft Sustainability Manager output with data from financial operations to create extensive reports for their stakeholders. Which of the following Power BI extensions can help them achieve this goal?
+    choices: 
+    - content: Add a custom Power BI report
+      isCorrect: true 
+      explanation: Correct. A custom Power BI report allows customers to create custom dashboards for their stakeholders.
+    - content: Add an inventory management plan
+      isCorrect: false 
+      explanation: Incorrect. Adding an inventory management plan to Sustainability Manager helps provide easier access to that plan within the solution.
+    - content: Add a shared workspace
+      isCorrect: false 
+      explanation: Incorrect. A shared workspace enables collaboration with multiple stakeholders.
+    - content: Create a Power Automate notification
+      isCorrect: false 
+      explanation: Incorrect. A Power Automate notification allows customers to automate tasks, get or send notifications, and track the completion of tasks.
+  - content: A customer wants to track various attributes of their facility. How can they accomplish this task?
+    choices: 
+    - content: Add a custom Power BI report
+      isCorrect: false 
+      explanation: Incorrect. A custom Power BI report allows customers to create custom dashboards for their stakeholders.
+    - content: Extend the data model to add a Facility Type field
+      isCorrect: true 
+      explanation: Correct. Customers can extend the data model by adding a custom field to an existing table. Displaying it on the application is the way to add attributes to their facility.
+    - content: Create a shared workspace
+      isCorrect: false 
+      explanation: Incorrect. A shared workspace enables customers to collaborate with multiple stakeholders.
+    - content: Create a Power Automate notification
+      isCorrect: false 
+      explanation: Incorrect. A Power Automate notification allows customers to automate tasks, get or send notifications, and track the completion of tasks.
+  - content: A customer wants to create a notification workflow. Which of the following services should they use?
+    choices: 
+    - content: Power BI
+      isCorrect: false 
+      explanation: Incorrect. Power BI is used for dashboards and visualization of data.
+    - content: Power Apps
+      isCorrect: false 
+      explanation: Incorrect. Power Apps is used as a low-code, no-code extension of the platform.
+    - content: Power Automate
+      isCorrect: true
+      explanation: Correct. Power Automate is used to create custom workflows.
+    - content: Workflow isn't supported
+      isCorrect: false 
+      explanation: Incorrect. Workflow is supported by Power Automate.

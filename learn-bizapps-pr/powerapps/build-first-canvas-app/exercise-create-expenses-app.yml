@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-canvas-app.exercise-create-expenses-app
+title: Lab - Create an expenses app for your organization
+labId: 124016
+metadata:
+  title: Lab - Create an expenses app for your organization
+  description: Practice creating an expenses app.
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](../includes/power-apps-accessing-labs.md)]
+ [!include[](includes/exercise-create-expenses-app.md)]

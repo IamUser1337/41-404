@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-datasets-power-bi.4-power-bi-gateway
+title: Use a Power BI gateway to connect to on-premises data sources
+metadata:
+  title: Use a Power BI gateway to connect to on-premises data sources
+  description: "Use a Power BI gateway to connect to on-premises data sources"
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/4-power-bi-gateway.md)]

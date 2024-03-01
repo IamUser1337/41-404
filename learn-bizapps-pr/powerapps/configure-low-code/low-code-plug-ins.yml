@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.configure-low-code.low-code-plug-ins
+title: Low-code plug-ins
+metadata:
+  title: Low-code plug-ins
+  description: Learn about low-code plug-ins.
+  ms.date: 12/14/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/low-code-plug-ins.md)]

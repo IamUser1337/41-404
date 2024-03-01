@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.2-using-power-bi
+title: Use Power BI
+metadata:
+  title: Use Power BI
+  description: "Use Power BI"
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/2-using-power-bi.md)]

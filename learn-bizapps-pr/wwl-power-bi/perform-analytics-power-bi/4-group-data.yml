@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-analytics-power-bi.4-group-data 
+title: Group and bin data for analysis
+metadata: 
+  title: Group and bin data for analysis 
+  description: Learn how to group and bin data for analysis. 
+  ms.date: 07/13/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-group-data.md)] 

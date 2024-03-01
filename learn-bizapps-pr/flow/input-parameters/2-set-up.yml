@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.input-parameters.2-set-up 
+title: Set up in Power Automate
+metadata: 
+  title: Set up in Power Automate
+  description: Create a trial environment with a database and then install software.
+  ms.date: 10/03/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-set-up.md)] 

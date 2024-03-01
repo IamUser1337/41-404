@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn.wwl.prepare-to-teach-module-design-report-layouts
+metadata:
+  title: 'Prepare to teach the module: Design report layouts'
+  description: "Prepare to teach the module: Design report layouts"
+  ms.date: 03/05/2021
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Design report layouts'
+summary: Explain, demonstrate, and deliver to your Data Analyst customers the “Designing report layouts” module of the instructor-led course “Power BI paginated reports”.
+abstract: |
+  Teach the module “Designing report layouts” in the instructor-led course “Power BI paginated reports”.
+prerequisites: |
+  Experience with paginated reports
+iconUrl: /training/achievements/design-report-layouts.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+- azure-powerbi-embedded
+subjects:
+- productivity
+units:
+- learn.wwl.prepare-to-teach-module-design-report-layouts.introduction
+- learn.wwl.prepare-to-teach-module-design-report-layouts.designing-part-1
+- learn.wwl.prepare-to-teach-module-design-report-layouts.lab-02a-your-first-report
+- learn.wwl.prepare-to-teach-module-design-report-layouts.designing-part-2
+- learn.wwl.prepare-to-teach-module-design-report-layouts.lab-02b-develop-report-template
+- learn.wwl.prepare-to-teach-module-design-report-layouts.knowledge-check
+- learn.wwl.prepare-to-teach-module-design-report-layouts.summary
+badge:
+  uid: learn.wwl.prepare-to-teach-module-design-report-layouts.badge

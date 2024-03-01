@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-permissions-analytics.security 
+title: Set up row-level security
+metadata: 
+  title: Set up row-level security
+  description: Learn about row-level security.
+  ms.date: 04/07/2022 
+  author: mberdugo 
+  manager: kfollis 
+  ms.author: monaberdugo 
+  ms.topic: unit
+durationInMinutes: 9 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/security.md)] 

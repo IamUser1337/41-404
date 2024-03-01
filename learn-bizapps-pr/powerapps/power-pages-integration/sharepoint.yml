@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-integration.sharepoint
+title: Document management with SharePoint in Power Pages
+metadata:
+  title: Document management with SharePoint in Power Pages
+  description: Learn about document management with SharePoint in Power Pages.
+  ms.date: 05/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/sharepoint.md)]

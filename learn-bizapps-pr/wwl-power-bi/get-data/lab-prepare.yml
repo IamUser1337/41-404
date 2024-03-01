@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.lab-prepare
+title: Exercise - Prepare data in Power BI Desktop
+metadata:
+  title: Exercise - Prepare data in Power BI Desktop
+  description: "In this lab, you connect to the classroom virtual machine and set up the environment."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+labId: 72670
+labModal: true
+durationInMinutes: 30
+content: |
+  [!include[](includes/lab-prepare.md)]

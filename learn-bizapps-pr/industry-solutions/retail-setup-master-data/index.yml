@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-setup-master-data
+metadata:
+ title: Set up reference data and security
+ description: Learn how to set up sample data and security in a retail organization with Microsoft Cloud for Retail.
+ ms.date: 02/27/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Set up reference data and security
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to set up reference data and security in a retail organization for sample personas and scenarios.
+abstract: |
+  In this module, you:
+  - Set up organizational structures like territories and business units.
+  - Set up Teams hierarchy and assign necessary security roles to users and store teams.
+  - Configure Store Operations Assist Admin accessibility in Microsoft Teams.
+  - Define target groups and set up store zones.
+  - Define retail actions like task types, request types, cancellation reasons, appointment types and appointment teams.
+prerequisites:  |
+  - Microsoft Power Apps licenses with Microsoft Power Platform administrator credentials
+  - Microsoft Teams
+  - Microsoft Power BI Pro or Premium
+iconUrl: /learn/achievements/retail-setup-master-data.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-setup-master-data.introduction
+- learn-bizapps.retail-setup-master-data.microsoft-teams-dataverse
+- learn-bizapps.retail-setup-master-data.set-up-organizational-data
+- learn-bizapps.retail-setup-master-data.check
+- learn-bizapps.retail-setup-master-data.summary
+badge:
+  uid: learn-bizapps.retail-setup-master-data.badge

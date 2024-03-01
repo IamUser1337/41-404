@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.row-level-security-power-bi.3-dynamic-method 
+title: Configure row-level security with the dynamic method
+metadata: 
+  title: Configure row-level security with the dynamic method 
+  description: Learn how to configure row-level security by using the dynamic method.  
+  ms.date: 08/31/2021
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-dynamic-method.md)] 

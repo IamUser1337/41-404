@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.extend-sustainability
+metadata:
+  title: Extend Microsoft Cloud for Sustainability
+  description: Learn how to extend Microsoft Cloud for Sustainability.
+  ms.date: 11/15/2022
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+title:  Extend Microsoft Cloud for Sustainability
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application. You get a set of low-code tools that can help you stay agile and build solutions that move your business forward. 
+  
+  In this Learning Path, you’ll gain an understanding of Sustainability Manager and the extensibility features. You'll be guided through hands-on exercises as you extend and access data in the sustainability applications deployed through Microsoft Cloud for Sustainability using Dynamics 365, Power Platform, Microsoft 365, and Azure in your own environment. You’ll dive into using Microsoft Power Platform to create no-code extensions within Sustainability Manager, customize dashboards, tables, and data. You’ll gain insights on different options to access and query sustainability data. 
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the modules on [Get Started with Microsoft Cloud for Sustainability](/training/paths/get-started-sustainability/).
+iconUrl: /learn/achievements/extend-sustainability.svg
+levels:
+- intermediate
+- advanced 
+roles:
+- business-user
+- functional-consultant
+- developer
+- administrator
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.sustainability-complex-calculations
+- learn-bizapps.extend-cloud-sustainability 
+- learn-bizapps.access-cloud-sustainability
+trophy:
+  uid: learn.extend-sustainability.trophy

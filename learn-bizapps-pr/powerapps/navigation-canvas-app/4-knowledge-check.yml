@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.navigation-canvas-app.4-knowledge-check
+metadata:
+  title: Knowledge check
+  description: Knowledge check for navigation in a canvas app in Power Apps
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Knowledge check for navigation in a canvas app in Power Apps
+  questions:
+  - content: In Power Apps, the `Back` function sends users to what screen?
+    choices:
+    - content: A hard-coded screen.
+      isCorrect: false
+      explanation: Incorrect. The `Back` function sends users to the previous screen that they moved from.
+    - content: A predefined screen.
+      isCorrect: false
+      explanation: Incorrect. The `Back` function sends users to the previous screen that they moved from.
+    - content: The previous screen that the users moved from.
+      isCorrect: true
+      explanation: Correct. The `Back` function sends users to the previous screen that they moved from.
+    - content: The home screen.
+      isCorrect: false
+      explanation: Incorrect. The `Back` function sends users to the previous screen that they moved from.
+  - content: Which is a valid screen transition in Power Apps when you're using the `Navigate` function?
+    choices:
+    - content: '`ScreenTransition.Jump`'
+      isCorrect: false
+      explanation: Incorrect. The valid screen transitions include `None` (default), `Cover`, `CoverRight`, `Fade`, `UnCover`, and `UnCoverRight`.
+    - content: '`ScreenTransition.Cover`'
+      isCorrect: true
+      explanation: Correct. The valid screen transitions include `None` (default), `Cover`, `CoverRight`, `Fade`, `UnCover`, and `UnCoverRight`.
+    - content: '`ScreenTransition.Erase`'
+      isCorrect: false
+      explanation: Incorrect. The valid screen transitions include `None` (default), `Cover`, `CoverRight`, `Fade`, `UnCover`, and `UnCoverRight`.
+    - content: '`ScreenTransition.FadeOut`'
+      isCorrect: false
+      explanation: Incorrect. The valid screen transitions include `None` (default), `Cover`, `CoverRight`, `Fade`, `UnCover`, and `UnCoverRight`.
+  - content: In certain scenarios, you might create screens but not build navigation to these screens. What's the purpose of this choice?
+    choices:
+    - content: To give other editors or owners insight into how the app was built in case more changes are needed later.
+      isCorrect: false
+      explanation: Incorrect. Giving editors or owners insight is one reason to have a hidden screen, but the other answers are also valid reasons to have one.
+    - content: To create documentation about the app.
+      isCorrect: false
+      explanation: Incorrect. Creating documentation about the app is one reason to have a hidden screen, but the other answers are also valid reasons to have one.
+    - content: To keep track of certain controls, settings, formatting, and colors used in your app so they're easy to find and copy.
+      isCorrect: false
+      explanation: Incorrect. Keeping track of controls, settings, formatting, and colors is one reason to have a hidden screen, but the other answers are also valid reasons to have one.
+    - content: All are reasons to have hidden screens.
+      isCorrect: true
+      explanation: Correct. The answers in the first three choices are all reasons to have hidden screens.

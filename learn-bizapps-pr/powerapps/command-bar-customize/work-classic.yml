@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-customize.work-classic
+title: Work with classic commands
+metadata:
+  title: Work with classic commands
+  description: Learn to work with classic commands in Power Apps.
+  ms.date: 12/29/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/work-classic.md)]

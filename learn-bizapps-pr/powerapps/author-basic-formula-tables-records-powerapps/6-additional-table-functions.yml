@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.tables-and-records.6-additional-table-functions
+title: Additional table functions
+metadata: 
+  title: Additional table functions
+  description: Additional table functions of interest
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+durationInMinutes: 7 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-additional-table-functions.md)] 
+

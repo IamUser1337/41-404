@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-administration.4-knowledge-check
+title: Check your knowledge
+metadata: 
+  title: "Knowledge check: Administer flows" 
+  description: This quiz tests your knowledge of how to administer flows
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 6
+quiz: 
+  title: "Knowledge check: Administer flows" 
+  questions: 
+  - content: After a flow has been exported, who can import the flow? 
+    choices:  
+    - content: Only System Customizers 
+      explanation: Anyone that receives the zip file can import it.
+      isCorrect: false 
+    - content: Only System Administrators
+      explanation: Anyone that receives the zip file can import it.
+      isCorrect: false 
+    - content: Only the user that exported the flow
+      explanation: Anyone that receives the zip file can import it.
+      isCorrect: false 
+    - content: Anyone that receives the zip file can import it
+      explanation: Anyone that receives the zip file can import the flow.
+      isCorrect: true 
+  - content: Which of the following is a requirement to share button flows?
+    choices: 
+    - content: An account that has access to Power Automate. 
+      explanation: A Power Automate account is a requirement to share button flows.
+      isCorrect: true 
+    - content: An account that is a System Customizer.
+      explanation: It is not a requirement to be a System Customizer to share a flow.
+      isCorrect: false 
+    - content: An account that is a System Administrator.
+      explanation: It is not a requirement to be a System Administrator to share a flow.
+      isCorrect: false 
+    - content: A SharePoint account and Power Automate sharing rights.
+      explanation: It is not a requirement to have a Sharepoint account or sharing rights to share a button flow.
+      isCorrect: false 
+  - content: What are some actions for which you can use the admin center?
+    choices: 
+    - content: Connect to Dynamics 365 and write flows
+      explanation: You can do this in Power Automate, but not in the admin center
+      isCorrect: false
+    - content: Share and create button flows
+      explanation: You can do this from the Power Automate website or app, but not the admin center
+      isCorrect: false 
+    - content: Manage Environments and Data policies
+      explanation: Correct! Environments are spaces where you can store, manage, and share your organization's data, apps, and flows. Data policies allow you to implement additional security measures.
+      isCorrect: true
+    - content: Import and Export flows
+      explanation: You can import and export flows from the Power Automate web service, but not the Admin center.
+      isCorrect: false 

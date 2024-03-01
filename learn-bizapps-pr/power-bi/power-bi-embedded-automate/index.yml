@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-embedded-automate 
+metadata: 
+ title: Automate Power BI solution management
+ description: Learn how to automate Power BI solution management.
+ ms.date: 06/30/2023  
+ author: mberdugo  
+ manager: kfollis 
+ ms.author: monaberdugo  
+ ms.topic: module
+ ms.service: powerbi  
+title: Automate Power BI solution management
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  <!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+  
+  After you've developed your app with embedded Power BI analytics, a final consideration might be to automate the management of your solution. Automation can result in faster and more accurate solution management. Three libraries are available for you to use to develop an automation solution.
+
+  When you're designing a multi-tenancy app, we recommend that you use workspace separation as the embedded analytics multi-tenancy solution. Automating the introduction of new tenants (customers) will ensure fast and accurate setup.
+
+  > [!TIP]
+  > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features that are announced in the <a href="https://powerbi.microsoft.com/blog" target="_blank">Microsoft Power BI Blog</a>. You might discover new features and capabilities that you can apply to improve your existing reports.
+abstract: |  
+    In this module, you'll learn how to: 
+    - Automate Power BI solution management.
+    - Use the different automation libraries.
+    - Automate workspace separation.
+prerequisites: Experience programmatically embedding Power BI content in apps and working with PowerShell
+iconUrl: /training/achievements/power-bi-embedded-automate.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- business-analyst 
+products: 
+- power-apps
+- power-bi 
+subjects:
+- data-management
+units:
+- learn-bizapps.power-bi-embedded-automate.introduction 
+- learn-bizapps.power-bi-embedded-automate.workspace-separation 
+- learn-bizapps.power-bi-embedded-automate.check 
+- learn-bizapps.power-bi-embedded-automate.summary 
+badge: 
+  uid: learn-bizapps.power-bi-embedded-automate.badge

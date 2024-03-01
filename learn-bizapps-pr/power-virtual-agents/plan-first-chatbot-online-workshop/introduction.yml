@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-first-chatbot-online-workshop.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to planning your first chatbot. 
+  ms.date: 12/06/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

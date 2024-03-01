@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-store-operations-assist-teams-approvals.exercise-enable-approvals
+title: Exercise - Enable Teams Approvals for Requests flow in Power Apps
+metadata:
+  title: Exercise - Enable Teams Approvals for Requests flow in Power Apps
+  description: Follow the steps to enable the Teams Approvals for Requests flow in Power Apps.
+  ms.date: 10/18/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: interactive-tutorial
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-enable-approvals.md)]

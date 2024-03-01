@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-transition.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/30/2023 
+ author: mihart 
+ manager: kfollis 
+ ms.author: mihart 
+ ms.topic: unit
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is one feature Power BI Desktop offers that is not included within Excel?
+    choices: 
+    - content: Tables
+      isCorrect: false
+      explanation: Bookmarks are a feature of Power BI Desktop.
+    - content: Charts and graphs
+      isCorrect: false 
+      explanation: Bookmarks are a feature of Power BI Desktop.
+    - content: Bookmarks
+      isCorrect: true 
+      explanation: Bookmarks are a feature of Power BI Desktop.
+    - content: Connection to Power Query
+      isCorrect: false 
+      explanation: Bookmarks are a feature of Power BI Desktop.
+  - content: Can Power BI Desktop be used to open Excel file(s)?
+    choices: 
+    - content: No, Power BI Desktop cannot do anything with Excel files.
+      isCorrect: false
+      explanation: Power BI Desktop can only import an existing data model from an Excel file(s) or use Power Query to connect to Excel file(s).
+    - content: No, Power BI Desktop can only import an existing data model from an Excel file(s) or use Power Query to connect to Excel file(s).
+      isCorrect: true 
+      explanation: Power BI Desktop can only import an existing data model from an Excel file(s) or use Power Query to connect to Excel file(s).
+    - content: Yes, Power BI Desktop can open any Excel file and convert data model Queries, Tables, Relationships, Measures, and KPIs.
+      isCorrect: false 
+      explanation: Power BI Desktop can only import an existing data model from an Excel file(s) or use Power Query to connect to Excel file(s).
+    - content: Yes, Power BI Desktop can open and Excel file and convert PivotTables and PivotCharts to visuals.
+      isCorrect: false 
+      explanation: Power BI Desktop can only import an existing data model from an Excel file(s) or use Power Query to connect to Excel file(s).

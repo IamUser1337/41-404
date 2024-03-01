@@ -1,0 +1,38 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-data-components-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/14/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many views can you have on a list?
+    choices: 
+    - content: Unlimited
+      isCorrect: true 
+      explanation: Correct. You can select multiple views.
+    - content: One
+      isCorrect: false 
+      explanation: Incorrect. You can select multiple views.
+  - content: After you create a Power Pages site, is the data from Dataverse immediately visible by default? 
+    choices: 
+    - content: Yes
+      isCorrect: false 
+      explanation: Incorrect. Access to Dataverse records is automatically restricted in Power Pages when you’re using forms, lists, Liquid, the Portals Web API, and other components that access Dataverse tables. You’ll need to create table permissions to allow access to Dataverse records in Power Pages sites. 
+    - content: No
+      isCorrect: true 
+      explanation: Correct. Access to Dataverse records is automatically restricted in Power Pages when you’re using forms, lists, Liquid, the Portals Web API, and other components that access Dataverse tables. You’ll need to create table permissions to allow access to Dataverse records in Power Pages sites.
+  - content: Do you need to assign the Authenticated users role to all users?
+    choices: 
+    - content: Yes
+      isCorrect: false 
+      explanation: Incorrect. The Authenticated users role is a default role that's assigned to all users.
+    - content: No
+      isCorrect: true 
+      explanation: Correct. The Authenticated users role is a default role that's assigned to all users.

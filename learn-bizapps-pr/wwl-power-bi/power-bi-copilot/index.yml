@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.power-bi-copilot
+metadata:
+  title: Extend data insights with Power BI Copilot
+  description: Use Power BI Copilot to create data insights based on semantic models with minimal effort.
+  ms.date: 11/8/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+title: Extend data insights with Power BI Copilot
+summary: "Power BI Copilot uses Generative AI to simplify data visualization and create reports, making Power BI more insightful and accessible."
+abstract: |
+  By the end of this module, you'll be able to:
+    -	Prepare your data for use with Power BI Copilot
+    -	Create reports with Power BI Copilot
+    -	Create summaries with Power BI Copilot
+
+prerequisites: |
+  It's recommended that you have a foundational understanding of data preparation and modeling practices. The following learning paths can help you get started:
+    - [Prepare data for analysis with Power BI](/training/paths/prepare-data-power-bi/)
+    - [Model data with Power BI](/training/paths/model-data-power-bi/)
+
+iconUrl: /learn/achievements/generic-badge.svg
+levels:
+  - intermediate
+roles:
+  - data-analyst
+products: 
+  - power-platform
+  - power-bi
+subjects:
+  - data-visualization
+  - data-analytics
+units:
+- learn-bizapps.power-bi-copilot.introduction
+- learn-bizapps.power-bi-copilot.prepare-data-copilot
+- learn-bizapps.power-bi-copilot.create-reports-copilot
+- learn-bizapps.power-bi-copilot.create-summaries-copilot
+- learn-bizapps.power-bi-copilot.knowledge-check
+- learn-bizapps.power-bi-copilot.summary
+badge: 
+  uid: learn-bizapps.power-bi-copilot.badge 

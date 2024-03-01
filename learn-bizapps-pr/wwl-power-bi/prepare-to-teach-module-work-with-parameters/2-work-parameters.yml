@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-work-with-parameters.work-with-parameters
+title: Work with parameters
+metadata:
+  title: Work with parameters
+  description: "Work with parameters"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 42
+content: |
+  [!include[](includes/2-work-parameters.md)]

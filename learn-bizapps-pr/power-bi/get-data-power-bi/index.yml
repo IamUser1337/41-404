@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-data-power-bi 
+metadata: 
+ title: Get data with Power BI Desktop
+ description: How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.
+ ms.date: 05/30/2022
+ author: davidiseminger 
+ manager: kfollis  
+ ms.author: davdi  
+ ms.topic: module
+ ms.service: powerbi  
+title: Get data with Power BI Desktop
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.
+abstract: |  
+    In this module, you will: 
+    - Explore the data-centric features and tools of Power BI.
+    - Explore ways to find data.
+prerequisites: Access to Power BI Desktop 
+iconUrl: /training/achievements/get-data-power-bi-desktop.svg 
+levels:  
+- intermediate   
+roles:  
+- business-analyst 
+- data-analyst
+products:  
+- power-platform
+- power-bi 
+subjects:
+- data-management
+units:
+- learn-bizapps.get-data-power-bi.1-overview-power-bi-desktop 
+- learn-bizapps.get-data-power-bi.2-getting-started-power-bi-desktop 
+- learn-bizapps.get-data-power-bi.3-connnect-data-sources-power-bi-desktop 
+- learn-bizapps.get-data-power-bi.3b-data-from-excel 
+- learn-bizapps.get-data-power-bi.4-clean-data-query-editor 
+- learn-bizapps.get-data-power-bi.5-advanced-data-sources-transformation 
+- learn-bizapps.get-data-power-bi.6-cleaning-data 
+- learn-bizapps.get-data-power-bi.7-knowledge-check 
+- learn-bizapps.get-data-power-bi.8-summary 
+badge: 
+  uid: learn-bizapps.get-data-power-bi-desktop.badge

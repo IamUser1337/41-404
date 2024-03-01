@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.use-ai-builder
+metadata:
+ title: Use AI Builder models in Power Apps
+ description: Learn how you can use prebuilt and custom AI Builder models in Power Apps.
+ ms.date: 06/23/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ 
+title: Use AI Builder models in Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  AI Builder provides a palette of models that are ready to use, and in some cases, adapted to your organization. These models can greatly improve the Power Apps user experience with interactive controls. This module explores how you can take advantage of those models and learn how they can be added to your apps in Power Apps.
+abstract: |
+    In this module, you'll:
+    - Learn about the difference between custom and prebuilt AI Builder models.
+    - Examine AI Builder models that are available for model-driven apps in Power Apps.
+    - Examine AI Builder models that are available for canvas apps in Power Apps.
+prerequisites: |
+  - A Microsoft Power Apps license
+  - Access to Microsoft Dataverse
+  - An AI Builder add-on or trial
+  - Completion of the Bring AI to your business with AI Builder learning path
+iconUrl: /training/achievements/use-ai-builder.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+- ai-builder
+subjects:
+- data-modeling
+units:
+- learn-bizapps.use-ai-builder.introduction
+- learn-bizapps.use-ai-builder.create-custom-model
+- learn-bizapps.use-ai-builder.add-prebuilt-model-driven
+- learn-bizapps.use-ai-builder.add-prebuilt-canvas
+- learn-bizapps.use-ai-builder.add-custom-canvas
+- learn-bizapps.use-ai-builder.check
+- learn-bizapps.use-ai-builder.summary
+badge:
+  uid: learn-bizapps.use-ai-builder.badge

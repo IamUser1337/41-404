@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.build-mobile-optimized
+metadata:
+ title: Build a mobile-optimized app from Power Apps
+ description: Learn about building a mobile-optimized app from Power Apps.
+ ms.date: 01/03/2024
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Build a mobile-optimized app from Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Power Apps is a powerful platform for building applications that can run on a user's desktop or mobile device. Depending on the requirements of the application, the canvas app from Power Apps might be used on mobile devices exclusively. In those instances, the canvas app must be mobile-optimized to provide the best user experience possible, which you can achieve through various design factors that will be covered in this module.
+abstract: |
+    In this module, you:
+    - Learn about the concept of a mobile-optimized application.
+    - Discover the components of a mobile-optimized canvas app.
+    - Build a mobile-optimized canvas app.
+    - Review the performance considerations in a canvas app.
+    - Monitor the performance of a canvas app.
+prerequisites: |
+    - Access to Microsoft Power Apps
+    - Access to Microsoft Excel
+iconUrl: /training/achievements/build-mobile-optimized.svg
+levels:
+- beginner
+roles:
+- business-user
+- business-analyst
+- maker
+- developer
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.build-mobile-optimized.introduction
+- learn-bizapps.build-mobile-optimized.mobile-optimized-applications
+- learn-bizapps.build-mobile-optimized.components
+- learn-bizapps.build-mobile-optimized.responsive-designs
+- learn-bizapps.build-mobile-optimized.performance
+- learn-bizapps.build-mobile-optimized.check
+- learn-bizapps.build-mobile-optimized.summary
+badge:
+  uid: learn-bizapps.build-mobile-optimized.badge

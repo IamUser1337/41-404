@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-power-apps-online-workshop.exercise-notification
+title: Optional exercise - Add a Teams notification
+metadata:
+  title: Optional exercise - Add a Teams notification
+  description: Follow the steps to optionally add a Teams notification to your flow.
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-notification.md)]

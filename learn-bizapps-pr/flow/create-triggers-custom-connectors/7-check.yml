@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-triggers-custom-connectors.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/12/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where can you not use a trigger that is defined on a custom connector? 
+    choices: 
+    - content: Power Automate
+      isCorrect: false
+      explanation: Power Automate can use triggers to start the flows.
+    - content: Power Apps
+      isCorrect: true 
+      explanation: Power Apps can take advantage of the custom connector actions, but it isn't able to use the triggers.
+    - content: Azure Logic Apps
+      isCorrect: false 
+      explanation: Azure Logic Apps can use triggers to start the Logic Apps workflows. 
+  - content: For a custom connector to implement a webhook trigger, the API must support which of the following parameters? 
+    choices: 
+    - content: Allowing periodic checks for updates to trigger the flow 
+      isCorrect: false
+      explanation: This option is required for a polling trigger, not a webhook trigger.
+    - content: Running on a schedule 
+      isCorrect: false 
+      explanation: The benefit of a webhook is the near instant notification of an event within the API. Running on a schedule would defeat the benefits of a webhook. 
+    - content: Managing registration of the webhook and posting the webhook when the event occurs 
+      isCorrect: true 
+      explanation: The API must be able to manage registration removal of the webhook and, when the event occurs, it must push that event to the registered webhook.
+  - content: For a custom connector to implement a polling trigger on the API, you should use which one of the following fields on an invoice? 
+    choices: 
+    - content: Date Created
+      isCorrect: true 
+      explanation: This option allows you to create newer invoices since the last time that the polling checked for data.
+    - content: Amount
+      isCorrect: false
+      explanation: This choice isn't optimal because it doesn't identify new items. The most common values are time-based or numbers that increment sequentially. 
+    - content: Invoice Type
+      isCorrect: false 
+      explanation: This choice isn't optimal because it doesn't identify new items. The most common values are time-based or numbers that increment sequentially. 

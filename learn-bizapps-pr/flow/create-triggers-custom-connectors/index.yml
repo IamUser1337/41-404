@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.create-triggers-custom-connectors 
+metadata: 
+ title: Create triggers for custom connectors for Microsoft Power Platform
+ description: Learn how to create triggers for custom connectors for Microsoft Power Apps and Microsoft Power Automate. 
+ ms.date: 05/12/2023  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ 
+title: Create triggers for custom connectors for Microsoft Power Platform
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Extend connector functionality in Microsoft Power Automate and Microsoft Azure Logic Apps, where a system needs to respond to the changes in the underlying data or services. In this module, you learn how to expand the functionality of custom connectors with the trigger definitions.
+abstract: |  
+    In this module, you will: 
+    - Learn about triggers in custom connectors.
+    - Discover common scenarios where triggers can be used. 
+    - Identify different types of triggers.
+    - Learn how to extend a custom connector definition to use triggers that are defined by a service API.
+prerequisites: None 
+iconUrl: /training/achievements/create-triggers-custom-connectors.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.create-triggers-custom-connectors.1-introduction 
+- learn-bizapps.create-triggers-custom-connectors.2-webhook-trigger 
+- learn-bizapps.create-triggers-custom-connectors.3-create-webhook-trigger 
+- learn-bizapps.create-triggers-custom-connectors.4-exercise-webhook-trigger 
+- learn-bizapps.create-triggers-custom-connectors.5-polling-trigger
+- learn-bizapps.create-triggers-custom-connectors.5-5-polling-trigger
+- learn-bizapps.create-triggers-custom-connectors.6-exercise-polling-trigger 
+- learn-bizapps.create-triggers-custom-connectors.7-check 
+- learn-bizapps.create-triggers-custom-connectors.8-summary 
+badge: 
+  uid: learn-bizapps.create-triggers-custom-connectors.badge

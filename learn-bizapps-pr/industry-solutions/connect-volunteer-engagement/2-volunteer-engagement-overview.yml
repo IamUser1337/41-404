@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.connect-volunteer-engagement.2-volunteer-engagement-overview 
+title: Volunteer Engagement overview
+metadata: 
+  title: Volunteer Engagement overview
+  description: Volunteer Engagement is a self-service portal for volunteers to manage their profiles and engagements.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-volunteer-engagement-overview.md)] 

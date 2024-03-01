@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-environmental-changes.6-exercise
+title: Exercise - List connections in a tenant
+metadata:
+  title: Exercise - List connections in a tenant
+  description: Practice listing connections in a tenant.
+  ms.date: 01/05/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-exercise.md)] 

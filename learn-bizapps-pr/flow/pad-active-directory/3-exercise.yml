@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-active-directory.3-exercise
+title: Exercise - Create a new Active Directory user
+metadata:
+  title: Exercise - Create new Active Directory user
+  description: Practice creating a new Active Directory user.
+  ms.date: 08/01/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-exercise.md)]

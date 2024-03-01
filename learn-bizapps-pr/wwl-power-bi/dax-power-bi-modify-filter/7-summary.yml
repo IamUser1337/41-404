@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-modify-filter.7-summary 
+title: Summary
+metadata: 
+  title: Summary 
+  description: Summary of modifying DAX filter context in Power BI Desktop models 
+  ms.date: 07/18/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/7-summary.md)] 

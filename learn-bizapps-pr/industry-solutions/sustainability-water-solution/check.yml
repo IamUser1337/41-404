@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-solution.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 12/06/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: The Water quantity dashboard requires you to import which of the following data?
+    choices:
+    - content: Water sample
+      isCorrect: false
+      explanation: The Water quantity dashboard tables include water quantity, water source, facility, and others.
+    - content: Water source 
+      isCorrect: true
+      explanation: The Water quantity dashboard tables include water quantity, water source, facility, and others.
+    - content: Water quality 
+      isCorrect: false
+      explanation: The Water quantity dashboard tables include water quantity, water source, facility, and others.
+    - content: Water test results 
+      isCorrect: false
+      explanation: The Water quantity dashboard tables include water quantity, water source, facility, and others.
+  - content: The Water quantity dashboard presents information by using which of the following categories?
+    choices:
+    - content: Water discharged
+      isCorrect: false
+      explanation: The Water quantity dashboard is divided into four categories, namely Water withdrawn, Water discharged, Water consumed, and Water recycled.
+    - content: Water consumed
+      isCorrect: false
+      explanation: The Water quantity dashboard is divided into four categories, namely Water withdrawn, Water discharged, Water consumed, and Water recycled.
+    - content: Water recycled
+      isCorrect: false
+      explanation: The Water quantity dashboard is divided into four categories, namely Water withdrawn, Water discharged, Water consumed, and Water recycled.
+    - content: All these options 
+      isCorrect: true
+      explanation: The Water quantity dashboard is divided into four categories, namely Water withdrawn, Water discharged, Water consumed, and Water recycled.
+  - content: Which of the following dashboards require you to select a reporting period?  
+    choices:
+    - content: Water quality dashboard 
+      isCorrect: false
+      explanation: You need to set up the reporting period for the Water quantity and Water quality dashboards. 
+    - content: Water quantity dashboard 
+      isCorrect: false
+      explanation: You need to set up the reporting period for the Water quantity and Water quality dashboards. 
+    - content: Both 
+      isCorrect: true
+      explanation: You need to set up the reporting period for the Water quantity and Water quality dashboards. 
+    

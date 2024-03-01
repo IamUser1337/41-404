@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-permissions-analytics.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/07/2022 
+ author: mberdugo 
+ manager: kfollis 
+ ms.author: monaberdugo 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Barry is a data modeler at the Tailspin Toys company who is developing a Power BI Desktop model that must enforce RLS. It must restrict access to specific product categories. Presently, the company sells products across four categories, and it's possible that the organization will add new categories in the future. The design shouldn't require republishing the model when the company defines new categories. What should Barry do?
+    choices: 
+    - content: Create one role for each product category.
+      isCorrect: false
+      explanation: Incorrect. Creating one role for each product category will involve creating static roles. It will require republishing the model to the Power BI service.
+    - content: Create one role and use the USERPRINCIPALNAME function to filter the **Category** column of the **Product** table.
+      isCorrect: true 
+      explanation: Correct. Creating one role that uses the USERPRINCIPALNAME function implies the creation of a dynamic role. The app can pass in the product category as the username. When new product categories are defined, it won't require republishing the model to the Power BI service.
+    - content: Create one rule for each product category.
+      isCorrect: false 
+      explanation: Incorrect. The solution requires the creation of a role when a rule is required. Only one rule can exist for a table.
+    - content: Create one rule and use the USERPRINCIPALNAME function to filter the **Category** column of the **Product** table.
+      isCorrect: false 
+      explanation: Incorrect. The solution requires the creation of a role when a rule is required.
+  - content: Camila is a Power BI developer at the Tailspin Toys company who is developing a Power BI Desktop import model for a large data warehouse. The model must enforce RLS, and the Power BI reports that connect to the model should deliver the fastest possible performance. What should Camila do?
+    choices: 
+    - content: Apply rules to dimension tables.
+      isCorrect: true 
+      explanation: Correct. It's efficient to apply rules to dimension tables. Power BI filters the dimension tables (that usually have a few rows) and uses model relationships to propagate those filters to fact tables (that contain millions of rows).
+    - content: Apply rules to effective identities.
+      isCorrect: false 
+      explanation: Incorrect. It's not possible to apply rules to effective identities.
+    - content: Apply rules to fact tables.
+      isCorrect: false 
+      explanation: Incorrect. While rules can be applied to fact tables, it's not as efficient as applying rules to the dimension tables. When rules are applied to dimension tables, Power BI uses model relationships to efficiently propagate filters to the fact tables.
+    - content: Apply rules to model relationships.
+      isCorrect: false 
+      explanation: Incorrect. It's not possible to apply rules to model relationships.
+  - content: Paulo is a developer at the Tailspin Toys company who is developing an app that embeds Power BI reports. The reports use a DirectQuery model that sources its data from an Azure SQL Database and is set up to use the users' OAuth2 credentials. The database already enforces RLS for specific Azure AD accounts. The embedded Power BI reports must enforce the same RLS. What parameter should Paulo use when generating an embed token with the \`GenerateTokenRequestV2\` method?
+    choices: 
+    - content: \`CustomData\`
+      isCorrect: false 
+      explanation: Incorrect. This solution requires the use of a token-based identity. In this case, the \`CustomData\` parameter isn't relevant and shouldn't be set.
+    - content: \`IdentityBlob\`
+      isCorrect: true 
+      explanation: Correct. By passing the Azure AD access token to the \`IdentityBlob\` parameter, the Azure SQL Database can run queries in the context of the associated user account. This approach is known as token-based identity.
+    - content: \`Roles\`
+      isCorrect: false 
+      explanation: Incorrect. This solution requires the use of a token-based identity. In this case, the \`Roles\` parameter isn't relevant and shouldn't be set.
+    - content: \`Username\`
+      isCorrect: false 
+      explanation: Incorrect. This solution requires the use of a token-based identity. In this case, the \`Username\` parameter isn't relevant and shouldn't be set.

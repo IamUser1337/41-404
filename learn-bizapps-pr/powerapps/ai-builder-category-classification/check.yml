@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-builder-category-classification.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/30/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Joanne, a care service supervisor, has been processing patient post-visit surveys to ensure that the quality of the provided service is satisfactory. The category classification model that Joanne trained and published has been performing efficiently for the first month of implementation. Lately, a degradation is noticed where some surveys were processed with the wrong tags or missing key tags. What would you recommend that Joanne do to rectify the situation quickly?
+    choices:
+    - content: Modify the flow that processes the feedback to retrain the model as new values are processed.
+      isCorrect: false
+      explanation: Incorrect. No option is available from Power Automate to retrain a custom category classification model.
+    - content: Create a new model based on the recent surveys that were analyzed and then update the flow that processes the feedback.
+      isCorrect: false
+      explanation: Incorrect. Although this option is valid, the steps that are involved in creating a new model and modifying the processing flow aren't efficient for this scenario.
+    - content: Go to the existing model and select the retrain option so that it updates based on recent updated outcomes.
+      isCorrect: true
+      explanation: Correct. The retrain option will refresh the model prediction system with up-to-date information that’s in the applicable tables.
+  - content: Michael tries to create a custom category classification model based on emails that are stored in Microsoft SharePoint. Michael isn’t able to select the list that contains those messages. What should Michael do to rectify this situation?
+    choices:
+    - content: Enable AI Builder synchronization in the SharePoint list.
+      isCorrect: false
+      explanation: Incorrect. No option allows this type of synchronization.
+    - content: Migrate the messages from SharePoint to Dataverse.
+      isCorrect: true
+      explanation: Correct. AI Builder category classification requires data to be in Dataverse. In this scenario, to allow message processing, the messages must be migrated in a Dataverse table.
+    - content: Modify the AI Builder configuration to connect to SharePoint.
+      isCorrect: false
+      explanation: Incorrect. No option allows this type of configuration.
+  - content: Julian needs to set up a category classification model to process supplier feedback for a logistics management company. A set of historical comments is available in Dataverse. What is the recommended option for Julian to prepare the data for training the custom model?
+    choices:
+    - content: List the categories to classify the comments in a new column of text data type in the Dataverse table.
+      isCorrect: true
+      explanation: Correct. The tags and the text must be in the same table and row in Dataverse.
+    - content: Create a table to store the categories and create a relationship with the comments table.
+      isCorrect: false
+      explanation: Incorrect. It's not possible to use a related table for the tags.
+    - content: Add a lookup column to the Dataverse table that provides a selection from a list of categories.
+      isCorrect: false
+      explanation: Incorrect. The tags can't be a lookup value.

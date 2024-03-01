@@ -1,0 +1,1 @@
+Power Automate for desktop enables the automation of text processing and data manipulation through the text and datetime actions. These actions can handle any procedure that is relevant to text and dates, such as type conversion or text joining, splitting, and trimming.

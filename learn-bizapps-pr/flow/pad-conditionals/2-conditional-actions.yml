@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-conditionals.2-conditional-actions 
+title: Conditional actions
+metadata: 
+  title: Conditional actions
+  description: An overview of Conditional actions.
+  ms.date: 10/27/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-conditional-actions.md)] 

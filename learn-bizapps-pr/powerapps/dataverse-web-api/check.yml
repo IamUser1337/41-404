@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/28/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: "power-platform"
+ ms.subservice: developer
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the underlying protocol of Microsoft Dataverse's Web API?
+    choices:
+    - content: SOAP
+      isCorrect: false
+      explanation: The underlying protocol of Dataverse's Web API is OData.
+    - content: OData
+      isCorrect: true
+      explanation: The underlying protocol of Dataverse's Web API is OData.
+    - content: XML
+      isCorrect: false
+      explanation: The underlying protocol of Dataverse's Web API is OData.
+  - content: What is Dataverse's XML-based query language called?
+    choices:
+    - content: FetchXML
+      isCorrect: true
+      explanation: Dataverse's XML-based query language is FetchXML.
+    - content: XAML
+      isCorrect: false
+      explanation: Dataverse's XML-based query language is FetchXML.
+    - content: QueryExpression
+      isCorrect: false
+      explanation: Dataverse's XML-based query language is FetchXML.
+  - content: What name is used to refer to changeset data when you're tracking against a table?
+    choices:
+    - content: Variance
+      isCorrect: false
+      explanation: Delta is used to refer to changeset data when you're tracking against a table.
+    - content: Deviation
+      isCorrect: false
+      explanation: Delta is used to refer to changeset data when you're tracking against a table.
+    - content: Delta
+      isCorrect: true
+      explanation: Delta is used to refer to changeset data when you're tracking against a table.

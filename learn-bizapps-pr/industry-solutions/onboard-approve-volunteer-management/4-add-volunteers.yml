@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.onboard-approve-volunteer-management.4-add-volunteers 
+title: Add volunteers to a schedule
+metadata: 
+  title: Add volunteers to a schedule
+  description: Learn to schedule approved volunteers.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-add-volunteers.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-builder-text-generation.create-text-azure-open-ai-app
+title: Use GPT in a Power Apps canvas app
+metadata:
+  title: Use GPT in a Power Apps canvas app
+  description: Learn how you can use GPT in a Power Apps canvas app.
+  ms.date: 05/31/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-text-azure-open-ai-app.md)]

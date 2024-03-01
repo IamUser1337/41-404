@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.canvas-app-source-code.4-exercise 
+title: Exercise - Use source code in Visual Studio Code
+metadata: 
+  title: Exercise - Use source code in Visual Studio Code
+  description: Practice using source code in Visual Studio Code.
+  ms.date: 11/12/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise.md)] 

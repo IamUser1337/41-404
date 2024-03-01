@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.1-meet-the-team
+title: Meet the team
+metadata:
+  title: Meet the team
+  description: Meet the team
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: unit
+  ms.contributors:
+  - masoucou-04262021
+durationInMinutes: 3
+content: | 
+  [!include[](includes/1-meet-the-team.md)]

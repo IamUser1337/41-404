@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.configure-low-code.exercise-instant
+title: Exercise - Create instant plug-ins
+metadata:
+  title: Exercise - Create instant plug-ins
+  description: Follow the steps to create instant plug-ins.
+  ms.date: 12/14/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-instant.md)]

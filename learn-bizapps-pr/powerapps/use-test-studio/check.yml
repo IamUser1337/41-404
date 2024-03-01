@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-test-studio.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/27/2023 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: interactive-tutorial 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You define test suites in Test Studio for a canvas app. You want to provide a notification on success or failure to the user who performs the tests. Where should you set up the notification formula?
+    choices: 
+    - content: In the **OnTestCaseComplete** property of the test suite
+      isCorrect: true 
+      explanation: Correct. In the **OnTestCaseComplete** property, you have access to the results of the test and can notify the user by sending a success or failure message.
+    - content: As the action for the last step of the test case
+      isCorrect: false 
+      explanation: Incorrect. The result information from the test isn't available in the test case actions.
+    - content: As the **OnStart** property for the canvas app
+      isCorrect: false 
+      explanation: Incorrect. The canvas app doesn't have access to the test results information.
+  - content: A colleague asks you to proceed with the tests of a canvas app. You need to record the actions that a user would perform in the app. Which solution should you use?
+    choices: 
+    - content: Use the recording capabilities of Power Automate for desktop and integrate these capabilities in Test Studio cases.
+      isCorrect: false 
+      explanation: Incorrect. Power Automate for desktop provides recording capabilities for its own purpose. You can’t integrate the steps with Test Studio.
+    - content: Use the recording tool from Test Studio and proceed with the adjustments that are specific to the test cases in the action formulas.
+      isCorrect: true 
+      explanation: Correct. The recording tool from Test Studio provides the functionality that’s required for creating test cases.
+    - content: Use the canvas app Play option to capture user interactions and paste those interactions in Test Studio for a test suite.
+      isCorrect: false 
+      explanation: Incorrect. The Play option for Power Apps allows you to run the app but not record the actions for Test Studio.
+  - content: You design a test strategy where a test suite must always start from a specific screen. The app contains multiple screens and navigation options. What should you do?
+    choices: 
+    - content: Add a Navigate formula in the **OnStart** property for the app.
+      isCorrect: false 
+      explanation: Incorrect. This event occurs when the app launches, but the test suite might be launched at a different stage of app use.
+    - content: Record the navigation to that specific screen and then set this test as the first test case for the suite.
+      isCorrect: false 
+      explanation: Incorrect. The app contains multiple screens and navigation options. It isn't possible to guarantee the starting point where the recording would need to be.
+    - content: Include a Navigate formula in the **OnTestCaseStart** property for the test suite.
+      isCorrect: true 
+      explanation: The Navigate formula in the **OnTestCaseStart** property ensures that every occurrence of the test is run from the target screen.

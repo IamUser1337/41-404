@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to setting up the Store Operations Assist training environment.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

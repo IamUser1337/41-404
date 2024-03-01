@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-model-driven-apps.exercise-create-tables
+title: Exercise - Create custom tables
+metadata:
+  title: Exercise - Create custom tables
+  description: "Test your ability to create custom Dataverse tables."
+  ms.date: 12/13/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+  [!include[](includes/3-exercise-create-tables.md)]

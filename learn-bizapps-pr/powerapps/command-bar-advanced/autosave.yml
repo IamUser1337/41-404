@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.command-bar-advanced.autosave 
+title: Understand AutoSave
+metadata: 
+  title: Understand AutoSave
+  description: Learn about AutoSave.
+  ms.date: 12/29/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/autosave.md)] 

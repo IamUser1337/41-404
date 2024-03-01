@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.extend-power-pages
+metadata:
+  title: Extend Power Pages
+  description: Learn how to extend Power Pages.
+  ms.date: 05/26/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Extend Power Pages
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  The ability to easily surface and interact with Microsoft Dataverse data on an externally facing website is the core benefit for implementing a Power Pages website. This learning path describes how to transform a content website into a complete web app interacting with Dataverse. We will also cover the options available to customizers and developers to extend the website functionality and integrate with Office 365, Microsoft Power Platform, and Azure components. 
+prerequisites: |
+  - Power Apps trial subscription.
+  - Provisioned Power Apps portal from blank.
+  - Understanding of how to navigate and customize the model-driven Power Apps.
+  - Basic Power Apps development experience.
+iconUrl: /learn/achievements/extend-power-pages.svg
+levels:
+- advanced
+roles: 
+- maker
+- developer
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.power-pages-dataverse 
+- learn-bizapps.power-pages-extend
+- learn-bizapps.power-pages-custom-web 
+trophy: 
+  uid: learn-bizapps.extend-power-pages.trophy

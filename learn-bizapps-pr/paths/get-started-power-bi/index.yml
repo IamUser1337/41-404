@@ -1,0 +1,29 @@
+### YamlMime:LearningPath
+uid: learn.wwl.get-started-power-bi
+metadata:
+  title: Get started with Power BI
+  description: Get started with Power BI
+  ms.date: 05/25/2023
+  author: wwlpublish
+  ms.author: shlindsay
+  ms.topic: learning-path
+title: Get started with Power BI
+prerequisites: |
+  There are no prerequisites for this learning path.
+summary: |
+  Begin exploring the fundamentals of Power BI interactive reports and the web-based Power BI service for your business.
+iconUrl: /training/achievements/get-started-power-bi.svg
+levels:
+- beginner
+roles:
+- data-analyst
+products:
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.wwl.introduction-power-bi
+- learn-bizapps.intro-to-power-bi-service
+- learn-bizapps.get-started-with-power-bi
+trophy:
+  uid: learn.wwl.get-started-power-bi.trophy

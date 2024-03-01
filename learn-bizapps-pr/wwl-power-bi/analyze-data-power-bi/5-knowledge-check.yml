@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.analyze-explore-data-power-bi.5-knowledge-check 
+metadata: 
+  title: Analyze and Explore Data in Power BI Knowledge Check 
+  description: Analyze and Explore Data in Power BI Knowledge Check 
+  ms.date: 08/12/2021
+  author: wwlpublish
+  ms.author: anrudduc 
+  ms.topic: unit
+   
+title: Check your knowledge 
+durationInMinutes: 5 
+quiz: 
+  title: Analyze and Explore Data in Power BI Knowledge Check 
+  questions: 
+  - content: Which of the following statements is true regarding filtering a report?
+    choices: 
+    - content: A report page can be filtered up to 3 levels.
+      isCorrect: false 
+      explanation: By using advanced filtering, you can use the dropdown controls and text boxes to identify which fields to include. By choosing between And and Or, you can build complex filter expressions.
+    - content: Filtering capabilities are only available to report designers
+      isCorrect: false 
+      explanation: By using advanced filtering, you can use the dropdown controls and text boxes to identify which fields to include. By choosing between And and Or, you can build complex filter expressions.
+    - content: Deleting a filter also deletes the data from the report.
+      isCorrect: false 
+      explanation: By using advanced filtering, you can use the dropdown controls and text boxes to identify which fields to include. By choosing between And and Or, you can build complex filter expressions.
+    - content: You can create complex filter expressions by choosing **And** and **Or** between fields.
+      isCorrect: true
+      explanation: By using advanced filtering, you can use the dropdown controls and text boxes to identify which fields to include. By choosing between And and Or, you can build complex filter expressions.
+  - content: Which of the following Power BI features allows you to explore your data using natural language capabilities? 
+    choices: 
+    - content: Filter
+      isCorrect: false 
+      explanation: Use Q&A to explore your data using intuitive, natural language capabilities and receive answers in the form of charts and graphs. Q&A is different from a search engine -- Q&A only provides results about the data in Power BI.
+    - content: Q&A
+      isCorrect: true 
+      explanation: Use Q&A to explore your data using intuitive, natural language capabilities and receive answers in the form of charts and graphs. Q&A is different from a search engine -- Q&A only provides results about the data in Power BI.
+    - content: Sort
+      isCorrect: false 
+      explanation: Use Q&A to explore your data using intuitive, natural language capabilities and receive answers in the form of charts and graphs. Q&A is different from a search engine -- Q&A only provides results about the data in Power BI. 
+    - content: Global Search.
+      isCorrect: false 
+      explanation: Use Q&A to explore your data using intuitive, natural language capabilities and receive answers in the form of charts and graphs. Q&A is different from a search engine -- Q&A only provides results about the data in Power BI.
+  - content: Which one of the following visuals can be sorted?
+    choices: 
+    - content: Treemap
+      isCorrect: false 
+      explanation: You can only sort visuals where one axis is a number. Maps and cards (with a single number) cannot be sorted.
+    - content: Bar chart
+      isCorrect: true 
+      explanation: You can only sort visuals where one axis is a number. Maps and cards (with a single number) cannot be sorted.
+    - content: Filled map 
+      isCorrect: false 
+      explanation: You can only sort visuals where one axis is a number. Maps and cards (with a single number) cannot be sorted. 
+    - content: Cards
+      isCorrect: false 
+      explanation: You can only sort visuals where one axis is a number. Maps and cards (with a single number) cannot be sorted.
+  - content: If you click a tab at the bottom of a report, which of the following filters would apply to every visual you see? 
+    choices: 
+    - content: Tab filter
+      isCorrect: false
+      explanation: A page filter applies to every visual on the page you see. A report filter would also apply to everything on the visual page as well as all the other pages in that report. Visual filters only apply to one visual and there is no power filter.
+    - content: Visual filter
+      isCorrect: false 
+      explanation: A page filter applies to every visual on the page you see. A report filter would also apply to everything on the visual page as well as all the other pages in that report. Visual filters only apply to one visual and there is no power filter.
+    - content: Page filter
+      isCorrect: true
+      explanation: A page filter applies to every visual on the page you see. A report filter would also apply to everything on the visual page as well as all the other pages in that report. Visual filters only apply to one visual and there is no power filter.
+    - content: Power filter
+      isCorrect: false 
+      explanation: A page filter applies to every visual on the page you see. A report filter would also apply to everything on the visual page as well as all the other pages in that report. Visual filters only apply to one visual and there is no power filter.
+  - content: How would you view the data from a visual in a pivot table? 
+    choices: 
+    - content: Launch the Pivot Table feature in Power BI.
+      isCorrect: false 
+      explanation: By exporting your data to Excel, you can explore your data in several ways, including Pivot tables.  
+    - content: Export the data to Microsoft Excel.
+      isCorrect: true 
+      explanation: By exporting your data to Excel, you can explore your data in several ways, including Pivot tables.  
+    - content: Export the data to Microsoft Word.
+      isCorrect: false 
+      explanation: By exporting your data to Excel, you can explore your data in several ways, including Pivot tables.  
+    - content: Export the data to Microsoft PowerPoint.
+      isCorrect: false 
+      explanation: By exporting your data to Excel, you can explore your data in several ways, including Pivot tables.  

@@ -1,0 +1,45 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-message-boxes.4-check-your-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/22/2020 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "What is the role of the Message boxes?"
+    choices: 
+    - content: "They provide input to a flow."
+      isCorrect: false 
+      explanation: "Message boxes can be used to provide input to a flow, and output to the user."
+    - content: "They provide output to the user."
+      isCorrect: false 
+      explanation: "Message boxes can be used to provide input to a flow, and output to the user."
+    - content: "Both of the above"
+      isCorrect: true 
+      explanation: "Message boxes can be used to provide input to a flow, and output to the user."
+  - content: "Which one of the following statements about the Display Message Box action is true?"
+    choices: 
+    - content: "The buttons OK and Cancel cannot be changed."
+      isCorrect: false 
+      explanation: "The buttons in the Display Message Box action can be changed. Multiple preset button combinations are available."
+    - content: "The buttons OK and Cancel are configurable."
+      isCorrect: true 
+      explanation: "The buttons in the Display Message Box action can be changed. Multiple preset button combinations are available."
+  - content: "Which option(s) does the Display select from list dialog action provide?"
+    choices: 
+    - content: "Allow empty selection"
+      isCorrect: false 
+      explanation: "The Display select from list dialog action allows users to perform empty selections."
+    - content: "Allow multiple selection"
+      isCorrect: false 
+      explanation: "The Display select from list dialog action allows users to select multiple items from the provided list."
+    - content: "Both of the above"
+      isCorrect: true 
+      explanation: "The Display select from list dialog action provides both options."

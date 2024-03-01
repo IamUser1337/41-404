@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-add-interactivity-features.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/4-knowledge-check.md)]
+quiz:
+  title: "Adding interactivity features"
+  questions:
+  - content: "Which of these is true about  interactivity features?"
+    choices:
+    - content: "Visibility of one item can be toggled by clicking on another item."
+      isCorrect: true
+      explanation: "That's correct. Visibility of one item can be toggled by clicking on another item."
+    - content: "Visibility of one item cannot be toggled by clicking on another item."
+      isCorrect: false
+      explanation: "That's incorrect. Visibility of one item can be toggled by clicking on another item."
+    - content: "All rendering formats support interactive features."
+      isCorrect: false
+      explanation: "That's correct. Interactive sorting and tooltips are interactivity features."
+  - content: "Does HTML rendering support all Power BI interactivity features?"
+    choices:
+    - content: "No, only Excel support all Power BI interactivity features."
+      isCorrect: false
+      explanation: "That's incorrect. HTML rendering supports all Power BI interactivity features."
+    - content: "No, Toggling visibility is not supported in HTML."
+      isCorrect: false
+      explanation: "That's incorrect. HTML rendering supports all Power BI interactivity features."
+    - content: "Yes, HTML rendering supports all Power BI interactivity features."
+      isCorrect: true
+      explanation: "That's correct. HTML rendering supports all Power BI interactivity features."
+  - content: "How can report users reveal tooltips?"
+    choices:
+    - content: "Left button selection of the item"
+      isCorrect: false
+      explanation: "That's incorrect. Hover the cursor over the item to show tooltips."
+    - content: "Select the “Show all tooltips” button"
+      isCorrect: false
+      explanation: "That's incorrect. Hover the cursor over the item to show tooltips."
+    - content: "Hover the cursor over the item"
+      isCorrect: true
+      explanation: "That's correct. Hover the cursor over the item to show tooltips."

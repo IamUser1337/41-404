@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-data-model-expense-report.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to creating a data model for an expense report app
+  ms.date: 01/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

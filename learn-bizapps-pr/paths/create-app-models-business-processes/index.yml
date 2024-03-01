@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-app-models-business-processes
+metadata:
+  title: Create a model-driven application in Power Apps
+  description: This learning path introduces you to creating a model-driven app in Power Apps that uses Microsoft Dataverse.
+  ms.date: 12/19/2022
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: learning-path
+title: Create a model-driven application in Power Apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  This learning path introduces you to creating a model-driven app in Power Apps that uses Dataverse. 
+
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
+
+prerequisites: |
+  - Familiarity with Power Apps, Excel, and Power Automate. 
+iconUrl: /training/achievements/create-app-models-business-processes.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.build-first-model-driven-app-dataverse 
+- learn-bizapps.powerapps-common-data-service
+- learn-bizapps.powerapps-design-model-driven-apps
+- learn-dynamics.configure-model-driven-apps-customer-engagement 
+trophy:
+  uid: learn.create-app-models-business-processes.trophy

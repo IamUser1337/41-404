@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.author-advanced-formulas.5-knowledge-check 
+metadata: 
+  title: Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps knowledge check
+  description: Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps knowledge check
+  ms.date: 06/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: Author an advanced formula that uses tables, records, and collections in a canvas app in Power Apps knowledge check
+  questions: 
+  - content: When using functions that process Tables of data, the table must come from?
+    choices: 
+    - content: Unfiltered data sources
+      isCorrect: false
+      explanation: The table may come from a tabular data source, a collection or a Table function. 
+    - content: Any data source but not collections
+      isCorrect: false 
+      explanation: The table may come from a tabular data source, a collection or a Table function. 
+    - content: Single column tables only
+      isCorrect: false 
+      explanation: The table may come from a tabular data source, a collection or a Table function. 
+    - content: The functions will accept any table. The table may come from a tabular data source, a collection or a Table function
+      isCorrect: true
+      explanation: The table may come from a tabular data source, a collection or a Table function. 
+  - content: The aggregate functions support the following inputs?
+    choices: 
+    - content: Only Table data with an expression -- Example Sum(Table, Column1)
+      isCorrect: false
+      explanation: Aggregate functions support both Table and Manual data. 
+    - content: Only Manual data -- Example Sum(1,2,3)
+      isCorrect: false 
+      explanation: Aggregate functions support both Table and Manual data. 
+    - content: Both Table data and Manual data
+      isCorrect: true
+      explanation: Aggregate functions support both Table and Manual data. 
+    - content: Only Table data without an expression -- Example Sum(Table)
+      isCorrect: false 
+      explanation: Aggregate functions support both Table and Manual data. 
+  - content: What function can you use in the formula for the **ForAll** function to overcome not being able to use **Set** and **UpdateContext**?
+    choices: 
+    - content: You can use Set and UpdateContext in ForAll.
+      isCorrect: false
+      explanation: The Patch function can be used. 
+    - content: You can use the Collect function.
+      isCorrect: false 
+      explanation: The Patch function can be used. 
+    - content: You can use the ForAllVariable function.
+      isCorrect: false 
+      explanation: The Patch function can be used. 
+    - content: You can use the Patch function.
+      isCorrect: true
+      explanation: The Patch function can be used. 

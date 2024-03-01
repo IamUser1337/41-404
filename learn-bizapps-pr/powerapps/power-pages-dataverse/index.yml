@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-dataverse 
+metadata: 
+  title: Access Microsoft Dataverse in Power Pages websites
+  description: Learn about the several techniques and methods for displaying and interacting with Dataverse data on Power Pages websites. 
+  ms.date: 05/26/2023 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: module-standard-task-based
+  ms.service: power-pages
+title: Access Dataverse in Power Pages websites 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  The ability to show and interact with Dataverse data on a website is a central benefit of implementing a Microsoft Power Pages website. This module focuses on the several techniques and methods for displaying and interacting with Dataverse data on Power Pages websites.
+abstract: |  
+    In this module, you'll: 
+    - Discover Power Pages components that are available to help you display and interact with Dataverse data on a Power Pages website.
+    - Identify the various features of the Power Pages components.
+    - Display a list of data and an associated drill-down list for details.
+    - Set up a form to access individual table rows.
+    - Trigger classic Dataverse workflows from the website.
+prerequisites: Basic understanding of how to navigate and set up Microsoft Power Pages websites and knowledge of how to customize and set up model-driven apps  
+iconUrl: /training/achievements/power-pages-dataverse.svg  
+levels:  
+- advanced   
+roles:  
+- maker
+- developer
+products:  
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-dataverse.introduction 
+- learn-bizapps.power-pages-dataverse.lists 
+- learn-bizapps.power-pages-dataverse.forms 
+- learn-bizapps.power-pages-dataverse.exercise 
+- learn-bizapps.power-pages-dataverse.check 
+- learn-bizapps.power-pages-dataverse.summary 
+badge: 
+  uid: learn-bizapps.power-pages-dataverse.badge

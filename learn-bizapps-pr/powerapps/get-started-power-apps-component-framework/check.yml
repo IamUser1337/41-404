@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-component-framework.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/30/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ ms.service: powerapps
+ ms.subservice: pcf
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following options is NOT a template type for the controls built with the Power Apps component framework?
+    choices:
+    - content: Field
+      isCorrect: false
+      explanation: Field is one of the template types for the controls built with the Power Apps component framework.
+    - content: Unbound
+      isCorrect: true
+      explanation: Unbound isn't a valid template type for the controls built with the Power Apps component framework.
+    - content: Dataset
+      isCorrect: false
+      explanation: Dataset is one of the template types for the controls built with the Power Apps component framework.
+  - content: Which of the following files is used to define control properties for a Power App code component?
+    choices:
+    - content: index.ts
+      isCorrect: false
+      explanation: index.ts is a mandatory part of the component implementation and contains the code describing the required component methods.
+    - content: Manifest File
+      isCorrect: true
+      explanation: Manifest File is used to define control properties for a Power App code component.
+    - content: Resource File
+      isCorrect: false
+      explanation: Resource File is used to construct visualization of the Power Apps code component.
+    - content: CSS File
+      isCorrect: false
+      explanation: CSS files can be used by the code component to describe how the component is to be displayed on UI.
+  - content: Which of the following methods can be used to notify the framework that the control has new outputs?
+    choices:
+    - content: notifyOutputChanged
+      isCorrect: true
+      explanation: notifyOutputChanged method can be used by the control implementation to notify the framework that it has new outputs. This is passed to the control as a parameter of the init method.
+    - content: init
+      isCorrect: false
+      explanation: init method is used to initialize the component instance.
+    - content: updateView
+      isCorrect: false
+      explanation: updateView method is called when any value in the property bag has changed.
+    - content: getOutputs
+      isCorrect: false
+      explanation: getOutputs method is called by the framework prior to a component receiving the new data.

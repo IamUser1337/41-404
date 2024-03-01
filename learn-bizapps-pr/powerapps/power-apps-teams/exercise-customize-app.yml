@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-teams.exercise-customize-app 
+title: Exercise - Customize the app
+metadata: 
+  title: Exercise - Customize the app
+  description: Learn how to customize the app.
+  ms.date: 10/05/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 25 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-customize-app.md)] 

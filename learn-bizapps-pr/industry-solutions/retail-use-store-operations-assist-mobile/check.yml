@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist-mobile.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/24/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which one of the following options isn't valid while you're responding to a task?
+    choices:
+    - content: Create a related product
+      isCorrect: true
+      explanation: YourExplanation
+    - content: Create a related request
+      isCorrect: false
+      explanation: YourExplanation
+    - content: Create a related task
+      isCorrect: false
+      explanation: YourExplanation
+    - content: Add a photo
+      isCorrect: false
+      explanation: YourExplanation
+  - content: What happens when you create and save a virtual appointment record?
+    choices:
+    - content: A Microsoft Teams meeting invite is sent to the customer and the expert.
+      isCorrect: true
+      explanation: YourExplanation
+    - content: A Microsoft Teams meeting invite is sent to the customer only.
+      isCorrect: false
+      explanation: YourExplanation
+    - content: A Microsoft Teams meeting invite is sent to the expert only.
+      isCorrect: false
+      explanation: YourExplanation
+    - content: No meeting invite is sent.
+      isCorrect: false
+      explanation: YourExplanation
+  - content: Which one of the following is available for a Store associate in Store Operations Assist Mobile? 
+    choices:
+    - content: Customer baseball card 
+      isCorrect: true
+      explanation: A Store associate can view a customer’s profile details, insights, related tasks, customer purchase details, and appointments in the customer baseball card.  
+    - content: Vendor baseball card 
+      isCorrect: false
+      explanation: A Store associate can view a customer’s profile details, insights, related tasks, customer purchase details, and appointments in the customer baseball card.  
+    - content: Employee baseball card
+      isCorrect: false
+      explanation: A Store associate can view a customer’s profile details, insights, related tasks, customer purchase details, and appointments in the customer baseball card.  
+

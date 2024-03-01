@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-dataverse-teams.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/31/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is required for creating a table in Dataverse for Teams?
+    choices: 
+    - content: A table can't be created until you have a Dataverse for Teams license.
+      isCorrect: false
+      explanation: Dataverse for Teams doesn't have a separate license from Teams. If you're licensed for Teams, then you've Dataverse for Teams.
+    - content: A table can't be created until the Dataverse for Teams environment is provisioned when you're creating a new app or chatbot.
+      isCorrect: true
+      explanation: The Dataverse for Teams environment is only provisioned when the first Power Apps application or chatbot is created.
+    - content: A table can't be created until a Power Apps tab is added to a channel.
+      isCorrect: false 
+      explanation: Creating a Power Apps tab in a Teams channel doesn’t provision the Dataverse for Teams environment, which is needed to create the table.
+    - content: A table can't be created until a Power Automate cloud flow has been associated with a Power Apps application.
+      isCorrect: false 
+      explanation: Flows don't provision the Dataverse for Teams environment, which is required to create a table.
+  - content: Guest users who have access to your team need the ability to create, modify, and delete records within your table. However, the guest users shouldn't be able to see records that were created by other users because they aren't members of your company. Which level of privilege should they be assigned in the Management interface? 
+    choices: 
+    - content: Full access
+      isCorrect: false
+      explanation:  Full access for guest users would give them create, modify, and delete permissions to any record.
+    - content: Collaborative
+      isCorrect: false
+      explanation: Collaborative access allows users to create new records and view any records that were created by other users.
+    - content: Reference
+      isCorrect: false 
+      explanation: Reference doesn’t allow the user to create records, but it allows them access to any record that was created by other users.
+    - content: Private
+      isCorrect: true 
+      explanation: Private will allow the guests to create records, but it will restrict them to only viewing those records that they created. Guest users won't be able to view records that were created by other users.
+    - content: None
+      isCorrect: false 
+      explanation: The None level of access denies all access to the table. So, the guest users will be unable to create or view records.
+  - content: How can you add, configure and display columns in your Power Apps Dataverse for Teams table? (select the best answer)
+    choices: 
+    - content: Within your app, using the Power Apps visual table editor is the only way to add, configure and display columns in your app.
+      isCorrect: false
+      explanation: The Power Apps visual table editor is available inside of the app, and the Table editor is available outside of the app from the build environment. Both give you the ability to add columns and data to your table.
+    - content: Power Apps visual table editor
+      isCorrect: false 
+      explanation: The Power Apps visual table editor is available inside of the app, and the Table editor is available outside of the app from the build environment. Both give you the ability to add columns and data to your table.
+    - content: The Power Apps visual table editor is available inside of the app, and the Table editor is available outside of the app from the build environment. Both give you the ability to add columns and data to your table.
+      isCorrect: true
+      explanation: Correct. Both the Power Apps visual table editor from inside of the app, and the Table editor available inside of your Build environment can be used to edit your table.
+    - content: The Build Table editor, which is available outside of your app can be used to add and modify columns in your data
+      isCorrect: false 
+      explanation: The Power Apps visual table editor is available inside of the app, and the Table editor is available outside of the app from the build environment. Both give you the ability to add columns and data to your table.

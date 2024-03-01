@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-objective-domains
+title: Explore objective domains
+metadata:
+  title: Explore objective domains
+  description: "Explore objective domains"
+  ms.date: 11/17/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: unit
+  ms.service: power-platform
+durationInMinutes: 3
+content: |
+  [!include[](includes/2-explore-objective-domains.md)]

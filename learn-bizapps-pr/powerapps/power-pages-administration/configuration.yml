@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-administration.configuration
+title: Set up essential features of a Power Pages website
+metadata: 
+  title: Set up essential features of a Power Pages website
+  description: Learn how to set up essential Power Pages website features, such as controlling website visibility, adding a custom URL, or installing the SSL certificate.
+  ms.date: 05/08/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/configuration.md)] 

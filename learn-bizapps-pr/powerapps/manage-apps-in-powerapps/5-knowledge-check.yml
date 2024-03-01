@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-manage.5-quiz-manage-apps
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 08/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: When you share an app, what two permission levels are available?
+    choices:
+    - content: User and Co-Owner
+      explanation: The two permission levels available are User and Co-Owner.
+      isCorrect: true
+    - content: Editor and Co-Owner
+      explanation: The two permission levels available are User and Co-Owner.
+      isCorrect: false
+    - content: User and Editor
+      explanation: The two permission levels available are User and Co-Owner.
+      isCorrect: false
+    - content: Editor and Owner
+      explanation: The two permission levels available are User and Co-Owner.
+      isCorrect: false
+  - content: When you publish a new version of your app, what do users need to do?
+    choices:
+    - content: To see the new version, everyone with whom the app was shared must reinstall it.
+      explanation: Everyone you shared the app with sees the new version automatically.
+      isCorrect: false
+    - content: Everyone with whom you shared the app will automatically see the new version.
+      explanation: Everyone you shared the app with sees the new version automatically.
+      isCorrect: true
+    - content: All previous versions are deleted.
+      explanation: Previous versions are retained unless you delete the app. Everyone you shared the app with sees the new version automatically.
+      isCorrect: false
+    - content: Delete the old version app, then install the new version of the app.
+      explanation: Everyone you shared the app with sees the new version automatically.
+      isCorrect: false
+  - content: What is a reason to use environments?
+    choices:
+    - content: Create packaged solutions
+      explanation: To create packaged solutions, it isn't necessary to use environments.
+      isCorrect: false
+    - content: Manage data capacity by adding new environments
+      explanation: Environments have a default data capacity, but that capacity can be changed with add-ons. Additionally, data capacity limitations are capped on a tenant-wide level.
+      isCorrect: false
+    - content: Share apps outside of your organization
+      explanation: To share apps outside the organization, it isn't necessary to use environments.
+      isCorrect: false
+    - content: Manage access to data
+      explanation: Environments can be shared with specific users, allowing you to manage who can access certain data.
+      isCorrect: true

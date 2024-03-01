@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.patient-outreach.2-patient-segment 
+title: Exercise - Create a patient segment
+metadata: 
+  title: Exercise - Create a patient segment
+  description: Learn how to create a patient segment.
+  ms.date: 11/23/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-patient-segment.md)] 

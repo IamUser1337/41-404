@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.maximize-value
+title: Maximize the value of your data
+metadata:
+  title: Maximize the value of your data
+  description: Learn how a unified customer profile, shopper and operations analytics, intelligent fraud prevention, and retail media can maximize the value of your data.
+  ms.date: 01/24/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/maximize-value.md)]

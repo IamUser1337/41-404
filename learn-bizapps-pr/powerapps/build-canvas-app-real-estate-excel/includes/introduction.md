@@ -1,0 +1,5 @@
+With the Excel to App feature from Copilot in Microsoft Power Apps, you can select a Microsoft Excel file, create an app, and then run the app that you create. Every app that you create includes screens for you to browse records, show record details, and create or update records. By generating an app, you can quickly get a working app by using Excel data. Then, you can customize the app to suit your needs.
+
+When you upload an Excel file, it generates a Microsoft Dataverse table. The standard and custom tables in Dataverse help you store your data more securely in the cloud. Additionally, you can use these tables to define your organization's data in a way that's tailored to your business needs, helping to make using your data within your apps easier.
+
+If your environment is in the US region, and if AI is enabled in your organization, Microsoft 365 Copilot can help you create tables by suggesting table names, descriptions, column data types, and headers, even if this information is missing from the uploaded file. When you use Microsoft 365 Copilot for table creation, the Copilot card displays to indicate that AI in Copilot generated the table.

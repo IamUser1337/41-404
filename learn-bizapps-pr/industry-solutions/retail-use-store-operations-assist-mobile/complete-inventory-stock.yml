@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist-mobile.complete-inventory-stock
+title: Exercise - Complete an inventory stock count template task
+metadata:
+  title: Exercise - Complete an inventory stock count template task
+  description: Follow the steps to complete a task from the inventory stock count template.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/complete-inventory-stock.md)]

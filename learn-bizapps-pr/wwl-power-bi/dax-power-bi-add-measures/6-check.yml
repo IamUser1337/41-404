@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-measures.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/15/2022
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which statement about measures is correct?
+    choices: 
+    - content: Measures store values in the semantic model.
+      isCorrect: false
+      explanation: Unlike calculated tables and calculated columns, measures never store values in the semantic model.
+    - content: Measures must be added to the semantic model to achieve summarization.
+      isCorrect: false 
+      explanation: Measures don't need to be added to the semantic model. The concept of an implicit measure allows visuals to summarize column values.
+    - content: Measures can reference columns directly.
+      isCorrect: false 
+      explanation: Measures cannot reference columns directly. They can only reference columns that have been passed into functions to summarize column values, like SUM.
+    - content: Measures can reference other measures directly.
+      isCorrect: true 
+      explanation: Measures can reference other measures. It's known as a compound measure.
+  - content: Which DAX function can summarize a table?
+    choices: 
+    - content: SUM
+      isCorrect: false
+      explanation: The SUM function can only summarize a column.
+    - content: AVERAGE
+      isCorrect: false 
+      explanation: The AVERAGE function can only summarize a column.
+    - content: COUNTROWS
+      isCorrect: true 
+      explanation: The COUNTROWS function summarizes a table by returning the number of rows.
+    - content: DISTINCTCOUNT
+      isCorrect: false 
+      explanation: The DISTINCTCOUNT function can only summarize a column.
+  - content: Which of the following statements describing similarity of measures and calculated columns in an Import model is true?
+    choices: 
+    - content: They can achieve summarization of model data.
+      isCorrect: true 
+      explanation: A calculated column can be summarized (implicit measure) and a measure always achieves summarization.
+    - content: They store values in the semantic model.
+      isCorrect: false 
+      explanation: While calculated columns store their values in the model (when the table is using Import storage mode), measures never store their values in the model.
+    - content: They're evaluated during data refresh.
+      isCorrect: false 
+      explanation: While calculated columns are evaluated during data refresh time, measures are only evaluated during query time.
+    - content: They can be created by using quick calculations.
+      isCorrect: false 
+      explanation: While measures can be quickly created by using the Quick measures feature, no equivalent feature exists to create calculated columns.

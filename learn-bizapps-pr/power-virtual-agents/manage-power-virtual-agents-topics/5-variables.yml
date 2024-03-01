@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-power-virtual-agent-topics.5-variables
+title: Create topics for existing support content
+metadata:
+  title: Create topics for existing support content
+  description: Learn to extract content from your FAQ or support pages, and add the suggested topics to your bot.
+  ms.date: 10/02/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-variables.md)]

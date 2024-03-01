@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agents-create-online-workshop.publish-demo
+title: Exercise - Publish your copilot to the demo site for testing
+metadata:
+  title: Exercise - Publish your copilot to the demo site for testing
+  description: Follow the steps to publish your copilot to the demo site for testing.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/publish-demo.md)]

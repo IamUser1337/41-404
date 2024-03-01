@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.deploy-refine-app.publish-app
+title: Publish the app
+metadata:
+  title: Publish the app
+  description: Learn how to publish a model-driven app and a canvas app.
+  ms.date: 06/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/publish-app.md)]

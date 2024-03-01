@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.security-governance-intro.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/03/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Who can have access to the Power Apps and Power Automate default environment?
+    choices:
+    - content: Only users that have been manually added by an environment administrator
+      isCorrect: false
+      explanation: Administrators cannot restrict access to the default environment. Otherwise, users are likely to create resources outside of the visibility of administrators, which will mean that admins will no longer have any visibility or control of those resources.
+    - content: Only users that have been manually added by a tenant administrator
+      isCorrect: false
+      explanation: Administrators cannot restrict access to the default environment. Otherwise, users are likely to create resources outside of the visibility of administrators, which will mean that admins will no longer have any visibility or control of those resources.
+    - content: Every user within the tenant
+      isCorrect: true
+      explanation: Administrators cannot restrict access to the default environment. Otherwise, users are likely to create resources outside of the visibility of administrators, which will mean that admins will no longer have any visibility or control of those resources.
+    - content: Every user within the tenant who has Power Apps according to the app plan
+      isCorrect: false
+      explanation: Administrators cannot restrict access to the default environment. Otherwise, users are likely to create resources outside of the visibility of administrators, which will mean that admins will no longer have any visibility or control of those resources.
+  - content: When modifying a Data Loss Prevention (DLP) policy, how can an administrator know if they are about to break an existing app?
+    choices:
+    - content: The new Microsoft Power Platform Admin portal provides an experience that will automatically detect if a pending change to a DLP policy breaks existing apps.
+      isCorrect: false
+      explanation: Breaking an existing app due to a new DLP policy change creates a negative experience for app makers and users. However, using the DLP Editor V2 app can mitigate these issues by detecting changes before they are made. An experience also exists that allows the administrator to send an email within the app.
+    - content: The DLP Editor V2 app, found within the Center of Excellence Starter Kit, includes functionality that detects if a pending change to a DLP policy breaks existing apps.
+      isCorrect: true
+      explanation: Breaking an existing app due to a new DLP policy change creates a negative experience for app makers and users. However, using the DLP Editor V2 app can mitigate these issues by detecting changes before they are made. An experience also exists that allows the administrator to send an email within the app.
+    - content: Microsoft Power Platform management connectors will automatically detect these breaking changes and notify the administrator.
+      isCorrect: false
+      explanation: Breaking an existing app due to a new DLP policy change creates a negative experience for app makers and users. However, using the DLP Editor V2 app can mitigate these issues by detecting changes before they are made. An experience also exists that allows the administrator to send an email within the app.
+    - content: There is no way to automatically detect whether a pending DLP policy change impacts existing apps.
+      isCorrect: false
+      explanation: Breaking an existing app due to a new DLP policy change creates a negative experience for app makers and users. However, using the DLP Editor V2 app can mitigate these issues by detecting changes before they are made. An experience also exists that allows the administrator to send an email within the app.
+  - content: Within Data Loss Prevention (DLP) policies, what is the behavior of the default data group?
+    choices:
+    - content: All new connectors that are introduced to an environment are placed in the default data group.
+      isCorrect: true
+      explanation: Default data groups are important to understand because all new connectors will be placed into this data group when they are added to an environment. This approach might mean that a connector that would ordinarily be deemed suitable for business purposes is positioned with non-business data connectors and could inadvertently leak data to a non-sanctioned application or service.
+    - content: Only new custom connectors are placed within the default data group when new custom connectors are added to an environment.
+      isCorrect: false
+      explanation: Default data groups are important to understand because all new connectors will be placed into this data group when they are added to an environment. This approach might mean that a connector that would ordinarily be deemed suitable for business purposes is positioned with non-business data connectors and could inadvertently leak data to a non-sanctioned application or service.
+    - content: Only new Microsoft connectors are placed within this data group when new Microsoft connectors are added to an environment.
+      isCorrect: false
+      explanation: Default data groups are important to understand because all new connectors will be placed into this data group when they are added to an environment. This approach might mean that a connector that would ordinarily be deemed suitable for business purposes is positioned with non-business data connectors and could inadvertently leak data to a non-sanctioned application or service.
+    - content: The default data group is only a guideline where new connectors should be placed when they are added to an environment.
+      isCorrect: false
+      explanation: Default data groups are important to understand because all new connectors will be placed into this data group when they are added to an environment. This approach might mean that a connector that would ordinarily be deemed suitable for business purposes is positioned with non-business data connectors and could inadvertently leak data to a non-sanctioned application or service.

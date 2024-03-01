@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-goals-scorecard.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/04/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the purpose of scorecards and goals in Microsoft Sustainability Manager?
+    choices:
+    - content: Scorecards and goals are meant for recording emissions and calculating them.
+      isCorrect: false
+      explanation: Scorecards and goals are meant to track sustainability metrics against business objectives. 
+    - content: Scorecards and goals are used for reporting the emission calculations. 
+      isCorrect: false
+      explanation: Scorecards and goals are meant to track sustainability metrics against business objectives.
+    - content: Scorecards and goals are used for updating target emission values.   
+      isCorrect: false
+      explanation: Scorecards and goals are meant to track sustainability metrics against business objectives.
+    - content: Scorecards and goals are meant to track sustainability metrics against key business objectives. 
+      isCorrect: true
+      explanation: Scorecards and goals are meant to track sustainability metrics against business objectives.
+  - content: What is the relationship between scorecards and goals? 
+    choices:
+    - content: Scorecards allow an organization to track a business priority by using one or more goals. 
+      isCorrect: true
+      explanation: Scorecards allow an organization to track a business priority by using one or more goals. 
+    - content: Scorecards and goals are mutually exclusive. 
+      isCorrect: false
+      explanation: Scorecards allow an organization to track a business priority by using one or more goals. 
+    - content: Scorecards are created against a major business goal. 
+      isCorrect: false
+      explanation: Scorecards allow an organization to track a business priority by using one or more goals. 
+    - content: Scorecards and goals are tied to different business units. 
+      isCorrect: false
+      explanation: Scorecards allow an organization to track a business priority by using one or more goals. 
+  - content: How does Microsoft Teams collaboration within Microsoft Sustainability Manager benefit an organization? 
+    choices:
+    - content: Microsoft Teams collaboration makes it possible to share Microsoft Sustainability Manager reports and records between stakeholders. 
+      isCorrect: false
+      explanation: Teams collaboration helps improve the collaboration between sustainability team members by using Linked chats on records.
+    - content: Microsoft Teams collaboration helps improve the collaboration between sustainability team members by using Linked chats on records.
+      isCorrect: true
+      explanation: Teams collaboration helps improve the collaboration between sustainability team members by using Linked chats on records.
+    - content: Microsoft Teams collaboration helps with the sharing of documents between the sustainability team members from within Microsoft Sustainability Manager. 
+      isCorrect: false
+      explanation: Teams collaboration helps improve the collaboration between sustainability team members by using Linked chats on records.
+    - content: Microsoft Teams collaboration helps team members take advantage of general collaboration capabilities, such as the ability to send instant messages to other team members
+      isCorrect: false
+      explanation: Teams collaboration helps improve the collaboration between sustainability team members by using Linked chats on records.

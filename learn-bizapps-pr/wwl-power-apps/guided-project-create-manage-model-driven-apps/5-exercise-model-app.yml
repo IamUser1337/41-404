@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-model-driven-apps.exercise-model-app
+title: Exercise - Build a model-driven app
+metadata:
+  title: Exercise - Build a model-driven app
+  description: "Test your ability to build a model-driven app."
+  ms.date: 12/13/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/5-exercise-model-app.md)]

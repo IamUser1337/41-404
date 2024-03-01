@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-reach.9-template-apps-entities 
+title: Template apps - installed entities
+metadata: 
+  title: Template apps - installed entities 
+  description: Learn about template apps and installed entities. 
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/9-template-apps-entities.md)] 

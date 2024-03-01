@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.5a-exercise-app-with-controls
+title: Lab - Create a canvas app with unique controls
+labId: 107544
+metadata:
+  title: Lab - Create a canvas app with unique controls
+  description: Steps to create a canvas app with unique controls.
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](../includes/power-apps-accessing-labs.md)]
+  [!include[](includes/5a-exercise-app-with-controls.md)]

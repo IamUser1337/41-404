@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-deployment-pipelines.understand-deployment-process
+title: Understand the deployment process
+metadata:
+  title: Understand the deployment process
+  description: "Learn about continuous integration/continuous deployment (CI/CD) methodology in Power BI Service that ensures content is updated, well-tested, and regularly refreshed as needed."
+  ms.date: 01/30/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/understand-deployment-process.md)]

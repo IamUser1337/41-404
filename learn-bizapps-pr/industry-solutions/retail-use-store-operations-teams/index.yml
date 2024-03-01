@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-use-store-operations-teams
+metadata:
+ title: Use Store Operations Assist Teams
+ description: Learn how to use Store Operations Assist Teams in Microsoft Cloud for Retail.
+ ms.date: 02/22/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Use Store Operations Assist Teams
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to use Store Operations Assist Teams as a retail frontline worker.
+abstract: |
+    This module explains how to:
+    - Download and install Microsoft Power Apps.
+    - Use Store Operations Assist Teams as a store manager.
+    - Use Store Operations Assist Teams as a store associate.
+prerequisites: You must complete the learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) to complete this learning path.
+iconUrl: /learn/achievements/retail-use-store-operations-teams.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator 
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-use-store-operations-teams.introduction
+- learn-bizapps.retail-use-store-operations-teams.exercise-install
+- learn-bizapps.retail-use-store-operations-teams.exercise-manager
+- learn-bizapps.retail-use-store-operations-teams.exercise-store-associate
+- learn-bizapps.retail-use-store-operations-teams.check
+- learn-bizapps.retail-use-store-operations-teams.summary
+badge:
+  uid: learn-bizapps.retail-use-store-operations-teams.badge

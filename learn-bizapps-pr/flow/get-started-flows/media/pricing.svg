@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="903" height="128" aria-owns="en-us1" data-stacking-context="true" version="1.1" viewBox="3 8 903 128" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>Screenshot of pricing button highlighted.</title>
+ <g class="en-us" mask="url(#mask-for-en-us11)" aria-owns="head1 pricing-page1" data-stacking-context="true" data-tag="html" data-z-index="auto">
+  <mask id="mask-for-en-us11">
+   <rect width="1159" height="5623.9" fill="#fff"/>
+  </mask>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect width="1159" height="5623.9" fill="#fff"/>
+  </g>
+  <g data-stacking-layer="childStackingContextsWithNegativeStackLevels">
+   <g class="m-skip-to-main" mask="url(#mask-for-m-skip-to-main11)" data-stacking-context="true" data-tag="a" data-z-index="-2" role="link" tabindex="0">
+    <mask id="mask-for-m-skip-to-main11">
+     <rect x="-999" width="1" height="1" fill="#fff"/>
+    </mask>
+    <text color="rgb(39, 141, 164)" dominant-baseline="text-after-edge" fill="rgb(39, 141, 164)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(39, 141, 164)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+   </g>
+   <g class="modal-wrapper-mask" mask="url(#mask-for-modal-wrapper-mask11)" opacity="0" aria-owns="lp-proactive-chat1" data-stacking-context="true" data-tag="div" data-z-index="-1">
+    <mask id="mask-for-modal-wrapper-mask11">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+    <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+     <g class="section modal text-center lp-north-america" mask="url(#mask-for-lp-proactive-chat11)" opacity="0" aria-label="Chat now modal" aria-live="polite" aria-owns="lp-modal-close1 row50 row51" data-stacking-context="true" data-tag="section" data-z-index="99999" role="region" tabindex="0">
+      <mask id="mask-for-lp-proactive-chat11">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g class="container" mask="url(#mask-for-mainContent11)" aria-owns="pricing-api-host1 pricing-announcement-ribbon1 section1 section3 section4 add-on-plans1 section5 section6 script16" data-stacking-context="true" data-tag="div" data-z-index="auto" role="main">
+   <mask id="mask-for-mainContent11">
+    <rect y="58" width="1159" height="4516.1" fill="#fff"/>
+   </mask>
+   <g class="section section-white section-size7 pricing-cards-section-1" mask="url(#mask-for-section11)" aria-label="Power Automate pricing" aria-owns="row2 section2" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+    <g data-stacking-layer="rootBackgroundAndBorders">
+     <rect y="102" width="1159" height="1078.7" fill="#fff"/>
+    </g>
+    <mask id="mask-for-section11">
+     <rect y="102" width="1159" height="1078.7" fill="#fff"/>
+    </mask>
+    <g class="section section-size2 section-bottom-size0 section-white" font-stretch="100%" mask="url(#mask-for-section21)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" aria-label="License by flow" aria-owns="row3" data-stacking-context="true" data-tag="div" data-z-index="auto">
+     <mask id="mask-for-section21">
+      <rect y="253" width="1159" height="843.5" fill="#fff"/>
+     </mask>
+     <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-weight="600" text-decoration="none solid rgb(255, 255, 255)" user-select="auto"/>
+     <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" user-select="auto"/>
+     <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+      <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif'>
+       <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="15px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+       <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="15px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="37.553px" font-weight="600" letter-spacing="-.36px" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+       <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="14px" font-weight="400" letter-spacing="-.36px" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+      </g>
+      <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-weight="400" text-decoration="none solid rgb(25, 25, 25)">
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="14px" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="14px" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="9.1px" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="14px" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="14px" user-select="auto"/>
+      </g>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' letter-spacing="-.36px">
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="37.553px" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+       <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="14px" font-weight="400" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+       <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="9.1px" font-weight="400" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+      </g>
+      <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-weight="400" text-decoration="none solid rgb(25, 25, 25)">
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" user-select="auto"/>
+       <g font-size="14px">
+        <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+        <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+        <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+       </g>
+      </g>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+     </g>
+    </g>
+    <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="36px" font-stretch="100%" font-weight="600" letter-spacing="-.36px" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+   </g>
+   <g class="section section-size4 border-top-none" mask="url(#mask-for-section31)" aria-label="Get started with Power Automate" aria-owns="row7" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+    <mask id="mask-for-section31">
+     <rect y="1180" width="1159" height="370" fill="#fff"/>
+    </mask>
+    <g font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="24px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+     <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(255, 255, 255)" user-select="auto"/>
+     <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" user-select="auto"/>
+    </g>
+   </g>
+   <g class="section section-size7 section-bottom-size5 section-white section-" mask="url(#mask-for-section41)" aria-labelledby="pricing-details" aria-owns="row10 row11 footnotes1" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+    <mask id="mask-for-section41">
+     <rect y="1550" width="1159" height="1582.8" fill="#fff"/>
+     <rect x="573" y="1858" width="1" height="1" fill="#fff"/>
+     <rect x="949" y="1858" width="1" height="1" fill="#fff"/>
+     <rect x="573" y="1907" width="1" height="1" fill="#fff"/>
+     <rect x="949" y="1907" width="1" height="1" fill="#fff"/>
+     <rect x="573" y="1967" width="1" height="1" fill="#fff"/>
+     <rect x="949" y="2027" width="1" height="1" fill="#fff"/>
+     <rect x="573" y="2143" width="1" height="1" fill="#fff"/>
+     <rect x="573" y="2680" width="1" height="1" fill="#fff"/>
+     <rect x="949" y="2680" width="1" height="1" fill="#fff"/>
+    </mask>
+    <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="24px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="mx-screen-reader" mask="url(#mask-for-mx-screen-reader11)" data-stacking-context="true" data-tag="caption" data-z-index="auto">
+      <mask id="mask-for-mx-screen-reader11">
+       <rect x="15" y="2805" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(117, 117, 122)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <g fill="rgb(255, 255, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-decoration="none solid rgb(255, 255, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="16px" font-weight="700" user-select="auto"/>
+      <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="14px" font-weight="400" user-select="auto"/>
+      <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="14px" font-weight="400" user-select="auto"/>
+      <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="16px" font-weight="700" user-select="auto"/>
+      <g font-weight="400">
+       <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="14px" user-select="auto"/>
+       <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="14px" user-select="auto"/>
+       <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" font-size="9.1px" user-select="auto"/>
+      </g>
+     </g>
+     <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="20px" font-weight="700" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="13px" font-weight="700" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="16px" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="10.4px" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr11)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr11">
+       <rect x="573" y="1858" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr21)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr21">
+       <rect x="949" y="1858" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="10.4px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr31)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr31">
+       <rect x="573" y="1907" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr41)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr41">
+       <rect x="949" y="1907" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="10.4px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr51)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr51">
+       <rect x="573" y="1967" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="10.4px" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" font-weight="400" user-select="auto"/>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr61)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr61">
+       <rect x="949" y="2027" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr71)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr71">
+       <rect x="573" y="2143" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="600" user-select="auto"/>
+      <g font-weight="400">
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+      </g>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="400" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="underline solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="10.4px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="10.4px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="10.4px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="16px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="10.4px" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr81)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr81">
+       <rect x="573" y="2680" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr91)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr91">
+       <rect x="949" y="2680" width="1" height="1" fill="#fff"/>
+      </mask>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="400" user-select="auto"/>
+     </g>
+     <g class="mx-screen-reader" mask="url(#mask-for-mx-screen-reader21)" data-stacking-context="true" data-tag="caption" data-z-index="auto">
+      <mask id="mask-for-mx-screen-reader21">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr101)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr101">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr111)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr111">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr121)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr121">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr131)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr131">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr141)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr141">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr151)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr151">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr161)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr161">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr171)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr171">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr181)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr181">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="mx-screen-reader" mask="url(#mask-for-mx-screen-reader31)" data-stacking-context="true" data-tag="caption" data-z-index="auto">
+      <mask id="mask-for-mx-screen-reader31">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr191)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr191">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr201)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr201">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr211)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr211">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr221)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr221">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr231)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr231">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr241)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr241">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr251)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr251">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr261)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr261">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="show-for-sr" mask="url(#mask-for-show-for-sr271)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+      <mask id="mask-for-show-for-sr271">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+     </g>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+      <g font-size="12px">
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+       <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+      </g>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+     </g>
+     <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" font-weight="400" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="12px" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="12px" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="7.8px" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+     </g>
+    </g>
+   </g>
+   <g class="section section-size7 section-bottom-size5 card-section-bg-gradient" font-stretch="100%" mask="url(#mask-for-add-on-plans11)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" aria-label="Explore Power Automate add-ons" aria-owns="row12 row19" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+    <mask id="mask-for-add-on-plans11">
+     <rect y="3133" width="1159" height="1044.8" fill="#fff"/>
+    </mask>
+    <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif'>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="24px" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="20px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+     <text color="rgb(60, 60, 65)" dominant-baseline="text-after-edge" fill="rgb(60, 60, 65)" font-size="36px" font-weight="700" letter-spacing="-.36px" text-decoration="none solid rgb(60, 60, 65)" user-select="auto"/>
+     <g font-weight="400">
+      <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="14px" letter-spacing="-.36px" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+      <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="9.1px" letter-spacing="-.36px" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+      <text color="rgb(60, 60, 65)" dominant-baseline="text-after-edge" fill="rgb(60, 60, 65)" font-size="15px" text-decoration="none solid rgb(60, 60, 65)" user-select="auto"/>
+     </g>
+    </g>
+    <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="14px" font-weight="400" text-decoration="none solid rgb(25, 25, 25)">
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+    </g>
+    <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="14px">
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-weight="700" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+    </g>
+    <g fill="rgb(0, 0, 0)" text-decoration="none solid rgb(0, 0, 0)">
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="BAPIMDL2" font-size="11px" font-weight="400" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="BAPIMDL2" font-size="11px" font-weight="400" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-weight="600" user-select="auto"/>
+    </g>
+    <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif'>
+     <text color="rgb(60, 60, 65)" dominant-baseline="text-after-edge" fill="rgb(60, 60, 65)" font-size="36px" font-weight="700" letter-spacing="-.36px" text-decoration="none solid rgb(60, 60, 65)" user-select="auto"/>
+     <g font-weight="400">
+      <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="14px" letter-spacing="-.36px" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+      <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="9.1px" letter-spacing="-.36px" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+      <text color="rgb(60, 60, 65)" dominant-baseline="text-after-edge" fill="rgb(60, 60, 65)" font-size="15px" text-decoration="none solid rgb(60, 60, 65)" user-select="auto"/>
+     </g>
+    </g>
+    <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="14px" text-decoration="none solid rgb(25, 25, 25)">
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="400" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="700" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="400" user-select="auto"/>
+    </g>
+    <g fill="rgb(0, 0, 0)" text-decoration="none solid rgb(0, 0, 0)">
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="BAPIMDL2" font-size="11px" font-weight="400" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family="BAPIMDL2" font-size="11px" font-weight="400" user-select="auto"/>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="20px" font-weight="600" user-select="auto"/>
+    </g>
+    <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif'>
+     <text color="rgb(60, 60, 65)" dominant-baseline="text-after-edge" fill="rgb(60, 60, 65)" font-size="36px" font-weight="700" letter-spacing="-.36px" text-decoration="none solid rgb(60, 60, 65)" user-select="auto"/>
+     <text color="rgb(117, 117, 122)" dominant-baseline="text-after-edge" fill="rgb(117, 117, 122)" font-size="14px" font-weight="400" letter-spacing="-.36px" text-decoration="none solid rgb(117, 117, 122)" user-select="auto"/>
+     <text color="rgb(60, 60, 65)" dominant-baseline="text-after-edge" fill="rgb(60, 60, 65)" font-size="15px" font-weight="400" text-decoration="none solid rgb(60, 60, 65)" user-select="auto"/>
+    </g>
+    <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="14px" text-decoration="none solid rgb(25, 25, 25)">
+     <g font-weight="400">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" user-select="auto"/>
+     </g>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="700" user-select="auto"/>
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-weight="400" user-select="auto"/>
+    </g>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+    <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-weight="400" data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+     <g fill="rgb(25, 25, 25)" text-decoration="none solid rgb(25, 25, 25)">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="12px" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+     <g fill="rgb(25, 25, 25)" text-decoration="none solid rgb(25, 25, 25)">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="12px" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+     <g fill="rgb(25, 25, 25)" text-decoration="none solid rgb(25, 25, 25)">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="12px" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="7.8px" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-size="12px" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+    </g>
+   </g>
+   <g class="section section-size4 hide border-top-none" mask="url(#mask-for-section51)" aria-label="Questions about purchasing or plan requirements?" aria-owns="row20" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+    <mask id="mask-for-section51">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+   </g>
+   <g class="section section-size7 border-top-none" mask="url(#mask-for-section61)" aria-labelledby="more-resources" aria-owns="row23 row24" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+    <mask id="mask-for-section61">
+     <rect y="4178" width="1159" height="395.8" fill="#fff"/>
+    </mask>
+    <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+     <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="24px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g mask="url(#mask-for-svg11)" aria-owns="defs1" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-svg11">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+      <g mask="url(#mask-for-pricing-guide11)" aria-owns="path1" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+       <mask id="mask-for-pricing-guide11">
+        <rect width="0" height="0" fill="#fff"/>
+       </mask>
+      </g>
+     </g>
+     <g mask="url(#mask-for-svg21)" aria-owns="use1" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-svg21">
+       <rect x="15" y="4341" width="48" height="48" fill="#fff"/>
+      </mask>
+     </g>
+     <g font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+     </g>
+     <g mask="url(#mask-for-svg31)" aria-owns="defs2" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-svg31">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+      <g mask="url(#mask-for-pricing-faq11)" aria-owns="path2" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+       <mask id="mask-for-pricing-faq11">
+        <rect width="0" height="0" fill="#fff"/>
+       </mask>
+      </g>
+     </g>
+     <g mask="url(#mask-for-svg41)" aria-owns="use2" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-svg41">
+       <rect x="401" y="4341" width="48" height="48" fill="#fff"/>
+      </mask>
+     </g>
+     <g font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+     </g>
+     <g mask="url(#mask-for-svg51)" aria-owns="defs3" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-svg51">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+      <g mask="url(#mask-for-pricing-tools11)" aria-owns="path3" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+       <mask id="mask-for-pricing-tools11">
+        <rect width="0" height="0" fill="#fff"/>
+       </mask>
+      </g>
+     </g>
+     <g mask="url(#mask-for-svg61)" aria-owns="use3" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-svg61">
+       <rect x="788" y="4341" width="48" height="48" fill="#fff"/>
+      </mask>
+     </g>
+     <g font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+      <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family="BAPIMDL2" font-size="11px" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+     </g>
+    </g>
+   </g>
+   <g data-stacking-layer="rootBackgroundAndBorders">
+    <rect y="58" width="1159" height="44" fill="#06f"/>
+   </g>
+   <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="297.5625" y="89.5" lengthAdjust="spacingAndGlyphs" textLength="553.84375" xml:space="preserve">Announcing new AI features—GPT-powered bot building tools and conversation boosters</tspan></text>
+   <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family="BAPIMDL2" font-size="11px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="856.40625" y="85.8125" lengthAdjust="spacingAndGlyphs" textLength="11" xml:space="preserve"></tspan></text>
+  </g>
+  <g mask="url(#mask-for-svg71)" aria-hidden="true" aria-owns="defs4" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+   <mask id="mask-for-svg71">
+    <rect y="4574" width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g mask="url(#mask-for-svg81)" aria-hidden="true" aria-owns="defs5" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+   <mask id="mask-for-svg81">
+    <rect y="4574" width="0" height="0" fill="#fff"/>
+   </mask>
+   <g mask="url(#mask-for-monoline-sock-call11)" aria-owns="title2 path4" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+    <mask id="mask-for-monoline-sock-call11">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+   </g>
+   <g mask="url(#mask-for-monoline-sock-chat11)" aria-owns="title3 path5" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+    <mask id="mask-for-monoline-sock-chat11">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+   </g>
+   <g mask="url(#mask-for-monoline-sock-contact11)" aria-owns="title4 path6 path7 path8 path9" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+    <mask id="mask-for-monoline-sock-contact11">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+   </g>
+  </g>
+  <g class="mc-contact-sock-footer section section-size5 section-white" mask="url(#mask-for-mc-contact-sock-footer11)" aria-label="Contact Sales" aria-owns="row36 row37" data-stacking-context="true" data-tag="section" data-z-index="auto" role="region">
+   <mask id="mask-for-mc-contact-sock-footer11">
+    <rect y="4624" width="1159" height="439" fill="#fff"/>
+   </mask>
+   <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="24px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+   <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+    <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+     <g class="mc-icon icon-size4" mask="url(#mask-for-mc-icon11)" aria-hidden="true" aria-owns="mc-icon2" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="img">
+      <mask id="mask-for-mc-icon11">
+       <rect x="30" y="4768" width="48" height="48" fill="#fff"/>
+      </mask>
+     </g>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="20px" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 102, 255)" dominant-baseline="text-after-edge" fill="rgb(0, 102, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(0, 102, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(0, 102, 255)" dominant-baseline="text-after-edge" fill="rgb(0, 102, 255)" font-family="BAPIMDL2" font-size="11px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 102, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="mc-icon icon-size4" mask="url(#mask-for-mc-icon31)" aria-hidden="true" aria-owns="mc-icon4" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="img">
+      <mask id="mask-for-mc-icon31">
+       <rect x="406" y="4768" width="48" height="48" fill="#fff"/>
+      </mask>
+     </g>
+     <g font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="20px" font-weight="600" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" fill="rgb(25, 25, 25)" font-size="16px" font-weight="400" text-decoration="none solid rgb(25, 25, 25)" user-select="auto"/>
+      <text color="rgb(0, 102, 255)" dominant-baseline="text-after-edge" fill="rgb(0, 102, 255)" font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 102, 255)" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 102, 255)" dominant-baseline="text-after-edge" fill="rgb(0, 102, 255)" font-family="BAPIMDL2" font-size="11px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 102, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <g class="mc-icon icon-size4" mask="url(#mask-for-mc-icon51)" aria-hidden="true" aria-owns="mc-icon6" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="img">
+      <mask id="mask-for-mc-icon51">
+       <rect x="783" y="4768" width="48" height="48" fill="#fff"/>
+      </mask>
+     </g>
+     <g fill="rgb(25, 25, 25)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-stretch="100%" text-decoration="none solid rgb(25, 25, 25)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="20px" font-weight="600" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+      <text color="rgb(25, 25, 25)" dominant-baseline="text-after-edge" font-size="15px" font-weight="400" user-select="auto"/>
+     </g>
+     <text color="rgb(0, 102, 255)" dominant-baseline="text-after-edge" fill="rgb(0, 102, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="16px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(0, 102, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+     <text color="rgb(0, 102, 255)" dominant-baseline="text-after-edge" fill="rgb(0, 102, 255)" font-family="BAPIMDL2" font-size="11px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 102, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+    </g>
+   </g>
+  </g>
+  <g mask="url(#mask-for-iframe11)" data-stacking-context="true" data-tag="iframe" data-z-index="auto">
+   <title>Intentionally blank</title>
+   <mask id="mask-for-iframe11">
+    <rect width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect width="1159" height="57.5" fill="#fff"/>
+   <line x2="1159" y1="57.5" y2="57.5" stroke="#efefef" stroke-linecap="square" stroke-width="1px"/>
+   <rect width="1159" height="56.5" fill="#fff"/>
+  </g>
+  <g mask="url(#mask-for-img11)" data-stacking-context="true" data-tag="img" data-z-index="auto" role="presentation">
+   <mask id="mask-for-img11">
+    <rect x="16" y="17" width="108" height="23" fill="#fff"/>
+   </mask>
+   <image id="img1-image" x="15.562" y="17.25" width="108" height="23" data-src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANgAAAAuCAYAAABK69fpAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6QTAwQkM2Mzk4NDBBMTFFNjhDQkVCOTdDMjE1NkM3RkQiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6QTAwQkM2Mzg4NDBBMTFFNjhDQkVCOTdDMjE1NkM3RkQiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpBMkM5MzFBNDcwQTExMUU2QUVERkExNDU3ODU1M0I3QiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpBMkM5MzFBNTcwQTExMUU2QUVERkExNDU3ODU1M0I3QiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PgQJy/MAAAxESURBVHja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"/>
+  </g>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect x="136" y="17" width="1" height="22" stroke="#000" stroke-width="1px"/>
+  </g>
+  <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="18px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="149.5625" y="40.25" lengthAdjust="spacingAndGlyphs" textLength="136.40625" xml:space="preserve">Power Automate</tspan></text>
+  <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="309.96875" y="36.75" lengthAdjust="spacingAndGlyphs" textLength="44.84375" xml:space="preserve">Product</tspan></text>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect transform="translate(233 27) matrix(1 0 0 1 0 -4)" width="8" height="8" fill="rgba(0, 0, 0, 0)"/>
+   <image x="362.81" y="26.75" width="8" height="8" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2048 2048' width='8' height='8'&gt;&lt;path d='M1024 1657L25 658l121-121 878 878 878-878 121 121-999 999z'&gt;&lt;/path&gt;&lt;/svg&gt;"/>
+  </g>
+  <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="390.8125" y="36.75" lengthAdjust="spacingAndGlyphs" textLength="65.890625" xml:space="preserve">Capabilities</tspan></text>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect transform="translate(293 27) matrix(1 0 0 1 0 -4)" width="8" height="8" fill="rgba(0, 0, 0, 0)"/>
+   <image x="464.69" y="26.75" width="8" height="8" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2048 2048' width='8' height='8'&gt;&lt;path d='M1024 1657L25 658l121-121 878 878 878-878 121 121-999 999z'&gt;&lt;/path&gt;&lt;/svg&gt;"/>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" word-spacing="0px" writing-mode="horizontal-tb">
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" text-rendering="optimizelegibility" user-select="auto"><tspan x="492.703125" y="37" lengthAdjust="spacingAndGlyphs" textLength="39.125" xml:space="preserve">Pricing</tspan></text>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" text-rendering="optimizelegibility" user-select="auto"><tspan x="555.828125" y="37" lengthAdjust="spacingAndGlyphs" textLength="46.578125" xml:space="preserve">Partners</tspan></text>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" text-rendering="auto" user-select="auto"><tspan x="626.40625" y="36.75" lengthAdjust="spacingAndGlyphs" textLength="31.421875" xml:space="preserve">Learn</tspan></text>
+  </g>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect transform="translate(564 27) matrix(1 0 0 1 0 -4)" width="8" height="8" fill="rgba(0, 0, 0, 0)"/>
+   <image x="665.83" y="26.75" width="8" height="8" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2048 2048' width='8' height='8'&gt;&lt;path d='M1024 1657L25 658l121-121 878 878 878-878 121 121-999 999z'&gt;&lt;/path&gt;&lt;/svg&gt;"/>
+  </g>
+  <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="693.828125" y="36.75" lengthAdjust="spacingAndGlyphs" textLength="46.09375" xml:space="preserve">Support</tspan></text>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect transform="translate(616 27) matrix(1 0 0 1 0 -4)" width="8" height="8" fill="rgba(0, 0, 0, 0)"/>
+   <image x="747.92" y="26.75" width="8" height="8" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2048 2048' width='8' height='8'&gt;&lt;path d='M1024 1657L25 658l121-121 878 878 878-878 121 121-999 999z'&gt;&lt;/path&gt;&lt;/svg&gt;"/>
+  </g>
+  <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="775.921875" y="36.75" lengthAdjust="spacingAndGlyphs" textLength="66.625" xml:space="preserve">Community</tspan></text>
+  <g data-stacking-layer="rootBackgroundAndBorders">
+   <rect transform="translate(677 27) matrix(1 0 0 1 0 -4)" width="8" height="8" fill="rgba(0, 0, 0, 0)"/>
+   <image x="850.55" y="26.75" width="8" height="8" preserveAspectRatio="xMidYMid slice" xlink:href="data:image/svg+xml;utf8,&lt;svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2048 2048' width='8' height='8'&gt;&lt;path d='M1024 1657L25 658l121-121 878 878 878-878 121 121-999 999z'&gt;&lt;/path&gt;&lt;/svg&gt;"/>
+  </g>
+  <g font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+   <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-weight="600" text-decoration="none solid rgb(255, 255, 255)" user-select="auto"/>
+  </g>
+  <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+   <g mask="url(#mask-for-hr11)" data-stacking-context="true" data-tag="hr" data-z-index="auto" role="presentation">
+    <mask id="mask-for-hr11">
+     <rect x="15" y="4606" width="1057" height="2" fill="#fff"/>
+    </mask>
+   </g>
+  </g>
+  <g class="bapi-footer-divider bapi-footer-divider--length2" mask="url(#mask-for-bapi-footer-divider11)" aria-hidden="true" data-stacking-context="true" data-tag="hr" data-z-index="auto" role="presentation">
+   <mask id="mask-for-bapi-footer-divider11">
+    <rect x="16" y="5368" width="26" height="2" fill="#fff"/>
+   </mask>
+  </g>
+  <g fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-stretch="100%" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+   <g font-size="13px" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)">
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+   </g>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+   <g font-size="13px" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)">
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+   </g>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-size="13px" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-size="13px" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)" user-select="auto"/>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" font-size="16px" font-weight="600" text-decoration="none solid rgb(0, 0, 0)" user-select="auto"/>
+   <g font-size="13px" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)">
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+   </g>
+  </g>
+  <g class="bapi-footer-divider" mask="url(#mask-for-bapi-footer-divider21)" aria-hidden="true" data-stacking-context="true" data-tag="hr" data-z-index="auto" role="presentation">
+   <mask id="mask-for-bapi-footer-divider21">
+    <rect x="16" y="5481" width="1127.9" height="2" fill="#fff"/>
+   </mask>
+  </g>
+  <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+   <g mask="url(#mask-for-microsoft11)" aria-owns="path10 rect1 rect2 rect3 rect4" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-microsoft11">
+     <rect x="16" y="5517" width="87" height="18.359" fill="#fff"/>
+    </mask>
+   </g>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+   <title>Follow us on Twitter</title>
+   <g mask="url(#mask-for-svg91)" aria-owns="defs6" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-svg91">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+    <g mask="url(#mask-for-twitter11)" aria-owns="style1 twitter-BG1 twitter-icon1" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+     <mask id="mask-for-twitter11">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+    </g>
+   </g>
+   <g mask="url(#mask-for-svg101)" aria-owns="use4" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-svg101">
+     <rect x="276" y="5507" width="32" height="32" fill="#fff"/>
+    </mask>
+   </g>
+   <title>Follow us on RSS Feed</title>
+   <g mask="url(#mask-for-svg111)" aria-owns="defs7" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-svg111">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+    <g mask="url(#mask-for-rss11)" aria-owns="style2 rss-BG1 rss-icon1" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+     <mask id="mask-for-rss11">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+    </g>
+   </g>
+   <g mask="url(#mask-for-svg121)" aria-owns="use5" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-svg121">
+     <rect x="320" y="5507" width="32" height="32" fill="#fff"/>
+    </mask>
+   </g>
+   <title>Follow us on YouTube</title>
+   <g mask="url(#mask-for-svg131)" aria-owns="defs8" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-svg131">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+    <g mask="url(#mask-for-youtube-play11)" aria-owns="style3 youtube-play-BG1 youtube-play-icon1" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+     <mask id="mask-for-youtube-play11">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+    </g>
+   </g>
+   <g mask="url(#mask-for-svg141)" aria-owns="use6" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+    <mask id="mask-for-svg141">
+     <rect x="364" y="5507" width="32" height="32" fill="#fff"/>
+    </mask>
+   </g>
+  </g>
+  <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+   <g fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="underline solid rgb(0, 0, 0)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb">
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+    <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" user-select="auto"/>
+   </g>
+   <g class="language-select hidden-options" mask="url(#mask-for-languages-list11)" aria-label="Select Language" aria-owns="lang-option-ar-sa1 lang-option-bg-bg1 lang-option-ca-es1 lang-option-cs-cz1 lang-option-da-dk1 lang-option-de-at1 lang-option-de-ch1 lang-option-de-de1 lang-option-el-gr1 lang-option-en-au1 lang-option-en-ca1 lang-option-en-cy1 lang-option-en-gb1 lang-option-en-ie1 lang-option-en-in1 lang-option-en-my1 lang-option-en-nz1 lang-option-en-sg1 lang-option-en-us1 lang-option-en-za1 lang-option-es-es1 lang-option-es-mx1 lang-option-et-ee1 lang-option-eu-es1 lang-option-fi-fi1 lang-option-fr-be1 lang-option-fr-ca1 lang-option-fr-ch1 lang-option-fr-fr1 lang-option-gl-es1 lang-option-he-il1 lang-option-hi-in1 lang-option-hr-hr1 lang-option-hu-hu1 lang-option-id-id1 lang-option-it-ch1 lang-option-it-it1 lang-option-ja-jp1 lang-option-ko-kr1 lang-option-kk-kz1 lang-option-lt-lt1 lang-option-lv-lv1 lang-option-ms-my1 lang-option-nb-no1 lang-option-nl-be1 lang-option-nl-nl1 lang-option-pl-pl1 lang-option-pt-br1 lang-option-pt-pt1 lang-option-ro-ro1 lang-option-ru-ru1 lang-option-sk-sk1 lang-option-sl-si1 lang-option-sr-cyrl-rs1 lang-option-sr-latn-rs1 lang-option-sv-se1 lang-option-th-th1 lang-option-tr-tr1 lang-option-uk-ua1 lang-option-vi-vn1 lang-option-zh-cn1 lang-option-zh-tw1" data-stacking-context="true" data-tag="ul" data-z-index="auto" role="listbox" tabindex="-1">
+    <mask id="mask-for-languages-list11">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+   </g>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+   <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='"Segoe UI", SegoeUI, "Helvetica Neue", Arial, sans-serif' font-size="13px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+  </g>
+  <g mask="url(#mask-for-svg151)" aria-owns="title5 path11 path12 path13 path14" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="img">
+   <mask id="mask-for-svg151">
+    <rect width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g mask="url(#mask-for-img21)" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+   <mask id="mask-for-img21">
+    <rect width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g mask="url(#mask-for-img31)" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+   <mask id="mask-for-img31">
+    <rect width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g mask="url(#mask-for-img41)" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+   <mask id="mask-for-img41">
+    <rect width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g mask="url(#mask-for-batBeacon32968026062511)" data-stacking-context="true" data-tag="img" data-z-index="auto">
+   <mask id="mask-for-batBeacon32968026062511">
+    <rect width="0" height="0" fill="#fff"/>
+   </mask>
+  </g>
+  <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+   <g class="contact-widget" aria-owns="div10" data-stacking-context="true" data-tag="div" data-z-index="1000">
+    <g class="mx-screen-reader show-for-sr" mask="url(#mask-for-contact-widget-title11)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+     <mask id="mask-for-contact-widget-title11">
+      <rect x="1107" y="358" width="1" height="1" fill="#fff"/>
+     </mask>
+     <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='"Segoe UI", SegoeUI, "Segoe WP", Tahoma, Arial, sans-serif' font-size="15px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+    </g>
+    <g mask="url(#mask-for-svg161)" aria-owns="defs9" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="mask-for-svg161">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+     <g mask="url(#mask-for-widget-chat11)" aria-owns="defs10 Layer_21" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-widget-chat11">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+    </g>
+    <g mask="url(#mask-for-svg171)" aria-owns="use7" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="mask-for-svg171">
+      <rect x="1117" y="367" width="32" height="32" fill="#fff"/>
+     </mask>
+    </g>
+    <g mask="url(#mask-for-svg181)" aria-owns="defs11" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="mask-for-svg181">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+     <g mask="url(#mask-for-widget-contactus11)" aria-owns="defs12 Layer_22" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-widget-contactus11">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+    </g>
+    <g mask="url(#mask-for-svg191)" aria-owns="use8" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="mask-for-svg191">
+      <rect x="1117" y="419" width="32" height="32" fill="#fff"/>
+     </mask>
+    </g>
+    <g mask="url(#mask-for-svg201)" aria-owns="defs13" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="mask-for-svg201">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+     <g mask="url(#mask-for-widget-call11)" aria-owns="defs14 Layer_23" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+      <mask id="mask-for-widget-call11">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+    </g>
+    <g mask="url(#mask-for-svg211)" aria-owns="use9" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="mask-for-svg211">
+      <rect x="1117" y="472" width="32" height="32" fill="#fff"/>
+     </mask>
+    </g>
+   </g>
+   <g class="lp-iframe-window hidden" mask="url(#mask-for-lp_iframe_chatwindow11)" data-stacking-context="true" data-tag="iframe" data-z-index="1000">
+    <title>Chat</title>
+    <mask id="mask-for-lp_iframe_chatwindow11">
+     <rect width="0" height="0" fill="#fff"/>
+    </mask>
+   </g>
+  </g>
+ </g>
+ <style>@font-face {			
+font-family: "sans-serif";			
+src: local("sans-serif");			
+}
+						
+@font-face {			
+font-family: "Segoe UI";			
+src: local("Segoe UI");			
+}
+						
+@font-face {			
+font-family: "SegoeUI";			
+src: local("SegoeUI");			
+}
+						
+@font-face {			
+font-family: "Segoe WP";			
+src: local("Segoe WP");			
+}
+						
+@font-face {			
+font-family: "Tahoma";			
+src: local("Tahoma");			
+}
+						
+@font-face {			
+font-family: "Arial";			
+src: local("Arial");			
+}
+						
+@font-face {			
+font-family: "Helvetica Neue";			
+src: local("Helvetica Neue");			
+}
+						
+@font-face {			
+font-family: "BAPIMDL2";			
+src: local("BAPIMDL2");			
+}</style>
+ <path d="m482.45 13.415h68.517c0.25829 0 0.46622 0.10191 0.46622 0.22849v33.503c0 0.12659-0.20793 0.22849-0.46622 0.22849h-68.517c-0.25829 0-0.46622-0.10191-0.46622-0.22849v-33.503c0-0.12658 0.20793-0.22849 0.46622-0.22849z" fill="none" stroke="#e91c1c" stroke-width="3"/>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:title>Screenshot of pricing button highlighted.</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+</svg>

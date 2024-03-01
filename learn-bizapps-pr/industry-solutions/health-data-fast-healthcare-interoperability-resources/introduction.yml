@@ -1,0 +1,14 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to health data and FHIR® (Fast Healthcare Interoperability Resources)
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

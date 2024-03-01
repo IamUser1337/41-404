@@ -1,0 +1,50 @@
+### YamlMime:Module 
+uid: learn-bizapps.healthcare-interoperability-build-application 
+metadata: 
+ title: Build a model-driven app by using virtual health data tables
+ description: Learn about integration and interoperability solutions in Microsoft Cloud for Healthcare.
+ ms.date: 02/13/2024
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Build a model-driven app by using virtual health data tables
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  This module explains integration and interoperability solutions that are available in Microsoft Cloud for Healthcare. It covers concepts about virtual health data tables and provides exercises for you to practice building a model-driven app by using the available virtual health data tables. Additionally, hands-on exercises in this module help you build solutions by using FHIR-based data elements.
+abstract: | 
+    This module explains the following concepts: 
+    - Azure Health Data Services workspace and FHIR API
+    - Complex features of Data integration toolkit and virtual health data tables
+    - Model-driven app connection to FHIR server by using virtual health data tables
+prerequisites: | 
+    Complete the following modules before starting this one:
+    - [Microsoft Cloud for Healthcare training environment preparation](/training/modules/training-environment-preparation-healthcare/)
+    - [Get started with integration and interoperability in Microsoft Cloud for Healthcare](/training/modules/healthcare-interoperability/)
+iconUrl: /learn/achievements/healthcare-interoperability-build-application.svg 
+levels: 
+- intermediate 
+roles: 
+- business-user   
+- functional-consultant 
+- solution-architect
+products: 
+- industry-solutions 
+- mscloud-healthcare 
+subjects: 
+- business-applications
+units: 
+- learn-bizapps.healthcare-interoperability-build-application.introduction 
+- learn-bizapps.healthcare-interoperability-build-application.overview 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-model-driven-app 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-solution 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-main-form 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-table-tabs 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-prerequisites-settings 
+- learn-bizapps.healthcare-interoperability-build-application.data-routes 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-patient-record 
+- learn-bizapps.healthcare-interoperability-build-application.exercise-remote-encounters-observations 
+- learn-bizapps.healthcare-interoperability-build-application.check 
+- learn-bizapps.healthcare-interoperability-build-application.summary 
+badge: 
+  uid: learn-bizapps.healthcare-interoperability-build-application.badge 

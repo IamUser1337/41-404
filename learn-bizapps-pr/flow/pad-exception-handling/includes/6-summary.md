@@ -1,0 +1,1 @@
+Exception handling in Power Automate for desktop is used to prevent errors when flows are faced with unexpected circumstances. Each action's exception handling behavior can be activated and customized, in order to handle these circumstances and ensure the continuation of the flow. It is also possible to assign exception handling rules to entire blocks of actions.

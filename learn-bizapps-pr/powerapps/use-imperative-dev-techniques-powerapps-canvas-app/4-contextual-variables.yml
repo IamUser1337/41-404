@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-imperative-dev-techniques.4-contextual-variables
+title: Contextual variables
+metadata:
+  title: Contextual variables
+  description: Learn about contextual variables.
+  ms.date: 12/1/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-contextual-variables.md)]

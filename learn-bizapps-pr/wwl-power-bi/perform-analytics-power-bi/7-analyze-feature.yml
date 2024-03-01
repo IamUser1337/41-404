@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-analytics-power-bi.7-analyze-feature 
+title: Use the Analyze feature
+metadata: 
+  title: Use the Analyze feature
+  description: Learn how to use the Analyze feature. 
+  ms.date: 07/13/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/7-analyze-feature.md)] 

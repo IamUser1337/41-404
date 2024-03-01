@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-filters.1-introduction
+title: Introduction to designing reports for filtering
+metadata:
+  title: Introduction to designing reports for filtering
+  description: "Learn about designing reports for filtering."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/1-introduction.md)]

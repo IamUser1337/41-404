@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.custom-connectors-open-api 
+metadata: 
+ title: Create Microsoft Power Platform OpenAPI custom connectors
+ description: Learn about Power Platform OpenAPI custom connectors.
+ ms.date: 05/12/2023  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ 
+title: Create Microsoft Power Platform OpenAPI custom connectors 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  You can define extensions to OpenAPI to configure specific features that are supported by custom connectors in Microsoft Power Platform. This module covers authentication, actions, and triggers that are used with OpenAPI connectors.
+abstract: |  
+    In this module, you will: 
+    - Learn about OpenAPI extensions.
+    - Use OpenAPI extensions. 
+prerequisites: None 
+iconUrl: /training/achievements/custom-connectors-open-api.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.custom-connectors-open-api.1-introduction 
+- learn-bizapps.custom-connectors-open-api.2-open-api-extensions 
+- learn-bizapps.custom-connectors-open-api.3-dynamic-list-value-extension 
+- learn-bizapps.custom-connectors-open-api.4-dynamic-schema 
+- learn-bizapps.custom-connectors-open-api.5-exercise 
+- learn-bizapps.custom-connectors-open-api.6-check 
+- learn-bizapps.custom-connectors-open-api.7-summary 
+badge: 
+  uid: learn-bizapps.custom-connectors-open-api.badge

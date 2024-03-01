@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-set-up-store-operations-assist-teams.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to setting up Store Operations Assist Teams 
+  ms.date: 10/04/2023
+  author: lavanyapg 
+  ms.author: lsuresh 
+  ms.topic: interactive-tutorial 
+  ms.service: microsoft-cloud-retail
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

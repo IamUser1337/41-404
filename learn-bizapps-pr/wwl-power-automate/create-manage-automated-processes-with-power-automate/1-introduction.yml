@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.create-manage-automated-processes-with-power-automate.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introducing the guided project."
+  ms.date: 10/19/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: interactive-tutorial
+  ms.service: power-automate
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

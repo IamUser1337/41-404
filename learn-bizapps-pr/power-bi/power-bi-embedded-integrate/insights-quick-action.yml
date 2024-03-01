@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-integrate.insights-quick-action
+title: Go from insights to quick action
+metadata:
+  title: Go from insights to quick action
+  description: Explore the Go from insights to quick action showcase.
+  ms.date: 04/07/2022
+  author: mberdugo
+  manager: kfollis 
+  ms.author: monaberdugo
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/insights-quick-action.md)]

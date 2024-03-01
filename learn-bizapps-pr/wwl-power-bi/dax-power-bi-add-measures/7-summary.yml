@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-measures.7-summary 
+title: Summary
+metadata: 
+  title: Summary 
+  description: Summary of the Add measures to Power BI Desktop models module 
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/7-summary.md)] 

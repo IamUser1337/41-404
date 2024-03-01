@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.change-behaviors.7-knowledge-check 
+metadata: 
+  title: Author a basic formula to change behaviors in a Power Apps canvas app knowledge check 
+  description: Author a basic formula to change behaviors in a Power Apps canvas app knowledge check 
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: Author a basic formula to change behaviors in a Power Apps canvas app knowledge check 
+  questions: 
+  - content: What is the correct syntax for reference true in a formula or control property?
+    choices: 
+    - content: The correct syntax is TRUE
+      isCorrect: false
+      explanation: The correct syntax is true 
+    - content: The correct syntax is True.value
+      isCorrect: false 
+      explanation: The correct syntax is true 
+    - content: The correct syntax is true
+      isCorrect: true
+      explanation: The correct syntax is true 
+    - content: The correct syntax is True
+      isCorrect: false 
+      explanation: The correct syntax is true
+  - content: What is the behavior of a control that is not visible on the screen?
+    choices: 
+    - content: Hidden controls do nothing and don't affect the app in any way.
+      isCorrect: false
+      explanation: Hidden controls process the same as a visible control, even though they are not shown. 
+    - content: Hidden controls process the same as a visible control, even though they are not shown.
+      isCorrect: true
+      explanation: Hidden controls process the same as a visible control, even though they are not shown. 
+    - content: It is not possible to hide a control in Power Apps.
+      isCorrect: false 
+      explanation: Hidden controls process the same as a visible control, even though they are not shown. 
+    - content: Hidden controls are processed only if the app maker has set the ProcessHidden property.
+      isCorrect: false 
+      explanation: Hidden controls process the same as a visible control, even though they are not shown. 
+  - content: What happens when you change the DisplayMode of a control from Edit to Disabled?
+    choices: 
+    - content: The control looks different but allows for the same interactions by the user.
+      isCorrect: false
+      explanation: The control looks different and allows for different interactions by the user. 
+    - content: The control looks the same but allows for different interactions by the user.
+      isCorrect: false 
+      explanation: The control looks different and allows for different interactions by the user. 
+    - content: The control looks different and allows for different interactions by the user.
+      isCorrect: true
+      explanation: The control looks different and allows for different interactions by the user. 
+    - content: The control's Visible property is set to true or false.
+      isCorrect: false 
+      explanation: The control looks different and allows for different interactions by the user.

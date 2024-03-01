@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Work with Portals in Dynamics 365/introduction-to-portals</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-8.7%" y="-6.5%" width="117.4%" height="112.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0966089221 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M3.95358091,10.1535992 L7.95068196,10.1535992 L7.95068196,19.418403 L5.80654166,19.418403 L5.80654166,11.8742056 L3.95358091,11.8742056 L3.95358091,10.1535992 Z M13.5360351,19.5772282 C11.2595404,19.5772282 9.5654049,17.8433863 9.5654049,14.7860011 C9.5654049,11.7286159 11.2595404,9.99477403 13.5360351,9.99477403 C15.8257651,9.99477403 17.5066653,11.7286159 17.5066653,14.7860011 C17.5066653,17.8433863 15.8257651,19.5772282 13.5360351,19.5772282 Z M13.5360351,17.7639737 C14.6081052,17.7639737 15.3492895,16.8904351 15.3492895,14.7860011 C15.3492895,12.6815671 14.6081052,11.8080285 13.5360351,11.8080285 C12.4772004,11.8080285 11.7360161,12.6815671 11.7360161,14.7860011 C11.7360161,16.8904351 12.4772004,17.7639737 13.5360351,17.7639737 Z M18.049318,10.1535992 L22.0464191,10.1535992 L22.0464191,19.418403 L19.9022788,19.418403 L19.9022788,11.8742056 L18.049318,11.8742056 L18.049318,10.1535992 Z" id="path-4"></path>
+        <filter x="-0.7%" y="-1.3%" width="101.4%" height="105.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0.25" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.249094203 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-with-Portals-in-Dynamics-365-1" transform="translate(-50.000000, -1260.000000)">
+            <g id="Work-with-Portals-in-Dynamics-365/introduction-to-portals" transform="translate(50.000000, 1260.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="sparks" mask="url(#mask-2)" stroke-linecap="round">
+                        <g transform="translate(10.820333, 28.082088)">
+                            <g id="Group" transform="translate(5.906158, 18.013965) rotate(-90.000000) translate(-5.906158, -18.013965) translate(-11.593842, 12.513965)">
+                                <path d="M17.2955479,7.91207818 L17.2955479,0.744913508" id="Line" stroke="#FFFFFF" stroke-width="3"></path>
+                                <path d="M32.6701896,9.76800424 L33.7024875,7.91207818" id="Line-Copy-2" stroke="#FFFFFF" stroke-width="3"></path>
+                                <path d="M0.752206029,9.76800424 L1.78450397,7.91207818" id="Line-Copy-3" stroke="#FFFFFF" stroke-width="3" transform="translate(1.336556, 8.807974) scale(1, -1) translate(-1.336556, -8.807974) "></path>
+                                <path d="M11.4438041,9.82479134 L7.86022173,2.65762666" id="Line" stroke="#FFFFFF" stroke-width="3" transform="translate(9.652013, 6.241209) rotate(14.000000) translate(-9.652013, -6.241209) "></path>
+                                <path d="M26.7308741,9.82479134 L23.1472918,2.65762666" id="Line-Copy" stroke="#FFFFFF" stroke-width="3" transform="translate(24.939083, 6.241209) scale(1, -1) rotate(14.000000) translate(-24.939083, -6.241209) "></path>
+                            </g>
+                            <g id="Group-Copy" transform="translate(68.853265, 18.013965) scale(-1, 1) rotate(-90.000000) translate(-68.853265, -18.013965) translate(51.353265, 12.513965)">
+                                <path d="M17.2955479,7.91207818 L17.2955479,0.744913508" id="Line" stroke="#FFFFFF" stroke-width="3"></path>
+                                <path d="M32.6701896,9.76800424 L33.7024875,7.91207818" id="Line-Copy-2" stroke="#FFFFFF" stroke-width="3"></path>
+                                <path d="M0.752206029,9.76800424 L1.78450397,7.91207818" id="Line-Copy-3" stroke="#FFFFFF" stroke-width="3" transform="translate(1.336556, 8.807974) scale(1, -1) translate(-1.336556, -8.807974) "></path>
+                                <path d="M11.4438041,9.82479134 L7.86022173,2.65762666" id="Line" stroke="#FFFFFF" stroke-width="3" transform="translate(9.652013, 6.241209) rotate(14.000000) translate(-9.652013, -6.241209) "></path>
+                                <path d="M26.7308741,9.82479134 L23.1472918,2.65762666" id="Line-Copy" stroke="#FFFFFF" stroke-width="3" transform="translate(24.939083, 6.241209) scale(1, -1) rotate(14.000000) translate(-24.939083, -6.241209) "></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Portal" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(25.000000, 16.000000)">
+                            <path d="M4,56 L42,56 L42,6.19763074 C42,2.88392224 39.3137085,0.197630738 36,0.197630738 L10,0.197630738 C6.6862915,0.197630738 4,2.88392224 4,6.19763074 L4,56 Z" id="Fill-811" fill="#E1E4E1"></path>
+                            <path d="M23.0681421,56 L42,56 L42,8.19763074 C42,4.88392224 39.3137085,2.19763074 36,2.19763074 L24.1368462,2.19763074 C23.5850695,2.19763074 23.137565,2.64455337 23.1368471,3.1963296 L23.0681421,56 Z" id="Fill-811" fill="#000000" opacity="0.047781808"></path>
+                            <path d="M21.9999375,5.99876448 C21.9999375,7.10376448 21.1049375,7.99876448 19.9999375,7.99876448 C18.8959375,7.99876448 17.9999375,7.10376448 17.9999375,5.99876448 C17.9999375,4.89276448 18.8959375,3.99876448 19.9999375,3.99876448 C21.1049375,3.99876448 21.9999375,4.89276448 21.9999375,5.99876448" id="Fill-177" fill="#87BF5F"></path>
+                            <path d="M19.9999375,7.99876448 C19.0689375,7.99876448 18.2939375,7.36076448 18.0709375,6.49876448 C18.0289375,6.65976448 17.9999375,6.82476448 17.9999375,6.99876448 C17.9999375,8.10376448 18.8959375,8.99876448 19.9999375,8.99876448 C21.1049375,8.99876448 21.9999375,8.10376448 21.9999375,6.99876448 C21.9999375,6.82476448 21.9709375,6.65976448 21.9289375,6.49876448 C21.7059375,7.36076448 20.9309375,7.99876448 19.9999375,7.99876448" id="Fill-178" fill="#C5CCCD"></path>
+                            <path d="M21.4139375,7.41276448 C22.1959375,6.63076448 22.1949375,5.36576448 21.4139375,4.58476448 L18.5859375,7.41276448 C19.3669375,8.19376448 20.6329375,8.19476448 21.4139375,7.41276448" id="Fill-179" fill="#69994E"></path>
+                            <path d="M27.9999375,5.99876448 C27.9999375,7.10376448 27.1049375,7.99876448 25.9999375,7.99876448 C24.8959375,7.99876448 23.9999375,7.10376448 23.9999375,5.99876448 C23.9999375,4.89276448 24.8959375,3.99876448 25.9999375,3.99876448 C27.1049375,3.99876448 27.9999375,4.89276448 27.9999375,5.99876448" id="Fill-180" fill="#C0463C"></path>
+                            <path d="M25.9999375,7.99876448 C25.0689375,7.99876448 24.2929375,7.36076448 24.0699375,6.49876448 C24.0289375,6.65976448 23.9999375,6.82476448 23.9999375,6.99876448 C23.9999375,8.10376448 24.8949375,8.99876448 25.9999375,8.99876448 C27.1039375,8.99876448 27.9999375,8.10376448 27.9999375,6.99876448 C27.9999375,6.82476448 27.9709375,6.65976448 27.9289375,6.49876448 C27.7059375,7.36076448 26.9309375,7.99876448 25.9999375,7.99876448" id="Fill-181" fill="#C5CCCD"></path>
+                            <path d="M27.4139375,7.41276448 C28.1959375,6.63076448 28.1949375,5.36576448 27.4139375,4.58476448 L24.5859375,7.41276448 C25.3669375,8.19376448 26.6319375,8.19476448 27.4139375,7.41276448" id="Fill-182" fill="#AA3E35"></path>
+                            <rect id="Rectangle" fill="#ADBDC4" x="0" y="56" width="46" height="6" rx="3"></rect>
+                            <path d="M1.5959456e-16,59 L20.0297491,59 C21.6866033,59 23.0297491,57.6568542 23.0297491,56 L43,56 C44.6568542,56 46,57.3431458 46,59 L46,59 C46,60.6568542 44.6568542,62 43,62 L3,62 C1.34314575,62 2.02906125e-16,60.6568542 0,59 Z" id="Rectangle" fill-opacity="0.0977977808" fill="#000000"></path>
+                            <g id="Group-50" stroke-width="1" fill="none" transform="translate(10.000000, 11.000000)">
+                                <path d="M3,0 L23,0 C24.6568542,-3.04359188e-16 26,1.34314575 26,3 L26,45 L0,45 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="Rectangle" fill="#30404D"></path>
+                                <g id="101">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                    <use fill="#E1E4E1" fill-rule="evenodd" xlink:href="#path-4"></use>
+                                </g>
+                                <path d="M22.9276501,29.910634 C22.9276501,30.8239779 22.1863856,31.5652424 21.2730418,31.5652424 C20.3596979,31.5652424 19.6184334,30.8239779 19.6184334,29.910634 C19.6184334,28.9972902 20.3596979,28.2560257 21.2730418,28.2560257 C22.1863856,28.2560257 22.9276501,28.9972902 22.9276501,29.910634" id="Fill-833" fill="#E1E4E1"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

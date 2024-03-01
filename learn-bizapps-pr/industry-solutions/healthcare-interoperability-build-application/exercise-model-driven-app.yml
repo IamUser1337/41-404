@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-build-application.exercise-model-driven-app 
+title: Exercise – Create a new model-driven app 
+metadata: 
+  title: Exercise – Create a new model-driven app  
+  description: Follow the steps to practice creating a new model-driven app.
+  ms.date: 11/23/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit 
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-model-driven-app.md)] 

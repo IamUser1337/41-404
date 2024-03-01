@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-using-power-bi
+metadata:
+  title: Consume data with Power BI
+  description: Learn to work in Power BI to review and interact with this content to make business decisions.  
+  ms.date: 12/14/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Consume data with Power BI
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions from your PC or mobile device. 
+prerequisites: |
+  - Access to the Power BI service
+  - Sales and Marketing app (provided with course)
+  - Potential licensing requirements 
+iconUrl: /training/achievements/get-started-using-power-bi.svg
+levels:
+- beginner
+roles:
+- business-user
+products:
+- power-bi
+- power-platform
+subjects:
+- data-management
+- data-visualization
+modules:
+- learn-bizapps.intro-to-power-bi-service
+- learn-bizapps.analyze-explore-data-power-bi
+- learn-bizapps.intro-to-power-bi-mobile-apps
+trophy:
+  uid: learn-bizapps.get-started-using-power-bi.trophy

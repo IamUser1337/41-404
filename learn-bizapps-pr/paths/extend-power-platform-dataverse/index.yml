@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.extend-power-platform-dataverse
+metadata:
+  title: Extending Power Platform Dataverse
+  description: Get started with extending Power Platform Dataverse.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+title: Extending Power Platform Dataverse
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Getting started with extending Power Platform Dataverse can be overwhelming. This learning path looks at the tools and resources needed for extending Power Platform. We'll start with looking at the SDKs, the extensibility model, and event framework. This learning path also covers when to use plug-ins. Configuration of plug-ins as well as registering and deploying plug-ins.
+prerequisites: |
+ - A basic understanding of how to navigate the Dynamics 365 application. 
+ - Experience with Power Apps, Power Automate, and Power BI.
+ - General developer experience.
+iconUrl: /training/achievements/extend-power-platform-dataverse.svg
+levels: 
+- intermediate
+roles: 
+- developer
+products: 
+- dynamics-365
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.introduction-dataverse-developers
+- learn-bizapps.extend-plug-ins
+trophy:
+  uid: learn-bizapps.extend-power-platform-dataverse.trophy

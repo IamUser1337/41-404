@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-water-solution
+metadata:
+ title: Set up a water sustainability solution by using Microsoft Sustainability Manager
+ description: Learn how to set up a water sustainability solution by using Microsoft Sustainability Manager.
+ ms.date: 12/06/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.service: microsoft-cloud-sustainability
+ ms.topic: module-standard-task-based
+title: Set up a water sustainability solution by using Microsoft Sustainability Manager
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Organizations can use water sustainability to record, estimate, analyze, and report on water quantity and quality data to meet use cases, such as water sustainability disclosures and regulatory water quality reporting. 
+  
+  This learning path guides you through interactive exercises that help you set up a water sustainability solution by using Microsoft Sustainability Manager. In these exercises, you ingest water sample and quality data and then build reports and review insights.
+abstract: |
+    This module explains how to:
+    - Ingest water sample and quantity data.
+    - Review the water quality and quantity dashboards to gain insights.
+prerequisites: |
+    - <a href="/training/modules/sustainability-setup-environment/" target="_blank">Set up your training environment</a>
+    - <a href="/training/modules/sustainability-setup-organization/" target="_blank">Set up organization and reference data</a>
+iconUrl: /learn/achievements/sustainability-water-solution.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-water-solution.introduction
+- learn-bizapps.sustainability-water-solution.exercise-import-water-data
+- learn-bizapps.sustainability-water-solution.exercise-review-water-dashboards
+- learn-bizapps.sustainability-water-solution.check
+- learn-bizapps.sustainability-water-solution.summary
+badge:
+  uid: learn-bizapps.sustainability-water-solution.badge

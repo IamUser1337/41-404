@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.approvals-power-automate.5-issues-limits
+title: Known issues and limits
+metadata:
+  title: Known issues and limits
+  description: Learn about known issues and limits.
+  ms.date: 01/03/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-issues-limits.md)]

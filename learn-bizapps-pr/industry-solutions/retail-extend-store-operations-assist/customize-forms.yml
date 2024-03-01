@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.customize-forms
+title: Exercise - Customize forms for Store Operations Assist
+metadata:
+  title: Exercise - Customize forms for Store Operations Assist
+  description: Follow the steps to customize themes and background colors for the Store Operations Assist solutions.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/customize-forms.md)]

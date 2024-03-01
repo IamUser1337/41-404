@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-teams-connector.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/26/2022
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: In which of the following cases should you not use dynamic content?
+    choices: 
+    - content: In the Teams message options
+      isCorrect: true 
+      explanation: In the flow, the options should be Yes or No. Be careful because the conditional statements are case-sensitive.
+    - content: In the Teams approval or rejection message
+      isCorrect: false 
+      explanation: Using dynamic content in the Teams message provides clarity.
+    - content: In the Outlook approval or rejection confirmation email
+      isCorrect: false 
+      explanation: Using dynamic content in the confirmation email provides clarity.
+    - content: In the input variables
+      isCorrect: false 
+      explanation: Input variables should be dynamic in this case because you're sourcing the information from different documents.
+  - content: To which programs can cloud flows connect?
+    choices: 
+    - content: Power Automate has hundreds of connectors to explore
+      isCorrect: true 
+      explanation: Though this solution only used a few connections, Power Automate has many more, and you can build custom connections.
+    - content: Only standalone Microsoft programs like Teams and Outlook
+      isCorrect: false 
+      explanation: Though this solution only used a few connections, Power Automate has many more, and you can build custom connections.
+    - content: Only AI models
+      isCorrect: false 
+      explanation: Though this solution only used a few connections, Power Automate has many more, and you can build custom connections.
+    - content: Only apps in Microsoft App Store
+      isCorrect: false 
+      explanation: Though this solution only used a few connections, Power Automate has many more, and you can build custom connections.
+  - content: Which actions occur outside of the Apply to each control?
+    choices: 
+    - content: None of them
+      isCorrect: true 
+      explanation: Only the trigger (which isn't an action) occurs outside of the Apply to each control. The entire process occurs for every attachment.
+    - content: Predict (using the AI model)
+      isCorrect: false 
+      explanation: This action needs to be performed for every attachment, so it goes inside the Apply to each control.
+    - content: Post message to Teams
+      isCorrect: false 
+      explanation: This action needs to be performed for every attachment, so it goes inside the Apply to each control.
+    - content: Run a desktop flow
+      isCorrect: false 
+      explanation: This action needs to be performed for every attachment, so it goes inside the Apply to each control.
+    - content: Reply to an email
+      isCorrect: false 
+      explanation: This action needs to be performed for every attachment, so it goes inside the Apply to each control.

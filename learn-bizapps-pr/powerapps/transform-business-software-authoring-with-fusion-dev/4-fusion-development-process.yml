@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.4-fusion-development-process
+title: Fusion team development process
+metadata:
+  title: Fusion team development process
+  description: The Fusion Team development process explained
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: unit
+  ms.contributors:
+  - masoucou-04262021
+durationInMinutes: 4
+content: | 
+  [!include[](includes/4-fusion-development-process.md)]

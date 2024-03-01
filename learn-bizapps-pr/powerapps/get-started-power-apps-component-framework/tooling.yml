@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-component-framework.tooling
+title: Power Apps component tooling
+metadata:
+  title: Power Apps component tooling
+  description: Learn about Power Apps component tooling.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: powerapps
+  ms.subservice: pcf
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/tooling.md)]

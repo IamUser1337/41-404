@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-dynamics.get-started-with-form-processing.3-use-model 
+title: Use your model
+metadata: 
+  title: Use your model
+  description: Learn how to use your Document processing model in Power Apps and Power Automate.
+  ms.date: 07/26/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-use-model.md)] 

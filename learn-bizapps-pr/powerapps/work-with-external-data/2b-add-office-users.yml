@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.2b-add-office-users
+title: Add Office 365 users to your application
+metadata:
+  title: Add Office 365 users to your application
+  description: Learn how to add Office 365 users to your application.
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2b-add-office-users.md)]

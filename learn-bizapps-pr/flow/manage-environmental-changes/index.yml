@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.manage-environmental-changes 
+metadata: 
+ title: Manage environmental changes in Microsoft Power Platform
+ description: Learn best practices for communicating changes to Data Loss Prevention (DLP) policies.
+ ms.date: 10/02/2023
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based
+title: Manage environmental changes in Microsoft Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)] 
+  Learn best practices for communicating changes to Data Loss Prevention (DLP) policies, find out about how people are using Microsoft Power Platform, discover who in your organization is creating and sharing flows, learn what connections are being used within your Power Automate environments, and observe how connections are established within your Power Automate environments.
+abstract: |
+    In this module, you will: 
+    - Identify best practices for communicating changes to DLP policies.
+    - Learn how people in your organization are using Microsoft Power Platform.
+    - Discover who in your organization is creating and sharing flows.
+    - Learn what connectors are being used within your Microsoft Power Platform environments.
+    - Observe how connections are being established within your Microsoft Power Platform environments.
+prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization. Learners should understand how connectors are used within apps and flows to exchange data across source and destination systems. You also need an account that has environment or tenant admin privileges for Microsoft Power Platform.
+iconUrl: /training/achievements/manage-environmental-changes.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator
+- functional-consultant
+products:  
+- power-automate  
+- power-platform
+- power-apps
+subjects:
+- data-management
+units:
+- learn-bizapps.manage-environmental-changes.1-intro-best-practices 
+- learn-bizapps.manage-environmental-changes.2-prerequisites 
+- learn-bizapps.manage-environmental-changes.3-implement-best-practices 
+- learn-bizapps.manage-environmental-changes.4-view-admin-analytics 
+- learn-bizapps.manage-environmental-changes.5-gain-visibility
+- learn-bizapps.manage-environmental-changes.6-exercise 
+- learn-bizapps.manage-environmental-changes.7-check 
+- learn-bizapps.manage-environmental-changes.8-summary 
+badge: 
+  uid: learn-bizapps.manage-environmental-changes.badge

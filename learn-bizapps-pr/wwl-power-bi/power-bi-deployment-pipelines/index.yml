@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.power-bi-deployment-pipelines
+metadata:
+  title: Create and manage a Power BI deployment pipeline
+  description: "Create and manage a Power BI deployment pipeline"
+  ms.date: 01/30/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: azure
+title: Create and manage a Power BI deployment pipeline
+summary: 'Deployment pipelines enable creators to develop and test Power BI content in the Power BI service before the content is made available for consumption by users. It offers creators improved productivity, faster delivery of content updates, and reduced manual work and errors. The tool is designed as a pipeline with three stages: development, test, and production.'
+abstract: |
+  By the end of this module, you’ll be able to:
+  - Articulate the benefits of deployment pipelines
+  - Create a deployment pipeline using Premium workspaces
+  - Assign and deploy content to pipeline stages
+  - Describe the purpose of deployment rules
+  - Deploy content from one pipeline stage to another
+prerequisites: |
+  You will be able to access and use the deployment pipelines feature if the following conditions are met:
+    - You have one of the following licenses:
+      - You're a Power BI [Pro user](/power-bi/enterprise/service-admin-purchasing-power-bi-pro/?azure-portal=true), and you belong to an organization that has Premium capacity.
+      -	[Premium Per User (PPU)](/power-bi/enterprise/service-premium-per-user-faq/?azure-portal=true).
+    -	You're an admin of a [new workspace experience](/power-bi/collaborate-share/service-create-the-new-workspaces/?azure-portal=true).
+iconUrl: /training/achievements/power-bi-deployment-pipelines.svg
+levels:
+- intermediate
+roles:
+- administrator
+- business-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-deployment-pipelines.introduction
+- learn-bizapps.power-bi-deployment-pipelines.understand-deployment-process
+- learn-bizapps.power-bi-deployment-pipelines.create-deployment-pipeline
+- learn-bizapps.power-bi-deployment-pipelines.assign-workspace
+- learn-bizapps.power-bi-deployment-pipelines.deploy-content
+- learn-bizapps.power-bi-deployment-pipelines.work-with-deployment-pipelines
+- learn-bizapps.power-bi-deployment-pipelines.check
+- learn-bizapps.power-bi-deployment-pipelines.summary
+badge:
+  uid: learn-bizapps.power-bi-deployment-pipelines.badge

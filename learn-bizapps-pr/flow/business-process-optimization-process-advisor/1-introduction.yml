@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.business-process-optimization-process-advisor.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to business process optimization with process advisor
+  ms.date: 11/30/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

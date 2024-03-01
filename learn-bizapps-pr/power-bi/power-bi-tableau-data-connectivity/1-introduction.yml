@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-data-connectivity.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to connect data to Power BI for Tableau users
+  ms.date: 03/30/2021 
+  author: minewiskan
+  manager: kfollis  
+  ms.author: owend 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

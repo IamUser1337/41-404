@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-sharepoint.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to getting started with Power Apps and SharePoint
+  ms.date: 06/29/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-app-dataverse-teams.01-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to building your first app with Power Apps and Dataverse for Teams
+  ms.date: 04/28/2023
+  author: jadaphillips 
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/01-introduction.md)] 

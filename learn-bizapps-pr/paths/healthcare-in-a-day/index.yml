@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.healthcare-in-a-day
+metadata:
+  title: Get started with Microsoft Cloud for Healthcare
+  description: Learn how to use Microsoft Cloud for Healthcare.
+  ms.date: 02/19/2024
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Microsoft Cloud for Healthcare
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Cloud for Healthcare makes enterprise-wide health team collaboration a reality by investing in key capabilities around more secure collaboration, care coordination, and continuous patient monitoring. In this dynamic healthcare environment, organizations can connect, engage, and efficiently manage a frontline healthcare workforce with tools that help them provide the best possible care.
+
+  In this Learning Path, you gain a foundational understanding of Microsoft Cloud for Healthcare and how it fosters health team collaboration. You're guided through practical hands-on exercises to set up healthcare applications deployed through Microsoft Cloud for Healthcare using Dynamics 365, Power Platform, Microsoft 365, and Azure in your own environment. You dive into various modules of Microsoft Cloud for Healthcare applications, including Care Management and Home Health.
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the module on [environment preparation](/training/modules/training-environment-preparation-healthcare/).
+iconUrl: /training/achievements/healthcare-in-a-day.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+modules:
+- learn-bizapps.healthcare-overview
+- learn-bizapps.healthcare-data-model
+- learn-bizapps.healthcare-interoperability-overview 
+trophy:
+  uid: learn.healthcare-in-a-day.trophy

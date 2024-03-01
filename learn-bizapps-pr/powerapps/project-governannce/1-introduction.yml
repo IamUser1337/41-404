@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.project-governance.1-introduction
+title: Introduction to project governance
+metadata:
+  title: Introduction to project governance
+  description: The solution architect has a key role on a project in implementing project governance.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

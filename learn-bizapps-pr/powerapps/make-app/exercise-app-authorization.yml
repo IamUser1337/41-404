@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.make-app.exercise-app-authorization
+title: Exercise - App authorization
+metadata:
+  title: Exercise - App authorization
+  description: Follow the steps to authorize an app.
+  ms.date: 05/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-app-authorization.md)]

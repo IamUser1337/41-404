@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-architecture.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to Microsoft Power Automate and the options for automation and custom logic
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

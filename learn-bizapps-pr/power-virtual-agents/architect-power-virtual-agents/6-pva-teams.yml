@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.architect-power-virtual-agents.6-pva-teams
+title: Microsoft Copilot Studio in Teams
+metadata:
+  title: Microsoft Copilot Studio in Teams
+  description: Learn how to use the Microsoft Copilot Studio app in Microsoft Teams.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-pva-teams.md)]

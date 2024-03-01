@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-bi.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 4
+content: |
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Power BI helps with which of the following business processes?"
+    choices:
+    - content: "Notifying users when a SharePoint list item has changed."
+      isCorrect: false
+      explanation: "Incorrect. Power Automate can send an alert when a list item has changed."
+    - content: "Generating an approval."
+      isCorrect: false
+      explanation: "Incorrect. Power Automate can help generate an approval flow."
+    - content: "Analyzing and displaying data."
+      isCorrect: true
+      explanation: "Correct. Power BI empowers business users to make beneficial decisions By analyzing and displaying your data."
+  - content: "What can Power BI do to help you effectively use your data?"
+    choices:
+    - content: "Analyze sales data to better allocate resources and place orders, optimizing operations."
+      isCorrect: false
+      explanation: "Incorrect. Power BI can analyze sales data for this purpose, but can also analyze customer and employee data to improve business decisions."
+    - content: "Analyze customer data to better target and promote specific items to specific customers."
+      isCorrect: false
+      explanation: "Incorrect. Power BI can analyze customer data for this purpose, but can also analyze sales and employee data to improve business decisions."
+    - content: "All of the above."
+      isCorrect: true
+      explanation: "Correct. Power BI can analyze all types of data you may have to help your business efficiency and decision making efficacy."
+  - content: "What are the three modalities of Power BI designed to let people create, share, and consume business insights in the way that serves them, or their role, most effectively?"
+    choices:
+    - content: "Desktop, service, and Mobile apps."
+      isCorrect: true
+      explanation: "Correct. Power BI consists of a Microsoft Windows desktop application called Power BI Desktop, an online SaaS (Software as a Service) service called the Power BI service, and mobile Power BI apps that are available on phones and tablets."
+    - content: "Tiles, visualizations, and dashboards."
+      isCorrect: false
+      explanation: "Incorrect. Tiles, visualizations, and dashboards are building blocks of Power BI, but not the elements described in the question."
+    - content: "Reports, dashboards, and tiles."
+      isCorrect: false
+      explanation: "Incorrect. Reports, dashboards, and tiles are building blocks of Power BI, but not the elements described in the question."
+  - content: "What is the purpose of Power BI's insights feature?"
+    choices:
+    - content: "To easily identify insights such as anomalies and trends in your data."
+      isCorrect: true
+      explanation: "Correct. Power BI's insights feature helps organizations easily identify insights such as anomalies and trends in your data as you interact and consume elements such as reports, dashboards, and visualizations. It notifies you if there are interesting insights and provides explanations for them."
+    - content: "To create reports and dashboards."
+      isCorrect: false
+      explanation: "Incorrect. Power BI's insights feature isn't used to create reports and dashboards, but rather to identify insights such as anomalies and trends in your data."
+    - content: "To manage data sources."
+      isCorrect: false
+      explanation: "Incorrect. Power BI's insights feature isn't used to manage data sources, but rather to identify insights such as anomalies and trends in your data."

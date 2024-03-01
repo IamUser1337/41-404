@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-reach.10-template-app-governance 
+title: Template app governance
+metadata: 
+  title: Template app governance 
+  description: Learn about template app governance. 
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/10-template-app-governance.md)] 

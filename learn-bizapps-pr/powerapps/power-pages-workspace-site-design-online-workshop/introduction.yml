@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-site-design-online-workshop.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to workspace site design in Power Pages 
+  ms.date: 06/14/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

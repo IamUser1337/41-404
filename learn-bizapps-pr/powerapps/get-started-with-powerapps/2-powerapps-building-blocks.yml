@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.2-powerapps-building-blocks
+title: Start Power Apps
+metadata:
+  title: Start Power Apps
+  description: Learn about the main parts of Power Apps.
+  ms.date: 01/03/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-powerapps-building-blocks.md)]

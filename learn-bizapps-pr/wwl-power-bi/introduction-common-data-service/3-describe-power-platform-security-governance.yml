@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-common-data-service.describe-power-platform-security-governance
+title: Describe Power Platform security and governance
+metadata:
+  title: Describe Power Platform security and governance
+  description: "Describe how Power Platform ensures the security of your organization's data"
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](includes/3-describe-power-platform-security-governance.md)]

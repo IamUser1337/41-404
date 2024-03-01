@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-teams-approval-online-workshop.import-solution
+title: Import the solution (optional)
+metadata:
+  title: Import the solution (optional)
+  description: Follow the steps to import the sample solution, if you haven't already done so.
+  ms.date: 07/10/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/import-solution.md)]

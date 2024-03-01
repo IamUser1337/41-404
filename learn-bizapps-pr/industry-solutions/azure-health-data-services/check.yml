@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.azure-health-data-services.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/30/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Information that is personal and includes data, such as vitals or care plans, is considered to be what? 
+    choices: 
+    - content: Preferred health information
+      isCorrect: false 
+      explanation: Incorrect. Protected health information is regulated with protections in place that allows for the transfer of the information needed to provide care. This information is personal and includes data such as vitals, diagnosis, and care plans.
+    - content: Protected health information
+      isCorrect: true 
+      explanation: Correct. Protected health information is regulated with protections in place that allows for the transfer of the information needed to provide care. This information is personal and includes data such as vitals, diagnosis, and care plans.
+    - content: Platform health integration
+      isCorrect: false 
+      explanation: Incorrect. Protected health information is regulated with protections in place that allows for the transfer of the information needed to provide care. This information is personal and includes data such as vitals, diagnosis, and care plans.
+    - content: Patient health integration
+      isCorrect: false 
+      explanation: Incorrect. Protected health information is regulated with protections in place that allows for the transfer of the information needed to provide care. This information is personal and includes data such as vitals, diagnosis, and care plans.
+  - content: Which of the following options isn't part of the initial configuration of an Azure Health Data Services workspace? 
+    choices: 
+    - content: Azure Subscription 
+      isCorrect: false 
+      explanation: Incorrect. For creation of the workspace, you select your Azure Subscription, the Resource group where you want to deploy the Health Data Services workspace, and the region where you're located. Also, you need to supply a name for your workspace.
+    - content: Azure Resources group
+      isCorrect: false 
+      explanation: Incorrect. For creation of the workspace, you select your Azure Subscription, the Resource group where you want to deploy the Health Data Services workspace, and the region where you're located. Also, you need to supply a name for your workspace.
+    - content: Currency
+      isCorrect: true 
+      explanation: Correct. For creation of the workspace, you select your Azure Subscription, the Resource group where you want to deploy the Health Data Services workspace, and the region where you're located. Also, you need to supply a name for your workspace.
+    - content: Workspace name
+      isCorrect: false 
+      explanation: Incorrect. For creation of the workspace, you select your Azure Subscription, the Resource group where you want to deploy the Health Data Services workspace, and the region where you're located. Also, you need to supply a name for your workspace.
+  - content: In Azure Health Data Services, FHIR, DICOM, and MedTech are deployed into what?
+    choices: 
+    - content: Workspace  
+      isCorrect: true 
+      explanation: Correct. The Azure Health Data Services workspace is a logical container for all your healthcare service instances, such as FHIR service, DICOM service, and MedTech service.
+    - content: Package
+      isCorrect: false 
+      explanation: Incorrect. The Azure Health Data Services workspace is a logical container for all your healthcare service instances, such as Fast Healthcare Interoperability Resources (FHIR®) services, Digital Imaging and Communications in Medicine (DICOM®) services, and MedTech service.
+    - content: Observation
+      isCorrect: false
+      explanation: Incorrect. The Azure Health Data Services workspace is a logical container for all your healthcare service instances, such as Fast Healthcare Interoperability Resources (FHIR®) services, Digital Imaging and Communications in Medicine (DICOM®) services, and MedTech service.
+    - content: Database
+      isCorrect: false 
+      explanation: Incorrect. The Azure Health Data Services workspace is a logical container for all your healthcare service instances, such as Fast Healthcare Interoperability Resources (FHIR®) services, Digital Imaging and Communications in Medicine (DICOM®) services, and MedTech service.

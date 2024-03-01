@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.reduce-complexity-dataverse-table.4-exercise 
+title: Exercise - Work with Dataverse relational data
+metadata: 
+  title: Exercise - Work with Dataverse relational data
+  description: Practice working with Dataverse relational data.
+  ms.date: 11/16/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise.md)] 

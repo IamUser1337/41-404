@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-apps-architecture.7-portals
+title: Portal apps
+metadata:
+  title: Portal apps
+  description: Learn how to use portal apps.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](../includes/power-pages-banner.md)]
+ [!include[](includes/7-portals.md)]

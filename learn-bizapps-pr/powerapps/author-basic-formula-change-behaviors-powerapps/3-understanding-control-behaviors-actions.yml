@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.change-behaviors.3-understanding-control-behaviors-actions
+title: Understanding control behaviors and actions
+metadata: 
+  title: Understanding controls and their actions
+  description: Understanding controls and their actions
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-understanding-control-behaviors-actions.md)] 
+

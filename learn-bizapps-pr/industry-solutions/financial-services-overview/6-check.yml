@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.financial-services-overview.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/31/2024 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the purpose of the unified customer profile capability?
+    choices: 
+    - content: Empower employees with meaningful collaboration.
+      isCorrect: false
+      explanation: Incorrect. Unified customer profile provides a comprehensive view of a customer’s financial situation to help banks take advantage of cross-sell/up-sell opportunities, helping to increase a customer’s lifetime value and loyalty.
+    - content: Gain a comprehensive view of the customer’s financial situation.
+      isCorrect: true 
+      explanation: Correct. Unified customer profile provides a comprehensive view of a customer’s financial situation to help banks take advantage of cross-sell/up-sell opportunities, helping to increase a customer’s lifetime value and loyalty.
+    - content: Maintain a comprehensive compliance posture.
+      isCorrect: false 
+      explanation: Incorrect. Unified customer profile provides a comprehensive view of a customer’s financial situation to help banks take advantage of cross-sell/up-sell opportunities, helping to increase a customer’s lifetime value and loyalty.
+    - content: No such capability is included in Microsoft Cloud for Financial Services.
+      isCorrect: false 
+      explanation: Incorrect. Unified customer profile provides a comprehensive view of a customer’s financial situation to help banks take advantage of cross-sell/up-sell opportunities, helping to increase a customer’s lifetime value and loyalty.
+  - content: What phrase best represents onboarding essentials?
+    choices: 
+    - content: It's a purpose-built end-to-end solution. 
+      isCorrect: false 
+      explanation: Incorrect. Onboarding essentials facilitates the management of onboarding processes through flexible, intelligent, and extensible components and workflows.   
+    - content: Helps organizations to effectively run their loan processing.  
+      isCorrect: false
+      explanation: Incorrect. Onboarding essentials facilitates the management of onboarding processes through flexible, intelligent, and extensible components and workflows.  
+    - content: Facilitates the management of onboarding processes through flexible, intelligent, and extensible components and workflows. 
+      isCorrect: true
+      explanation: Correct. Onboarding essentials facilitates the management of onboarding processes through flexible, intelligent, and extensible components and workflows.  
+    - content: Provides guidelines how financial services can effectively run their onboarding applications. 
+      isCorrect: false 
+      explanation: Incorrect. Onboarding essentials facilitates the management of onboarding processes through flexible, intelligent, and extensible components and workflows.
+  - content: How are customers and partners able to achieve data interoperability with Microsoft Cloud for Financial Services?
+    choices: 
+    - content: By using integration services such as Microsoft Azure Logic Apps
+      isCorrect: false
+      explanation: Incorrect. Data model and connectors form the foundational elements of Microsoft Cloud for Financial Services. These elements are tailored to the financial services industry, thus enabling interoperable connections between a financial institution’s banking systems and Microsoft Cloud for Financial Services. 
+    - content: By using prebuilt connectors and the retail banking data model  
+      isCorrect: true 
+      explanation: Correct. Data model and connectors form the foundational elements of Microsoft Cloud for Financial Services. These elements are tailored to the financial services industry, thus enabling interoperable connections between a financial institution’s banking systems and Microsoft Cloud for Financial Services.
+    - content: By using Power Apps flows.
+      isCorrect: false 
+      explanation: Incorrect. Data model and connectors form the foundational elements of Microsoft Cloud for Financial Services. These elements are tailored to the financial services industry, thus enabling interoperable connections between a financial institution’s banking systems and Microsoft Cloud for Financial Services. 
+    - content: By using business process flows.
+      isCorrect: false 
+      explanation: Incorrect. Data model and connectors form the foundational elements of Microsoft Cloud for Financial Services. These elements are tailored to the financial services industry, thus enabling interoperable connections between a financial institution’s banking systems and Microsoft Cloud for Financial Services.
+  - content: Unified customer profile and unified client profile solutions focus on which of the following industry sub vertical? 
+    choices: 
+    - content: Commercial banking
+      isCorrect: false
+      explanation: Incorrect. The current release of Microsoft Cloud for Financial Services focuses on retail banking.
+    - content: Retail banking and wealth management
+      isCorrect: true 
+      explanation: Correct. The current release of Microsoft Cloud for Financial Services focuses on retail banking.
+    - content: Insurance
+      isCorrect: false
+      explanation: Incorrect. The current release of Microsoft Cloud for Financial Services focuses on retail banking.
+    - content: It can support any financial industry subvertical.
+      isCorrect: false 
+      explanation: Incorrect. The current release of Microsoft Cloud for Financial Services focuses on retail banking.

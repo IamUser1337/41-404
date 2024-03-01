@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-maintain-app.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/13/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: As an app owner, what two roles can you choose from when sharing the app with someone?
+    choices: 
+    - content: User and Admin
+      isCorrect: false
+      explanation: As an app owner, the two roles that you can choose from when sharing the app with someone are User and Co-owner.
+    - content: User and Co-owner
+      isCorrect: true 
+      explanation: As an app owner, the two roles that you can choose from when sharing the app with someone are User and Co-owner.
+    - content: User and Owner
+      isCorrect: false 
+      explanation: As an app owner, the two roles that you can choose from when sharing the app with someone are User and Co-owner.
+    - content: User and Coadmin
+      isCorrect: false 
+      explanation: As an app owner, the two roles that you can choose from when sharing the app with someone are User and Co-owner.
+  - content: How far back can you restore a previous version of your app?
+    choices: 
+    - content: Last six months
+      isCorrect: true 
+      explanation: You can restore a previous version of your app up to the last six months.
+    - content: Last five months
+      isCorrect: false 
+      explanation: You can restore a previous version of your app up to the last six months.
+    - content: Last 12 months
+      isCorrect: false 
+      explanation: You can restore a previous version of your app up to the last six months.
+    - content: No limit is placed on how far back you can go; you can restore any previous versions
+      isCorrect: false 
+      explanation: You can restore a previous version of your app up to the last six months.
+  - content: What are the five stages, in sequential order, of application lifecycle management?
+    choices: 
+    - content: Plan, Develop, Deploy, Test, Maintain
+      isCorrect: false 
+      explanation: The five stages of application lifecycle management are Plan, Develop, Test, Deploy, and Maintain. 
+    - content: Plan, Test, Develop, Deploy, Maintain
+      isCorrect: false 
+      explanation: The five stages of application lifecycle management are Plan, Develop, Test, Deploy, and Maintain.
+    - content: Plan, Develop, Test, Deploy, Maintain
+      isCorrect: true
+      explanation: The five stages of application lifecycle management are Plan, Develop, Test, Deploy, and Maintain.
+    - content: Plan, Develop, Deploy, Maintain, Test
+      isCorrect: false 
+      explanation: The five stages of application lifecycle management are Plan, Develop, Test, Deploy, and Maintain.      

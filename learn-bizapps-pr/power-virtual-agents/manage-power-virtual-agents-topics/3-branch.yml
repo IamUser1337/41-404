@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-power-virtual-agent-topics.3-branch
+title: Branch a topic
+metadata:
+  title: Branch a topic
+  description: Learn to add branching logic to a topic for multi-layer conversation.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-branch.md)]

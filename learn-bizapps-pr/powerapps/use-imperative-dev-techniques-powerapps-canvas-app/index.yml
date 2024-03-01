@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.use-imperative-dev-techniques
+metadata:
+  title: Use imperative development techniques for canvas apps in Power Apps
+  description: Learn how to use imperative vs. declarative development.
+  ms.date: 12/1/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.subservice: dataverse-developer
+title: Use imperative development techniques for canvas apps in Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Imperative development techniques can help you achieve the goal for your app. You will learn about different development methods and different variables in Power Apps.
+abstract: |
+    In this module, you will:
+    - Understand imperative vs. declarative development
+    - Understand the variables in Power Apps
+    - Understand when to utilize each of the three different types of variables
+prerequisites: A basic understanding of how to create a canvas app in Power Apps.
+iconUrl: /training/achievements/use-imperative-dev-techniques.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.use-imperative-dev-techniques.1-imperative-vs-declarative
+- learn-bizapps.use-imperative-dev-techniques.2-variables
+- learn-bizapps.use-imperative-dev-techniques.3-global-variables
+- learn-bizapps.use-imperative-dev-techniques.4-contextual-variables
+- learn-bizapps.use-imperative-dev-techniques.5-collections
+- learn-bizapps.use-imperative-dev-techniques.6-additional-variables
+- learn-bizapps.use-imperative-dev-techniques.6a-exercise-variables-collection
+- learn-bizapps.use-imperative-dev-techniques.7-knowledge-check
+- learn-bizapps.use-imperative-dev-techniques.8-summary
+badge:
+  uid: learn-bizapps.use-imperative-dev-techniques.badge

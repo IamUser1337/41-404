@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-bi-tableau
+metadata:
+  title: Power BI for Tableau users
+  description: Are you a Tableau user who needs to learn Microsoft Power BI? This learning path enables you to leverage your existing Tableau skills to create power data-driven reports and dashboards in Power BI. You will learn to use the Microsoft Power BI desktop application and the Power BI service to connect to data, model and visualize data, and then share your findings. Finally, we provide guidance on how to produce and maintain optimized Power BI solutions.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Power BI for Tableau users
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Are you a Tableau user who needs to learn Microsoft Power BI? This learning path enables you to leverage your existing Tableau skills to create power data-driven reports and dashboards in Power BI. You will learn to use the Microsoft Power BI desktop application and the Power BI service to connect to data, model and visualize data, and then share your findings. Finally, we provide guidance on how to produce and maintain optimized Power BI solutions.
+prerequisites: None
+iconUrl: /training/achievements/power-bi-tableau.svg
+levels:
+- intermediate
+roles: 
+- data-analyst
+- business-user
+products:
+- power-bi 
+subjects:
+- data-visualization
+modules:
+- learn-bizapps.power-bi-tableau-intro 
+- learn-bizapps.power-bi-tableau-data-connectivity
+- learn-bizapps.power-bi-tableau-calculations
+- learn-bizapps.power-bi-tableau-organize-fields
+- learn-bizapps.power-bi-tableau-visuals
+- learn-bizapps.power-bi-tableau-analytics
+- learn-bizapps.power-bi-tableau-optimize-performance
+
+trophy: 
+  uid: learn-bizapps.power-bi-tableau.trophy

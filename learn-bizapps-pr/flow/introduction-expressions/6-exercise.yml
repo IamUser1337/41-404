@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-expressions.6-exercise 
+title: Exercise - Creating a manual flow and using expressions
+metadata: 
+  title: Exercise - Creating a manual flow and using expressions 
+  description: Learn how to create a manual flow and use expressions.  
+  ms.date: 10/01/2020 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 12
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-exercise.md)] 

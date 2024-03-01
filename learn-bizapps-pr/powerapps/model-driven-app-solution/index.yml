@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.model-driven-app-solution 
+metadata: 
+ title: Transform a business process to a model-driven app
+ description: This module introduces the data and business scenario that the solution will address. A model-driven app from Microsoft Power Apps will be used as the solution, and the data will be stored in Microsoft Dataverse.
+ ms.date: 01/14/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Transform a business process to a model-driven app
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  A difficult aspect of becoming a maker in Microsoft Power Platform is knowing how to start with your company’s existing data and then translate that data into a model-driven app. This module will help you get into the mindset of a Power Apps maker and start thinking of a model-driven app as the solution.
+abstract: |  
+    In this module, you will: 
+    - Learn about the data and solution that is being built with this learning path.
+    - Learn how to relate a Microsoft Excel-based solution to model-driven apps from Power Apps.
+    - Gain insight into model-driven app design decisions.
+prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
+iconUrl: /training/achievements/model-driven-app-solution.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products: 
+- power-platform
+- power-apps
+- dataverse
+- office-excel 
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.model-driven-app-solution.1-introduction 
+- learn-bizapps.model-driven-app-solution.2-model-driven-app-solution 
+- learn-bizapps.model-driven-app-solution.3-data-model 
+- learn-bizapps.model-driven-app-solution.4-check 
+- learn-bizapps.model-driven-app-solution.5-summary 
+badge: 
+  uid: learn-bizapps.model-driven-app-solution.badge

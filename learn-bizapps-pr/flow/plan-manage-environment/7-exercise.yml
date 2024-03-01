@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-manage-environment.7-exercise 
+title: Exercise - Create a Microsoft 365 environment-specific Data Loss Prevention policy
+metadata: 
+  title: Exercise - Create a Microsoft 365 environment-specific Data Loss Prevention policy 
+  description: Learn about creating a Microsoft 365 environment-specific Data Loss Prevention (DLP) policy. 
+  ms.date: 10/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips  
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-exercise.md)] 

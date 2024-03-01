@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.customize-view-forms
+metadata:
+ title: Customize views and forms for model-driven apps
+ description: Learn how to adapt tables by using the two form types of Views and Forms.
+ ms.date: 01/03/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Customize views and forms for model-driven apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to adapt tables by using the two form types of Views and Forms. These form types will consume data from your tables, aided by the relationships, which allows the app maker to display data and will allow app users to interact with the data.
+abstract: |
+    In this module, you will:
+    - Discover the difference between views and forms.
+    - Learn how to modify table views.
+    - Learn how to modify table forms.
+prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
+iconUrl: /training/achievements/custom-view-forms.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-apps
+- dataverse
+- office-excel
+subjects:
+- data-modeling
+- custom-app-development
+units:
+- learn-bizapps.customize-view-forms.1-introduction
+- learn-bizapps.customize-view-forms.2-exercise-modify-table-views
+- learn-bizapps.customize-view-forms.3-modify-table-forms
+- learn-bizapps.customize-view-forms.4-exercise-modify-table-forms
+- learn-bizapps.customize-view-forms.5-check
+- learn-bizapps.customize-view-forms.6-summary
+badge:
+  uid: learn-bizapps.custom-view-forms.badge

@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.retail-churn-model 
+metadata: 
+ title: Create a unified customer profile in Microsoft Cloud for Retail
+ description: Learn about Microsoft Cloud for Retail unified customer profile
+ ms.date: 04/22/2022  
+ author: lavanyapg
+ ms.author: lsuresh 
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Create a unified customer profile in Microsoft Cloud for Retail
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Unified customer profile is a key capability of Microsoft Cloud for Retail. In some ways, it’s where the data story comes together. Unified customer profile can help you gain insights across the complete view of a shopper’s journey.
+abstract: |  
+    In this module, you will: 
+    - Create and set up Dynamics 365 Customer Insights - Data.
+    - Create storage accounts and upload data.
+    - Set up the Retail churn model in Dynamics 365 Customer Insights - Data.
+    - Learn about Retail churn model output.
+prerequisites: Dynamics 365 Customer Insights - Data
+iconUrl: /training/achievements/retail-churn-model.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+- business-user  
+products: 
+- mscloud-retail
+- industry-solutions 
+units: 
+- learn-bizapps.retail-churn-model.introduction 
+- learn-bizapps.retail-churn-model.create-configure-customer-insights-environment 
+- learn-bizapps.retail-churn-model.create-storage-upload-data 
+- learn-bizapps.retail-churn-model.configure-retail-churn-model 
+- learn-bizapps.retail-churn-model.understand-output 
+- learn-bizapps.retail-churn-model.check 
+- learn-bizapps.retail-churn-model.summary 
+badge: 
+  uid: learn-bizapps.retail-churn-model.badge 

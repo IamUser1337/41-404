@@ -1,0 +1,68 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cloud-sustainability-overview.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/20/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the unified unit of metric to calculate the carbon emissions?
+    choices:
+    - content: CO<sub>2</sub>e
+      isCorrect: true
+      explanation: Correct. All greenhouse gas emissions are converted to a unified unit of measurement, carbon dioxide equivalent.
+    - content: GWP
+      isCorrect: false
+      explanation: Incorrect. Global Warming Potential (GWP) is the potency with which each gas traps heat from the sun.
+    - content: Kwh
+      isCorrect: false
+      explanation: Incorrect. Kwh is a unit to calculate the energy consumed per hour.
+    - content: Fahrenheit
+      isCorrect: false
+      explanation: Incorrect. Fahrenheit denotes scale of temperature.
+  - content: Which scope includes supply chain emissions of an organization?
+    choices:
+    - content: Scope 1
+      isCorrect: false
+      explanation: Incorrect. Scope 1 emissions are direct emissions of organizations.
+    - content: Scope 2
+      isCorrect: false
+      explanation: Incorrect. Scope 2 emissions are generated from indirect emissions, such as purchased energy or purchased heat.
+    - content: Scope 3
+      isCorrect: true
+      explanation: Correct. Supply chain emissions upstream and downstream are categorized as Scope 3 emissions.
+    - content: None of the above
+      isCorrect: false
+      explanation: Incorrect. Supply chain emissions of an organization are categorized as Scope 3 emissions.
+  - content: What phrase best represents carbon negative?
+    choices:
+    - content: Reduce emissions and/or pay others to not emit an equivalent to their remaining emissions
+      isCorrect: false
+      explanation: Incorrect. Organizations that reduce emissions and/or pay others to not emit an equivalent to their remaining emissions are carbon neutral.
+    - content: Remove as much carbon as the organization emits
+      isCorrect: false
+      explanation: Incorrect. Organizations that remove the emissions that they've generated are carbon zero.
+    - content: Remove more carbon than emitted each year
+      isCorrect: true
+      explanation: Correct. When an organization removes more carbon than they emit each year, they're considered carbon negative.
+  - content: Which key priority scenario from Microsoft Cloud for Sustainability helps organizations establish a true baseline of their carbon footprint across all scopes?
+    choices:
+    - content: Unify data intelligence
+      isCorrect: true
+      explanation: Correct. Unify data intelligence capability of Microsoft Cloud for Sustainability helps organizations establish a true baseline of their carbon footprint.
+    - content: Build sustainable IT infrastructure
+      isCorrect: false
+      explanation: Incorrect. Build sustainable IT infrastructure helps organizations in identifying opportunities for replacing tools, systems, or activities with more efficient options and defining ways to add business value.
+    - content: Reduce environmental impact of operations
+      isCorrect: false
+      explanation: Incorrect. With the Reduce environmental impact of operations capability, organizations can create energy efficiencies and transition to clean energy, while reducing carbon emissions, water consumption, and waste.
+    - content: Create sustainable value chains
+      isCorrect: false
+      explanation: Incorrect. Create sustainable value chains focuses on the organization's supply chain efficiencies to reduce the emissions.

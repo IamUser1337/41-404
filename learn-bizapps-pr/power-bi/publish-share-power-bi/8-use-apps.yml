@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-power-bi.8-use-apps 
+title: Use apps
+metadata: 
+  title: Use apps
+  description: Learn how to use apps in Power BI Desktop.
+  ms.date: 06/20/2022
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/8-use-apps.md)] 
+

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-models.2-star-schema-design 
+title: Star schema design
+metadata: 
+  title: Star schema design 
+  description: Learn about the star schema design.  
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-star-schema-design.md)] 

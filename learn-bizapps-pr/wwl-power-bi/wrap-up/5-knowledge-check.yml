@@ -1,0 +1,40 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.wrap-up.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/5-knowledge-check.md)]
+quiz:
+  title: "Questions and Wrap-up"
+  questions:
+  - content: "Which of the following are best in Excel?"
+    choices:
+    - content: "When performing ad/hoc one-off analyses"
+      isCorrect: true
+      explanation: "That's correct. This is better in Excel."
+    - content: "When you need Row Level Security (RLS)"
+      isCorrect: false
+      explanation: "That's incorrect. This is better in Power BI."
+    - content: "When you need polished and interactive experiences"
+      isCorrect: false
+      explanation: "That's incorrect. This is better in Power BI."
+  - content: "Which of the following are best in Power BI?"
+    choices:
+    - content: "When you need Cube formulas"
+      isCorrect: false
+      explanation: "That's incorrect. This is better in Excel."
+    - content: "When you need PivotTables"
+      isCorrect: false
+      explanation: "That's incorrect. This is better in Excel."
+    - content: "When you need polished and interactive experiences"
+      isCorrect: true
+      explanation: "That's correct. This is better in Power BI."

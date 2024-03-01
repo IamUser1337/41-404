@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-sustainability
+metadata:
+  title: Get started with Microsoft Cloud for Sustainability
+  description: Learn how to use Microsoft Cloud for Sustainability.
+  ms.date: 11/14/2022
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Microsoft Cloud for Sustainability
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Cloud for Sustainability helps organizations build more enduring IT infrastructures through identifying opportunities to replace tools, systems, and activities with more efficient options. Microsoft Cloud for Sustainability helps organizations minimize the environmental footprint of their operational systems and processes. Furthermore, they can drive more sustainable value chains with greater transparency and accountability, from sourcing of materials through product distribution.
+  
+  In this Learning Path, you gain a foundational understanding of Microsoft Cloud for Sustainability and its core components. You'll learn about the key concepts of sustainability, Microsoft's sustainability journey and the solution focus areas for Microsoft Cloud for Sustainability. 
+prerequisites: |
+  - None
+iconUrl: /training/achievements/get-started-sustainability.svg
+levels:
+- intermediate
+- beginner
+- advanced 
+roles:
+- business-user
+- functional-consultant
+- developer
+- administrator
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.cloud-sustainability-overview
+trophy:
+  uid: learn.get-started-sustainability.trophy

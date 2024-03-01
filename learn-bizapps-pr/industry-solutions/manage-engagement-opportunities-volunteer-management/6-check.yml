@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-engagement-opportunities-volunteer-management.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You are arranging an engagement opportunity for Tree Day and would like to encourage people with an interest in environmental conservation to apply. Where on the engagement opportunity would it be best to specify this?
+    choices: 
+    - content: Set up Environmental Conservation as a required qualification.
+      isCorrect: false
+      explanation: It is not a necessary requirement so it should not be set up as a required qualification.
+    - content: Set up Environmental Conservation as a preference.
+      isCorrect: true 
+      explanation: Volunteers can set up their interests as preferences, which can be used for matching them to the right engagement opportunities.
+    - content: In the Short Description.
+      isCorrect: false 
+      explanation: Short description is not the best place for this information.
+    - content: In an automated message delivered to the participant upon sign-up.
+      isCorrect: false 
+      explanation: It is better to have this information visible to participants prior to signing up.
+  - content: If an engagement opportunity has been published privately, how do participants sign up?
+    choices: 
+    - content: They can sign up themselves from the Volunteer Engagement portal.
+      isCorrect: false
+      explanation: A privately published engagement opportunity will not appear on the portal.
+    - content: They can be added manually by one of your organization’s staff members in the Volunteer Management app.
+      isCorrect: true 
+      explanation: Participants can only be added to privately published engagement opportunity manually via Volunteer Management. 
+    - content: They can sign up themselves from the Volunteer Engagement portal or they can be added manually by one of your organization’s staff members in the Volunteer Management app.
+      isCorrect: false 
+      explanation: A privately published engagement opportunity will not appear on the portal.
+    - content: It is not possible to sign up participants to a privately published engagement opportunity.
+      isCorrect: false 
+      explanation: Participants can be manually added to a privately published engagement opportunity.
+  - content: Where is the best place to easily find the number of people who have been approved for an engagement opportunity?
+    choices: 
+    - content: The Summary tab of an engagement opportunity.
+      isCorrect: true 
+      explanation: The summary tab displays a roll-up of the number of people approved for an engagement opportunity.
+    - content: The Schedule tab of an engagement opportunity.
+      isCorrect: false 
+      explanation: The summary tab displays a roll-up of the number of people approved for an engagement opportunity.
+    - content: Participants list in the engagement opportunity.
+      isCorrect: false 
+      explanation: The summary tab displays a roll-up of the number of people approved for an engagement opportunity.
+    - content: The Shift Schedule area of Volunteer Management.
+      isCorrect: false 
+      explanation: The summary tab displays a roll-up of the number of people approved for an engagement opportunity.

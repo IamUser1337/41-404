@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dax-power-bi-time-intelligence.4-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 03/23/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 3
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "In the context of semantic model calculations, which statement best describes time intelligence?"
+    choices:
+    - content: "Snapshot balance reporting"
+      isCorrect: false
+      explanation: "Snapshot balance reporting is an example of time intelligence logic."
+    - content: "Filter context modifications involving a date table"
+      isCorrect: true
+      explanation: "Time intelligence calculations modify date filter contexts."
+    - content: "Complex calculations involving time"
+      isCorrect: false
+      explanation: "Time intelligence calculations aren't necessarily complex."
+    - content: "Calculations involving hours, minutes, or seconds"
+      isCorrect: false
+      explanation: "Time intelligence calculations aren't exclusively concerned with time elements such as hours, minutes, or seconds. Commonly, in business semantic models, they're concerned with years, quarters, months, or days."
+  - content: "You're developing a semantic model in Power BI Desktop. You've just added a date table by using the CALENDARAUTO function. You've extended it with calculated columns, and you've related it to other model tables. What else should you do to ensure that DAX time intelligence calculations work correctly?"
+    choices:
+    - content: "Add time intelligence measures to the date table."
+      isCorrect: false
+      explanation: "You aren't required to add time intelligence measures to the date table. It's not common to add measures to a dimension table."
+    - content: "Mark as a Date table."
+      isCorrect: true
+      explanation: "You must mark the date table so that Power BI can correctly filter its dates."
+    - content: "Add a fiscal hierarchy."
+      isCorrect: false
+      explanation: "You aren't required to create a hierarchy, though it's usually helpful to do so."
+    - content: "Add a date column."
+      isCorrect: false
+      explanation: "You aren't required to add a date column. Because the table was created by using the CALENDARAUTO function, a date column will already exist."
+  - content: "You have a table that stores account balance snapshots for each date, excluding weekends. You need to ensure that your measure formula only filters by a single date. Also, if no record is on the last date of a time period, it should use the latest account balance. Which DAX time intelligence function should you use?"
+    choices:
+    - content: "FIRST"
+      isCorrect: false
+      explanation: "The FIRST function will return the first date in the filter context. This option won't help you achieve the objective. The requirement is to filter by the last date where a snapshot record exists."
+    - content: "FIRSTNONBLANK"
+      isCorrect: false
+      explanation: "The FIRSTNONBLANK function will return the first date in the filter context where a snapshot record exists. This option won't help you achieve the objective. The requirement is to filter by the last date where a snapshot record exists."
+    - content: "LAST"
+      isCorrect: false
+      explanation: "The LAST function will return the first date in the filter context. This option won't help you achieve the objective. The requirement is to filter by the last date where a snapshot record exists."
+    - content: "LASTNONBLANK"
+      isCorrect: true
+      explanation: "The LASTNONBLANK function will return the last date in the filter context where a snapshot record exists. This option will help you achieve the objective."

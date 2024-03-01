@@ -1,0 +1,5 @@
+Are you a steward or a captain?
+
+:::image type="complex" source="../media/3-steward.png" alt-text="Graphic of individual straddling two chairs and a chart explaining the difference between a Power BI steward and captain.":::
+   On the Self Service side is the Power B I steward, who performs these three functions. One, monitors the users in a Power B I environment. Two, establishes processes, policies, and guidelines to help users take the right actions in compliance with local and international laws and organizational policies. And three, moves the organization towards a culture that views data as a competitive asset. On the Enterprise side is the Power B I captain, who performs these three functions. One, responsible for the safe and efficient operation of a Power B I environment. Two, limits what users can do in a Power B I environment to ensure compliance with local and international laws and organizational policies. And three, cares about all resources and solutions in the Power B I environment. It doesn't matter what resources or solutions are shared with the administrator's user account.
+:::image-end:::

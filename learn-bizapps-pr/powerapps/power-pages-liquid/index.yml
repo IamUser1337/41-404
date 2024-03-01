@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-liquid
+metadata:
+ title: Work with Liquid template language in Power Pages
+ description: Learn how to work with Liquid template language in Power Pages.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: power-pages
+title: Work with Liquid template language in Power Pages
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Liquid is an open-source template language that’s integrated natively into Power Pages. It acts as a bridge between Microsoft Dataverse and the HTML or text output that’s sent to the browser. You can use Liquid to add dynamic content to pages and to create various custom templates. Additionally, Liquid provides access only to the data and operations that the website explicitly allows.
+abstract: |
+    In this module, you'll:
+    - Learn about Liquid template language and how you can use it in Power Pages.
+    - Learn how to interpret the syntax of Liquid and how to write Liquid code.
+    - Differentiate Liquid tags, objects, and filters.
+    - Discover how to use FetchXML to show Dataverse data.
+prerequisites: Basic understanding of webpages and page templates in Power Pages. Knowledge of Dataverse tables and relationships, and familiarity with JavaScript, HTML, Cascading Style Sheets (CSS), and web application development would be beneficial.
+iconUrl: /training/achievements/power-pages-liquid.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- developer
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-liquid.introduction
+- learn-bizapps.power-pages-liquid.basics
+- learn-bizapps.power-pages-liquid.dataverse-data
+- learn-bizapps.power-pages-liquid.data-security
+- learn-bizapps.power-pages-liquid.exercise
+- learn-bizapps.power-pages-liquid.check
+- learn-bizapps.power-pages-liquid.summary
+badge:
+  uid: learn-bizapps.power-pages-liquid.badge

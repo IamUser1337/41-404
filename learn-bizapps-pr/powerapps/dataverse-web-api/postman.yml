@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.postman
+title: Interact with Microsoft Dataverse Web API using Postman
+metadata:
+  title: Interact with Dataverse Web API using Postman
+  description: Learn how to interact with Dataverse Web API using Postman.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 30
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/postman.md)]

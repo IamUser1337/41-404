@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-visualize-report-data.part-1
+title: Visualize report data part 1
+metadata:
+  title: Visualize report data part 1
+  description: "Visualize report data part 1"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 38
+content: |
+  [!include[](includes/2-part-1.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-solution-explorer-online-workshop.install-solution
+title: Install the StudentImport solution
+metadata:
+  title: Install the StudentImport solution
+  description: Follow the steps to install the StudentImport solution.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/install-solution.md)]

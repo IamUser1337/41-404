@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.extend-cloud-sustainability.exercise-inventory-management-plan 
+title: Exercise - Add an inventory management plan 
+metadata: 
+  title: Exercise - Add an inventory management plan 
+  description: In this exercise, you'll learn how to add an inventory management plan to Sustainability Manager so that it's more accessible to all users. 
+  ms.date: 07/07/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-inventory-management-plan.md)] 

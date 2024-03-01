@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-publish-share.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2021 
+ author: paulinbar 
+ manager: kfollis 
+ ms.author: painbar 
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What types of tables is row-level security commonly applied to? 
+    choices: 
+    - content: Data tables
+      isCorrect: false
+      explanation: Row-level security is commonly applied to lookup tables.
+    - content: Lookup tables
+      isCorrect: true 
+      explanation: Row-level security is commonly applied to lookup tables.
+    - content: Fact tables
+      isCorrect: false 
+      explanation: Row-level security is commonly applied to lookup tables.
+    - content: Promoted tables
+      isCorrect: false 
+      explanation: Row-level security is commonly applied to lookup tables.
+  - content: What is the term for the shared environment where you can publish a report to on Power BI service?
+    choices: 
+    - content: Control panel
+      isCorrect: false
+      explanation: Workspace is the shared environment where you can publish a report on Power BI service.
+    - content: Workstation
+      isCorrect: false 
+      explanation: Workspace is the shared environment where you can publish a report on Power BI service.
+    - content: Workspace
+      isCorrect: true 
+      explanation: Workspace is the shared environment where you can publish a report on Power BI service.
+    - content: Database
+      isCorrect: false 
+      explanation: Workspace is the shared environment where you can publish a report on Power BI service.
+  - content: How many times a day can a report be scheduled to refresh with a Power BI Pro license?
+    choices: 
+    - content: six
+      isCorrect: false
+      explanation: A report can be scheduled to refresh eight times a day with a Power BI Pro license.
+    - content: eight
+      isCorrect: true 
+      explanation: A report can be scheduled to refresh eight times a day with a Power BI Pro license.
+    - content: ten
+      isCorrect: false 
+      explanation: A report can be scheduled to refresh eight times a day with a Power BI Pro license.
+    - content: twelve
+      isCorrect: false 
+      explanation: A report can be scheduled to refresh eight times a day with a Power BI Pro license.
+  - content: Which of the following options is not a sensitivity label in Power BI?
+    choices: 
+    - content: Certified
+      isCorrect: true 
+      explanation: Certified is not a sensitivity label in Power BI.
+    - content: Personal
+      isCorrect: false 
+      explanation: Certified is not a sensitivity label in Power BI.
+    - content: Confidential
+      isCorrect: false 
+      explanation: Certified is not a sensitivity label in Power BI.
+    - content: Highly Confidential
+      isCorrect: false 
+      explanation: Certified is not a sensitivity label in Power BI.

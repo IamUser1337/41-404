@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.implementation-recommendations.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to the Implementation recommendations for Power Automate environments module  
+  ms.date: 5/24/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.custom-connectors-certified
+metadata:
+  title: Create a certified or independent publisher connector for Microsoft Power Platform
+  description: Learn how to make your certified or independent publisher connector available to all users in Microsoft Power Platform GitHub repository.
+  ms.date: 07/04/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: module
+title: Create a certified or independent publisher connector for Microsoft Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)] 
+  Learn how to make your certified or independent publisher custom connector available to all users in Microsoft Power Platform GitHub repository.
+abstract: |
+  This module explains how to: 
+  - Determine when to create a certified or independent custom connector.
+  - Certify a custom connector.
+  - Download a connector by using the Microsoft Power Platform Connector CLI.
+  - Use version control.
+prerequisites: Experience with Microsoft Power Platform
+iconUrl: /training/achievements/custom-connectors-certified.svg
+levels:
+  - intermediate
+roles:
+  - maker
+products:
+  - power-automate
+  - power-platform
+subjects:
+  - process-workflow
+units:
+  - learn-bizapps.custom-connectors-certified.introduction
+  - learn-bizapps.custom-connectors-certified.certify
+  - learn-bizapps.custom-connectors-certified.exercise
+  - learn-bizapps.custom-connectors-certified.updates
+  - learn-bizapps.custom-connectors-certified.check
+  - learn-bizapps.custom-connectors-certified.summary
+badge:
+  uid: learn-bizapps.custom-connectors-certified.badge

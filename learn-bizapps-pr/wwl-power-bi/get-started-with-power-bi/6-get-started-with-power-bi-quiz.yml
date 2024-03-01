@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.6-get-started-with-power-bi-quiz
+title: Knowledge check
+metadata:
+  title: 'Knowledge check: Get started with Power BI'
+  description: "Check your knowledge"
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+quiz:
+  title: ""
+  questions:
+  - content: "What is the common flow of activity in Power BI?"
+    choices:
+    - content: "Create a report in the Power BI service, share it to Power BI mobile, and interact with it in Power BI Desktop."
+      isCorrect: false
+      explanation: "Incorrect. The common flow of activity in Power BI doesn't start with creating a report in the Power BI service. Commonly, the flow begins by creating a report in Power BI Desktop."
+    - content: "Create a report in Power BI Desktop, share it to the Power BI service, and interact with reports in the service and Power BI Mobile."
+      isCorrect: true
+      explanation: "Correct. The Power BI service lets you view and interact with reports and dashboards, but doesn't let you shape data."
+    - content: "Create a report in Power BI mobile, share it to Power BI Desktop, and interact with reports in the Power BI service."
+      isCorrect: false
+      explanation: "Incorrect. You can't bring data directly into Power BI Mobile. You connect to data and create reports in Power BI Desktop."
+  - content: "Which of the following are building blocks of Power BI?"
+    choices:
+    - content: "Tiles and visualizations."
+      isCorrect: false
+      explanation: "Incorrect. Tiles and visualizations are the starting points for dashboards and reports, but depend on semantic models."
+    - content: "Semantic models and visualizations."
+      isCorrect: true
+      explanation: "Correct. Without a semantic model, you can't create visualizations, and reports are made up of visualizations."
+    - content: "Semantic models and reports."
+      isCorrect: false
+      explanation: "Incorrect. While a semantic model is the first step, you can't create reports without visualizations."
+  - content: "What is a collection of reports and dashboards called in Power BI?"
+    choices:
+    - content: "The canvas."
+      isCorrect: false
+      explanation: "Incorrect. The canvas is the area in the center of Power BI Desktop or the Power BI service, and is blank until you create visuals or reports."
+    - content: "Scheduled refresh."
+      isCorrect: false
+      explanation: "Incorrect. Scheduled refresh lets you automatically update data for semantic models, but is not a collection of ready-made visuals."
+    - content: "An app."
+      isCorrect: true
+      explanation: "Correct. An app is a collection of ready-made visuals, pre-arranged in dashboards and reports. You can get apps that connect to many online services from the AppSource."

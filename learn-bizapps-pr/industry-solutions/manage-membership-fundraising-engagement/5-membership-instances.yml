@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-membership-fundraising-engagement.5-membership-instances 
+title: Membership instances
+metadata: 
+  title: Membership instances
+  description: Learn about membership instances.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-membership-instances.md)] 

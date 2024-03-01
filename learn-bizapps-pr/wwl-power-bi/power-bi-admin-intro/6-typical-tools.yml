@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-intro.6-typical-tools 
+title: Typical administrator tools
+metadata: 
+  title: Typical administrator tools
+  description: Learn about the tools that administrators typically use.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-typical-tools.md)] 

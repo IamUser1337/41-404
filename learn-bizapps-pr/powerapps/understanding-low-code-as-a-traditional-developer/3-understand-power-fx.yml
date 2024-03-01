@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.3-understand-power-fx
+title: Understand Power Fx
+metadata:
+  title: Understand Power Fx
+  description: Microsoft Power Fx is the low code language for expressing logic across Microsoft Power Platform.  It is the same language that is at the heart of Microsoft Power Apps canvas apps today and is inspired by Microsoft Excel. This unit takes a first look.
+  ms.date: 04/22/2021
+  author: ghurlman
+  ms.author: grhurl
+  ms.topic: unit
+  ms.contributors:
+  - grhurl-04192021
+durationInMinutes: 5
+content: | 
+  [!include[](includes/3-understand-power-fx.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-bi.explore-different-power-bi-elements
+title: Explore the different Power BI elements
+metadata:
+  title: Explore the different Power BI elements
+  description: "Introduction to the building blocks of Power BI."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-explore-different-power-bi-elements.md)]

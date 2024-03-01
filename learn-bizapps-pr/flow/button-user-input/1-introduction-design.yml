@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.button-user-input.1-introduction-design
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Let's build a button flow with user input.
+  ms.date: 11/01/2021
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction-design.md)] 

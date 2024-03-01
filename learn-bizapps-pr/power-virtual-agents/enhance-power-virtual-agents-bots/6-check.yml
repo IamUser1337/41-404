@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.enhance-power-virtual-agent-bots.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 08/17/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 2
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When a customer initiates a bot conversation, they are automatically asked to provide the nature of their inquiry. They can select from Support, Billing, or Question. You have been asked to configure the bot to automatically escalate the conversation to a live agent when someone indicates that the nature of the inquiry is Billing. What conversation node can you use to facilitate this request?
+    choices: 
+    - content: Call an action
+      isCorrect: false 
+      explanation: The End the conversation node is used to end the customer's communication with the bot. It contains two options, End with survey or Transfer to agent. For this scenario, you would select End the conversation and then Transfer to agent.
+    - content: End the conversation
+      isCorrect: true 
+      explanation: The End the conversation node is used to end the customer's communication with the bot. It contains two options, End with survey or Transfer to agent. For this scenario, you would select End the conversation and then Transfer to agent.
+    - content: Show a message
+      isCorrect: false 
+      explanation: The End the conversation node is used to end the customer's communication with the bot. It contains two options, End with survey or Transfer to agent. For this scenario, you would select End the conversation and then Transfer to agent.
+    - content: Go to another topic
+      isCorrect: false 
+      explanation: The End the conversation node is used to end the customer's communication with the bot. It contains two options, End with survey or Transfer to agent. For this scenario, you would select End the conversation and then Transfer to agent.
+  - content: You are using the Call an action conversation node to initiate a Power Automate flow. What do you call the values that are provided back to Microsoft Copilot Studio from Power Automate flow?
+    choices: 
+    - content: Inputs
+      isCorrect: false 
+      explanation: When you are running Power Automate flows from a Microsoft Copilot Studio bot, input and output parameters are used to pass information back and forth. Input parameters are used to define what information that the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate sends back to the bot.
+    - content: Entities
+      isCorrect: false 
+      explanation: When you are running Power Automate flows from a Microsoft Copilot Studio bot, input and output parameters are used to pass information back and forth. Input parameters are used to define what information that the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate sends back to the bot.
+    - content: Outputs
+      isCorrect: true 
+      explanation: When you are running Power Automate flows from a Microsoft Copilot Studio bot, input and output parameters are used to pass information back and forth. Input parameters are used to define what information that the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate sends back to the bot.
+    - content: Topics
+      isCorrect: false 
+      explanation: When you are running Power Automate flows from a Microsoft Copilot Studio bot, input and output parameters are used to pass information back and forth. Input parameters are used to define what information that the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate sends back to the bot.

@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.power-platform-automate-client-script
+metadata:
+  title: Automate business processes with client script
+  description: This module focuses on educating developers on how to perform common techniques in regard to automating business processes using client scripting, along with explaining the context of when these scenarios might be applied.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module-standard-task-based
+  ms.service: "power-platform"
+  ms.subservice: developer
+title: Automate business process flows with client script
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module focuses on educating developers on how to perform common techniques in regard to automating business processes using client scripting, along with explaining the context of when these scenarios might be applied.
+abstract: |
+    This module explains how to:
+    - Automate business processes using JavaScript/TypeScript API methods.
+prerequisites: |
+    - Basic understanding of Microsoft Power Platform
+    - Experience in software development against the Microsoft stack and Visual Studio
+    - Experience in administering solutions in Azure is preferred
+iconUrl: /training/achievements/power-platform-automate-client-script.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- process-workflow
+units:
+- learn-bizapps.power-platform-automate-client-script.introduction
+- learn-bizapps.power-platform-automate-client-script.best-practices
+- learn-bizapps.power-platform-automate-client-script.debug
+- learn-bizapps.power-platform-automate-client-script.exercise
+- learn-bizapps.power-platform-automate-client-script.check
+- learn-bizapps.power-platform-automate-client-script.summary
+badge:
+  uid: learn-bizapps.power-platform-automate-client-script.badge

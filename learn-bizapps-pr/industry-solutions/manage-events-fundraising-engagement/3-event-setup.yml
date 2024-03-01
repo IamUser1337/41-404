@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-events-fundraising-engagement.3-event-setup 
+title: Event setup
+metadata: 
+  title: Event setup
+  description: Learn about setting up an event.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-event-setup.md)] 

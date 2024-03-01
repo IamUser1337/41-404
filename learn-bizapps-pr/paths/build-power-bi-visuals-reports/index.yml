@@ -1,0 +1,32 @@
+### YamlMime:LearningPath
+uid: learn.wwl.build-power-bi-visuals-reports
+metadata:
+  title: Build Power BI visuals and reports
+  description: Learn how to use visuals to build interactive Power BI reports to tell data-driven stories. 
+  ms.date: 07/04/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: learning-path
+title: Build Power BI visuals and reports
+prerequisites: |
+  There are no prerequisites for this learning path.
+summary: |
+  Turn data into interactive, actionable insights with Power BI Desktop visuals and reports.
+iconUrl: /training/achievements/build-power-bi-visuals-and-reports.svg
+levels:
+- beginner
+roles:
+- data-analyst
+products:
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.power-bi-effective-requirements
+- learn-bizapps.power-bi-effective-reports
+- learn-bizapps.power-bi-effective-filters
+- learn-bizapps.power-bi-effective-user-experience
+- learn-bizapps.perform-analytics-power-bi
+- learn-bizapps.create-paginated-reports-power-bi
+trophy:
+  uid: learn.wwl.build-power-bi-visuals-reports.trophy

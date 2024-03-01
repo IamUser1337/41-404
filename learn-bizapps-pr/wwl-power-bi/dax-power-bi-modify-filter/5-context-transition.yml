@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-modify-filter.5-context-transition 
+title: Perform context transition
+metadata: 
+  title: Perform context transition 
+  description: Learn how to perform context transition.  
+  ms.date: 07/18/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-context-transition.md)] 

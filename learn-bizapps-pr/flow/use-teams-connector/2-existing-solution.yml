@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-teams-connector.2-existing-solution 
+title: Work from an existing solution in Power Automate
+metadata: 
+  title: Work from an existing solution in Power Automate
+  description: Learn how to modify an existing solution in Power Automate.
+  ms.date: 12/26/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-existing-solution.md)] 

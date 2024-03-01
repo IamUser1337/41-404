@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.expense-app-start-finish
+metadata:
+  title: Create an expense report app from start to finish in Power Apps
+  description: Learn how to build an expense report app from start to finish. In this learning path, you will explore activities such as transforming a business process into an app, creating a semantic model, and sharing the app. You will also learn about the logic used throughout the application lifecycle. Learning the reasoning behind key decisions will help you better understand how the expense report app works. You can apply this knowledge to any app that you create in the future.
+  ms.date: 01/13/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: learning-path
+title: Create an expense report app from start to finish in Power Apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Learn how to build an expense report app from start to finish. In this learning path, you will explore activities such as transforming a business process into an app, creating a semantic model, and sharing the app. You will also learn about the logic used throughout the application lifecycle. Learning the reasoning behind key decisions will help you better understand how the expense report app works. You can apply this knowledge to any app that you create in the future.
+prerequisites: A basic understanding of Microsoft Power Apps and Microsoft Dataverse.
+iconUrl: /training/achievements/create-expense-report-app-start-finish.svg
+levels:
+- beginner
+roles: 
+- maker
+products:
+- power-apps 
+- power-platform
+- dataverse
+- entra-id
+- office-excel
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.transform-business-process 
+- learn-bizapps.create-data-model-expense-report
+- learn-bizapps.plan-canvas-app
+- learn-bizapps.connect-filter-data
+- learn-bizapps.write-data-source
+- learn-bizapps.publish-share-maintain-app 
+trophy: 
+  uid: learn-bizapps.create-expense-report-app-start-finish-social.trophy

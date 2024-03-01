@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.3-current-process
+title: The current field inventory management system
+metadata:
+  title: The current field inventory management system
+  description: The current process VanArsdel uses to manage inventory in the field
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: unit
+  ms.contributors:
+  - masoucou-04262021
+durationInMinutes: 3
+content: | 
+  [!include[](includes/3-current-process.md)]

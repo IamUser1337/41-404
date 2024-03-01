@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.moves-management.3-opportunities 
+title: Opportunities
+metadata: 
+  title: Opportunities
+  description: Learn to access and manage opportunities.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-opportunities.md)] 

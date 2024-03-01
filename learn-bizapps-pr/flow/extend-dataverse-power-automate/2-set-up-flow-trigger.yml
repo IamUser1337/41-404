@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.extend-dataverse-power-automate.2-set-up-flow-trigger
+title: Work with files and images
+metadata:
+  title: Work with files and images
+  description: Learn how to work with files and images.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-set-up-flow-trigger.md)]

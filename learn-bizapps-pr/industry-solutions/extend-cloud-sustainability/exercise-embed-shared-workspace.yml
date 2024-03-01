@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.extend-cloud-sustainability.exercise-embed-shared-workspace 
+title: Exercise - Embed a shared workspace 
+metadata: 
+  title: Exercise - Embed a shared workspace 
+  description: In this exercise, you'll add a shared workspace for a custom Power BI report to Microsoft Cloud for Sustainability for easier access within the application.
+  ms.date: 07/07/2022 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-embed-shared-workspace.md)] 

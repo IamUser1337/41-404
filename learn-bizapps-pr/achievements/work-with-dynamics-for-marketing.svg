@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="118px" viewBox="0 0 100 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Work with Dynamics for Marketing/work-with-dynamics-for-marketing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.7425,1.49663266 C44.3745,0.498877554 46.1865,0 48,0 C49.8135,0 51.627,0.498877554 53.256,1.49663266 L90.591,24.3316189 C93.933,26.3773408 96,30.2031485 96,34.3529027 L96,79.6470973 C96,83.7952317 93.933,87.6242789 90.591,89.6683811 L53.256,112.504987 C51.627,113.501122 49.8135,114 48,114 C46.1865,114 44.3745,113.501122 42.7425,112.504987 L5.409,89.6683811 C2.0655,87.6242789 0,83.7952317 0,79.6470973 L0,34.3529027 C0,30.2031485 2.0655,26.3773408 5.409,24.3316189 L42.7425,1.49663266 Z" id="path-1"></path>
+        <filter x="-6.2%" y="-6.7%" width="112.3%" height="113.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.102128623 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-with-Dynamics-for-Marketing" transform="translate(-50.000000, -50.000000)">
+            <g id="Work-with-Dynamics-for-Marketing/work-with-dynamics-for-marketing" transform="translate(50.000000, 50.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Trophy-1" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Megaphone" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(48.000000, 57.000000) rotate(-15.000000) translate(-48.000000, -57.000000) translate(15.500000, 27.000000)">
+                            <path d="M55.001,18.051 L55.001,37.949 C60.047,37.445 64.001,33.176 64.001,28 C64.001,22.824 60.047,18.555 55.001,18.051" id="Fill-476" fill="#C5CCCD" fill-rule="evenodd"></path>
+                            <path d="M8.001,32 L8.001,20 L2.001,20 C0.896,20 0.001,20.896 0.001,22 L0.001,34 C0.001,35.104 0.896,36 2.001,36 L8.001,36 L8.001,32" id="Fill-477" fill="#30404D" fill-rule="evenodd"></path>
+                            <path d="M54.025,0 L52.001,0 C49.208,0.001 48.032,0.766 47.661,1.093 L31.732,14.169 C31.27,14.549 31.001,15.116 31.001,15.715 L31.001,40.285 C31.001,40.884 31.27,41.451 31.732,41.831 L47.611,54.865 C48.032,55.234 49.208,55.999 52.001,56 L54.025,56 C55.12,55.985 56.001,55.095 56.001,54 L56.001,2 C56.001,0.905 55.12,0.015 54.025,0" id="Fill-478" fill="#E1E4E1" fill-rule="evenodd"></path>
+                            <path d="M32.001,32 L32.001,42.052 L47.611,54.865 C48.032,55.234 49.208,55.999 52.001,56 L52.001,38 L32.001,32" id="Fill-479" fill="none"></path>
+                            <path d="M22.001,58 C22.001,59.1 21.101,60 20.001,60 L16.001,60 C14.901,60 14.001,59.1 14.001,58 L14.001,42 C14.001,40.9 14.901,40 16.001,40 L20.001,40 C21.101,40 22.001,40.9 22.001,42 L22.001,58" id="Fill-480" fill="#C5CCCD" fill-rule="evenodd"></path>
+                            <path d="M54.001,0 C52.896,0 52.001,0 52.001,0 L52.001,56 C52.001,56 52.896,56 54.001,56 C55.105,56 56.001,55.104 56.001,54 L56.001,2 C56.001,0.896 55.105,0 54.001,0" id="Fill-481" fill="#546670" fill-rule="evenodd"></path>
+                            <polygon id="Fill-482" fill="#182A37" fill-rule="evenodd" points="5.001 36 6.001 36 6.001 20 5.001 20"></polygon>
+                            <path d="M22.001,42 L22.001,48 C23.101,48 24.001,47.1 24.001,46 L24.001,42 L22.001,42" id="Fill-483" fill="#30404D" fill-rule="evenodd"></path>
+                            <polygon id="Fill-484" fill="#AAB0B1" fill-rule="evenodd" points="14.001 44 22.001 44 22.001 42 14.001 42"></polygon>
+                            <polygon id="Fill-485" fill="#182A37" fill-rule="evenodd" points="22.001 44 24.001 44 24.001 42 22.001 42"></polygon>
+                            <path d="M12.001,14 C8.692,14 6.001,16.691 6.001,20 L6.001,36 C6.001,39.309 8.692,42 12.001,42 L32.001,42 L32.001,14 L12.001,14" id="Fill-486" fill="#DF5142" fill-rule="evenodd"></path>
+                            <path d="M6.001,32 L6.001,36 C6.001,39.309 8.692,42 12.001,42 L32.001,42 L32.001,32 L6.001,32" id="Fill-487" fill="#C2423D" fill-rule="evenodd"></path>
+                            <g id="Dynamics-icon" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(36.062131, 17.500000)">
+                                <polygon id="Path" fill="#546670" points="0 20.2546066 4.0578 8.92976388 0 6.34350667"></polygon>
+                                <polygon id="Path" fill="#546670" points="12.8332 13.250241 12.8332 6.82077206 0 20.2546066"></polygon>
+                                <polygon id="Path" fill="#546670" points="0 0 0 5.42690039 8.3746 9.42103218 12.267 6.34214527"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Hex" stroke="#1D8E96" stroke-width="4">
+                    <path d="M45.5620146,3.25834407 L6.67338401,26.8942953 C3.79673288,28.6432593 2,31.9508238 2,35.5582677 L2,82.4417323 C2,86.0486597 3.79764663,89.3586805 6.67318764,91.1055853 L45.560618,114.742485 C46.9289662,115.572418 48.4546283,116 50,116 C51.5458817,116 53.0723633,115.572188 54.4362178,114.743457 L93.3268764,91.1055464 C96.2016145,89.3583456 98,86.0476286 98,82.4417323 L98,35.5582677 C98,31.9518547 96.202529,28.6435953 93.3268966,26.8944659 L54.4351916,3.25759524 C53.0721095,2.42798656 51.5462432,2 50,2 C48.4543284,2 46.9293388,2.42772325 45.5620146,3.25834407 Z M45.5620146,3.25834407 C45.5619597,3.25837737 45.5619049,3.25841067 45.5618501,3.25844398 L45.5621963,3.25823359 L45.5620146,3.25834407 Z" id="Azure-Hex-Border"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

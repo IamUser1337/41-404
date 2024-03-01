@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.change-behaviors.6-combine-formulas-single-statement
+title: Use controls and functions to create a dynamic formula
+metadata: 
+  title: Use controls and functions to create a dynamic formula
+  description: Use controls and functions to create a dynamic formula
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 8 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-combine-formulas-single-statement.md)] 
+

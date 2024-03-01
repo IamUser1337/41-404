@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-imperative-dev-techniques.6-additional-variables
+title: Additional variable concepts
+metadata:
+  title: Additional variable concepts
+  description: Learn about additional variable concepts.
+  ms.date: 12/1/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-additional-variables.md)]

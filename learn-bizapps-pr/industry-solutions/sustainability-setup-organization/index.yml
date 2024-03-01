@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.sustainability-setup-organization 
+metadata: 
+ title: Set up organization and reference data
+ description: Learn how to set up organization and reference data in Microsoft Cloud for Sustainability.
+ ms.date: 09/26/2023 
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Set up organization and reference data
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module will focus on how to set up the organization and reference data in Microsoft Cloud for Sustainability.   
+abstract: |  
+    In this module, you'll: 
+    - Review the company profile for Contoso Corp, add Wide World Importers to the organizational structure, and then add the two Florida facilities.
+    - Create reference data for contractual types.
+    - Create units with conversion factor.
+prerequisites: Microsoft Sustainability manager environment that's set up with sample data
+iconUrl: /learn/achievements/sustainability-setup-organization.svg  
+levels:  
+- intermediate  
+roles:  
+- business-user   
+- functional-consultant 
+- solution-architect
+products: 
+- industry-solutions 
+- mscloud-sustainability
+subjects: 
+- business-applications 
+units: 
+- learn-bizapps.sustainability-setup-organization.introduction 
+- learn-bizapps.sustainability-setup-organization.exercise-profile-data 
+- learn-bizapps.sustainability-setup-organization.check 
+- learn-bizapps.sustainability-setup-organization.summary 
+badge: 
+  uid: learn-bizapps.sustainability-setup-organization.badge 

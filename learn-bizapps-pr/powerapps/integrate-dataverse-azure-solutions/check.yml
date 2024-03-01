@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-dataverse-azure-solutions.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/28/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ ms.service: powerapps
+ ms.subservice: dataverse-developer
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is Microsoft's cloud-based messaging solution called?
+    choices:
+    - content: Event Grid
+      isCorrect: false
+      explanation: Microsoft's cloud-based messaging solution is Service Bus.
+    - content: Logic Apps
+      isCorrect: false
+      explanation: Microsoft's cloud-based messaging solution is Service Bus.
+    - content: Service Bus
+      isCorrect: true
+      explanation: Microsoft's cloud-based messaging solution is Service Bus.
+  - content: Dataverse can be configured to publish events directly to which Azure service?
+    choices:
+    - content: Event Grid
+      isCorrect: false
+      explanation: Dataverse can be configured to publish directly to Azure Service Bus.
+    - content: Service Bus
+      isCorrect: true
+      explanation: Dataverse can be configured to publish directly to Azure Service Bus.
+    - content: Logic Apps
+      isCorrect: false
+      explanation: Dataverse can be configured to publish directly to Azure Service Bus.
+  - content: What mechanism might you use to publish Microsoft Dataverse data directly to an Azure Function?
+    choices:
+    - content: Webhooks
+      isCorrect: true
+      explanation: Webhooks is used to publish Dataverse data directly to an Azure Function.
+    - content: Power Automate
+      isCorrect: false
+      explanation: Webhooks is used to publish Dataverse data directly to an Azure Function.
+    - content: Logic Apps
+      isCorrect: false
+      explanation: Webhooks is used to publish Dataverse data directly to an Azure Function.

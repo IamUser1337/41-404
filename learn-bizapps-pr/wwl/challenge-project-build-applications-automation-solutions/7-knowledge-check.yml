@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-build-applications-automation-solutions.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 06/29/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Which of the following is changeable after new Dataverse column is created?"
+    choices:
+    - content: "Display name"
+      isCorrect: true
+      explanation: "Correct. You can always change the display name as long as the column is customizable."
+    - content: "Data type"
+      isCorrect: false
+      explanation: "Incorrect. You can only pick a data type at column creation."
+    - content: "Name"
+      isCorrect: false
+      explanation: "Incorrect. You cannot change the column name after creating a Dataverse column."
+  - content: "If users need to see data rows that are created last week and owned by the user running the app in a canvas app gallery, what Dataverse feature would help implement the criteria?"
+    choices:
+    - content: "Column security profiles."
+      isCorrect: false
+      explanation: "Incorrect. Column security will help secure data from users without the need to view it."
+    - content: "Dataverse views."
+      isCorrect: true
+      explanation: "Correct. By defining the criteria in the Dataverse view, you can use this for several requirements, including filtering for the canvas app."
+    - content: "You can’t use Dataverse to limit what a canvas app user sees in a gallery."
+      isCorrect: false
+      explanation: "Incorrect. Dataverse and canvas app components such as a gallery are designed to work together."
+  - content: "To run a report when a scout report data row in Dataverse is updated as finalized, which type of flow is needed?"
+    choices:
+    - content: "Desktop flow."
+      isCorrect: false
+      explanation: "Incorrect. A desktop flow runs on the user’s desktop with programs that are installed."
+    - content: "Cloud flow."
+      isCorrect: true
+      explanation: "Correct. A cloud flow will run regardless of where the action occurs."
+    - content: "Business Process Flow."
+      isCorrect: false
+      explanation: "Incorrect. A business process flow helps guide users in the model-driven app."

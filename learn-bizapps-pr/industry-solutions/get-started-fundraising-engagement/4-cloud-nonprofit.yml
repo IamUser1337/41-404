@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-fundraising-engagement.4-cloud-nonprofit 
+title: Get introduced to the Microsoft Cloud for Nonprofit
+metadata: 
+  title: Get introduced to the Microsoft Cloud for Nonprofit
+  description: Learn about Microsoft Cloud for Nonprofit.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-cloud-nonprofit.md)] 

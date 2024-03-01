@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.5-knowledge-check
+metadata:
+  title: Work with external data knowledge check
+  description: Work with external data knowledge check
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Work with external data knowledge check
+  questions:
+  - content: Which control would you use to display a list of all the onboarding requests for an organization?
+    choices:
+    - content: Button
+      isCorrect: false
+      explanation: The Gallery control would be the control to use.
+    - content: Form
+      isCorrect: false
+      explanation: The Gallery control would be the control to use.
+    - content: Gallery
+      isCorrect: true
+      explanation: The Gallery control would be the control to use.
+    - content: Check box
+      isCorrect: false
+      explanation: The Gallery control would be the control to use.
+  - content: To store a table of data for temporary use in your app you can use which of the following functions?
+    choices:
+    - content: Collect
+      isCorrect: true
+      explanation: Collect can be used to store a table of data for temp use.
+    - content: TempTable
+      isCorrect: false
+      explanation: Collect can be used to store a table of data for temp use.
+    - content: Table
+      isCorrect: false
+      explanation: Collect can be used to store a table of data for temp use.
+    - content: None, you must always directly reference your data source.
+      isCorrect: false
+      explanation: Collect can be used to store a table of data for temp use.
+  - content: What types of data can you can connect to Power Apps?
+    choices:
+    - content: Office 365 Users
+      isCorrect: false
+      explanation: Not quite, Office 365 Users is an action-based data source, and this answer excludes Tabular data.
+    - content: Tabular data
+      isCorrect: false
+      explanation: Tabular data is a significant source, but don't forget action-based data.
+    - content: Tabular and action-based data
+      isCorrect: true
+      explanation: Yes! Tabular data includes one or more tables and action-based data includes actions.
+    - content: Action-based data
+      isCorrect: false
+      explanation: Almost. Action-based data is a data source, but so are tabular data sources.

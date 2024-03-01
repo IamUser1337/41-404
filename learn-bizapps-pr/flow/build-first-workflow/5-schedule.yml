@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-workflow.5-schedule
+title: Schedule a flow
+metadata:
+  title: Schedule a flow
+  description: Learn how to schedule a flow.
+  ms.date: 01/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-schedule.md)]

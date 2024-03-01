@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.build-desktop-flow
+title: Build a Desktop flow
+metadata:
+  title: Build a Desktop flow
+  description: "Introduction to the process of building a Power Automate desktop flow."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+  [!include[](includes/9-build-desktop-flow.md)]

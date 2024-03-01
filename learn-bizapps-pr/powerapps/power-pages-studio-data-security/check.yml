@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-studio-data-security.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What can you not manage using Data workspace in Power Pages design studio?
+    choices:
+    - content: Tables
+      isCorrect: false
+      explanation: With the Data workspace in Power Pages design studio you can create and edit tables for the site, and create new or edit existing forms and views.
+    - content: Relationships
+      isCorrect: true
+      explanation: With the Data workspace in Power Pages design studio you can create and edit tables for the site, and create new or edit existing forms and views.
+    - content: Views
+      isCorrect: false
+      explanation: With the Data workspace in Power Pages design studio you can create and edit tables for the site, and create new or edit existing forms and views.
+    - content: Forms
+      isCorrect: false
+      explanation: With the Data workspace in Power Pages design studio you can create and edit tables for the site, and create new or edit existing forms and views.
+  - content: When do Table permissions not apply in Power Pages? 
+    choices:
+    - content: In either list or form component
+      isCorrect: false
+      explanation: Table permissions govern data access when using forms, lists, Liquid, the Power Pages Web API, and other components accessing Dataverse tables. 
+    - content: In Liquid code
+      isCorrect: false
+      explanation: Table permissions govern data access when using forms, lists, Liquid, the Power Pages Web API, and other components accessing Dataverse tables.
+    - content: In Power Pages Web API
+      isCorrect: false
+      explanation: Table permissions govern data access when using forms, lists, Liquid, the Power Pages Web API, and other components accessing Dataverse tables.
+    - content: Table permissions apply to all data access methods
+      isCorrect: true
+      explanation: Table permissions govern data access when using forms, lists, Liquid, the Power Pages Web API, and other components accessing Dataverse tables.
+  - content: Which permissions can affect menu items visibility in the navigation? 
+    choices:
+    - content: Navigation permissions
+      isCorrect: false
+      explanation: By default, when page permissions block read access to a page for a site visitor, the page may be removed from the navigation.  
+    - content: Table permissions
+      isCorrect: false
+      explanation: By default, when page permissions block read access to a page for a site visitor, the page may be removed from the navigation. 
+    - content: Page permissions
+      isCorrect: true
+      explanation: By default, when page permissions block read access to a page for a site visitor, the page may be removed from the navigation. 
+    - content: Column permissions
+      isCorrect: false
+      explanation: By default, when page permissions block read access to a page for a site visitor, the page may be removed from the navigation. 

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-organize-fields.4-lab 
+title: Lab for organizing and simplifying fields
+metadata: 
+  title: Lab for organizing and simplifying fields
+  description: Learn how to perform steps in a lab to organize and clean up your data.
+  ms.date: 10/13/2023 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 15 
+labId: 92051
+labModal: true
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-lab.md)] 

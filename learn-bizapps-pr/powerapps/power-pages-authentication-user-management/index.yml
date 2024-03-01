@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-authentication-user-management 
+metadata: 
+  title: Authentication and user management in Power Pages
+  description: Learn how to authenticate with Power Pages.
+  ms.date: 05/08/2023
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: module
+  ms.service: power-pages  
+title: Authentication and user management in Power Pages
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
+  An external user might have several identities to choose from when registering and accessing a website. You can add website users in many ways, and several options are available to website users for validating their identities and maintaining their profiles. Microsoft Power Pages supports various authentication options and provides powerful user-management capabilities. Administrators can choose between using local authentication or delegating authentication to a trusted authentication provider. Power Pages supports multiple authentication providers and various industry standards.
+abstract: |  
+    In this module, you'll: 
+    - Explore common authentication tasks in a Power Pages website deployment.
+    - Learn about portal contact extensions.
+    - Set up and register contacts as portal users.
+    - Align portal authentication settings with business requirements.
+    - Identify authentication provider capabilities and steps that are involved in the registration.
+    - Select and set up identity providers.
+prerequisites: Basic understanding of how to navigate and customize model-driven apps and Power Pages. Basic knowledge of modern authentication concepts would be beneficial.
+iconUrl: /training/achievements/power-pages-authentication-user-management.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- functional-consultant
+- administrator
+products:  
+- power-platform  
+- power-pages
+subjects:
+- identity-access
+units:
+- learn-bizapps.power-pages-authentication-user-management.introduction 
+- learn-bizapps.power-pages-authentication-user-management.authentication-settings 
+- learn-bizapps.power-pages-authentication-user-management.user-registration 
+- learn-bizapps.power-pages-authentication-user-management.authentication-management 
+- learn-bizapps.power-pages-authentication-user-management.authentication-providers 
+- learn-bizapps.power-pages-authentication-user-management.exercise 
+- learn-bizapps.power-pages-authentication-user-management.check 
+- learn-bizapps.power-pages-authentication-user-management.summary 
+badge: 
+  uid: learn-bizapps.power-pages-authentication-user-management.badge

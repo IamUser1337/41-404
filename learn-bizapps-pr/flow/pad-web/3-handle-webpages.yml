@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-web.3-handle-webpages
+title: Handle web pages and forms
+metadata:
+  title: Handle web pages and forms
+  description: Handle web pages and forms
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 18
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-handle-webpages.md)]

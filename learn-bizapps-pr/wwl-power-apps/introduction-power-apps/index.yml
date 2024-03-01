@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.wwl.introduction-power-apps
+metadata:
+  title: Describe how to build applications with Microsoft Power Apps
+  description: "In this module, learners will be introduced to Microsoft Power Apps and how to build both canvas and model-driven apps."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.service: powerapps
+title: Describe how to build applications with Microsoft Power Apps
+summary: |
+  Learn about the value and capabilities of Microsoft Power Apps and ways citizen and professional developers use this technology to build simple applications for their business.
+  [!INCLUDE [](../../includes/wwl/ai-contribution-notes.md)]
+abstract: |
+  In this module, we will:
+  - Examine Power Apps.
+  - Explore canvas applications.
+  - Explore model-driven applications.
+  - Differentiate between canvas and model-driven applications.
+  - Build a basic canvas app.
+  - Build a basic model-driven app.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-power-apps.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- functional-consultant
+products:
+- power-platform
+subjects:
+- productivity
+units:
+- learn-bizapps.wwl.introduction-power-apps.introduction
+- learn-bizapps.wwl.introduction-power-apps.power-platform-you
+- learn-bizapps.wwl.introduction-power-apps.explore-canvas-applications
+- learn-bizapps.wwl.introduction-power-apps.explore-model-driven-applications
+- learn-bizapps.wwl.introduction-power-apps.differentiate-between-canvas-apps-model-driven-apps
+- learn-bizapps.wwl.introduction-power-apps.build-basic-canvas-app
+- learn-bizapps.wwl.introduction-power-apps.exercise-build-canvas-app
+- learn-bizapps.wwl.introduction-power-apps.build-basic-model-driven-app
+- learn-bizapps.wwl.introduction-power-apps.exercise-build-basic-model-driven-app
+- learn-bizapps.wwl.introduction-power-apps.knowledge-check
+- learn-bizapps.wwl.introduction-power-apps.summary-resources
+badge:
+  uid: learn-bizapps.wwl.introduction-power-apps.badge

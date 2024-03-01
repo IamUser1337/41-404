@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-conditionals
+metadata: 
+ title: Adjust process behavior using conditional actions with Power Automate for desktop
+ description: Learn how to use conditional actions to configure a flow to vary behavior at runtime-based information in the environment.
+ ms.date: 10/01/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ 
+title: Adjust process behavior using conditional actions with Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Conditional actions allow you to modify flow actions at runtime, based on information available in the environment.
+abstract: |  
+    In this module, you will: 
+    - Use "If" conditionals
+    - Deploy "Switch" conditionals in order to compare a single variable with multiple possible values
+    - Explore additional options when evaluating conditions
+    - Provide default and alternative behaviors for flows based on the environment data
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
+iconUrl: /training/achievements/pad-conditionals.svg  
+levels:
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant
+products:  
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-conditionals.1-introduction 
+- learn-bizapps.pad-conditionals.2-conditional-actions 
+- learn-bizapps.pad-conditionals.3-if-group-actions 
+- learn-bizapps.pad-conditionals.4-exercise-if-group-actions 
+- learn-bizapps.pad-conditionals.5-switch-group-actions 
+- learn-bizapps.pad-conditionals.6-check 
+- learn-bizapps.pad-conditionals.7-summary 
+badge: 
+  uid: learn-bizapps.pad-conditionals.badge

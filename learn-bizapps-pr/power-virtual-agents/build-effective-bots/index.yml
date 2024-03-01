@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.build-effective-bots
+metadata:
+ title: Build effective copilots with Microsoft Copilot Studio
+ description: Learn the techniques and best practices that help to create copilots that users want to interact with.
+ ms.date: 04/11/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: copilot-studio
+title: Build effective copilots with Microsoft Copilot Studio
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you'll learn about some design principles and best practices that you can use when designing copilots with Microsoft Copilot Studio.
+abstract: |
+    In this module, you'll:
+    - Examine techniques for planning copilots.
+    - Explore design elements for creating successful copilots.
+    - Review the different conversation types and why they're important.
+    - Examine best practices for creating good trigger phrases.
+    - Explore different techniques for building conversational copilots.
+    - Review how to use analytics to improve your copilot performance.
+prerequisites: None
+iconUrl: /learn/achievements/build-effective-bots.svg
+levels:
+- intermediate
+roles:
+- maker
+- business-user
+products:
+- ms-copilot
+- power-apps
+subjects:
+- chatbot
+units:
+- learn-bizapps.build-effective-bots.introduction
+- learn-bizapps.build-effective-bots.use-cases
+- learn-bizapps.build-effective-bots.planning
+- learn-bizapps.build-effective-bots.topics
+- learn-bizapps.build-effective-bots.design
+- learn-bizapps.build-effective-bots.build
+- learn-bizapps.build-effective-bots.conversational
+- learn-bizapps.build-effective-bots.analytics
+- learn-bizapps.build-effective-bots.check
+- learn-bizapps.build-effective-bots.summary
+badge:
+  uid: learn-bizapps.build-effective-bots.badge

@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.improve-app-performance
+metadata:
+  title: View, troubleshoot, and improve app performance for Power Apps canvas apps
+  description: Do you want to know how your app is performing and how to make it better? This learning path will help you identify your apps performance and share ways to troubleshoot your Power Apps canvas app. 
+  ms.date: 12/1/2021
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: learning-path
+title: View, troubleshoot, and improve app performance for Power Apps canvas apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Do you want to know how your app is performing and how to make it better? This learning path will help you identify your apps performance and share ways to troubleshoot your Power Apps canvas app.
+prerequisites: A basic understanding of Microsoft Power Apps.
+iconUrl: /training/achievements/improve-performance.svg
+levels:
+- intermediate
+roles: 
+- maker
+products:
+- power-apps 
+- power-platform
+- dataverse
+- azure-monitor
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.testing-performance-checks
+- learn-bizapps.monitor-to-troubleshoot
+- learn-bizapps.optimize-app-load-time
+- learn-bizapps.instrumentation-app-insights
+trophy: 
+  uid: learn-bizapps.improve-performance-social.trophy

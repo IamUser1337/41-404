@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.install-required-software-online-workshop.install-app
+title: Install the Coffee Shop Contoso invoice app (for lab scenario use)
+metadata:
+  title: Install the Coffee Shop Contoso invoice app (for lab scenario use)
+  description: Learn how to install the Coffee Shop Contoso invoice app.
+  ms.date: 11/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/install-app.md)]

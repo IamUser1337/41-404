@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-admin-intro.setup 
+title: Set up workspace in Power Pages design studio
+metadata: 
+  title: Set up workspace in Power Pages design studio
+  description: Learn about the Set up workspace in Power Pages design studio.   
+  ms.date: 10/12/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/setup.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-scenarios.notify-confirm
+title: Scenario - Notify and confirm
+metadata:
+  title: Scenario - Notify and confirm
+  description: Learn about using logic in a command button to notify or confirm to the user that their action completed.
+  ms.date: 12/22/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/notify-confirm.md)]

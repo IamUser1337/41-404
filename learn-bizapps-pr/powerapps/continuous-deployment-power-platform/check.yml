@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.continuous-deployment-power-platform.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/06/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What does the continuous delivery process include?
+    choices:
+    - content: Build, test, configure, evaluate
+      isCorrect: false
+      explanation: Incorrect. This option isn't the continuous delivery process.
+    - content: Plan, test, configure, evaluate
+      isCorrect: false
+      explanation: Incorrect. This option isn't the continuous delivery process.
+    - content: Plan, test, configure, deploy
+      isCorrect: false
+      explanation: Incorrect. This option isn't the continuous delivery process.
+    - content: Build, test, set up, deploy
+      isCorrect: true
+      explanation: Correct. Continuous delivery is the process of building, testing, setting up, and deploying from a build to a production environment.
+  - content: What is the goal of continuous deployment?
+    choices:
+    - content: To keep production fresh by reducing resistance in your development and deployment life cycle
+      isCorrect: true
+      explanation: Correct. The goal of continuous deployment is to keep production fresh by reducing resistance in your development and deployment life cycle.
+    - content: To decrease pain points and focus on KPIs in your development and deployment life cycle
+      isCorrect: false
+      explanation: Incorrect. The goal of continuous deployment is broader than this answer.
+    - content: To keep production fresh by increasing productivity in your development and deployment life cycle
+      isCorrect: false
+      explanation: Incorrect. Though some of this statement is true, it isn't the correct answer.
+  - content: How many deployment steps are automated with continuous deployment?
+    choices:
+    - content: None
+      isCorrect: false
+      explanation: Incorrect. Continuous deployment can automate deployment steps.
+    - content: Developer team decides
+      isCorrect: false
+      explanation: Incorrect. This process would be a manual, more traditional process.
+    - content: All steps
+      isCorrect: true
+      explanation: Correct. With continuous deployment, because all deployment steps are automated, deploying to production is a relatively low-stress activity. 

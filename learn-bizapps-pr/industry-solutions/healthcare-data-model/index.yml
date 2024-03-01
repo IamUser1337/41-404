@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.healthcare-data-model
+metadata:
+ title: Microsoft Cloud for Healthcare data model for Dataverse
+ description: This module describes the healthcare data model that Microsoft Cloud for Healthcare solutions include. The healthcare data model for Microsoft Dynamics 365 is based on the Fast Healthcare Interoperability Resources (FHIR) standards framework.
+ ms.date: 11/02/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Microsoft Cloud for Healthcare data model for Dataverse
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module describes the healthcare data model Microsoft Cloud for Healthcare solutions include. The healthcare data model for Microsoft Dynamics 365 is based on the Fast Healthcare Interoperability Resources (FHIR) standards framework.
+abstract: |
+    This module explains the following concepts:
+    - Common Data Model
+    - Microsoft Cloud for Healthcare data model
+    - Common Data Model extensibility
+prerequisites: None
+iconUrl: /training/achievements/healthcare-data-model.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+- data-modeling
+units:
+- learn-bizapps.healthcare-data-model.1-introduction
+- learn-bizapps.healthcare-data-model.2-common-data-model
+- learn-bizapps.healthcare-data-model.3-healthcare-data-model
+- learn-bizapps.healthcare-data-model.4-data-model-extensibility
+- learn-bizapps.healthcare-data-model.5-check
+- learn-bizapps.healthcare-data-model.6-summary
+badge:
+  uid: learn-bizapps.healthcare-data-model.badge

@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.use-word-excel-dataverse 
+metadata: 
+ title: Use Microsoft Word and Excel templates with Dataverse
+ description: Explore how you can create data analysis and standardized documents by using Microsoft Dataverse data along with Microsoft Word and Excel templates.
+ ms.date: 08/31/2023  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+title: Use Microsoft Word and Excel templates with Dataverse
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Explore how you can create data analysis and standardized documents by using Microsoft Dataverse data along with Microsoft Word and Excel templates.
+abstract: |  
+    In this module, you'll: 
+    - Learn how to use Word templates with Dataverse data. 
+    - Learn how to use Excel templates with Dataverse data. 
+prerequisites: |   
+    - A Power Apps license
+    - Access to Microsoft Dataverse
+    - Access to Microsoft Excel
+    - Access to Microsoft Word
+    - Access to OneDrive for Business
+    - A basic understanding of what a database is and its role within a software solution
+iconUrl: /learn/achievements/use-word-excel-dataverse.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant
+products: 
+- power-apps
+- power-platform
+- dataverse 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.use-word-excel-dataverse.introduction 
+- learn-bizapps.use-word-excel-dataverse.create-document 
+- learn-bizapps.use-word-excel-dataverse.exercise-create-work-order 
+- learn-bizapps.use-word-excel-dataverse.create-spreadsheet 
+- learn-bizapps.use-word-excel-dataverse.exercise-create-sales-forecast 
+- learn-bizapps.use-word-excel-dataverse.check 
+- learn-bizapps.use-word-excel-dataverse.summary 
+badge: 
+  uid: learn-bizapps.use-word-excel-dataverse.badge 

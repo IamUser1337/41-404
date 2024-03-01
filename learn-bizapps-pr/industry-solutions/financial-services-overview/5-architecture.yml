@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.financial-services-overview.5-architecture 
+title: Architecture
+metadata: 
+  title: Architecture
+  description: Learn about Microsoft Cloud for Financial Services architecture.
+  ms.date: 01/31/2024 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok  
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-architecture.md)] 

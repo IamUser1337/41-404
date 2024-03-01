@@ -1,0 +1,685 @@
+### YamlMime:Achievements
+achievements:
+- uid: learn-bizapps.dataverse-triggers-actions.badge
+  type: badge
+  title: Use Dataverse triggers and actions in Power Automate
+  summary: This module introduces the triggers and actions that you can use to build flows in Power Automate with Dataverse. 
+  iconUrl: /training/achievements/dataverse-triggers-actions.svg  
+- uid: learn-bizapps.retail-teams-commerce-integration.badge
+  type: badge
+  title: Microsoft Teams integration with Dynamics 365 Commerce
+  summary: With retail workforce management, you can manage shifts seamlessly, connect to your existing workforce, simplify task dissemination, and help your team complete tasks more easily.
+  iconUrl: /training/achievements/retail-teams-commerce-integration.svg
+- uid: learn-bizapps.retail-intelligent-order-management.badge
+  type: badge
+  title: Intelligent Order Management for Microsoft Cloud for Retail
+  summary: The Flexible fulfillment capability in the Build a real-time sustainable supply chain priority scenario helps retailers optimize order management while giving their customers multiple options to engage across several channels.
+  iconUrl: /training/achievements/retail-intelligent-order-management.svg
+- uid: learn-bizapps.finance-unified-customer-profile.badge
+  type: badge
+  title: Gain customer insight with Unified customer profile in Financial Services
+  summary: Explores the Unified customer profile application
+  iconUrl: /training/achievements/finance-unified-customer-profile.svg
+- uid: learn-bizapps.financial-services-data-model.badge
+  type: badge
+  title: Financial Services data model in Microsoft Cloud for Financial Services
+  summary: Financial Services data model in Microsoft Cloud for Financial Services
+  iconUrl: /training/achievements/financial-services-data-model.svg
+- uid: learn-bizapps.financial-services-intelligent-appointments.badge
+  type: badge
+  title: Set up Intelligent Appointments in Microsoft Cloud for Financial Services
+  summary: Set up Intelligent Appointments in Microsoft Cloud for Financial Services
+  iconUrl: /learn/achievements/financial-services-intelligent-appointments.svg
+- uid: learn-bizapps.financial-wealth-management.badge
+  type: badge
+  title: Wealth management in Microsoft Cloud for Financial Services
+  summary: Wealth management in Microsoft Cloud for Financial Services
+  iconUrl: /learn/achievements/financial-wealth-management.svg
+- uid: learn-bizapps.financial-training-environment-preparation.badge
+  type: badge
+  title: Financial Services training environment preparation
+  summary: Financial Services training environment preparations
+  iconUrl: /training/achievements/financial-training-environment-preparation.svg
+- uid: learn-bizapps.financial-services-customer-onboarding.badge
+  type: badge
+  title: Customer onboarding in Microsoft Cloud for Financial Services
+  summary: Customer onboarding process within Microsoft Cloud for Financial Services  
+  iconUrl: /training/achievements/financial-services-customer-onboarding.svg
+- uid: learn-bizapps.financial-services-collaboration-manager.badge
+  type: badge
+  title: Set up Collaboration Manager for Loans in Microsoft Cloud
+  summary: Set up Collaboration Manager for Loans in Microsoft Cloud for Financial Services 
+  iconUrl: /training/achievements/financial-services-collaboration-manager.svg
+- uid: learn-bizapps.financial-services-customer-intelligence.badge
+  type: badge
+  title: Customer intelligence in Microsoft Cloud for Financial Services
+  summary: Learn about Customer intelligence in Microsoft Cloud for Financial Services.
+  iconUrl: /training/achievements/financial-services-customer-intelligence.svg
+- uid: learn-bizapps.component-framework-advanced-topics.badge
+  type: badge
+  title: Use advanced features with Power Apps component framework
+  summary: Use advanced features with Power Apps component framework
+  iconUrl: /training/achievements/component-framework-advanced-topics.svg
+- uid: learn-bizapps.build-power-app-component.badge
+  type: badge
+  title: Build a Power Apps component
+  summary: Build a Power Apps component
+  iconUrl: /training/achievements/build-power-app-component.svg
+- uid: learn-bizapps.common-actions-client-script-power-platform.badge
+  type: badge
+  title: Perform common actions with client script in Power Platform
+  summary: Perform common actions with client script in Power Platform
+  iconUrl: /training/achievements/common-actions-client-script-power-platform.svg
+- uid: learn-bizapps.get-started-component-framework.badge
+  type: badge
+  title: Get started with Power Apps component framework
+  summary: Get started with Power Apps component framework
+  iconUrl: /training/achievements/get-started-component-framework.svg
+- uid: learn-bizapps.extend-power-platform-model-driven-apps.trophy
+  type: trophy
+  title: Extend Power Platform user experience with model-driven apps
+  summary: Extend Power Platform user experience with model-driven apps
+  iconUrl: /training/achievements/extend-power-platform-model-driven-apps.svg
+- uid: learn-bizapps.use-power-apps-component-framework.trophy
+  type: trophy
+  title: Create components with Power Apps Component Framework
+  summary: Create components with Power Apps Component Framework
+  iconUrl: /training/achievements/use-power-apps-component-framework.svg
+- uid: learn-bizapps.integrate-power-platform.trophy
+  type: trophy
+  title: Integrate with Power Platform and Dataverse
+  summary: Integrate with Power Platform and Dataverse
+  iconUrl: /learn/achievements/integrate-power-platform.svg
+- uid: learn-bizapps.introduction-developing-power-platform.badge
+  type: badge
+  title: Introduction to Microsoft Power Platform developer resources
+  summary: Introduction to Microsoft Power Platform developer resources
+  iconUrl: /training/achievements/introduction-developing-power-platform.svg 
+- uid: learn-bizapps.introduction-power-platform-extensibility-model.badge 
+  type: badge
+  title: Introduction to extending Power Platform
+  summary: Introduction to extending Power Platform
+  iconUrl: /training/achievements/introduction-power-platform-extensibility-model.svg  
+- uid: learn-bizapps.use-developer-tools-extend.badge 
+  type: badge
+  title: Use developer tools to extend Power Platform
+  summary: Use developer tools to extend Power Platform
+  iconUrl: /training/achievements/use-developer-tools-extend.svg
+- uid: learn-bizapps.add-business-process-flow.badge
+  type: badge
+  title: Add a business process flow inside the model-driven app
+  summary: Add a business process flow inside the model-driven app
+  iconUrl: /training/achievements/add-business-process-flow.svg
+- uid: learn-bizapps.gateway-desktop-flow.badge
+  type: badge
+  title: Connect a cloud flow to desktop flows in Power Automate for desktop
+  summary: Connect a cloud flow to desktop flows in Power Automate for desktop
+  iconUrl: /training/achievements/gateway-desktop-flow.svg
+- uid: learn-bizapps.power-virtual-agents-build-chatbot-workshop.badge
+  type: badge
+  title: Build chatbots in Power Virtual Agents - Online workshop
+  summary: Build chatbots in Power Virtual Agents - Online workshop
+  iconUrl: /training/achievements/power-virtual-agents-build-chatbot-workshop.svg
+- uid: learn-bizapps.improve-chatbot-workshop.badge
+  type: badge
+  title: Improve your Power Virtual Agents chatbot - Online workshop
+  summary: Improve your Power Virtual Agents chatbot - Online workshop
+  iconUrl: /training/achievements/improve-chatbot-workshop.svg
+- uid: learn-bizapps.use-power-automate-power-virtual-agents-online-workshop.badge
+  type: badge
+  title: Use Power Automate in Power Virtual Agents - Online workshop
+  summary: Use Power Automate in Power Virtual Agents - Online workshop
+  iconUrl: /training/achievements/use-power-automate-power-virtual-agents-online-workshop.svg
+- uid: learn-bizapps.authentication-solutions-online-workshop.badge
+  type: badge
+  title: Authentication and solutions in Power Virtual Agents - Online workshop
+  summary: Authentication and solutions in Power Virtual Agents - Online workshop
+  iconUrl: /training/achievements/authentication-solutions-online-workshop.svg
+- uid: learn-bizapps.chatbots-teams-online-workshop.badge
+  type: badge
+  title: Chatbots in Microsoft Teams - Online workshop
+  summary: Chatbots in Microsoft Teams - Online workshop
+  iconUrl: /training/achievements/chatbots-teams-online-workshop.svg
+- uid: learn.wwl.introduction-to-power-apps-portals.badge
+  type: badge
+  title: Introduction to Power Apps portals
+  summary: Introduction to Power Apps portals
+  iconUrl: /training/achievements/introduction-to-power-apps-portals.svg
+- uid: learn-bizapps.build-user-experience-portals.badge
+  type: badge
+  title: Build user experience in Power Apps portals
+  summary: Build user experience in Power Apps portals
+  iconUrl: /training/achievements/build-user-experience-portals.svg
+- uid: learn-bizapps.configure-security.badge
+  type: badge
+  title: Configure Power Apps portals security
+  summary: Configure Power Apps portals security
+  iconUrl: /training/achievements/configure-security.svg
+- uid: learn-bizapps.liquid-template-language.badge
+  type: badge
+  title: Work with Liquid template language in Power Apps portals
+  summary: Work with Liquid template language in Power Apps portals
+  iconUrl: /training/achievements/liquid-template-language.svg
+- uid: learn-bizapps.integrate-common-data-service.badge
+  type: badge
+  title: Integrate Power Apps portals with Dataverse
+  summary: Integrate Power Apps portals with Dataverse
+  iconUrl: /training/achievements/integrate-common-data-service.svg
+- uid: learn-bizapps.portals-metadata.badge
+  type: badge
+  title: Work with Power Apps portals metadata
+  summary: Work with Power Apps portals metadata
+  iconUrl: /training/achievements/portals-metadata.svg
+- uid: learn-bizapps.work-power-apps-portals.trophy
+  type: trophy
+  title: Work with Power Apps portals
+  summary: Work with Power Apps portals
+  iconUrl: /training/achievements/work-power-apps-portals.svg
+- uid: learn-bizapps.active-directory.badge
+  type: badge
+  title: Active Directory handling in WinAutomation
+  summary: Active Directory handling in WinAutomation
+  iconUrl: /training/achievements/active-directory.svg
+- uid: learn-bizapps.automating-email-handling.badge
+  type: badge
+  title: Automating email handling in WinAutomation
+  summary: Automating email handling in WinAutomation
+  iconUrl: /training/achievements/automating-email-handling.svg
+- uid: learn-bizapps.conditionals.badge
+  type: badge
+  title: Adjust process behavior using conditional actions with WinAutomation
+  summary: Adjust process behavior using conditional actions with WinAutomation
+  iconUrl: /training/achievements/conditionals.svg
+- uid: learn-bizapps.database-handling.badge
+  type: badge
+  title: Database handling in WinAutomation
+  summary: Database handling in WinAutomation
+  iconUrl: /training/achievements/database-handling.svg
+- uid: learn-bizapps.exceptions-handling.badge
+  type: badge
+  title: Configure exception and error handling in WinAutomation
+  summary: Configure exception and error handling in WinAutomation
+  iconUrl: /training/achievements/exceptions-handling.svg
+- uid: learn-bizapps.excel-automation.badge
+  type: badge
+  title: Excel automation in WinAutomation
+  summary: Excel automation in WinAutomation
+  iconUrl: /training/achievements/excel-automation.svg
+- uid: learn-bizapps.files-folders-handling.badge
+  type: badge
+  title: Control file and folder handling in WinAutomation
+  summary: Control file and folder handling in WinAutomation
+  iconUrl: /training/achievements/files-folders-handling.svg
+- uid: learn-bizapps.first-steps-winautomation.badge
+  type: badge
+  title: Take your first steps with WinAutomation
+  summary: Take your first steps with WinAutomation
+  iconUrl: /training/achievements/first-steps-winautomation.svg
+- uid: learn-bizapps.flow-control.badge
+  type: badge
+  title: Configure flow control in WinAutomation
+  summary: Configure flow control in WinAutomation
+  iconUrl: /training/achievements/flow-control.svg
+- uid: learn-bizapps.introduction-winautomation.badge
+  type: badge
+  title: Introduction to WinAutomation
+  summary: Introduction to WinAutomation
+  iconUrl: /training/achievements/introduction-winautomation.svg
+- uid: learn-bizapps.loops.badge
+  type: badge
+  title: Automate repetitive tasks using loops in WinAutomation
+  summary: Automate repetitive tasks using loops in WinAutomation
+  iconUrl: /training/achievements/loops.svg
+- uid: learn-bizapps.message-boxes.badge
+  type: badge
+  title: Communicate using message boxes in WinAutomation processes
+  summary: Communicate using message boxes in WinAutomation processes
+  iconUrl: /training/achievements/message-boxes.svg
+- uid: learn-bizapps.mouse-keyboard.badge
+  type: badge
+  title: Simulate mouse and keyboard actions by using WinAutomation
+  summary: Simulate mouse and keyboard actions by using WinAutomation
+  iconUrl: /training/achievements/mouse-keyboard.svg
+- uid: learn-bizapps.ocr-technologies.badge
+  type: badge
+  title: OCR technologies in WinAutomation
+  summary: OCR technologies in WinAutomation
+  iconUrl: /training/achievements/ocr-technologies.svg
+- uid: learn-bizapps.process-monitoring-auditing.badge
+  type: badge
+  title: Process monitoring and auditing with WinAutomation
+  summary: Process monitoring and auditing with WinAutomation
+  iconUrl: /training/achievements/process-monitoring-auditing.svg
+- uid: learn-bizapps.process-properties.badge
+  type: badge
+  title: Configuring process properties in WinAutomation
+  summary: Configuring process properties in WinAutomation
+  iconUrl: /training/achievements/process-properties.svg
+- uid: learn-bizapps.winautomation-execution-essentials.badge
+  type: badge
+  title: Run WinAutomation processes
+  summary: Run WinAutomation processes
+  iconUrl: /training/achievements/winautomation-execution-essentials.svg
+- uid: learn-bizapps.scripting.badge
+  type: badge
+  title: Scripting in WinAutomation
+  summary: Scripting in WinAutomation
+  iconUrl: /training/achievements/scripting.svg
+- uid: learn-bizapps.sync-actions.badge
+  type: badge
+  title: Synchronization actions in WinAutomation
+  summary: Synchronization actions in WinAutomation
+  iconUrl: /training/achievements/sync-actions.svg
+- uid: learn-bizapps.system-services-actions.badge
+  type: badge
+  title: Automate system and services actions in WinAutomation
+  summary: Automate system and services actions in WinAutomation
+  iconUrl: /training/achievements/system-services-actions.svg
+- uid: learn-bizapps.text-manipulation.badge
+  type: badge
+  title: Text manipulation in WinAutomation
+  summary: Text manipulation in WinAutomation
+  iconUrl: /training/achievements/text-manipulation.svg
+- uid: learn-bizapps.ui-automation.badge
+  type: badge
+  title: Use WinAutomation to interact with windows and applications
+  summary: Use WinAutomation to interact with windows and applications
+  iconUrl: /training/achievements/ui-automation.svg
+- uid: learn-bizapps.using-repositories.badge
+  type: badge
+  title: Using repositories in WinAutomation
+  summary: Using repositories in WinAutomation
+  iconUrl: /training/achievements/using-repositories.svg
+- uid: learn-bizapps.web-automation.badge
+  type: badge
+  title: Web automation in WinAutomation
+  summary: Web automation in WinAutomation
+  iconUrl: /training/achievements/web-automation.svg
+- uid: learn-bizapps.winautomation-development-essentials.badge
+  type: badge
+  title: WinAutomation development essentials
+  summary: WinAutomation development essentials
+  iconUrl: /training/achievements/winautomation-development-essentials.svg
+- uid: learn-bizapps.winautomation-options.badge
+  type: badge
+  title: Configure WinAutomation options
+  summary: Configure WinAutomation options
+  iconUrl: /training/achievements/winautomation-options.svg
+- uid: learn-bizapps.winautomation-power-automate.badge
+  type: badge
+  title: Combine WinAutomation and Power Automate
+  summary: Combine WinAutomation and Power Automate
+  iconUrl: /training/achievements/winautomation-power-automate.svg
+- uid: learn-bizapps.winautomation-recording-features.badge
+  type: badge
+  title: Generate WinAutomation processes by recording
+  summary: Generate WinAutomation processes by recording
+  iconUrl: /training/achievements/winautomation-recording-features.svg
+- uid: learn-bizapps.winautomation-variables.badge
+  type: badge
+  title: Handle variables in WinAutomation
+  summary: Handle variables in WinAutomation
+  iconUrl: /training/achievements/winautomation-variables.svg
+- uid: learn-bizapps.advanced-winautomation.trophy
+  type: trophy
+  title: Build expertise with WinAutomation
+  summary: Build expertise with WinAutomation
+  iconUrl: /training/achievements/advanced-winautomation.svg
+- uid: learn-bizapps.get-started-winautomation.trophy
+  type: trophy
+  title: Get started with WinAutomation
+  summary: Get started with WinAutomation
+  iconUrl: /training/achievements/get-started-winautomation.svg
+- uid: learn-bizapps.implement-logic-winautomation.trophy
+  type: trophy
+  title: Implement advanced logic in WinAutomation
+  summary: Implement advanced logic in WinAutomation
+  iconUrl: /training/achievements/implement-logic-winautomation.svg
+- uid: learn-bizapps.work-winautomation-technology.trophy
+  type: trophy
+  title: Work with different technologies in WinAutomation
+  summary: Work with different technologies in WinAutomation
+  iconUrl: /training/achievements/work-winautomation-technology.svg
+- uid: learn-bizapps.work-with-winautomation.trophy
+  type: trophy
+  title: Work with WinAutomation
+  summary: Work with WinAutomation
+  iconUrl: /training/achievements/work-with-winautomation.svg
+- uid: learn-bizapps.portal-custom-web.badge
+  type: badge
+  title: Build custom Power Apps portals web templates
+  summary: Build custom Power Apps portals web templates
+  iconUrl: /training/achievements/portal-custom-web.svg  
+- uid: learn-bizapps.extend-power-app-portals.badge
+  type: badge
+  title: Extend Power Apps portals
+  summary: Extend Power Apps portals
+  iconUrl: /training/achievements/extend-power-app-portals.svg  
+- uid: learn-bizapps.portals-access-common-data-service.badge
+  type: badge
+  title: Access Dataverse in Power Apps portals 
+  summary: Access Dataverse in Power Apps portals 
+  iconUrl: /training/achievements/portals-access-common-data-service.svg   
+- uid: learn-bizapps.extend-power-apps-portals.trophy
+  type: trophy
+  title: Extend Power Apps portals
+  summary: Extend Power Apps portals
+  iconUrl: /training/achievements/extend-power-apps-portals.svg
+- uid: learn-bizapps.portals-maintenance-troubleshooting.badge
+  type: badge
+  title: Power Apps portals maintenance and troubleshooting
+  summary: Power Apps portals maintenance and troubleshooting
+  iconUrl: /training/achievements/portals-maintenance-troubleshooting.svg   
+- uid: learn-bizapps.authentication-user-management.badge
+  type: badge
+  title: Authentication and user management in Power Apps portals
+  summary: Authentication and user management in Power Apps portals
+  iconUrl: /training/achievements/authentication-user-management.svg  
+- uid: learn-bizapps.portals-integration.badge
+  type: badge
+  title: Integrate Power Apps portals with web-based technologies
+  summary: Integrate Power Apps portals with web-based technologies
+  iconUrl: /training/achievements/portals-integration.svg 
+- uid: learn-bizapps.portals-administration.badge
+  type: badge
+  title: Power Apps portals administration
+  summary: Power Apps portals administration
+  iconUrl: /training/achievements/portals-administration.svg  
+- uid: learn-bizapps.administer-power-apps-portals.trophy
+  type: trophy
+  title: Administer Power Apps portals
+  summary: Administer Power Apps portals
+  iconUrl: /training/achievements/administer-power-apps-portals.svg
+- uid: learn-bizapps.return-school.badge
+  type: badge
+  title: Get started with the Return to School solution 
+  summary: Get started with the Return to School solution 
+  iconUrl: /training/achievements/return-school.svg 
+- uid: learn-bizapps.introduction-return-workplace-solution.badge
+  type: badge
+  title: Get started with the Return to the Workplace solution
+  summary: Get started with the Return to the Workplace solution
+  iconUrl: /training/achievements/introduction-return-workplace-solution.svg  
+- uid: learn-bizapps.return-work-school.trophy
+  type: trophy
+  title: Safely return to school and the workplace using solutions
+  summary: Safely return to school and the workplace using solutions
+  iconUrl: /training/achievements/return-work-school.svg
+- uid: learn-bizapps.cloud-retail-get-started.badge
+  type: badge
+  title: Explore Microsoft Cloud for Retail 
+  summary: Explore Microsoft Cloud for Retail
+  iconUrl: /training/achievements/cloud-retail-get-started.svg
+- uid: learn-bizapps.power-pages-explore.badge
+  type: badge
+  title: Explore Power Pages
+  summary: Explore Power Pages
+  iconUrl: /training/achievements/power-pages-explore.svg
+- uid: learn-bizapps.explore-portals-studio.badge
+  type: badge
+  title: Explore Power Apps portals Studio
+  summary: Explore Power Apps portals Studio
+  iconUrl: /training/achievements/explore-portals-studio.svg
+- uid: learn-bizapps.portals-architecture.badge
+  type: badge
+  title: Power Apps portals architecture
+  summary: Power Apps portals architecture
+  iconUrl: /training/achievements/portals-architecture.svg
+- uid: learn-bizapps.portal-features.badge
+  type: badge
+  title: Discover Power Apps portals features
+  summary: Discover Power Apps portals features
+  iconUrl: /training/achievements/portal-features.svg
+- uid: learn-bizapps.explore-portals.badge
+  type: badge
+  title: Explore Power Apps portals
+  summary: Explore Power Apps portals
+  iconUrl: /training/achievements/explore-portals.svg
+- uid: learn-bizapps.intro-portals.badge
+  type: badge
+  title: Core components of Power Apps portals
+  summary: Core components of Power Apps portals
+  iconUrl: /training/achievements/intro-portals.svg
+- uid: learn-bizapps.get-started-power-apps-portals.trophy
+  type: trophy
+  title: Get Started with Power Apps portals
+  summary: Get Started with Power Apps portals
+  iconUrl: /training/achievements/get-started-power-apps-portals.svg
+- uid: learn-bizapps.power-pages-architecture.badge
+  type: badge
+  title: Power Pages architecture
+  summary: Power Pages architecture
+  iconUrl: /training/achievements/power-pages-architecture.svg
+- uid: learn-bizapps.power-pages-features.badge
+  type: badge
+  title: Discover Power Pages features
+  summary: Discover Power Pages features
+  iconUrl: /training/achievements/power-pages-features.svg
+- uid: learn-dynamics.intro-model-driven-apps-common-data-service.badge
+  type: badge
+  title: Introduction to model-driven apps and Microsoft Dataverse
+  summary: Introduction to model-driven apps and Microsoft Dataverse
+  iconUrl: /training/achievements/intro-model-driven-apps-common-data-service.svg
+- uid: learn.create-business-process-flow.trophy
+  type: trophy
+  title: Create a business process flow in Power Automate
+  summary: Create a business process flow in Power Automate
+  iconUrl: /training/achievements/create-business-process-flow.svg
+- uid: learn-bizapps.intro-business-process-flows.badge
+  type: badge
+  title: Introduction to business process flows in Power Automate
+  summary: Introduction to business process flows in Power Automate
+  iconUrl: /training/achievements/intro-business-process-flows-social.png
+- uid: learn-bizapps.advanced-business-process-flows.badge
+  type: badge
+  title: Advanced concepts to improve business process flows in Power Automate
+  summary: Advanced concepts to improve business process flows in Power Automate
+  iconUrl: /training/achievements/advanced-business-process-flows-social.png
+- uid: learn-bizapps.microsoft-vaccination-management-overview.badge
+  type: badge
+  title: Microsoft Vaccination Management overview
+  summary: Microsoft Vaccination Management overview
+  iconUrl: /training/achievements/microsoft-vaccination-management-overview-social.png
+- uid: learn-bizapps.cloud-licensing.badge
+  type: badge
+  title: Microsoft Cloud Solution Center and licensing
+  summary: Microsoft Cloud Solution Center and licensing
+  iconUrl: /training/achievements/cloud-licensing-social.png
+- uid: learn-bizapps.frontline-worker-app.badge
+  type: badge
+  title: Microsoft Vaccination Management Frontline worker app
+  summary: Microsoft Vaccination Management Frontline worker app
+  iconUrl: /training/achievements/frontline-worker-app-social.png
+- uid: learn-bizapps.registration-booking-process.badge
+  type: badge
+  title: Registration and booking process in Microsoft Vaccination Management
+  summary: Registration and booking process in Microsoft Vaccination Management
+  iconUrl: /training/achievements/registration-booking-process-social.png
+- uid: learn-bizapps.vaccination-environment-prep.badge
+  type: badge
+  title: Microsoft Vaccination Management environment preparation
+  summary: Microsoft Vaccination Management environment preparation
+  iconUrl: /training/achievements/vaccination-environment-prep-social.png
+- uid: learn-bizapps.data-setup-vaccination-management-app.badge
+  type: badge
+  title: Data setup with the Vaccination management app
+  summary: Data setup with the Vaccination management app
+  iconUrl: /training/achievements/data-setup-vaccination-management-app-social.png
+- uid: learn-bizapps.post-deployment-configuration.badge
+  type: badge
+  title: Microsoft Vaccination Management post-deployment configuration
+  summary: Microsoft Vaccination Management post-deployment configuration
+  iconUrl: /training/achievements/post-deployment-configuration-social.png
+- uid: learn-bizapps.vaccination-dashboard.badge
+  type: badge
+  title: Use the Microsoft Vaccination Management Dashboard
+  summary: Use the Microsoft Vaccination Management Dashboard
+  iconUrl: /training/achievements/vaccination-dashboard-social.png
+- uid: learn.vaccination-management.trophy
+  type: trophy
+  title: Get up and running quickly with Microsoft Vaccination Management
+  summary: Get up and running quickly with Microsoft Vaccination Management
+  iconUrl: /training/achievements/vaccination-management-social.png
+- uid: learn-bizapps.create-immersive-flow.badge
+  type: badge
+  title: Create an immersive business process flow in Power Automate
+  summary: Create an immersive business process flow in Power Automate
+  iconUrl: /training/achievements/create-immersive-flow-social.png
+- uid: learn-bizapps.work-healthcare-solution.trophy
+  type: trophy
+  title: Work with Microsoft Cloud for Healthcare
+  summary: Work with Microsoft Cloud for Healthcare
+  iconUrl: /training/achievements/work-healthcare-solution.svg
+- uid: learn-bizapps.get-started-healthcare.badge
+  type: badge
+  title: Get started with Microsoft Cloud for Healthcare solutions powered by Dynamics 365
+  summary: Get started with Microsoft Cloud for Healthcare solutions powered by Dynamics 365
+  iconUrl: /training/achievements/get-started-healthcare.svg
+- uid: learn-bizapps.deployment-planning-healthcare.badge
+  type: badge
+  title: Deployment planning of Microsoft Cloud for Healthcare
+  summary: Badge for Deployment planning of Microsoft Cloud for Healthcare module.
+  iconUrl: /training/achievements/deployment-planning-healthcare.svg
+- uid: learn-bizapps.use-healthcare-solution.badge
+  type: badge
+  title: Use Microsoft Cloud for Healthcare solutions
+  summary: Badge for Use Microsoft Cloud for Healthcare solutions module.
+  iconUrl: /training/achievements/use-healthcare-solution.svg
+- uid: learn.wwl.implement-rpa-power-automate-ui-flows-ai-builder.badge
+  type: badge
+  title: Implement robotic process automation with Microsoft Power Automate, Teams, desktop flow, and AI Builder
+  summary: Badge for the 'Implement robotic process automation with Microsoft Power Automate, Teams, desktop flow, and AI Builder' module.
+  iconUrl: /training/achievements/implement-rpa-power-automate-ui-flows-ai-builder.svg
+- uid: learn.flow-create-approval.badge
+  type: badge
+  title: Create an approval flow Badge
+  summary: Badge for the 'Create an approval flow' module.
+  iconUrl: /training/achievements/use-flow-to-create-an-approval-flow.svg
+- uid: learn.powerapps-business-process-flow.badge 
+  type: badge
+  title: Get started with business process flows
+  summary: Badge for the 'Get started with business process flows' module.
+  iconUrl: /training/achievements/get-started-with-flow.svg
+- uid: learn-bizapps.create-reports-with-power-bi-desktop.trophy
+  type: trophy
+  title: Create and share your first Power BI report
+  summary: Create and share your first Power BI report
+  iconUrl: /training/achievements/create-reports-with-power-bi-desktop.svg
+- uid: learn.wwl.how-to-build-model-driven-app.badge
+  type: badge
+  title: How to build a model-driven app
+  summary: Learn how you can leverage Power Apps to create model-driven apps with little or no code.
+  iconUrl: /training/achievements/how-to-build-a-model-driven-app.svg
+- uid: learn-bizapps.wwl.build-app-solution.badge
+  type: badge
+  title: How to build a canvas app
+  summary: Power Apps allows businesses to create custom solutions for everyday problems. In this module, you will learn how to build and customize a canvas app from scratch.
+  iconUrl: /training/achievements/build-app-solution.svg
+- uid: learn-bizapps.wwl.build-automated-solution.badge
+  type: badge
+  title: How to build an automated solution
+  summary: Learn how you can leverage Power Automate to build simple workflow to help improve productivity and simplify tasks.
+  iconUrl: /training/achievements/build-automated-solution.svg
+- uid: learn-bizapps.wwl.build-simple-dashboard.badge
+  type: badge
+  title: How to build a dashboard
+  summary: Power BI helps business users and developers alike to easily analyze, visualize, and collaborate on data. This module will teach you how to do all of that without affecting your underlying semantic model.
+  iconUrl: /training/achievements/build-simple-dashboard.svg
+- uid: learn-bizapps.create-measures-dax-power-bi.badge
+  type: badge
+  title: Introduction to creating measures using DAX in Power BI
+  summary: Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.
+  iconUrl: /training/achievements/create-measures-dax-power-bi.svg
+- uid: learn-bizapps.data-driven-story-power-bi.badge
+  type: badge
+  title: Create a data-driven story with Power BI reports
+  summary: Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.
+  iconUrl: /training/achievements/create-reports-with-power-bi-desktop.svg
+- uid: learn-bizapps.dax-power-bi-solve-problems.badge
+  type: badge
+  title: Use DAX in Power BI Desktop to solve business problems
+  summary: >-
+    In this module, you’ll solve three different business problems by optimizing the semantic model and creating Data Analysis Expressions (DAX) calculations. You’ll have an opportunity to create:
+  
+    - An airline on-time performance (OTP) report.
+  
+    - DAX calculations to scale measure values.
+  
+    - DAX calculations to dynamically classify products.
+  iconUrl: /training/achievements/dax-power-bi-solve-problems.svg
+- uid: learn-bizapps.visuals-power-bi.badge
+  type: badge
+  title: Work with Power BI visuals
+  summary: Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You'll also learn about how to use key performance indicators (KPIs).
+  iconUrl: /training/achievements/visuals-power-bi.svg
+- uid: learn-bizapps.data-in-analysis-power-bi.trophy
+  type: trophy
+  title: Data analysis in Power BI
+  summary: "Report authors can use more features to enhance their reports for analytical insights in their data with features like Q&A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.   \n\n This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true)."
+  iconUrl: /training/achievements/data-analysis-in-power-bi.svg
+- uid: learn-bizapps.model-data-power-bi.trophy
+  type: trophy
+  title: Model data in Power BI
+  summary: "Success with Power BI begins with a great semantic model. In this module, you will learn how to design a semantic model that is intuitive, high-performing, and simple to maintain. You will learn about using DAX language to create measures. Those measures will help you create a wide variety of analytic solutions. Additionally, you’ll learn how to improve performance with your Power Query data retrieval tasks.  \n\nThis learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true)."
+  iconUrl: /training/achievements/model-data-in-power-bi.svg
+- uid: learn-bizapps.visual-data-power-bi.trophy
+  type: trophy
+  title: Visualize data in Power BI
+  summary: "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.  \n\nThis learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true)."
+  iconUrl: /training/achievements/data-visualization-power-bi.svg
+- uid: learn-bizapps.ai-visuals-power-bi.badge
+  type: badge
+  title: Work with AI visuals in Power BI
+  summary: This module describes the AI capabilities of Power BI.
+  iconUrl: /training/achievements/ai-visuals-power-bi.svg
+- uid: learn-bizapps.dax-power-bi-calculation-groups.badge
+  type: badge
+  title: Add DAX calculation groups to Power BI Desktop models
+  summary: "Occasionally, you might need to add many similar measures to your model. For example, consider that your model includes measures for sales, cost, and profit. You then want to create a report that shows year-to-date (YTD) sales, YTD cost, and YTD profit, in addition to prior year (PY) sales, PY cost, and PY profit.\nAdding numerous measures can be time-consuming and can clutter the Fields pane with an overwhelming number of fields. Instead of creating each YTD and PY measure, you can quickly add these measures to your model by creating a Data Analysis Expressions (DAX) calculation group."
+  iconUrl: /training/achievements/dax-power-bi-calculation-groups.svg
+- uid: learn-bizapps.power-bi-effective-structure.badge
+  type: badge
+  title: Structure analytical report designs in Power BI
+  summary: "Designing an analytical report involves understanding the requirements and its audience. However, designing a compelling analytical report requires understanding the automatic and unconscious processes that occur when report consumers comprehend what they see. When you have the knowledge of how to structure and apply report design principles, you can raise the level of your report designs to produce relevant, intuitive, and visually pleasing experiences for your report consumers."
+  iconUrl: /training/achievements/power-bi-effective-structure.svg
+- uid: learn-bizapps.power-bi-effective-ui.badge
+  type: badge
+  title: Enhance Power BI report designs for the user interface
+  summary: "Designing the UI is about how reports are consumed, including the appearance and behavior of them, and it is the final report development stage. You've already decided on data and visual selection, so now you can apply format and style to produce a visually appealing, widely used report."
+  iconUrl: /training/achievements/power-bi-effective-ui.svg
+- uid: learn-bizapps.administer-power-bi-p1.trophy
+  type: trophy
+  title: Administer Power BI, Part 1 - Tenants, governance, collaboration
+  summary: >-
+    [!include[](includes/lp-banner.md)]
+  
+    As an administrator, how do you manage a Power BI tenant? How do you configure tenant settings, monitor usage, and provision licenses and other organizational resources? This learning path covers typical tasks and tools, such as the Power BI admin portal and Office 365 admin center. You will learn how to establish and provide governance for a Power BI environment and provision Power BI Premium capacity.
+  iconUrl: /training/achievements/administer-power-bi-p1.svg
+- uid: learn-bizapps.administer-power-bi-p2.trophy
+  type: trophy
+  title: Administer Power BI, Part 2 - Premium, Power BI embedded, automation
+  summary: >-
+    [!include[](includes/lp-banner.md)]
+  
+    As an administrator, how do you foster collaboration and share Power BI outputs? How do you monitor and audit usage, build a data access infrastructure, and automate administration? This course will demonstrate how Power BI Premium manages capacity resources. You’ll learn how to establish a data access infrastructure and how to share Power BI reports beyond your Power BI tenant. Finally, you’ll learn how to automate common tasks with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.
+  iconUrl: /training/achievements/administer-power-bi-p2.svg
+- uid: learn-bizapps.power-bi-admin-automate.badge
+  type: badge
+  title: Automate Power BI administration
+  summary: "[!include[](power-bi/includes/module-banner.md)] \nCmdlets are functions written in PowerShell script language that execute commands in the Windows PowerShell environment. Running these cmdlets will allow you to interact with your Power BI Platform without having to go through the admin portal in a web browser. Combine these cmdlets with other PowerShell functions to write complex scripts that can optimize your workflow."
+  iconUrl: /training/achievements/power-bi-admin-automate.svg
+- uid: learn-bizapps.power-bi-admin-collaboration.badge
+  type: badge
+  title: Facilitate collaboration and sharing in Power BI
+  summary: "[!include[](power-bi/includes/module-banner.md)] \nYou've created dashboards and reports. Perhaps you want to collaborate on them with your coworkers. Or maybe you're ready to distribute them more widely. What's the best way to collaborate and share them? In this module, we compare your options."
+  iconUrl: /training/achievements/power-bi-admin-collaboration.svg
+- uid: learn-bizapps.power-bi-admin-infrastructure.badge
+  type: badge
+  title: Establish a data access infrastructure in Power BI
+  summary: "[!include[](power-bi/includes/module-banner.md)] \nWorking with on-premises data sources requires configuring a gateway between Power BI and the on-premises data source. This module examines how to work with gateways and SQL Server Analysis Services (SSAS) data sources that are used either for scheduled refresh or for live connections."
+  iconUrl: /training/achievements/power-bi-admin-infrastructure.svg
+- uid: learn-bizapps.power-bi-admin-premium.badge
+  type: badge
+  title: Provision Premium capacity in Power BI
+  summary: "[!include[](power-bi/includes/module-banner.md)] \nPower BI Premium is a dedicated, capacity-based offering. Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources. Featured tools you can use with Power BI premium are also covered."
+  iconUrl: /training/achievements/power-bi-admin-premium.svg

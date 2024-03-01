@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.process-advisor-introduction.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to analyzing process mining reports with Power Automate
+  ms.date: 12/05/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

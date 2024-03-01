@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-overview.5-patient-information
+title: Empower your healthcare workforce
+metadata: 
+  title: Empower your healthcare workforce
+  description: Learn how to empower your healthcare workforce.
+  ms.date: 11/27/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok  
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-patient-information.md)] 

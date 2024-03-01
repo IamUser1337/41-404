@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-real-estate-power-automate-copilot.when-use-copilot
+title: When to use Copilot in Power Automate
+metadata:
+  title: When to use Copilot in Power Automate
+  description: Learn when you should use Copilot in Power Automate.
+  ms.date: 09/22/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/when-use-copilot.md)]

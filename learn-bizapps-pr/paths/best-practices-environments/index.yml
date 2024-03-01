@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.best-practices-environments
+metadata:
+  title: Use best practices to secure and govern Microsoft Power Platform environments
+  description: Learn how you can improve security posture and governance in Microsoft Power Platform.
+  ms.date: 01/06/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Use best practices to secure and govern Microsoft Power Platform environments
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Is Microsoft Power Platform new to your organization? Are you looking to better understand how you can improve your organization’s productivity, without compromising your security posture, while enabling governance? Take this learning path, to identify best practices for securing and governing Microsoft Power Platform environments. We will share tools and templates that can be used to ensure you are productive as you secure and govern Microsoft Power Platform.
+
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
+prerequisites: |
+  - A basic understanding of Microsoft Power Automate and Power Apps including their purpose and how these tools are used within an organization. 
+  - A Microsoft Power Platform license with administrative rights.
+iconUrl: /training/achievements/best-practices-environments.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+products:
+- power-automate
+- power-platform
+- power-apps
+subjects:
+- security
+modules:
+- learn-bizapps.security-governance-intro
+- learn-bizapps.plan-manage-environment
+- learn-bizapps.get-started-center-excellence
+- learn-bizapps.manage-solutions-power-automate
+- learn-bizapps.implementation-recommendations
+- learn-bizapps.implement-power-virtual-agents
+- learn-bizapps.manage-environmental-changes
+- learn-bizapps.templates-governance-policies
+trophy:
+  uid: learn.best-practices-environments.trophy

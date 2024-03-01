@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.architect-power-virtual-agents.2-chatbot-options
+title: Chatbot building options
+metadata:
+  title: Chatbot building options
+  description: Compare the options for building chatbots.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-chatbot-options.md)]

@@ -1,0 +1,1 @@
+Power Automate for desktop provides users with the ability to insert, retrieve, and modify data in any database through the database actions. By automating database-related procedures, users can replicate scheduled operations and disengage themselves from repetitive tasks.

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-templates
+metadata:
+ title: Explore Power Pages templates
+ description: Learn about Power Pages templates, pre-configured solutions that are available to help accelerate deployment.
+ ms.date: 01/06/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: power-pages 
+title: Explore Power Pages templates
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Power Pages templates are pre-configured solutions that are available to help accelerate deployment. Site templates provide an environment that is immediately suitable for specific scenarios and audiences.
+abstract: |
+    In this module, you will:
+    - Identify the scenario-based templates to accelerate creating your site.
+    - Discover the features of the Dynamics 365 templates.
+    - Review the generic site design templates designed to solve unique business needs.
+    - Learn about blank template as a simple starting point to build a site to your exact specifications.
+prerequisites: Basic understanding of how to navigate model-driven apps
+iconUrl: /learn/achievements/power-pages-templates.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-templates.introduction
+- learn-bizapps.power-pages-templates.generic
+- learn-bizapps.power-pages-templates.scenario
+- learn-bizapps.power-pages-templates.dynamics-365
+- learn-bizapps.power-pages-templates.check
+- learn-bizapps.power-pages-templates.summary
+badge:
+  uid: learn-bizapps.power-pages-templates.badge

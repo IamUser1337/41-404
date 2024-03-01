@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cloud-sustainability-overview.sustainability-manager
+title: Microsoft Sustainability Manager
+metadata:
+  title: Microsoft Sustainability Manager
+  description: Learn about the Microsoft Sustainability Manager tool.
+  ms.date: 09/20/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: interactive-tutorial
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/sustainability-manager.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-requirements.4-define-interface 
+title: Define user interface requirements
+metadata: 
+  title: Define user interface requirements
+  description: Learn to define form factor, input method, style, theme, and accessibility requirements.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 6
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-define-interface.md)] 

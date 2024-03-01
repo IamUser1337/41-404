@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-filters.6-filter-techniques
+title: Select report filter techniques
+metadata:
+  title: Select report filter techniques
+  description: "Learn about selecting report filter techniques."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/6-filter-techniques.md)]

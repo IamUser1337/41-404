@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dax-power-bi-time-intelligence.lab
+title: Exercise - Create Advanced DAX Calculations in Power BI Desktop
+metadata:
+  title: Exercise - Create Advanced DAX Calculations in Power BI Desktop
+  description: "In this lab, you'll create measures with DAX time intelligence functions, including filter context manipulation."
+  ms.date: 01/18/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labId: 72675
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/3b-lab.md)]

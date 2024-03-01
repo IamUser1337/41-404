@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-teams.exercise-create-approval
+title: Exercise - Create an approval flow
+metadata:
+  title: Exercise - Create an approval flow
+  description: Follow the steps to create your own flow to trigger an approval process.
+  ms.date: 10/07/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[.](../includes/unit-banner.md)]
+ [!include[.](includes/exercise-create-approval.md)]

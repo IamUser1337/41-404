@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.3-track-shipment-requests
+title: Building an application for Linda to create and track container shipment requests
+metadata: 
+  title: Building an application for Linda to create and track container shipment requests
+  description: Learn how to build an application to create and track container shipment requests.
+  ms.date: 04/27/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 30
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-track-shipment-requests.md)] 

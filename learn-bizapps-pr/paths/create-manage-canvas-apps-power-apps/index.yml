@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn.wwl.create-manage-canvas-apps-power-apps
+metadata:
+  title: Create and manage canvas apps with Power Apps
+  description: In this learning path, you practice creating and managing canvas apps with Power Apps. These skills  include connecting to data sources, building screens, selecting appropriate components and adding them to screens, and publishing and sharing canvas apps.
+  ms.date: 11/07/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: learning-path
+  ms.service: power-platform
+title: Create and manage canvas apps with Power Apps
+prerequisites: |
+  You should understand application development, writing formulas such as those in Excel, and creating, reading, updating, and deleting data.
+summary: |
+  Create your own data model and canvas app to support a scenario for a fictional company. You're provided high-level specifications on the custom tables, columns and canvas app needed to complete this project.
+iconUrl: /training/achievements/generic-trophy.svg
+levels:
+- intermediate
+roles:
+- business-user
+- developer
+products:
+- power-apps
+- power-platform
+- dataverse
+modules:
+- learn-bizapps.powerapps-get-started
+- learn-bizapps.powerapps-customize
+- learn-bizapps.how-to-build-ui-canvas-app
+- learn-bizapps.work-with-external-data
+- learn-bizapps.write-data
+- learn-bizapps.publish-share-maintain-app
+- learn.wwl.guided-project-create-manage-canvas-apps
+trophy:
+  uid: learn.wwl.create-manage-canvas-apps-power-apps.trophy

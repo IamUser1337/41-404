@@ -1,0 +1,69 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agents-create-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/10/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: When creating a new bot, how do you specify which solution to create the bot in?
+    choices:
+    - content: Through the **Advanced Options** section in the create bot wizard process
+      isCorrect: true
+      explanation: Correct. You would use the **Advanced Options** section to specify which solution to create the bot in.
+    - content: By selecting the solution dropdown menu on the first page
+      isCorrect: false
+      explanation: Incorrect. You would use the **Advanced Options** section.
+    - content: Solutions aren't supported
+      isCorrect: false
+      explanation: Incorrect. You would use the **Advanced Options** section.
+  - content: Which top-level page on the site map of Microsoft Copilot Studio would you retrieve the Environment ID within?
+    choices:
+    - content: Analytics
+      isCorrect: false
+      explanation: Incorrect. Use the **Settings** page to retrieve the Environment ID.
+    - content: Topics
+      isCorrect: false
+      explanation: Incorrect. Use the **Settings** page to retrieve the Environment ID.
+    - content: Settings 
+      isCorrect: true
+      explanation: Correct. Use the **Settings** page to retrieve the Environment ID.
+  - content: How do you test your bot in Microsoft Copilot Studio before publishing it?
+    choices:
+    - content: By opening the Test bot pane and asking the triggering questions or similar
+      isCorrect: true
+      explanation: Correct. Open the **Test bot** pane to test your bot.
+    - content: You don’t need to test your bot
+      isCorrect: false
+      explanation: Incorrect. You need to test your bot.
+    - content: By reading the topic dialog 
+      isCorrect: false
+      explanation: Incorrect. Open the **Test bot** pane to test your bot.
+  - content: Two ways are available for creating topics or dialogs in Microsoft Copilot Studio. Which one of the following options is one of those methods?
+    choices: 
+    - content: Copilot
+      isCorrect: true
+      explanation: Correct. Use Copilot to create topics and dialogs.
+    - content: Adding XML
+      isCorrect: false
+      explanation: Incorrect. Use Copilot to create topics and dialogs.
+    - content: Creating a new entity with a topic entity linked
+      isCorrect: false
+      explanation: Incorrect. Use Copilot to create topics and dialogs.
+  - content: What do the question and message nodes have in common?
+    choices:
+    - content: Both have rich text options to display messages or questions to the user
+      isCorrect: true
+      explanation: Correct. Question and message nodes have rich text options for messages or questions.
+    - content: Both are green
+      isCorrect: false
+      explanation: Incorrect. Question and message nodes have rich text options for messages or questions.
+    - content: Both don’t have message variations enabled
+      isCorrect: false
+      explanation: Incorrect. Question and message nodes have rich text options for messages or questions.

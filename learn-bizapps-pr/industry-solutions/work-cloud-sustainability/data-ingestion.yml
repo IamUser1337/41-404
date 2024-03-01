@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.data-ingestion 
+title: Data ingestion
+metadata: 
+  title: Data ingestion
+  description: Learn how Data ingestion identifies the various sources that generate emissions and then connect these data sources. 
+  ms.date: 09/20/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/data-ingestion.md)] 

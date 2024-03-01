@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-model-driven-apps.exercise-forms-views
+title: Exercise - Modify forms and views
+metadata:
+  title: Exercise - Modify forms and views
+  description: "Test your ability to modify forms and views for a model-driven app."
+  ms.date: 12/13/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/4-exercise-forms-views.md)]

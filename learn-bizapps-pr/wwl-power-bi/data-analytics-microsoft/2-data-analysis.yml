@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-analytics-microsoft.2-data-analysis
+title: Overview of data analysis
+metadata:
+  title: Overview of data analysis
+  description: "Learn about data analysis."
+  ms.date: 07/03/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/2-data-analysis.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-reach.2-rest-api-custom 
+title: REST API custom development
+metadata: 
+  title: REST API custom development 
+  description: Learn about REST API custom development. 
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-rest-api-custom.md)] 

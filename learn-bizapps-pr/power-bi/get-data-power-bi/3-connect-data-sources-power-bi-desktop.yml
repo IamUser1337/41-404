@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data-power-bi.3-connnect-data-sources-power-bi-desktop 
+title: Connect to data sources 
+metadata: 
+  title: Connect to data sources 
+  description: Connect to data sources 
+  ms.date: 05/30/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-connnect-data-sources-power-bi-desktop.md)] 
+

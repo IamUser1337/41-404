@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Use advanced data options and connectors in PowerApps/connecting-to-other-data-in-a-canvas-app-in-powerapps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-5.9%" y="-10.0%" width="111.8%" height="120.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0964956975 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <ellipse id="path-4" cx="13" cy="4.70454545" rx="4.68" ry="4.70454545"></ellipse>
+        <filter x="-10.7%" y="-10.6%" width="121.4%" height="142.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-10.7%" y="-10.6%" width="121.4%" height="142.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-1" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Use-advanced-data-options-and-connectors-in-PowerApps" transform="translate(-50.000000, -260.000000)">
+            <g id="Use-advanced-data-options-and-connectors-in-PowerApps/connecting-to-other-data-in-a-canvas-app-in-powerapps" transform="translate(50.000000, 260.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#965596" xlink:href="#path-1"></use>
+                    <g id="Laptop" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(14.000000, 27.000000)">
+                            <path d="M0,33.6842105 L0,35.7894737 C0,38.1052632 1.9125,40 4.25,40 L63.75,40 C66.0875,40 68,38.1052632 68,35.7894737 L68,33.6842105 L0,33.6842105" id="Fill-1415" fill="#E1E4E1"></path>
+                            <path d="M10.625,0 C8.2875,0 6.375,1.89473684 6.375,4.21052632 L6.375,33.6842105 L61.625,33.6842105 L61.625,4.21052632 C61.625,1.89473684 59.7125,0 57.375,0 L10.625,0 Z M57.375,2.10526316 C58.545875,2.10526316 59.5,3.04947368 59.5,4.21052632 L59.5,31.5789474 L8.5,31.5789474 L8.5,4.21052632 C8.5,3.04947368 9.4530625,2.10526316 10.625,2.10526316 L57.375,2.10526316 L57.375,2.10526316 Z" id="Fill-1416" fill="#182A37"></path>
+                            <path d="M8.5,4.21052632 C8.5,3.04947368 9.4530625,2.10526316 10.625,2.10526316 L57.375,2.10526316 C58.545875,2.10526316 59.5,3.04947368 59.5,4.21052632 L59.5,31.5789474 L8.5,31.5789474 L8.5,4.21052632" id="Fill-1417" fill="#30404D"></path>
+                            <path d="M10.625,2.10526316 L33.3508125,2.10526316 L22.9616875,31.5789474 L8.5,31.5789474 L8.5,4.21052632 C8.5,3.04947368 9.4530625,2.10526316 10.625,2.10526316" id="Fill-1418" fill="#384B58"></path>
+                            <path d="M10.625,0 L34,0 L33.3508125,2.10526316 L10.625,2.10526316 C9.4530625,2.10526316 8.5,3.04947368 8.5,4.21052632 L8.5,31.5789474 L22.9616875,31.5789474 L22.3125,33.6842105 L6.375,33.6842105 L6.375,4.21052632 C6.375,1.89473684 8.2875,0 10.625,0" id="Fill-1419" fill="#30404D"></path>
+                            <path d="M31.875,37.8947368 L0.5939375,37.8947368 C1.332375,39.1452632 2.6891875,40 4.25,40 L63.75,40 C66.0875,40 68,38.1052632 68,35.7894737 L68,33.6842105 L34,33.6842105 L34,35.7894737 C34,36.9526316 33.0490625,37.8947368 31.875,37.8947368" id="Fill-1420" fill="#CDD6D8"></path>
+                            <path d="M29.75,35.7894737 L38.25,35.7894737 C39.423,35.7894737 40.375,34.8463158 40.375,33.6842105 L27.625,33.6842105 C27.625,34.8463158 28.5759375,35.7894737 29.75,35.7894737" id="Fill-1421" fill="#AAB0B1"></path>
+                        </g>
+                    </g>
+                    <g id="Connector" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(34.000000, 32.000000)">
+                            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1" cx="2.6" cy="20.3863636" rx="2.6" ry="2.61363636"></ellipse>
+                            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1" cx="13" cy="20.3863636" rx="2.6" ry="2.61363636"></ellipse>
+                            <ellipse id="Oval" stroke="#FFFFFF" stroke-width="1" cx="23.4" cy="20.3863636" rx="2.6" ry="2.61363636"></ellipse>
+                            <path d="M13,17.6281308 L12.9499387,9.40909091" id="Path-116" stroke="#FFFFFF" stroke-width="1"></path>
+                            <g id="Oval" stroke="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                            </g>
+                            <path d="M2.35399421,17.7727273 L2.35399421,14.5909091 C2.35399421,14.0386243 2.80170946,13.5909091 3.35399421,13.5909091 L22.5458832,13.5909091 C23.0981679,13.5909091 23.5458832,14.0386243 23.5458832,14.5909091 L23.5458832,17.6628697" id="Path-117" stroke="#FFFFFF" stroke-width="1"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="PowerApps-Border" stroke="#742774" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

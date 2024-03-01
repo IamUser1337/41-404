@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-cloud-financial-services.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/01/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the retail banking data model? 
+    choices: 
+    - content: A proprietary dataset to use with Microsoft Cloud for Financial Services 
+      isCorrect: false
+      explanation: The data model defines the data to be used in apps, and the retail banking data model is open source and not proprietary.
+    - content: The retail data model and prebuilt connectors enable data interoperability to unify and enrich data from multiple systems
+      isCorrect: true 
+      explanation: The unified data provides insights for actions and accelerates business, AI, and team productivity workflows.
+    - content: A specialized, licensed component to use with Dynamics 365 
+      isCorrect: false 
+      explanation: The retail banking data model can be used with Dynamics apps but does not need or offer a special license. 
+    - content: A model-driven app from Power Apps 
+      isCorrect: false 
+      explanation: You need a data model to make a model-driven app from Power Apps. 
+  - content: How do you set up the documents that are needed for loan applications? 
+    choices: 
+    - content: You don't need to set up anything; all possible document types are already set up. 
+      isCorrect: false
+      explanation: The system comes with some document types already available, but each organization will have custom requirements to be included with their loan application process.
+    - content: Select from the available options on the deployment screen. 
+      isCorrect: false 
+      explanation: The system comes with some document types already available, but each organization will have custom requirements to be included with their loan application process.
+    - content: Add or edit the Custom Document records.
+      isCorrect: true 
+      explanation: The system comes with some document types already available, but each organization will have custom requirements to be included with their loan application process.
+  - content: The Unified Customer Profile application displays what types of information? 
+    choices: 
+    - content: Financial holdings
+      isCorrect: false
+      explanation: You can view these information types and more by using the Unified Customer Profile application.
+    - content: Life events
+      isCorrect: false 
+      explanation: You can view these information types and more by using the Unified Customer Profile application.
+    - content: All of these types 
+      isCorrect: true 
+      explanation: You can view these information types and more by using the Unified Customer Profile application.
+    - content: Household members
+      isCorrect: false 
+      explanation: You can view these information types and more by using the Unified Customer Profile application.

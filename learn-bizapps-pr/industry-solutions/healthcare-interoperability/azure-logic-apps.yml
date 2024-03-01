@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability.azure-logic-apps 
+title: Exercise - Use Dataverse Healthcare APIs with Azure Logic apps   
+metadata: 
+  title: Exercise - Use Dataverse Healthcare APIs with Azure Logic apps   
+  description: Learn how to use Dataverse Healthcare APIs with Azure Logic Apps.
+  ms.date: 12/27/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 25 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/azure-logic-apps.md)] 

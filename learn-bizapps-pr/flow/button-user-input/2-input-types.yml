@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.button-user-input.2-input-types 
+title: Create a Power Automate button that uses all input types
+metadata: 
+  title: Create a Power Automate button that uses all input types 
+  description: Learn how to create a Power Automate button that uses all six input types
+  ms.date: 5/25/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-input-types.md)] 

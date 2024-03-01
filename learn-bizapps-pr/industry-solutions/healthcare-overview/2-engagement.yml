@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-overview.2-engagement 
+title: Create connected patient experiences
+metadata: 
+  title: Create connected patient experiences
+  description: Learn how to create connected patient experiences.
+  ms.date: 11/27/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-engagement.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-power-automate.4-advanced-usage 
+title: Advanced usage of AI Builder in Power Automate
+metadata: 
+  title: Advanced usage of AI Builder in Power Automate
+  description: Learn about the advanced usage of AI Builder and Power Automate.
+  ms.date: 11/30/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-advanced-usage.md)] 

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-platform-automate-client-script.best-practices
+title: Client scripting best practices
+metadata:
+  title: Client scripting best practices
+  description: Learn about client scripting best practices.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 9
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/best-practices.md)]

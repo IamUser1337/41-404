@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-web.6-exercise
+title: Exercise - Extract stocks from MSN
+metadata:
+  title: Exercise - Extract stocks from MSN
+  description: Exercise - Extract stocks from MSN
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-exercise.md)]

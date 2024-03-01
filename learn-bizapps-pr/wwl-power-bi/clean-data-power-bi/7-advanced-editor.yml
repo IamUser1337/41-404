@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.7-advanced-editor
+title: Use Advanced Editor to modify M code
+metadata:
+  title: Use Advanced Editor to modify M code
+  description: "Learn how to use Advanced Editor to modify M code."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/7-advanced-editor.md)]

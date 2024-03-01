@@ -1,0 +1,38 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.5-knowledge-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: unit
+  ms.contributors:
+  - masoucou-04262021
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: How does tech intensity increase adoption of technology at a company?
+    choices: 
+    - content: It increases the amount of software a company uses.
+      isCorrect: false
+      explanation: Tech intensity is about increasing the adoption of technology and the capability of users to use it.
+    - content: It enables cross-team collaboration.
+      isCorrect: true
+      explanation: Collaboration helps companies create software capable to solve their team's needs.
+    - content: Each component of tech intensity is able to be optimized independently freeing the company to focus on specific tech stacks.
+      isCorrect: false 
+      explanation: The components of tech intensity are related and build upon each other.    
+  - content: Why is cross-team collaboration necessary for Fusion Development?
+    choices: 
+    - content: To identify gaps and solve problems efficiently with solutions that will benefit the company as a whole.
+      isCorrect: true
+      explanation: Fusion development is all about creating software that solves business problems better, faster.
+    - content: Professional Developers need to monitor what Citizen Developers to make sure it's correct.
+      isCorrect: false
+      explanation: Professional Developers support and collaborate with Citizen Developers to create the best solutions.
+    - content: Fusion development dictates that management signs off on new software that multiple teams use.
+      isCorrect: false 
+      explanation: While management may be involved, Fusion Development Teams are meant to increase tech intensity and empower organizations to create better software, faster.

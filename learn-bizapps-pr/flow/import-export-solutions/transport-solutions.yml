@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.import-export-solutions.transport-solutions 
+title: Transport solutions between environments 
+metadata: 
+  title: Transport solutions between environments 
+  description: Learn how to transport solutions between environments.
+  ms.date: 03/11/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+  
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/transport-solutions.md)] 

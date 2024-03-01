@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-store-operations-assist-teams-shifts.enable-shifts-integration
+title: Exercise - Enable Shifts integration
+metadata:
+  title: Exercise - Enable Shifts integration
+  description: Follow the steps to enable Shifts integration in Teams.
+  ms.date: 12/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/enable-shifts-integration.md)]

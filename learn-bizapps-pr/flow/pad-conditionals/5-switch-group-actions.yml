@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-conditionals.5-switch-group-actions 
+title: The Switch group of actions
+metadata: 
+  title: The Switch group of actions
+  description: The Switch group of actions. Conditionals with switch cases.
+  ms.date: 10/27/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-switch-group-actions.md)] 

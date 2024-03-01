@@ -1,0 +1,17 @@
+﻿### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-developer-resources.introduction
+title: Introduction to Microsoft Power Platform for developers
+metadata: 
+  title: Introduction to Microsoft Power Platform for developers 
+  description: This unit introduces Microsoft Power Platform for developers. 
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: interactive-tutorial 
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/introduction.md)] 
+

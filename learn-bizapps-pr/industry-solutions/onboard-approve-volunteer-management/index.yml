@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.onboard-approve-volunteer-management
+metadata:
+ title: Onboard and approve volunteers with Volunteer Management
+ description: Learn to approve applications, onboard and schedule volunteers, record attendance, and close the engagement in Microsoft Cloud for Nonprofit.
+ ms.date: 11/01/2021
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok  
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-nonprofit
+title: Onboard and approve volunteers with Volunteer Management
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn to approve applications, onboard and schedule volunteers, record attendance, and close the engagement.
+abstract: |
+    In this module, you will:
+    - Add participants to an engagement opportunity
+    - Manage applications for an engagement opportunity
+    - Take volunteers through an onboarding process
+    - Assign volunteers to shifts
+    - Mark attendance for an engagement opportunity
+    - Close an engagement opportunity
+prerequisites: None
+iconUrl: /training/achievements/onboard-approve-volunteer-management.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.onboard-approve-volunteer-management.1-introduction
+- learn-bizapps.onboard-approve-volunteer-management.2-work-volunteer-applications
+- learn-bizapps.onboard-approve-volunteer-management.3-onboard-volunteers
+- learn-bizapps.onboard-approve-volunteer-management.4-add-volunteers
+- learn-bizapps.onboard-approve-volunteer-management.5-record-attendance
+- learn-bizapps.onboard-approve-volunteer-management.6-exercise
+- learn-bizapps.onboard-approve-volunteer-management.7-check
+- learn-bizapps.onboard-approve-volunteer-management.8-summary
+badge:
+  uid: learn-bizapps.onboard-approve-volunteer-management.badge

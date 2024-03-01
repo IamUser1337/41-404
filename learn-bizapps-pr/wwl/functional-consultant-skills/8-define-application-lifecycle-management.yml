@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.define-application-lifecycle-management
+title: Define Application Lifecycle Management
+metadata:
+  title: Define Application Lifecycle Management
+  description: "Define Application Lifecycle Management"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/8-define-application-lifecycle-management.md)]

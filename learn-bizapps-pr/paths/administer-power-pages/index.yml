@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.administer-power-pages
+metadata:
+  title: Administer Power Pages
+  description: Learn how to administer Power Pages sites.
+  ms.date: 05/11/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Administer Power Pages
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Administrators need to understand how to configure various features and add-ons to ensure Power Pages site runs securely and efficiently. Power Pages provide additional features and functionality including integration with other Microsoft technologies such as SharePoint document libraries and Power BI reports. This learning path describes tools and techniques available for administrators to configure and maintain Power Pages sites, as well as efficiently troubleshoot the issues.
+prerequisites: |
+  - Provisioned Power Pages site.
+  - Basic knowledge of other Microsoft technologies like SharePoint, Power BI, Microsoft Entra ID, is beneficial.
+iconUrl: /learn/achievements/administer-power-pages.svg
+levels:
+- advanced
+roles:
+- maker
+- functional-consultant
+- administrator
+- developer
+- solution-architect
+products:
+- power-platform
+- power-apps
+- power-pages
+modules:
+- learn-bizapps.power-pages-administration
+- learn-bizapps.power-pages-integration
+- learn-bizapps.power-pages-authentication-user-management
+- learn-bizapps.power-pages-maintenance-troubleshooting
+trophy:
+  uid: learn-bizapps.administer-power-pages.trophy

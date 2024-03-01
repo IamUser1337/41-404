@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-filters.4-advanced-filtering
+title: Design reports with advanced filtering techniques
+metadata:
+  title: Design reports with advanced filtering techniques
+  description: "Learn to design reports with advanced filtering techniques."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/4-advanced-filtering.md)]

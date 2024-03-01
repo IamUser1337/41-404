@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.improve-business-performance-ai-builder
+metadata:
+  title: Improve business performance with AI Builder
+  description: Do you want to bring AI to your business to improve your business performance? AI Builder offers a wide array of AI capabilities, such as text recognition and object detection. This learning path guides you through each use case, the creation of the models, and how to use them.
+  ms.date: 5/01/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Improve business performance with AI Builder
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Do you want to bring AI to your business to improve your business performance? AI Builder offers a wide array of AI capabilities, such as text recognition and object detection. This learning path guides you through each use case, the creation of the models, and how to use them.
+prerequisites: |
+  - Signed up for Power Apps or Power Automate
+  - Access to Microsoft Dataverse
+iconUrl: /training/achievements/improve-business-performance-ai-builder.svg
+levels:
+- beginner
+roles: 
+- maker
+- business-user
+products:
+- ai-builder
+subjects:
+- artificial-intelligence
+modules:
+- learn-dynamics.get-started-with-form-processing
+- learn-bizapps.get-started-with-ai-builder-text-recognition
+- learn-bizapps.get-started-with-ai-builder-sentiment-analysis
+- learn-bizapps.get-started-with-ai-business-card-reader
+- learn-bizapps.get-started-with-ai-builder-object-detection
+- learn-bizapps.get-started-with-ai-builder-language-detection
+- learn-bizapps.get-started-with-ai-builder-key-phrase-extraction
+- learn-bizapps.ai-builder-power-automate
+- learn-bizapps.ai-builder-receipt-processing
+trophy: 
+  uid: learn-bizapps.improve-business-performance-ai-builder.trophy

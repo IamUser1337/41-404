@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-files-folders-handling.4-exercise 
+title: Exercise - Create a backup copy of the desktop folder
+metadata: 
+  title: Exercise - Create a backup copy of the desktop folder
+  description: Practice creating a backup copy of the desktop folder.
+  ms.date: 10/01/2023
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise.md)] 

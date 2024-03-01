@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Bring AI to your business with AI Builder/Get-started-with-language-detection</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="94.3396226" height="94.3396226" rx="47.1698113"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4E4E57" offset="0%"></stop>
+            <stop stop-color="#2E2E34" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+        <rect id="path-5" x="0" y="0" width="100" height="100" rx="50"></rect>
+        <filter x="-0.5%" y="-0.5%" width="102.0%" height="102.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="1" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M50,2.83018868 C76.0511674,2.83018868 97.1698113,23.9488326 97.1698113,50 C97.1698113,76.0511674 76.0511674,97.1698113 50,97.1698113 C23.9488326,97.1698113 2.83018868,76.0511674 2.83018868,50 C2.83018868,23.9488326 23.9488326,2.83018868 50,2.83018868 Z M50,6.60377358 C26.032926,6.60377358 6.60377358,26.032926 6.60377358,50 C6.60377358,73.967074 26.032926,93.3962264 50,93.3962264 C73.967074,93.3962264 93.3962264,73.967074 93.3962264,50 C93.3962264,26.032926 73.967074,6.60377358 50,6.60377358 Z" id="path-7"></path>
+        <filter x="-4.6%" y="-4.6%" width="109.3%" height="109.3%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.19 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#D2EBFF" offset="0%"></stop>
+            <stop stop-color="#F0FFFD" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-37.5%" y="-37.5%" width="175.0%" height="175.0%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="50%" y1="2.04550253%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFE02A" offset="0%"></stop>
+            <stop stop-color="#FFB518" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bring-AI-to-your-business-with-AI-Builder" transform="translate(-160.000000, -1270.000000)">
+            <g id="Bring-AI-to-your-business-with-AI-Builder/Get-started-with-language-detection" transform="translate(160.000000, 1270.000000)">
+                <g id="Badge-Plates/Circle">
+                    <g id="BG" transform="translate(2.830189, 2.830189)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g></g>
+                        <g id="Colors/PowerApps/BG-Solid-1" mask="url(#mask-2)">
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+                            <g id="Rectangle">
+                                <use fill="#742774" xlink:href="#path-4"></use>
+                                <use fill-opacity="0.501092657" fill="#FFFFFF" xlink:href="#path-4"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Border">
+                        <g id="White-Border">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <rect stroke="#F2F1F0" stroke-width="4" stroke-linejoin="square" x="2" y="2" width="96" height="96" rx="48"></rect>
+                        </g>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Boarder" fill="#0078D4" fill-rule="nonzero" xlink:href="#path-7"></use>
+                        <g id="Colors/PowerApps/Border" mask="url(#mask-8)" fill="#752375">
+                            <g transform="translate(2.830189, 2.830189)" id="Rectangle">
+                                <rect x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Chat-bubble" transform="translate(23.000000, 23.000000)">
+                    <g id="Icon-iot-204-Notification-Hub-Namespaces" filter="url(#filter-9)">
+                        <g id="Group" transform="translate(0.817322, 7.355897)" fill="url(#linearGradient-10)" fill-rule="nonzero">
+                            <path d="M51.9692297,1.78544469 L51.9692297,34.7987524 C51.9692297,35.2729917 51.7784566,35.727378 51.43957,36.0598375 C51.1006833,36.392297 50.6421676,36.5749547 50.1670243,36.5667781 L36.3602984,36.5667781 C36.1241182,36.5667781 35.9326564,36.7578473 35.9326564,36.993543 L35.9326564,42.3281033 C35.9297896,42.6514084 35.7441159,42.9453442 35.4530553,43.0873486 C35.1619948,43.229353 34.8155172,43.1950465 34.558093,42.9987338 L26.2496207,36.6582278 L25.9747081,36.6582278 L1.84348356,36.6582278 C1.36834026,36.6664043 0.909824515,36.4837466 0.570937871,36.1512871 C0.232051226,35.8188276 0.0412781612,35.3644413 0.0412781612,34.890202 L0.0412781612,1.78544469 C0.0412781612,1.31120546 0.232051226,0.856819138 0.570937871,0.524359636 C0.909824515,0.191900134 1.36834026,0.00924242875 1.84348356,0.0171558167 L50.1670243,0.0171558167 C50.6421676,0.00924242875 51.1006833,0.191900134 51.43957,0.524359636 C51.7784566,0.856819138 51.9692297,1.31120546 51.9692297,1.78544469 Z" id="Path"></path>
+                        </g>
+                        <rect id="Rectangle" x="0" y="0" width="53.9432415" height="53.9432415"></rect>
+                    </g>
+                    <rect id="Rectangle" fill="#92C4FC" x="9" y="16" width="36" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-Copy" fill="#92C4FC" x="9" y="24" width="36" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-Copy" fill="#92C4FC" x="9" y="32" width="20" height="3" rx="1.5"></rect>
+                </g>
+                <g id="Magnifying-Glass" filter="url(#filter-11)" transform="translate(66.000000, 50.000000) scale(-1, 1) translate(-66.000000, -50.000000) translate(50.000000, 34.000000)" fill-rule="nonzero">
+                    <path d="M0.038892677,21.0864892 L16.7690539,21.0390946 C17.1169918,21.0381089 17.3998504,21.3193693 17.400836,21.6673073 C17.4008388,21.6682827 17.4008393,21.669258 17.4008375,21.6702334 L17.3949623,24.9132261 C17.3943341,25.2600228 17.1135439,25.5410998 16.7667481,25.5420822 L0.0365869146,25.5894769 C-0.311351082,25.5904625 -0.5942096,25.3092021 -0.595195268,24.9612641 C-0.595198031,24.9602888 -0.595198529,24.9593134 -0.595196762,24.9583381 L-0.589321578,21.7153453 C-0.588693302,21.3685486 -0.307903177,21.0874716 0.038892677,21.0864892 Z" id="Rectangle" fill="#F19401" transform="translate(8.402820, 23.314286) rotate(-45.000000) translate(-8.402820, -23.314286) "></path>
+                    <circle id="Oval" fill="url(#linearGradient-12)" cx="19" cy="13" r="13"></circle>
+                    <circle id="Oval" fill="#D4ECFE" cx="19" cy="13" r="9"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

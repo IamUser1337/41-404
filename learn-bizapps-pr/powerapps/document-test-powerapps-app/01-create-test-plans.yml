@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-documentation.01-create-test-plans
+title: Create test plans
+metadata:
+  title: Create test plans
+  description: Discuss types of testing plans and considerations
+  ms.date: 01/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/01-create-test-plans.md)]

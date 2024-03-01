@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.customize-integrate-fetch-prices-stock-count
+title: Exercise - Customize Store Operations Assist Admin to integrate and fetch data from another application
+metadata:
+  title: Exercise - Customize Store Operations Assist Admin to integrate and fetch data from another application
+  description: Follow the steps to customize Store Operations Assist Admin to integrate with another application for prices and stock counts.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 18
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/customize-integrate-fetch-prices-stock-count.md)]

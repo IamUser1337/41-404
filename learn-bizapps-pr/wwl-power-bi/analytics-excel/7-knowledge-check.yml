@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.analytics-excel.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: "Analytics in Excel"
+  questions:
+  - content: "Power BI and Modern Excel share which two applications?"
+    choices:
+    - content: "Power Query and Power Apps"
+      isCorrect: false
+      explanation: "That's incorrect. Power Apps is not included."
+    - content: "Power Apps and Power Pivot"
+      isCorrect: false
+      explanation: "That's incorrect. Power Apps is not included."
+    - content: "Power Query and Power Pivot"
+      isCorrect: true
+      explanation: "That's correct."
+  - content: "What new technique does Power Query use to support enriching blank or empty cells?"
+    choices:
+    - content: "Fill Down/Up"
+      isCorrect: true
+      explanation: "That's correct. Copy and Paste, Double-click and repeat all exist in Excel"
+    - content: "Copy and Paste"
+      isCorrect: false
+      explanation: "That's incorrect. This exists in Excel."
+    - content: "Double-click and repeat"
+      isCorrect: false
+      explanation: "That's incorrect. This exists in Excel."
+  - content: "Which of the following is true for both Calculated Columns and Measures?"
+    choices:
+    - content: "Both evaluate Row by Row"
+      isCorrect: false
+      explanation: "That's incorrect. Only Calculated Columns are evaluated row by row."
+    - content: "Both are aggregates"
+      isCorrect: false
+      explanation: "That's incorrect. Only Measures are aggregates."
+    - content: "Both use DAX formulas"
+      isCorrect: true
+      explanation: "That's correct."

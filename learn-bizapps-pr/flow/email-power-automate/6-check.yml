@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.email-power-automate.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/02/2023
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit 
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the connector types for Mail and Microsoft Outlook?
+    choices: 
+    - content: Mail is a standard connector and Microsoft Outlook is a premier connector.
+      isCorrect: false 
+      explanation: Both Mail and Microsoft Outlook are standard connectors.
+    - content: Mail and Outlook are standard connectors.
+      isCorrect: true 
+      explanation: Both Mail and Microsoft Outlook are standard connectors.
+    - content: Mail is a premier connector and Microsoft Outlook is a standard connector.
+      isCorrect: false 
+      explanation: Both Mail and Microsoft Outlook are standard connectors.
+    - content: Both Mail and Microsoft Outlook are premier connectors.
+      isCorrect: false 
+      explanation: Both Mail and Microsoft Outlook are Standard connectors.
+  - content: What is the main difference between the Microsoft Outlook connector and the Mail connector?
+    choices: 
+    - content: Microsoft Outlook doesn't have triggers while Mail does.
+      isCorrect: false 
+      explanation: The Microsoft Outlook connector comes with several triggers for the Power Automate flow. Mail doesn't have triggers and has only one action.
+    - content: No difference, they're both exactly the same.
+      isCorrect: false 
+      explanation: The Microsoft Outlook connector comes with several triggers for the Power Automate flow. Mail doesn't have triggers and has only one action.
+    - content: Microsoft Outlook connector has triggers while Mail doesn't.
+      isCorrect: true 
+      explanation: The Microsoft Outlook connector comes with several triggers for the Power Automate flow. Mail doesn't have triggers and has only one action.
+    - content: They differ in their user interface, flow condition, and internet connection.
+      isCorrect: false 
+      explanation: The Microsoft Outlook connector comes with several triggers for the Power Automate flow. Mail doesn't have triggers and has only one action.
+  - content: How would you capture the file size of a document that is uploaded to a SharePoint document library?
+    choices: 
+    - content: SharePoint automatically identifies the file size and makes it available.
+      isCorrect: true 
+      explanation: When a file is uploaded to SharePoint, its file size is automatically identified and made available. The column name is called File Size, which is hidden by default. You need to go to advanced settings and select it.
+    - content: You must manually enter the file size.
+      isCorrect: false 
+      explanation: When a file is uploaded to SharePoint, its file size is automatically identified and made available. The column name is called File Size, which is hidden by default. You need to go to advanced settings and select it.
+    - content: An additional flow step is needed.
+      isCorrect: false 
+      explanation: When a file is uploaded to SharePoint, its file size is automatically identified and made available. The column name is called File Size, which is hidden by default. You need to go to advanced settings and select it.
+    - content: The Outlook trigger provides this information.
+      isCorrect: false 
+      explanation: When a file is uploaded to SharePoint, its file size is automatically identified and made available. The column name is called File Size, which is hidden by default. You need to go to advanced settings and select it.
+  - content: How many attachments from an incoming email can be saved?
+    choices: 
+    - content: Only one
+      isCorrect: false 
+      explanation: All attachments are saved in the document library. Power Automate flows use the Apply to each action to capture all attachments.
+    - content: Five or fewer
+      isCorrect: false 
+      explanation: All attachments are saved in the document library. Power Automate flows use the Apply to each action to capture all attachments.
+    - content: It depends on how many were attached to the email
+      isCorrect: false 
+      explanation: All attachments are saved in the document library. Power Automate flows use the Apply to each action to capture all attachments.
+    - content: All of them
+      isCorrect: true 
+      explanation: All attachments are saved in the document library. Power Automate flows use the Apply to each action to capture all attachments.

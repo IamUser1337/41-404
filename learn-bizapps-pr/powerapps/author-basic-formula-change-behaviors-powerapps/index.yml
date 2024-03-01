@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps
+metadata: 
+  title: Create formulas to change behaviors in a Power Apps canvas app
+  description: Learn how to enhance and customize your Power Apps canvas app using basic formulas.
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: module
+  
+title: Create formulas to change behaviors in a Power Apps canvas app 
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Learn how to enhance and customize your Power Apps canvas app using basic formulas to make behavior changes to your app such as controlling the visibility or display mode of your controls and visuals.
+abstract: |  
+    In this module, you will: 
+    - Understand True and False
+    - Control the visible property with a formula
+    - Control the display mode with a formula
+    - Combine formulas into a single statement
+prerequisites: A basic understanding of how to create a canvas app in Power Apps.  This should include adding controls to the app and using a basic formula to edit a control.  Some understanding of working with data in Power Apps is helpful but not required.     
+iconUrl: /training/achievements/change-behaviors.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user
+- maker   
+- functional-consultant 
+products:  
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.change-behaviors.1-formulas-behaviors-overview
+- learn-bizapps.change-behaviors.2-understanding-true-false
+- learn-bizapps.change-behaviors.3-understanding-control-behaviors-actions
+- learn-bizapps.change-behaviors.4-controlling-visible-through-formula
+- learn-bizapps.change-behaviors.5-control-display-mode-through-formula
+- learn-bizapps.change-behaviors.6-combine-formulas-single-statement
+- learn-bizapps.change-behaviors.7-knowledge-check  
+- learn-bizapps.change-behaviors.8-summary
+badge: 
+  uid: learn-bizapps.author-basic-forumla-change-behaviors-powerapps.badge

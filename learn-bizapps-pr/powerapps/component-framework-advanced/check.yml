@@ -1,0 +1,72 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.component-framework-advanced.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/30/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+ ms.service: "power-platform"
+ ms.subservice: developer
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is required to use React with your code component?
+    choices:
+    - content: Copy the React framework files into your code component folder
+      isCorrect: false
+      explanation: Use the `--framework` React option on the Power Platform CLI.
+    - content: Use the `--framework` React option on the Power Platform CLI
+      isCorrect: true
+      explanation: This option configures your code component to use React.
+    - content: Manually edit package.json to include React
+      isCorrect: false
+      explanation: Use the `--framework` React option on the Power Platform CLI.
+    - content: Manually edit ControlInput.Manifest.xml to include React.
+      isCorrect: false
+      explanation: Use the `--framework` React option on the Power Platform CLI.
+  - content: Which method would you use to format a string into a specific language?
+    choices:
+    - content: formatLocale
+      isCorrect: false
+      explanation: formatLanguage is the method that you would use to format a string into a specific language.
+    - content: globalization.Localize
+      isCorrect: false
+      explanation: formatLanguage is the method that you would use to format a string into a specific language.
+    - content: formatLanguage
+      isCorrect: true
+      explanation: formatLanguage is the method that you would use to format a string into a specific language.
+    - content: setLanguage
+      isCorrect: false
+      explanation: formatLanguage is the method that you would use to format a string into a specific language.
+  - content: Which is the correct XML element that specifies usage of the Web API in a component in a control’s manifest?
+    choices:
+    - content: uses name="WebAPI" required="true"
+      isCorrect: false
+      explanation: The correct XML element that specifies usage of the Web API in a component in a control’s manifest is uses-feature name="WebAPI" required="true".
+    - content: uses-feature name="CommonDataServiceAPI" required="true"
+      isCorrect: false
+      explanation: The correct XML element that specifies usage of the Web API in a component in a control’s manifest is uses-feature name="WebAPI" required="true".
+    - content: uses-feature name="WebAPI" required="true"
+      isCorrect: true
+      explanation: The correct XML element that specifies usage of the Web API in a component in a control’s manifest is uses-feature name="WebAPI" required="true".
+    - content: uses name="CommonDataServiceAPI" required="true"
+      isCorrect: false
+      explanation: The correct XML element that specifies usage of the Web API in a component in a control’s manifest is uses-feature name="WebAPI" required="true".
+  - content: What is the name of the API that you can use to overlay a pop-up window within a Power Apps Component?
+    choices:
+    - content: ComponentFramework.Popup.Popup
+      isCorrect: false
+      explanation: ComponentFramework.FactoryApi.Popup.Popup is the name of the API that you can use to overlay a pop-up window within a Power Apps Component.
+    - content: ComponentFramework.FactoryApi.PopupComponent
+      isCorrect: false
+      explanation: ComponentFramework.FactoryApi.Popup.Popup is the name of the API that you can use to overlay a pop-up window within a Power Apps Component.
+    - content: PowerAppComponent.FactoryApi.Popup.Popup
+      isCorrect: false
+      explanation: ComponentFramework.FactoryApi.Popup.Popup is the name of the API that you can use to overlay a pop-up window within a Power Apps Component.
+    - content: ComponentFramework.FactoryApi.Popup.Popup
+      isCorrect: true
+      explanation: ComponentFramework.FactoryApi.Popup.Popup is the name of the API that you can use to overlay a pop-up window within a Power Apps Component.

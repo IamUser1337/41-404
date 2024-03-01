@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-dynamics.get-started-with-form-processing.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 07/26/2023 
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+  
+durationInMinutes: 7
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What kind of documents can I use to train a Document Processing model? 
+    choices: 
+    - content: Just invoices 
+      isCorrect: false 
+      explanation: You can use any kind of document to train a Document Processing model
+    - content: Invoices and purchase orders  
+      isCorrect: false 
+      explanation: You can use any kind of document to train a Document Processing model
+    - content: Any kind of document 
+      isCorrect: true 
+      explanation: You can use any kind of document to train a Document Processing model
+  - content: How many sample documents do you need to train your model?
+    choices: 
+    - content: At least one
+      isCorrect: false
+      explanation: You must use at least five sample documents to train your model.
+    - content: At least five
+      isCorrect: true
+      explanation: You must use at least five sample documents to train your model.
+    - content: At least ten
+      isCorrect: false 
+      explanation: You must use at least five sample documents to train your model.
+  - content: Which one of the following places can you not use your Document processing model?
+    choices: 
+    - content: Flows
+      isCorrect: false
+      explanation: Your Document processing model cannot be used with model-driven apps.
+    - content: Canvas apps
+      isCorrect: false
+      explanation: Your Document processing model cannot be used with model-driven apps.
+    - content: Model-driven apps
+      isCorrect: true
+      explanation: Your Document processing model cannot be used with model-driven apps.

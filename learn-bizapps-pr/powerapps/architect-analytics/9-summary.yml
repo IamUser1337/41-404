@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.architect-analytics.9-summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of the Evaluate Power Platform analytics and AI as a solution architect module
+  ms.date: 03/09/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/9-summary.md)]

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-copilot.create-reports-copilot
+title: Create reports with Power BI Copilot
+metadata:
+  title: Create reports with Power BI Copilot
+  description: Create reports with Power BI Copilot.
+  ms.date: 11/8/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/3-create-reports-copilot.md)]

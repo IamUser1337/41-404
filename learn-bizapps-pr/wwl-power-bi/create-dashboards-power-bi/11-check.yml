@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-dashboards-power-bi.10-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Check your knowledge"
+  ms.date: 12/19/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "What is a dashboard?"
+    choices:
+    - content: "A canvas of report elements that can be built in Power BI Desktop."
+      isCorrect: false
+      explanation: "Incorrect. Dashboards cannot be created in Power BI Desktop."
+    - content: "A canvas of report elements that can be built in Power BI service."
+      isCorrect: true
+      explanation: "Correct. Dashboards can only be built in Power BI service."
+    - content: "The canvas in which you can view the semantic model of a report"
+      isCorrect: false
+      explanation: "Incorrect. The semantic model can be viewed in Power BI Desktop."
+  - content: "What is one way that reports and dashboards differ?"
+    choices:
+    - content: "They are the same."
+      isCorrect: false
+      explanation: "Incorrect. Reports and dashboards have similar functionalities but are different."
+    - content: "In reports, you can have multiple pages; in dashboards, you can have only one page."
+      isCorrect: true
+      explanation: "Correct. You can have only one-page dashboards, but you can have multiple page reports."
+    - content: "You can only build reports and dashboards in Power BI service."
+      isCorrect: false
+      explanation: "Incorrect. You can only build dashboards in Power BI service."
+  - content: "Where can you configure and set data alerts?"
+    choices:
+    - content: "Data alerts can be set only in Power BI service on specific visuals such as KPI cards, gauges, and cards."
+      isCorrect: true
+      explanation: "Correct. Data alerts can be set only in Power BI service on specific visuals."
+    - content: "Data alerts can be set in both Power BI service and Power BI Desktop on any kind of visual."
+      isCorrect: false
+      explanation: "Incorrect. Data alerts can be set only in Power BI service on specific visuals."
+    - content: "Data alerts can be set in Power BI service on any kind of visual."
+      isCorrect: false
+      explanation: "Data alerts can be set only on specific visuals such as KPI cards, gauges, and cards."

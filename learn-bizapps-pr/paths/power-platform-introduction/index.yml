@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn.wwl.power-platform-introduction
+metadata:
+  title: Learn the basics of Power BI Desktop, Power Automate, and PowerApps
+  description: Learn the basics of Power BI Desktop, Power Automate, and PowerApps
+  ms.date: 05/08/2020
+  author: wwlpublish
+  ms.author: ceperezb
+  ms.topic: learning-path
+title: Learn the basics of Power BI Desktop, Power Automate, and PowerApps
+prerequisites: |
+  - Access to Power BI Desktop
+  - Signed up for Power Automate
+  - Have a OneDrive for Business account
+  - Access to Microsoft Excel
+summary: |
+  This learning path provides introductory level information on PowerApps, Power Automate, and Power BI.
+iconUrl: /training/achievements/power-platform-introduction.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-user
+products:
+- power-apps
+- power-platform
+subjects:
+- productivity
+modules:
+- learn-bizapps.get-data-power-bi
+- learn-bizapps.flow-get-started
+- learn-bizapps.powerapps-get-started
+trophy:
+  uid: learn.wwl.power-platform-introduction.trohpy

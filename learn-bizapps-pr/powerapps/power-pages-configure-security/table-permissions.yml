@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-configure-security.table-permissions
+title: Table permissions
+metadata:
+  title: Table permissions
+  description: Learn how to define user access and scope with table permissions.
+  ms.date: 06/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/table-permissions.md)]

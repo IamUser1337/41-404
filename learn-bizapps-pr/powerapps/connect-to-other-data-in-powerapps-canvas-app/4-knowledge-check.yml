@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.connect-other-data.4-knowledge-check
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 01/03/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which one of the following statements is true about action-based data sources?
+    choices:
+    - content: A Forms control can't use action-based data sources.
+      isCorrect: true
+      explanation: A Forms control can't use action-based data sources.
+    - content: They're only used to send emails, not to retrieve data.
+      isCorrect: false
+      explanation: A Forms control can't use action-based data sources.
+    - content: Power Automate is the only application with action-based data sources.
+      isCorrect: false
+      explanation: A Forms control can't use action-based data sources.
+    - content: A Forms control can use action-based data sources.
+      isCorrect: false
+      explanation: A Forms control can't use action-based data sources.
+  - content: What is the relationship between Power Apps and Power Automate?
+    choices:
+    - content: Power Automate is just another data source for Power Apps.
+      isCorrect: false
+      explanation: Power Automate and Power Apps have a special connection.
+    - content: Power Automate and Power Apps enhance each other and have a special connection.
+      isCorrect: true
+      explanation: Power Automate and Power Apps have a special connection.
+    - content: Power Automate is only available if you have a premium Power Apps license.
+      isCorrect: false
+      explanation: Power Automate and Power Apps have a special connection.
+    - content: Power Automate can receive data from Power Apps but can't return information.
+      isCorrect: false
+      explanation: Power Automate and Power Apps have a special connection.
+  - content: If you use business logic in your Power Apps app, which statement is true?
+    choices:
+    - content: It should always be in Power Automate, Power Apps can't do business logic.
+      isCorrect: false
+      explanation: Choose the best tool. Both tools can use business logic.
+    - content: It should always be in Power Apps; Power Automate can't do business logic.
+      isCorrect: false
+      explanation: Choose the best tool. Both tools can use business logic.
+    - content: Both Power Apps and Power Automate don't support Business logic.
+      isCorrect: false
+      explanation: Choose the best tool. Both tools can use business logic.
+    - content: Choose the best tool. Power Apps is great for simple logic, but integrating with Power Automate for the more complex logic will enhance your app's capabilities.
+      isCorrect: true
+      explanation: Choose the best tool. Both tools can use business logic.

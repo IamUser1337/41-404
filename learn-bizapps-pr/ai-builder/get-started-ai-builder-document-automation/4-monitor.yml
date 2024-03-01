@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-document-automation.4-monitor 
+title: Monitor and review processing documents with the document automation base kit
+metadata: 
+  title: Monitor and review processing documents with the document automation base kit
+  description: Learn to monitor incoming documents for review with validator, add approvals, and export to a target system.
+  ms.date: 01/31/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-monitor.md)] 

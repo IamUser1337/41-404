@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi.7-build-your-first-power-bi-report-quiz
+metadata:
+  title: "Knowledge check: Build your first Power BI report"
+  description: This knowledge check tests your knowledge of how to create reports.
+  ms.date: 05/04/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi
+  ms.topic: unit
+   
+title: Check your knowledge
+durationInMinutes: 10
+quiz:
+  title: "Knowledge check: Build your first Power BI report"
+  questions:
+  - content: Which of the following tools let you shape data sources?
+    choices: 
+    - content: The Power BI Gateway.
+      explanation: The Power Query Editor is the tool used to shape and transform data.
+      isCorrect: false
+    - content: The Relationships view in Power BI Desktop.
+      explanation: The Power Query Editor is the tool used to shape and transform data.
+      isCorrect: false
+    - content: The Power BI admin portal.
+      explanation: The Power Query Editor is the tool used to shape and transform data.
+      isCorrect: false
+    - content: Power Query Editor in either Power BI Desktop or Power BI Service.
+      explanation: The Power Query Editor is the tool used to shape and transform data.
+      isCorrect: true
+  - content: Which of the following statements is true about shaping data with Power BI Desktop?
+    choices:
+    - content: The order in which you shape or transform data doesn't matter, it all comes out the same.
+      explanation: The order of shaping operations does matter, and the data outcomes may be different based on which steps come before or after one another.
+      isCorrect: false
+    - content: When shaping or transforming data in Power BI Desktop, the source data remains unchanged.
+      explanation: This is true - source data remains unchanged, and all data shaping occurs on the data brought into (or accessed by) Power BI.
+      isCorrect: true
+    - content: When shaping or transforming data in Power BI Desktop, the source data is also shaped and transformed.
+      explanation: Whenever you connect to data in Power BI Desktop, the source data remains unchanged, and any shaping is done on the data brought into Power BI.
+      isCorrect: false
+  - content: What is the recommended method to share your reports?
+    choices:
+    - content: Copy the .PBIX file to a file folder, and give coworkers access to that folder.
+      explanation: While you can share a Power BI Desktop file (a .PBIX file) by putting it on a share, the recommended method to share reports is to publish them to the Power BI service.
+      isCorrect: false
+    - content: Publish them to the Power BI service.
+      explanation: Publishing your reports to the Power BI service is the recommended method to share your reports with others.
+      isCorrect: true
+    - content: Create a PDF of the report, and share the PDF with others.
+      explanation: You can create PDFs of Power BI reports, and share them with others. However, the recommended method to share reports is to publish them to the Power BI service.
+      isCorrect: false

@@ -1,0 +1,6 @@
+
+In this module, you learned about pulling data from many different data sources and into Power BI. You can pull data from files, relational databases, Azure Analysis Services, cloud-based applications, websites, and more. Retrieving data from different data sources requires treating each data source differently. For instance, Microsoft Excel data should be pulled in from an Excel table. Relational databases often have query timeouts. You can connect to SQL Server Analysis Services with Connect live, which allows you to see data changes in real-time.
+
+It's important to select the correct storage mode for your data. Do you require that visuals interact quickly but don’t mind possibly refreshing the data when the underlying data source changes? If so, select Import to import data into Power BI. If you prefer to see updates to data as soon as they happen at the cost of interactivity performance, then choose Direct Query for your data instead.
+
+In addition, you learned how to solve performance problems and data import errors. You learned that Power BI gives you tooling to identify where performance problems may exist. Data import errors can be alarming at first, but you can see that the resolution is easily implemented.

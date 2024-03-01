@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-waste-overview.waste-sustainability
+title: How is waste sustainability calculated?
+metadata:
+  title: How is waste sustainability calculated?
+  description: Learn how to calculate waste sustainability.
+  ms.date: 11/10/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/waste-sustainability.md)]

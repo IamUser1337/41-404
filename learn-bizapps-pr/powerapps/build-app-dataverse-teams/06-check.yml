@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-app-dataverse-teams.06-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/28/2023
+ author: jadaphillips 
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are some benefits of creating an app in Power Apps for Teams? Select the best answer.
+    choices: 
+    - content: You can build an app directly in Teams that uses Dataverse for Teams as the data source.
+      isCorrect: false 
+      explanation: Though your answer is partially correct, there are more benefits than this when you build an app in Teams.
+    - content: You can create and edit apps and workflows within Teams, and quickly publish and share them for anyone on the team to use, without having to switch between multiple apps and services.
+      isCorrect: false 
+      explanation: Though your answer is partially correct, there are more benefits than this when you build an app in Teams.
+    - content: You can build an app directly in Teams that uses Dataverse for Teams as the data source. You can also create and edit apps and workflows within Teams, and quickly publish and share them for anyone on the team to use, without having to switch between multiple apps and services. Also, ready-made templates are available for installation to help organizations realize value faster.
+      isCorrect: true 
+      explanation: That's right. All of these are benefits of building an app within Teams. 
+  - content: After creating a data table for your app, how can you adjust the view for what is displayed on the automatically created form on your app? (Select the best answer.)
+    choices: 
+    - content: Modify your data
+      isCorrect: false 
+      explanation: Though you can certainly change the data available to your form, taking this step won't modify the fields displayed on the form.
+    - content: Select your form control, then go to the properties pane on the right of your screen and select Edit fields to add/delete fields from your form.
+      isCorrect: true 
+      explanation: You got it!
+    - content: Insert a vertical gallery control and connect it to your data, then modify the gallery view to show the items you prefer
+      isCorrect: false 
+      explanation: After you create your data, a vertical gallery is already included, however, inserting/modifying a new one will not help you change what your form displays.
+  - content: By default, who can access a published Dataverse for Teams app?
+    choices: 
+    - content: Only the owner
+      isCorrect: false 
+      explanation: The owner is not the only person who can access a published app.
+    - content: Anyone on the team
+      isCorrect: true 
+      explanation: After the app has been published, all members of the team will have access to the app by default.
+    - content: Anyone in the organization
+      isCorrect: false 
+      explanation: The owner of the team must take other steps to share the app beyond the members of the team.

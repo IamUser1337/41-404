@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn.wwl.prepare-to-teach-module-visualize-report-data
+metadata:
+  title: 'Prepare to teach the module: Visualize report data'
+  description: "Prepare to teach the module: Visualize report data"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Visualize report data'
+summary: Explain, demonstrate, and deliver to your Data Analyst customers the “Working with parameters&quot; module of the instructor-led course “Power BI paginated reports”.
+abstract: |
+  Teach the module  “Working with parameters&quot; in the instructor-led course “Power BI paginated reports”.
+prerequisites: |
+  Experience with paginated reports
+iconUrl: /training/achievements/visualize-report-data.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+- azure-powerbi-embedded
+subjects:
+- productivity
+units:
+- learn.wwl.prepare-to-teach-module-visualize-report-data.introduction
+- learn.wwl.prepare-to-teach-module-visualize-report-data.part-1
+- learn.wwl.prepare-to-teach-module-visualize-report-data.lab-05a-develop-table-report-part-1
+- learn.wwl.prepare-to-teach-module-visualize-report-data.part-2
+- learn.wwl.prepare-to-teach-module-visualize-report-data.lab-05b-develop-table-report-part-2
+- learn.wwl.prepare-to-teach-module-visualize-report-data.knowledge-check
+- learn.wwl.prepare-to-teach-module-visualize-report-data.summary
+badge:
+  uid: learn.wwl.prepare-to-teach-module-visualize-report-data.badge

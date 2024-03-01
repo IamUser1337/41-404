@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cognitive-service-power-virtual-agents.call-your-service
+title: Call your service
+metadata:
+  title: Call your service
+  description: Learn how to use Power Automate to call your Azure AI Services for Language service in actions.
+  ms.date: 09/28/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/call-your-service.md)]

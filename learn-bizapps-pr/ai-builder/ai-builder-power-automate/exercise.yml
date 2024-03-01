@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-power-automate.exercise 
+title: Exercise - Create a flow to route Helpdesk requests to different mailboxes based on language
+metadata: 
+  title: Exercise - Create a flow to route Helpdesk requests to different mailboxes based on language
+  description: Use a flow template to create route requests based on language using the Language Detection AI model
+  ms.date: 11/30/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

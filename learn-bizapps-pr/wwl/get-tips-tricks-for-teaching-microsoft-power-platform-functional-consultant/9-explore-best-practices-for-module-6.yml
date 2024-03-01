@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-6
+title: Explore best practices for module 6
+metadata:
+  title: Explore best practices for module 6
+  description: "Explore best practices for module 6"
+  ms.date: 07/31/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](includes/9-explore-best-practices-for-module-6.md)]

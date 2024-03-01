@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-power-virtual-agents
+metadata:
+  title: Create copilots with Microsoft Copilot Studio
+  description: Learn how to create, manage, and maintain copilots with Microsoft Copilot Studio.
+  ms.date: 12/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.collection: bap-ai-copilot
+  ms.service: copilot-studio
+title: Create copilots with Microsoft Copilot Studio
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Get started creating bots with Microsoft Copilot Studio. This Learning Path introduces you to creating copilots.  You'll be introduced to important concepts such as how to create topics that will be used to drive conversations. You'll learn how to create custom entities that can be applied inside of topics to extract information. Finally, you'll learn how variables are used to capture and store information in a copilot.
+prerequisites: Access to Microsoft Copilot Studio.
+iconUrl: /training/achievements/work-power-virtual-agents.svg
+levels:
+- intermediate
+roles: 
+- maker
+- administrator
+products:
+- ms-copilot
+subjects:
+- chatbot 
+modules:
+- learn-bizapps.power-virtual-agent-bots
+- learn-bizapps.manage-power-virtual-agent-topics
+- learn-bizapps.power-virtual-agents-entities
+- learn-bizapps.enhance-power-virtual-agent-bots
+- learn-bizapps.build-effective-bots
+trophy: 
+  uid: learn-bizapps.work-power-virtual-agents.trophy

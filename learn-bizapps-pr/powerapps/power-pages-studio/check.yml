@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-studio.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which workspace isn't part of Power Pages design studio?
+    choices:
+    - content: Data
+      isCorrect: false
+      explanation: The Pages, Styling, Data, and Set up workspaces are part of Power Pages design studio.
+    - content: Styling
+      isCorrect: false
+      explanation: The Pages, Styling, Data, and Set up workspaces are part of Power Pages design studio.
+    - content: Pages
+      isCorrect: false
+      explanation: The Pages, Styling, Data, and Set up workspaces are part of Power Pages design studio.
+    - content: Automation
+      isCorrect: true
+      explanation: The Pages, Styling, Data, and Set up workspaces are part of Power Pages design studio.
+  - content: What component can't be added to a webpage by using Power Pages design studio?
+    choices:
+    - content: List
+      isCorrect: false
+      explanation: The Gallery component isn't available to add to a webpage in design studio.
+    - content: Three-column section
+      isCorrect: false
+      explanation: The Gallery component isn't available to add to a webpage in design studio.
+    - content: Gallery
+      isCorrect: true
+      explanation: The Gallery component isn't available to add to a webpage in design studio.
+    - content: IFrame
+      isCorrect: false
+      explanation: The Gallery component isn't available to add to a webpage in design studio.
+  - content: Where can custom layouts for Power Pages site be created?
+    choices:
+    - content: Microsoft Word
+      isCorrect: false
+      explanation: Custom layouts are page templates created by makers and developers in Portal Management app.
+    - content: Portal Management app
+      isCorrect: true
+      explanation: Custom layouts are page templates created by makers and developers in Portal Management app.
+    - content: Power Pages design studio
+      isCorrect: false
+      explanation: Custom layouts are page templates created by makers and developers in Portal Management app.
+    - content: Custom layouts are not supported
+      isCorrect: false
+      explanation: Custom layouts are page templates created by makers and developers in Portal Management app.

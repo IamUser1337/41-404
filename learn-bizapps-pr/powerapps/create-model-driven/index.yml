@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.create-model-driven
+metadata:
+ title: Create an accident tracking model-driven app in Power Apps
+ description: Learn how to create an employee accident tracking model-driven app in Microsoft Power Apps.
+ ms.date: 11/07/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Create an accident tracking model-driven app in Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to combine key table components into an employee accident tracking model-driven app in Power Apps. A model-driven app is a combination of tables, table relationships, table views, and forms that work cohesively so that users can track information efficiently.
+abstract: |
+    In this module, you will:
+    - Learn how to create a model-driven app in Power Apps.
+    - Publish the model-driven app.
+    - Discover the different components of model-driven apps.
+prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
+iconUrl: /training/achievements/create-model-driven.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.create-model-driven.1-introduction
+- learn-bizapps.create-model-driven.2-exercise
+- learn-bizapps.create-model-driven.3-navigate-model-driven
+- learn-bizapps.create-model-driven.4-exercise
+- learn-bizapps.create-model-driven.5-check
+- learn-bizapps.create-model-driven.6-summary
+badge:
+  uid: learn-bizapps.create-model-driven.badge

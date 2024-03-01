@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-excel.1-enable-compatibility 
+title: Enable compatibility with Excel
+metadata: 
+  title: Enable compatibility with Excel
+  description: Learn to enable compatibility with Excel. 
+  ms.date: 09/28/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-enable-compatibility.md)] 

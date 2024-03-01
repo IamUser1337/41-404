@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.model-security.6-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You need to automate the enabling access to a Dataverse environment for users who are new to the organization. What should you use?
+    choices: 
+    - content: Access teams
+      isCorrect: false
+      explanation: Access teams are used to share records from within the user interface to other users. Access teams don't enable access for new users.
+    - content: Owner teams
+      isCorrect: false
+      explanation: Owner teams can own records. The membership of an owner team is managed manually for existing users. Owner teams don't enable access for new users.
+    - content: Microsoft Entra ID group teams
+      isCorrect: true
+      explanation: Microsoft Entra ID group teams use the membership of the Microsoft Entra ID group to add new users to the environment. Associating a security role with the team will further enable the user to access without administrator effort inside of Dataverse.
+    - content: Default teams
+      isCorrect: false
+      explanation: A default team is created for each business unit. When a user is added to the environment, they are added to a default team. Default teams don't enable access for new users.
+  - content: You have a business unit structure with three child business units under the root - Unit A, Unit B, and Unit C. You need to allow users in Unit A to access the data in TableX, which is owned by users in Unit C. What should you do?
+    choices: 
+    - content: Share TableX rows in Unit C with users in Unit A.
+      isCorrect: false
+      explanation: Sharing each row with each user is highly inefficient and will lead to slow performance.
+    - content: Create a team in Unit C, and then add users in Unit A to the team.
+      isCorrect: true
+      explanation: Users in the team will have access to the data for the business unit where the team is located, that is, Unit C.
+    - content: Create a team in Unit A, and then add users in Unit C to the team.
+      isCorrect: false
+      explanation: This option will give the users in Unit C access to data in Unit A, which is not the requirement.
+    - content: Change the access levels for the TableX security role to Organization level.
+      isCorrect: false
+      explanation: Setting the access levels to Organization level will enable the users to access data in all business units, not only in Unit C.
+  - content: What security feature should you use for the management oversight pattern?
+    choices: 
+    - content: Column-level security
+      isCorrect: false
+      explanation: Column-level security is used to restrict access to individual pieces of data in columns, such as identifiable information.
+    - content: Business units
+      isCorrect: false
+      explanation: Business units are used to segment data between user communities. They are not used for management oversight.
+    - content: Sharing
+      isCorrect: false
+      explanation: Sharing is used to bypass the strict security model hierarchy that is imposed by business units and security roles.
+    - content: Hierarchical security
+      isCorrect: true
+      explanation: Hierarchical security allows a user to see the data for their direct reports so that they can perform oversight of the direct reports' work.

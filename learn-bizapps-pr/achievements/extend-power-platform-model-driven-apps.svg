@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="118px" viewBox="0 0 100 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Extending the Common Data Service Platform/extending-the-common-data-service-platform</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M42.7425,1.49663266 C44.3745,0.498877554 46.1865,0 48,0 C49.8135,0 51.627,0.498877554 53.256,1.49663266 L90.591,24.3316189 C93.933,26.3773408 96,30.2031485 96,34.3529027 L96,79.6470973 C96,83.7952317 93.933,87.6242789 90.591,89.6683811 L53.256,112.504987 C51.627,113.501122 49.8135,114 48,114 C46.1865,114 44.3745,113.501122 42.7425,112.504987 L5.409,89.6683811 C2.0655,87.6242789 0,83.7952317 0,79.6470973 L0,34.3529027 C0,30.2031485 2.0655,26.3773408 5.409,24.3316189 L42.7425,1.49663266 Z" id="path-1"></path>
+        <filter x="-10.5%" y="-12.2%" width="121.1%" height="120.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.099071558 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-23.5%" y="-30.8%" width="147.1%" height="161.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-23.5%" y="-30.8%" width="147.1%" height="161.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-23.5%" y="-30.8%" width="147.1%" height="161.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-23.5%" y="-30.8%" width="147.1%" height="161.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extending-the-Common-Data-Service-Platform" transform="translate(-50.000000, -50.000000)">
+            <g id="Extending-the-Common-Data-Service-Platform/extending-the-common-data-service-platform" transform="translate(50.000000, 50.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Trophy-1" fill="#55A2FF" xlink:href="#path-1"></use>
+                    <g id="Database" mask="url(#mask-2)">
+                        <g transform="translate(29.000000, 33.000000)">
+                            <g filter="url(#filter-3)">
+                                <g id="Lower" transform="translate(0.556777, 25.442177)">
+                                    <path d="M18.4432234,13.3859986 C8.61250834,13.3859986 0.642019093,10.3744811 0.642019093,6.65718585 L0.642019093,15.6289361 C0.642019093,19.3462313 8.61250834,22.3577488 18.4432234,22.3577488 C28.2746803,22.3577488 36.2444278,19.3462313 36.2444278,15.6289361 L36.2444278,6.65718585 C36.2444278,10.3744811 28.2746803,13.3859986 18.4432234,13.3859986" id="Fill-101" fill="#E1E4E1"></path>
+                                    <path d="M18.4432234,16.3519097 L18.4432234,19.3402502 C18.4432234,20.1888282 17.742301,20.8647001 16.9011941,20.8377848 C7.79216951,20.5424647 0.642019093,17.6543088 0.642019093,14.1336444 L0.642019093,15.6289361 C0.642019093,19.3462313 8.61250834,22.3577488 18.4432234,22.3577488 C28.2746803,22.3577488 36.2444278,19.3462313 36.2444278,15.6289361 L36.2444278,8.15247756 C36.2444278,11.6880948 29.0356817,14.5852225 19.8717701,14.8596085 C19.0751662,14.8835332 18.4432234,15.5481904 18.4432234,16.3519097" id="Fill-106" fill="#D3DAD8"></path>
+                                    <path d="M36.1487179,6.73469388 C36.1487179,10.4552381 28.2218205,13.4693878 18.4432234,13.4693878 C8.6653641,13.4693878 0.737728938,10.4552381 0.737728938,6.73469388 C0.737728938,3.01414966 8.6653641,0 18.4432234,0 C28.2218205,0 36.1487179,3.01414966 36.1487179,6.73469388" id="Fill-100" stroke="#E1E4E1" stroke-width="0.25" fill="#BAC0C2"></path>
+                                </g>
+                                <g id="Mid" transform="translate(0.556777, 12.721088)">
+                                    <path d="M18.4432234,13.3971074 C8.61250834,13.3971074 0.642019093,10.3855899 0.642019093,6.66829472 L0.642019093,15.640045 C0.642019093,19.3573402 8.61250834,22.3688577 18.4432234,22.3688577 C28.2746803,22.3688577 36.2444278,19.3573402 36.2444278,15.640045 L36.2444278,6.66829472 C36.2444278,10.3855899 28.2746803,13.3971074 18.4432234,13.3971074" id="Fill-102" fill="#E1E4E1"></path>
+                                    <path d="M18.4432234,16.3630185 L18.4432234,19.351359 C18.4432234,20.1999371 17.742301,20.8758089 16.9011941,20.8488937 C7.79216951,20.5535736 0.642019093,17.6654176 0.642019093,14.1447533 L0.642019093,15.640045 C0.642019093,19.3573402 8.61250834,22.3688577 18.4432234,22.3688577 C28.2746803,22.3688577 36.2444278,19.3573402 36.2444278,15.640045 L36.2444278,8.16358644 C36.2444278,11.6992037 29.0356817,14.5963314 19.8717701,14.8707174 C19.0751662,14.8946421 18.4432234,15.5592993 18.4432234,16.3630185" id="Fill-107" fill="#D3DAD8"></path>
+                                    <path d="M36.1487179,6.73469388 C36.1487179,10.4552381 28.2218205,13.4693878 18.4432234,13.4693878 C8.6653641,13.4693878 0.737728938,10.4552381 0.737728938,6.73469388 C0.737728938,3.01414966 8.6653641,0 18.4432234,0 C28.2218205,0 36.1487179,3.01414966 36.1487179,6.73469388" id="Fill-103" stroke="#E1E4E1" stroke-width="0.25" fill="#BAC0C2"></path>
+                                </g>
+                                <g id="Top" transform="translate(0.556777, 0.000000)">
+                                    <path d="M18.4432234,13.4082163 C8.61250834,13.4082163 0.642019093,10.3966988 0.642019093,6.6794036 L0.642019093,15.6511539 C0.642019093,19.3684491 8.61250834,22.3799666 18.4432234,22.3799666 C28.2746803,22.3799666 36.2444278,19.3684491 36.2444278,15.6511539 L36.2444278,6.6794036 C36.2444278,10.3966988 28.2746803,13.4082163 18.4432234,13.4082163" id="Fill-104" fill="#E1E4E1"></path>
+                                    <path d="M18.4432234,16.3741274 L18.4432234,19.3624679 C18.4432234,20.211046 17.742301,20.8869178 16.9011941,20.8600026 C7.79216951,20.5646824 0.642019093,17.6765265 0.642019093,14.1558622 L0.642019093,15.6511539 C0.642019093,19.3684491 8.61250834,22.3799666 18.4432234,22.3799666 C28.2746803,22.3799666 36.2444278,19.3684491 36.2444278,15.6511539 L36.2444278,8.17469531 C36.2444278,11.7103126 29.0356817,14.6074403 19.8717701,14.8818263 C19.0751662,14.905751 18.4432234,15.5704081 18.4432234,16.3741274" id="Fill-108" fill="#D3DAD8"></path>
+                                    <path d="M35.4477583,6.73469388 C35.4477583,10.4552381 27.8346863,13.4693878 18.4432234,13.4693878 C9.05246908,13.4693878 1.4386886,10.4552381 1.4386886,6.73469388 C1.4386886,3.01414966 9.05246908,0 18.4432234,0 C27.8346863,0 35.4477583,3.01414966 35.4477583,6.73469388" id="Fill-105" stroke="#E1E4E1" stroke-width="2.25" fill="#C4CBCD"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group" filter="url(#filter-4)" mask="url(#mask-2)" fill="#FFFFFF">
+                        <g transform="translate(71.000000, 50.651481)" id="Rectangle">
+                            <rect x="0" y="3.79289322" width="13" height="5"></rect>
+                            <polygon transform="translate(10.000000, 6.500000) rotate(-45.000000) translate(-10.000000, -6.500000) " points="14.5 2 14.5 11 5.5 11"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group" filter="url(#filter-5)" mask="url(#mask-2)" fill="#FFFFFF">
+                        <g transform="translate(15.500000, 57.848519) scale(-1, 1) translate(-15.500000, -57.848519) translate(7.000000, 51.348519)" id="Rectangle">
+                            <rect x="0" y="3.79289322" width="13" height="5"></rect>
+                            <polygon transform="translate(10.000000, 6.500000) rotate(-45.000000) translate(-10.000000, -6.500000) " points="14.5 2 14.5 11 5.5 11"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group" filter="url(#filter-6)" mask="url(#mask-2)" fill="#FFFFFF">
+                        <g transform="translate(48.151481, 18.500000) rotate(-90.000000) translate(-48.151481, -18.500000) translate(39.651481, 12.000000)" id="Rectangle">
+                            <rect x="0" y="3.79289322" width="13" height="5"></rect>
+                            <polygon transform="translate(10.000000, 6.500000) rotate(-45.000000) translate(-10.000000, -6.500000) " points="14.5 2 14.5 11 5.5 11"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group" filter="url(#filter-7)" mask="url(#mask-2)" fill="#FFFFFF">
+                        <g transform="translate(48.848519, 94.500000) scale(-1, 1) rotate(-270.000000) translate(-48.848519, -94.500000) translate(40.348519, 88.000000)" id="Rectangle">
+                            <rect x="0" y="3.79289322" width="13" height="5"></rect>
+                            <polygon transform="translate(10.000000, 6.500000) rotate(-45.000000) translate(-10.000000, -6.500000) " points="14.5 2 14.5 11 5.5 11"></polygon>
+                        </g>
+                    </g>
+                </g>
+                <g id="Azure-Hex-Border" stroke="#0078D4" stroke-width="4">
+                    <path d="M45.5618501,3.25844398 L45.5621963,3.25823359 L6.67338401,26.8942953 C3.79673288,28.6432593 2,31.9508238 2,35.5582677 L2,82.4417323 C2,86.0486597 3.79764663,89.3586805 6.67318764,91.1055853 L45.560618,114.742485 C46.9289662,115.572418 48.4546283,116 50,116 C51.5458817,116 53.0723633,115.572188 54.4362178,114.743457 L93.3268764,91.1055464 C96.2016145,89.3583456 98,86.0476286 98,82.4417323 L98,35.5582677 C98,31.9518547 96.202529,28.6435953 93.3268966,26.8944659 L54.4351916,3.25759524 C53.0721095,2.42798656 51.5462432,2 50,2 C48.4542664,2 46.9292165,2.42775755 45.5618501,3.25844398 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

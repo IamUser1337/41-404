@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn.wwl.validate-power-platform-functional-consultant-skills
+metadata:
+  title: Validate your Power Platform Functional Consultant skills
+  description: "This learning path prepares you to complete the Microsoft Power Platform Functional Consultant challenge project and validate your skills. You should have already completed the following modules as part of the PL-200: Microsoft Power Platform Functional Consultant course. If you haven't, it's recommended that you take some time to complete these modules before beginning the challenge project."
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: learning-path
+title: Validate your Power Platform Functional Consultant skills
+prerequisites: |
+  *   The learning paths associated with the [PL-200: Microsoft Power Platform Functional Consultant exam](/certifications/exams/pl-200/) are recommended.
+summary: |
+  This learning path prepares you to complete the Microsoft Power Platform Functional Consultant challenge project and validate your skills. You should have already completed the following modules as part of the PL-200: Microsoft Power Platform Functional Consultant course. If you haven't, it's recommended that you take some time to complete these modules before beginning the challenge project.
+iconUrl: /training/achievements/generic-trophy.svg
+levels:
+- intermediate
+roles:
+- business-analyst
+- functional-consultant
+products:
+- power-apps
+- power-automate
+- power-platform
+subjects:
+- automation
+- business-applications
+- custom-app-development
+- data-modeling
+- solution-design
+modules:
+- learn-bizapps.powerapps-common-data-service
+- learn-bizapps.powerapps-design-model-driven-apps
+- learn-bizapps.powerapps-get-started
+- learn-bizapps.flow-get-started
+- learn.wwl.challenge-project-build-applications-automation-solutions
+trophy:
+  uid: learn.wwl.validate-power-platform-functional-consultant-skills.trophy

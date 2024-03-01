@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-conditionals.7-summary 
+title: Summary - Conditionals
+metadata: 
+  title: Summary - Conditionals
+  description: A summary of the module.
+  ms.date: 10/27/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-summary.md)] 

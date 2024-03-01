@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrate-flow-outlook.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When you're given multiple versions of actions within Power Automate, which version should you typically select?
+    choices: 
+    - content: The newest version to ensure that you're getting the latest features
+      isCorrect: true 
+      explanation: Using the newest version ensures that you have all up-to-date features.
+    - content: The version before the newest in case the newest version contains bugs
+      isCorrect: false 
+      explanation: Using the newest version ensures that you have all up-to-date features. All actions that are generally available (not in preview) have already gone through testing.
+    - content: The oldest version because it's likely to be simple and basic 
+      isCorrect: false 
+      explanation: The oldest version will likely lack functionality that would be useful for maximizing the efficacy of your solution.
+    - content: You should research the versions before selecting and then pick the one that's best for you
+      isCorrect: false 
+      explanation: The newer versions will almost always be the best choice for you, and it's not worthwhile to research every version while you're building a solution.
+  - content: What is a solution in Power Automate?
+    choices: 
+    - content: A group of apps that are packaged together for an organization
+      isCorrect: false
+      explanation: Solutions can include flows as well.
+    - content: A group of apps and flows that are packaged together for an organization
+      isCorrect: true 
+      explanation: You can also import and export entire solutions rather than the individual customizations.
+    - content: A group of flows that are packaged together for an organization
+      isCorrect: false 
+      explanation: Solutions can include apps as well.
+    - content: A system of flows that are triggered by each other
+      isCorrect: false 
+      explanation: Solutions are groups of apps and flows that might or might not trigger one another.
+  - content: Which of the following can't be done by using Outlook?
+    choices: 
+    - content: Trigger a flow
+      isCorrect: false
+      explanation: Flows can be triggered by many Outlook actions (sending and receiving emails, creating a new contact, and so on).
+    - content: Provide input variables to Power Automate
+      isCorrect: false 
+      explanation: You can use the information from emails or attachments to set the input variables for a desktop flow by using dynamic content inside a cloud flow.
+    - content: Create and edit flows
+      isCorrect: true 
+      explanation: Flows can only be created and edited through Power Automate.
+    - content: Use output variables that are provided by a desktop flow
+      isCorrect: false 
+      explanation: You can use output variables from a desktop flow inside a cloud flow and provide those variables to Outlook to send an email or perform other actions.

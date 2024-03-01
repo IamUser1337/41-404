@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-scripting.4-exercise-javascript
+title: Exercise - Use JavaScript to find the last day of the current month
+metadata:
+  title: Exercise - Use JavaScript to find the last day of the current month
+  description: Exercise - Use JavaScript to find the last day of the current month
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-exercise-javascript.md)]

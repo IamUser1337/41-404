@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-canvas-app.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to building your first canvas app with Power Apps
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-content.other-content-types 
+title: Embed other Power BI content types
+metadata: 
+  title: Embed other Power BI content types
+  description: Learn to embed other Power BI content types.
+  ms.date: 04/10/2022 
+  author: mberdugo
+  manager: kfollis  
+  ms.author: monaberdugo 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/other-content-types.md)] 

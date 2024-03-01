@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.connect-volunteer-engagement.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following details about an engagement opportunity is NOT visible by volunteers in the Volunteer Engagement portal?
+    choices: 
+    - content: Engagement preferences
+      isCorrect: false 
+      explanation: Incorrect. Engagement preferences are visible.
+    - content: Available shifts and number of hours for each shift
+      isCorrect: false 
+      explanation: Incorrect. If the engagement is shift-based, the available shifts are visible.
+    - content: Available shifts and the number of volunteers needed for each shift
+      isCorrect: false 
+      explanation: Incorrect. If the engagement is shift-based, the available shifts are visible.
+    - content: Names of other volunteers participating in the engagement
+      isCorrect: true 
+      explanation: Correct. It is not possible for volunteers to see the names of other volunteers participating in the engagement.
+  - content: When a volunteer applies for an engagement opportunity, what happens next?
+    choices: 
+    - content: The volunteer manager gets an email notification
+      isCorrect: false 
+      explanation: Incorrect. It is possible to set up email notifications for new applications using Power Automate if desired, but this doesn't happen automatically.
+    - content: The volunteer manager uploads new applications into Volunteer Management via Excel
+      isCorrect: false 
+      explanation: Incorrect. Applications made through Volunteer Engagement automatically create participation records in Volunteer Management.
+    - content: The application appears as a participation record in Volunteer Management
+      isCorrect: true 
+      explanation: Correct. Applications made through Volunteer Engagement automatically create participation records in Volunteer Management. The status will be "needs review" unless the engagement was set up for applications to be automatically approved.
+  - content: Which of the following is it NOT possible for a volunteer to update from the Volunteer Engagement portal?
+    choices: 
+    - content: Their address details
+      isCorrect: false 
+      explanation: Incorrect. Contact information such as address details can be changed via the portal.
+    - content: Their password
+      isCorrect: false 
+      explanation: Incorrect. Their password can be changed via the portal.
+    - content: Their volunteer groups
+      isCorrect: true 
+      explanation: Correct. Volunteer groups are only accessible by your organization's staff in Volunteer Management.

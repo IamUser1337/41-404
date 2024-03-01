@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-common-data-service.4b-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 12/01/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: When you create a Table, what are the two types of relationships you can create?
+    choices:
+    - content: One-to-many and One-to-one
+      isCorrect: false
+      explanation: Microsoft Dataverse doesn't support one-to-one relationships. The two types of relationships you can create are One-to-many and Many-to-many.
+    - content: One-to-many and Many-to-many
+      isCorrect: true
+      explanation: The two types of relationships you can create are One-to-many and Many-to-many.
+    - content: One-to-one and Many-to-one
+      isCorrect: false
+      explanation: Microsoft Dataverse doesn't support one-to-one relationships. The two types of relationships you can create are One-to-many and Many-to-many.
+  - content: How many apps can use the same Table?
+    choices:
+    - content: "1"
+      isCorrect: false
+      explanation: An unlimited number of apps can use the same table.
+    - content: "20"
+      isCorrect: false
+      explanation: An unlimited number of apps can use the same table.
+    - content: "100"
+      isCorrect: false
+      explanation: An unlimited number of apps can use the same table.
+    - content: Unlimited
+      isCorrect: true
+      explanation: An unlimited number of apps can use the same table.
+  - content: How can you create a Many-to-one relationship between two tables?
+    choices:
+    - content: Create a customer column
+      isCorrect: false
+      explanation: The customer column creates two relationships, one to Account and one to Contact.
+    - content: Create a choice column
+      isCorrect: false
+      explanation: A Choice column is a list of values, it doesn't create a relationship.
+    - content: Create a lookup column
+      isCorrect: true
+      explanation: Creating a lookup column creates a many-to-one relationship.
+    - content: Create a relationship role.
+      isCorrect: false
+      explanation: Relationship roles are used with connections and allow rows between two tables to be linked. Connections are type of many-to-many relationship and are enabled on a table's properties. Relationship roles are used to describe connections between table rows. Relationship roles don't create a relationship.

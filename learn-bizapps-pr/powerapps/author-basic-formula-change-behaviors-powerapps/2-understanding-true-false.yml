@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.change-behaviors.2-understanding-true-false
+title: Understanding true and false
+metadata: 
+  title: Understanding true and false 
+  description: Understanding true and false
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 7 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-understanding-true-false.md)] 
+

@@ -1,0 +1,28 @@
+### YamlMime:LearningPath
+uid: learn.wwl.distribute-power-bi-insights
+metadata:
+  title: Distribute Power BI insights
+  description: Distribute Power BI insights
+  ms.date: 07/31/2023
+  author: wwlpublish
+  ms.author: shlindsay
+  ms.topic: learning-path
+title: Distribute Power BI insights
+prerequisites: |
+  There are no pre-requisites for this learning path.
+summary: |
+  Use the Power BI service to publish and share your reports, enable mobile use, and distribute to consumers for data-driven decision making.
+iconUrl: /training/achievements/distribute-power-bi-insights.svg
+levels:
+- beginner
+roles:
+- data-analyst
+products:
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.publish-share-power-bi
+- learn-bizapps.explore-data-power-bi
+trophy:
+  uid: learn.wwl.distribute-power-bi-insights.trophy

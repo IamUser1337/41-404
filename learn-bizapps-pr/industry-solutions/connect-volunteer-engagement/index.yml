@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.connect-volunteer-engagement 
+metadata: 
+ title: Connect with volunteers using Volunteer Engagement
+ description: Volunteer Engagement is a self-service portal for volunteers to manage their profiles and engagements in Microsoft Cloud for Nonprofit.
+ ms.date: 11/01/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-nonprofit
+title: Connect with volunteers using Volunteer Engagement
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Volunteer Engagement is used to help volunteers sign up and manage their participation for engagement opportunities.  
+abstract: |  
+    In this module, you will: 
+    - Search, view, and apply for upcoming engagement opportunities as a volunteer
+    - Update your profile as a volunteer
+    - View upcoming engagements, select shifts, and view past engagements as a volunteer
+prerequisites: None
+iconUrl: /training/achievements/connect-volunteer-engagement.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.connect-volunteer-engagement.1-introduction 
+- learn-bizapps.connect-volunteer-engagement.2-volunteer-engagement-overview 
+- learn-bizapps.connect-volunteer-engagement.3-view-engagement-opportunities 
+- learn-bizapps.connect-volunteer-engagement.4-sign-engagement-opportunities 
+- learn-bizapps.connect-volunteer-engagement.5-update-profile-view-engagements 
+- learn-bizapps.connect-volunteer-engagement.6-check 
+- learn-bizapps.connect-volunteer-engagement.7-summary 
+badge: 
+  uid: learn-bizapps.connect-volunteer-engagement.badge

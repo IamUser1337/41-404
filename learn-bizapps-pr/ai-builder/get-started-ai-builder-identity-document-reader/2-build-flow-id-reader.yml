@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-identity-document-reader.2-build-flow-id-reader 
+title: Build a Power Automate flow by using ID reader 
+metadata: 
+  title: Build a Power Automate flow by using ID reader 
+  description: Learn to use the identity document reader (ID reader) to build a flow.
+  ms.date: 07/06/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-build-flow-id-reader.md)] 

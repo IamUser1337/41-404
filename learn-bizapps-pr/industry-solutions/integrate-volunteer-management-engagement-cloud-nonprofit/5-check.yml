@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What can be used to track appointments with volunteers in Volunteer Management?
+    choices: 
+    - content: Microsoft Exchange
+      isCorrect: false
+      explanation: Dynamics 365 app for Outlook can be used to track appointments with volunteers in Volunteer Management.
+    - content: Dynamics 365 app for Outlook
+      isCorrect: true 
+      explanation: Dynamics 365 app for Outlook can be used to track appointments with volunteers in Volunteer Management.
+    - content: Insights add in for Outlook
+      isCorrect: false 
+      explanation: Dynamics 365 app for Outlook can be used to track appointments with volunteers in Volunteer Management.
+    - content: It is not possible to track appointments with from volunteers.
+      isCorrect: false 
+      explanation: Dynamics 365 app for Outlook can be used to track appointments with volunteers in Volunteer Management.
+  - content: In Fundraising and Engagement, it is possible to view a history of engagements that a volunteer has participated in.
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: This data is integrated between Fundraising and Engagement and Volunteer Management.
+    - content: No
+      isCorrect: false 
+      explanation: This data is integrated between Fundraising and Engagement and Volunteer Management.
+  - content: It is possible to access documents you have stored about volunteers in Volunteer Management.
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: This is possible through the out-of-the-box SharePoint integration.
+    - content: No
+      isCorrect: false 
+      explanation: This is possible through the out-of-the-box SharePoint integration.

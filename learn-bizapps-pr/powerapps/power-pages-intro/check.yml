@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-intro.check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 01/04/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What data storage is used by Power Pages?
+    choices:
+    - content: SharePoint
+      isCorrect: false
+      explanation: Power Pages uses Microsoft Dataverse to store site configuration, layout, content, and to create, update, or read business information.
+    - content: Microsoft Dataverse
+      isCorrect: true
+      explanation: Power Pages uses Microsoft Dataverse to store site configuration, layout, content, and to create, update, or read business information.
+    - content: Azure SQL Server
+      isCorrect: false
+      explanation: Power Pages uses Microsoft Dataverse to store site configuration, layout, content, and to create, update, or read business information.
+    - content: Any relational database
+      isCorrect: false
+      explanation: Power Pages uses Microsoft Dataverse to store site configuration, layout, content, and to create, update, or read business information.
+  - content: What component is used by Power Pages to display multiple rows of data from a Dataverse table?
+    choices:
+    - content: List
+      isCorrect: true
+      explanation: A list displays data in a grid view on Power Pages sites. Lists on pages are created from Dataverse table views.
+    - content: Gallery
+      isCorrect: false
+      explanation: A list displays data in a grid view on Power Pages sites. Lists on pages are created from Dataverse table views.
+    - content: Grid
+      isCorrect: false
+      explanation: A list displays data in a grid view on Power Pages sites. Lists on pages are created from Dataverse table views.
+    - content: Repeater
+      isCorrect: false
+      explanation: A list displays data in a grid view on Power Pages sites. Lists on pages are created from Dataverse table views.
+  - content: What is the primary maker's tool to create and customize Power Pages site? 
+    choices:
+    - content: Dynamics 365 Customer Service app
+      isCorrect: false
+      explanation: Power Pages design studio is the primary maker's tool that allows to quickly create and customize a website. Pages, Styling, Data, and Set up workspaces allow customization of many aspects of a website within a single interface.
+    - content: Visual Studio Code
+      isCorrect: false
+      explanation: Power Pages design studio is the primary maker's tool that allows to quickly create and customize a website. Pages, Styling, Data, and Set up workspaces allow customization of many aspects of a website within a single interface.
+    - content: Power Pages design studio
+      isCorrect: true
+      explanation: Power Pages design studio is the primary maker's tool that allows to quickly create and customize a website. Pages, Styling, Data, and Set up workspaces allow customization of many aspects of a website within a single interface.
+    - content: Power Pages universal studio
+      isCorrect: false
+      explanation: Power Pages design studio is the primary maker's tool that allows to quickly create and customize a website. Pages, Styling, Data, and Set up workspaces allow customization of many aspects of a website within a single interface.
+  - content: What Power Pages feature can you use to restrict public access to the site during development?
+    choices:
+    - content: Site under construction setting
+      isCorrect: false
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. Setting visibility to private limits site access to specific people in your organization and is useful if your site is in development.
+    - content: Table permissions
+      isCorrect: false
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. Setting visibility to private limits site access to specific people in your organization and is useful if your site is in development.
+    - content: Site visibility
+      isCorrect: true
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. Setting visibility to private limits site access to specific people in your organization and is useful if your site is in development.
+    - content: Page permissions
+      isCorrect: false
+      explanation: The Power Pages site visibility feature allows you to manage who has access to your website. Setting visibility to private limits site access to specific people in your organization and is useful if your site is in development.

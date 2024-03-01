@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-real-estate-power-automate-copilot.exercise
+title: Exercise - Create an approval flow with Copilot in Power Automate
+metadata:
+  title: Exercise - Create an approval flow with Copilot in Power Automate
+  description: Follow the steps to create an approval flow with Copilot in Power Automate.
+  ms.date: 09/22/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 16
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

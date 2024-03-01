@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-analytics-microsoft.4-tasks
+title: Tasks of a data analyst
+metadata:
+  title: Tasks of a data analyst
+  description: "Learn about the tasks of a data analyst."
+  ms.date: 07/03/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](includes/4-tasks.md)]

@@ -1,0 +1,1 @@
+In this exercise, you learned about the steps that Alex and Reed took to set up Wide World Importers company profile, organizational data, and reference data. For more information, see [Set up a company profile](/industry/sustainability/setup-company-profile/?azure-portal=true).

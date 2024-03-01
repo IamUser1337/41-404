@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.configure-settings-fundraising-engagement.2-giving-levels 
+title: Giving levels
+metadata: 
+  title: Giving levels
+  description: Giving levels in Fundraising and Engagement provide the ability to categorize and segment constituents based on the total donations received. 
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-giving-levels.md)] 

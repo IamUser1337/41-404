@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.4-streamline
+title: Build an application for the front-line worker to streamline the update of a container state
+metadata: 
+  title: Build an application for the front-line worker to streamline the update of a container state
+  description: Learn how to build an application for the front-line worker to streamline the update of containers state.
+  ms.date: 04/27/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 45 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-streamline.md)] 

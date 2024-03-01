@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-analytics-power-bi.6-time-series-analysis 
+title: Conduct time series analysis
+metadata: 
+  title: Conduct time series analysis 
+  description: Learn how to conduct time series analysis.  
+  ms.date: 07/13/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-time-series-analysis.md)] 

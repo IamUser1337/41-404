@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.approvals-kit-workshop.first-approval 
+title: Create your first Approval Kit workflow
+metadata: 
+  title: Create your first Approval Kit workflow
+  description: Learn how to create your first Approval Kit workflow.
+  ms.date: 11/02/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/first-approval.md)] 

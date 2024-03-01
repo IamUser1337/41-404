@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-bi.describe-cleaning-transforming-data
+title: Describe cleaning and transforming data in Power BI Desktop
+metadata:
+  title: Describe cleaning and transforming data in Power BI Desktop
+  description: "Getting data ready to be used in Power BI Desktop."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 4
+content: |
+  [!include[](includes/4-describe-cleaning-transforming-data.md)]

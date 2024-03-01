@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.demonstrate-capabilities-power-pages.explore-power-pages
+title: Explore Power Pages
+metadata:
+  title: Explore Power Pages
+  description: "Introduction to Power Pages."
+  ms.date: 02/26/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 6
+content: |
+  [!include[](includes/2-explore-power-pages.md)]

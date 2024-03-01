@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-with-text-analytics 
+metadata:
+  title: Get started with Text Analytics for health 
+  description: Learn how to use Text Analytics for health in Microsoft Cloud for Healthcare.
+  ms.date: 02/19/2024
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Text Analytics for health 
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Cloud for Healthcare provides Text Analytics for health to get valuable insights. With Text Analytics for health, a feature of Microsoft Azure Cognitive Services, you can convert unstructured health data into structured health data. 
+
+  In this Learning Path, you’ll gain a foundational understanding of Text Analytics for health. You'll dive into the basics of Azure Cognitive Services and Text Analytics outputs. You'll be guided through practical hands-on exercises as you use Text Analytics for health as a cloud service or deploy it by using a Docker container. You'll learn how to use the Language studio, REST API and SDKs. 
+prerequisites: |
+  - None 
+iconUrl: /learn/achievements/get-started-with-text-analytics.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions
+- mscloud-healthcare
+subjects:
+- business-applications
+modules:
+- learn-bizapps.healthcare-text-analytics 
+- learn-bizapps.work-health-text-analytics
+- learn-bizapps.healthcare-text-analytics-fhir 
+trophy:
+  uid: learn.get-started-with-text-analytics.trophy

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cognitive-service-power-virtual-agents.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/28/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You're using the Call an action conversation node to initiate a Power Automate flow. What do you call the values that are returned to Microsoft Copilot Studio from the Power Automate flow?
+    choices:
+    - content: Inputs
+      isCorrect: false
+      explanation: Incorrect. When implementing Power Automate flows from a Power Virtual Agent bot, you’ll use input and output parameters to pass information back and forth. Input parameters help define what information the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate returns to the bot.
+    - content: Entities
+      isCorrect: false
+      explanation: Incorrect. When implementing Power Automate flows from a Power Virtual Agent bot, you’ll use input and output parameters to pass information back and forth. Input parameters help define what information the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate returns to the bot.
+    - content: Outputs
+      isCorrect: true
+      explanation: Correct. When implementing Power Automate flows from a Power Virtual Agent bot, you’ll use input and output parameters to pass information back and forth. Input parameters help define what information the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate returns to the bot.
+    - content: Topics
+      isCorrect: false
+      explanation: Incorrect. When implementing Power Automate flows from a Power Virtual Agent bot, you’ll use input and output parameters to pass information back and forth. Input parameters help define what information the Power Automate flow will capture from the bot. Output parameters contain the values that Power Automate returns to the bot.
+  - content: Which setting on the Test bot panel lets you monitor a test conversation that spans across multiple topics?
+    choices:
+    - content: Switch between topics
+      isCorrect: false
+      explanation: Incorrect. When you enable the Track between topics option on the test panel, each topic that’s being tested will display in the conversation panel. This option lets you monitor each topic individually while it’s being tested. It also lets you engage with multiple topics in a single test session.
+    - content: Monitor between topics
+      isCorrect: false
+      explanation: Incorrect. When you enable the Track between topics option on the test panel, each topic that’s being tested will display in the conversation panel. This option lets you monitor each topic individually while it’s being tested. It also lets you engage with multiple topics in a single test session.
+    - content: Track between topics
+      isCorrect: true
+      explanation: Correct. When you enable the Track between topics option on the test panel, each topic that’s being tested will display in the conversation panel. This option lets you monitor each topic individually while it’s being tested. It also lets you engage with multiple topics in a single test session.
+    - content: Follow between topics
+      isCorrect: false
+      explanation: Incorrect. When you enable the Track between topics option on the test panel, each topic that’s being tested will display in the conversation panel. This option lets you monitor each topic individually while it’s being tested. It also lets you engage with multiple topics in a single test session.
+  - content: What should you do at least once before deploying a bot to different channels, such as websites, Microsoft Teams, or Facebook?
+    choices:
+    - content: Publish the bot
+      isCorrect: true
+      explanation: Correct. Publishing a bot allows customers to engage with it. You’ll need to publish a bot at least once before making it available across multiple platforms and channels, such as Microsoft Teams or Facebook.
+    - content: Test the bot
+      isCorrect: false
+      explanation: Incorrect. Publishing a bot allows customers to engage with it. You’ll need to publish a bot at least once before making it available across multiple platforms and channels, such as Microsoft Teams or Facebook.
+    - content: Define synonyms
+      isCorrect: false
+      explanation: Incorrect. Publishing a bot allows customers to engage with it. You’ll need to publish a bot at least once before making it available across multiple platforms and channels, such as Microsoft Teams or Facebook.
+    - content: Create entities
+      isCorrect: false
+      explanation: Incorrect. Publishing a bot allows customers to engage with it. You’ll need to publish a bot at least once before making it available across multiple platforms and channels, such as Microsoft Teams or Facebook.

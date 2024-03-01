@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-test-studio.exercise-create-record-test 
+title: Exercise - Create and record a test by using Test Studio
+metadata: 
+  title: Exercise - Create and record a test by using Test Studio
+  description: Follow the steps to create and record a test by using Test Studio.
+  ms.date: 09/27/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-create-record-test.md)] 

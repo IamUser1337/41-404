@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-apps.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/10-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "You want to build a mobile app that allows you complete control over the user experience and design. What type of Power Apps app should you build?"
+    choices:
+    - content: "A model-driven app"
+      isCorrect: false
+      explanation: "Incorrect. With a model-driven app, you start from your data model, choose things such as views and business process flows, and then Power Apps automatically generates you an app."
+    - content: "A portal app"
+      isCorrect: false
+      explanation: "Incorrect. Portals are used to build a web-based experience that can be either authenticated or anonymous."
+    - content: "A canvas app"
+      isCorrect: true
+      explanation: "Correct. With canvas apps, you start with a blank canvas choosing your type of mobile or tablet. Then you can design the app to meet your \"pixel perfect\" design."
+  - content: "Your sales team is in desperate need of a mobile application that can display rows living in a SharePoint list. When the records are displayed, multiple pieces of information about each record need to be visible to the user. Which of the following Power Apps tools would you use when designing your app to achieve this functionality?"
+    choices:
+    - content: "Create a gallery to display the sales rows."
+      isCorrect: true
+      explanation: "Correct. Galleries are used to display tables of data from your data source. They're highly customizable, so you can show whatever information about a particular row that is necessary. You could then use a form to edit individual records, if desired."
+    - content: "Create a form to display the sales rows."
+      isCorrect: false
+      explanation: "Incorrect. Forms are used to display and edit specific items, not multiple rows of data."
+    - content: "Create an input control to display the sales rows."
+      isCorrect: false
+      explanation: "Incorrect. Input controls allow the user to type text, press a button, or perform other functions. They aren't used to display table data, which is what you would need to show these SharePoint rows."
+  - content: "What is the purpose of the Copilot feature in Power Apps?"
+    choices:
+    - content: "Provides suggestions for code snippets to be used in Power BI reports."
+      isCorrect: false
+      explanation: "Incorrect. This answer describes a feature of Power BI, not Power Apps."
+    - content: "Enables users to make the processing, building and using of Power Apps easier."
+      isCorrect: true
+      explanation: "Correct. Copilot assists both makers and users of Power Apps."
+    - content: "Enables users to collaborate on app development projects."
+      isCorrect: false
+      explanation: "Incorrect. While collaboration is an important aspect of app development, it isn't the primary purpose of the Copilot feature."
+  - content: "How can data sources be used with Power Apps canvas apps?"
+    choices:
+    - content: "Power Apps can only use its internal data sources."
+      isCorrect: false
+      explanation: "Incorrect. Power Apps supports both internal and external data sources with more than 1,000 connectors."
+    - content: "Power Apps uses only external data sources and doesn't have an internal data source."
+      isCorrect: false
+      explanation: "Incorrect. Power Apps is built on top of the Microsoft Dataverse and can use this internal data source."
+    - content: "Power Apps can use multiple internal and external data sources in the same app."
+      isCorrect: true
+      explanation: "Correct. Power Apps allows you complete control of which data sources you use in your app. There are over 1,000 data connectors available, and the ability to build a custom connector if one doesn't exist."

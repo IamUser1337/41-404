@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.introduction-power-apps-cards.send-cards-teams
+title: Send Power Apps cards
+metadata:
+  title: Send Power Apps cards
+  description: Learn how to send Power Apps cards.
+  ms.date: 12/11/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/send-cards-teams.md)]

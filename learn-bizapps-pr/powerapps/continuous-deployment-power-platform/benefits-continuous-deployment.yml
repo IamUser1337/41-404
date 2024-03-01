@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.continuous-deployment-power-platform.benefits-continuous-deployment
+title: Benefits of continuous deployment
+metadata:
+  title: Benefits of continuous deployment
+  description: Learn about the benefits of continuous deployment.
+  ms.date: 05/06/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/benefits-continuous-deployment.md)]

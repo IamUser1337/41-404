@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.training-environment-preparation-healthcare.3-trial
+title: Obtain other trial licenses
+metadata:
+  title: Obtain other trial licenses
+  description: Learn how to obtain other trial licenses.
+  ms.date: 10/27/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: interactive-tutorial
+  ms.service: microsoft-cloud-healthcare
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-trial.md)]
+

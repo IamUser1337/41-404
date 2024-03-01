@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-subflows-web-automation-online-workshop.exercise-advanced
+title: Exercise - Advanced Power Automate Desktop features
+metadata:
+  title: Exercise - Advanced Power Automate Desktop features
+  description: Follow the steps to use advanced features to convert the total amount to another currency and then write it to Excel.
+  ms.date: 11/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-advanced.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-teams.personalize-greeting 
+title: Exercise - Personalize the greeting  
+metadata: 
+  title: Exercise - Personalize the greeting  
+  description: Learn about two special user-related variables, known as claim variables, that you can use to personalize your chatbot conversations.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/personalize-greeting.md)] 

@@ -1,0 +1,14 @@
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.1-understand-controls
+title: Introduction to controls
+metadata:
+  title: Introduction to controls
+  description: Introduction to controls in a canvas app in Power Apps.
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-understand-controls.md)]

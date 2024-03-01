@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-analytics.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 03/31/2021 
+ author: maggiesMSFT 
+ manager: kfollis 
+ ms.author: maggies 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which functions are similar between Tableau and Power BI?
+    choices: 
+    - content: Ask data and Q&A visuals
+      isCorrect: true 
+      explanation: The ask data and Q&A visuals allow users to get insights into their data by asking questions.
+    - content: Analytics pane and what-if analysis
+      isCorrect: false 
+      explanation: The Analytics pane is a tool that applies advanced analysis on your views, while the what-if analysis is a parameter that lets you visualize different values in your report.
+    - content: Show Me and Key influencers
+      isCorrect: false 
+      explanation: Show Me is a function that creates visualizations based on the fields that are already used in the view and any fields that you've selected in the Data pane, while Key influencers is a visual that finds the drivers behind your metrics.
+  - content: Which function allows users to ask questions from the data?
+    choices: 
+    - content: Get data
+      isCorrect: false
+      explanation: Get data allows users to get data from any of the data sources in Power BI.
+    - content: Q&A visual
+      isCorrect: true 
+      explanation: Q&A visual allows users to ask natural language questions and get answers in the form of visuals.
+    - content: Analytics pane
+      isCorrect: false 
+      explanation: The Analytics pane adds dynamic lines to visuals.
+  - content: What benefit does integration with R and Python provide?
+    choices: 
+    - content: The R and Python integration allows users to clean, edit, and modify your data, create visuals, and use complex scripts to pull data into Power BI.
+      isCorrect: true 
+      explanation: It's a power integration that uses both programming languages with extensive capability for analyzing and manipulating data, which can unlock more insights from your data.
+    - content: The R and Python integration allows users to make modifications to the application.
+      isCorrect: false 
+      explanation: This functionality would be harmful to Microsoft.
+    - content: The R and Python integration makes the application and your reports perform better through analysis.
+      isCorrect: false 
+      explanation: R and Python doesn't provide this functionality. It's an extension of Power BI that gives more analysis capabilities.

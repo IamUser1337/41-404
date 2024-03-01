@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 01/24/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: What are the four prioritized scenarios that Microsoft Cloud for Retail focuses on?
+    choices:
+    - content: Process the value of your data, increase the shopping experience, build a real-time, retail supply chain, encourage the store associate
+      isCorrect: false
+      explanation: The four prioritized scenarios are to maximize the value of your data, elevate the shopping experience, build a real-time retail supply chain, and empower the store associate.
+    - content: Transform your data, minimize the shopping experience, build a real-time, retail supply chain, energize the store associate
+      isCorrect: false
+      explanation: The four prioritized scenarios are to maximize the value of your data, elevate the shopping experience, build a real-time retail supply chain, and empower the store associate.
+    - content: Maximize the value of your data, elevate the shopping experience, build a real-time, retail supply chain, empower the store associate
+      isCorrect: true
+      explanation: The four prioritized scenarios are to maximize the value of your data, elevate the shopping experience, build a real-time retail supply chain, and empower the store associate.
+    - content: Complement the value of your data, build the shopping experience, build a real-time, retail supply chain, enlighten the store associate
+      isCorrect: false
+      explanation: The four prioritized scenarios are to maximize the value of your data, elevate the shopping experience, build a real-time retail supply chain, and empower the store associate.
+  - content: Which Microsoft technologies are used by Microsoft Cloud for Retail?
+    choices:
+    - content: Dynamics 365 and Microsoft Power Platform
+      isCorrect: false
+      explanation: Microsoft Cloud for Retail uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+    - content: Microsoft 365
+      isCorrect: false
+      explanation: Microsoft Cloud for Retail uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+    - content: Azure
+      isCorrect: false
+      explanation: Microsoft Cloud for Retail uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+    - content: All of the above
+      isCorrect: true
+      explanation: Microsoft Cloud for Retail uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+  - content: Which of the following principles helps Microsoft maintain data integrity in the cloud and protect customer information?
+    choices:
+    - content: Security
+      isCorrect: false
+      explanation: Security, privacy, and compliance are principles that help Microsoft maintain data integrity in the cloud and protect customer information.
+    - content: Privacy
+      isCorrect: false
+      explanation: Security, privacy, and compliance are principles that help Microsoft maintain data integrity in the cloud and protect customer information.
+    - content: Compliance
+      isCorrect: false
+      explanation: Security, privacy, and compliance are principles that help Microsoft maintain data integrity in the cloud and protect customer information.
+    - content: All of the above
+      isCorrect: true
+      explanation: Security, privacy, and compliance are principles that help Microsoft maintain data integrity in the cloud and protect customer information.

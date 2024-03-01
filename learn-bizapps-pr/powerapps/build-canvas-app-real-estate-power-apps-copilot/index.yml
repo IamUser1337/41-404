@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-canvas-app-real-estate-power-apps-copilot 
+metadata: 
+ title: Build a canvas app for a real estate solution with Copilot in Power Apps
+ description: Learn how to build a Power Apps canvas app for a real estate solution by using Copilot in Power Apps.
+ ms.date: 09/22/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module
+ ms.collection: bap-ai-copilot
+title: Build a canvas app for a real estate solution with Copilot in Power Apps
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  In this module, you explore AI to generate a table of data and create a new app within Power Apps by using the Copilot tool.
+abstract: | 
+    This module explains how to: 
+    - Create a canvas app by using Copilot in Power Apps.
+    - Customize the Dataverse table data that Copilot generates.
+    - Add more data to the table.
+prerequisites: |  
+    - A Power Apps developer environment (based in the United States region) with a licensed user to complete these exercises
+    - Complete the previous module in this learning path
+iconUrl: /learn/achievements/build-canvas-app-real-estate-power-apps-copilot.svg 
+levels: 
+- beginner 
+roles: 
+- maker 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.build-canvas-app-real-estate-power-apps-copilot.introduction 
+- learn-bizapps.build-canvas-app-real-estate-power-apps-copilot.exercise 
+- learn-bizapps.build-canvas-app-real-estate-power-apps-copilot.check 
+- learn-bizapps.build-canvas-app-real-estate-power-apps-copilot.summary 
+badge: 
+  uid: learn-bizapps.build-canvas-app-real-estate-power-apps-copilot.badge 

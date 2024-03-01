@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.4-powerapps-ways-to-build
+title: Power Apps data sources
+metadata:
+  title: Power Apps data sources
+  description: Learn the different ways you can build apps in Power Apps.
+  ms.date: 01/03/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-powerapps-ways-to-build.md)]

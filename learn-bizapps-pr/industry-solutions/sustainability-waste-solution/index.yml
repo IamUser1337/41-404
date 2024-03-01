@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.sustainability-waste-solution 
+metadata: 
+ title: Set up a waste sustainability solution by using Microsoft Sustainability Manager
+ description: This module guides you through interactive exercises to set up a waste sustainability solution by using Microsoft Sustainability Manager. In these exercises, you ingest waste quantity data, build reports, and review insights.
+ ms.date: 12/21/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.service: microsoft-cloud-sustainability
+ ms.topic: module-standard-task-based 
+title: Set up a waste sustainability solution by using Microsoft Sustainability Manager
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  Sustainable waste management features in Sustainability Manager help organizations unify, prepare, analyze, and report on waste quantity and quality characteristics. As a result, organizations can better file sustainability disclosures and meet compliance requirements on hazardous and radioactive waste that’s sent to landfills.
+  
+  This module guides you through interactive exercises to set up a waste sustainability solution by using Microsoft Sustainability Manager. In these exercises, you ingest waste quantity data, build reports, and review insights.  
+abstract: | 
+    This module explains how to: 
+    - Ingest waste quantity data.
+    - Review the waste quantity dashboards to gain insights.
+prerequisites: |  
+    - <a href="/training/modules/sustainability-setup-environment/" target="_blank">Set up your training environment</a>
+    - <a href="/training/modules/sustainability-setup-organization/" target="_blank">Set up organization and reference data</a>
+iconUrl: /learn/achievements/sustainability-waste-solution.svg
+levels: 
+- intermediate
+roles: 
+- business-user
+- functional-consultant
+products: 
+- industry-solutions
+- mscloud-sustainability 
+subjects: 
+- business-applications
+units: 
+- learn-bizapps.sustainability-waste-solution.introduction 
+- learn-bizapps.sustainability-waste-solution.exercise-import-data 
+- learn-bizapps.sustainability-waste-solution.exercise-review-waste-quantity-dashboard 
+- learn-bizapps.sustainability-waste-solution.check 
+- learn-bizapps.sustainability-waste-solution.summary 
+badge: 
+  uid: learn-bizapps.sustainability-waste-solution.badge

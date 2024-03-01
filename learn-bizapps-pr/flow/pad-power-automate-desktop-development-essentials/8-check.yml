@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-power-automate-desktop-development-essentials.8-check
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 08/01/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "In flow development, variables are:"
+    choices: 
+    - content: "Containers used to store and retrieve data."
+      isCorrect: true 
+      explanation: "That is correct! variables are used by actions to store or retrieve data."
+    - content: "Different possible situations that the flow might have to face."
+      isCorrect: false 
+      explanation: "That is false; variables are used by actions to store or retrieve data."
+    - content: "Actions that may or may not run, depending on the data the flow encounters."
+      isCorrect: false 
+      explanation: "That is false; variables are used by actions to store or retrieve data."
+    - content: "None of the above."
+      isCorrect: false 
+      explanation: "That is false; variables are used by actions to store or retrieve data."
+  - content: "How can a flow modify its behavior during runtime?"
+    choices: 
+    - content: "Using conditional actions."
+      isCorrect: true 
+      explanation: "That is correct! Conditional actions allow a flow to modify its behavior during runtime."
+    - content: "Using loop actions."
+      isCorrect: false 
+      explanation: "That is false; Conditional actions allow a flow to modify its behavior during runtime."
+    - content: "Using subflows."
+      isCorrect: false 
+      explanation: "That is false; Conditional actions allow a flow to modify its behavior during runtime."
+    - content: "This can't be achieved in a flow."
+      isCorrect: false 
+      explanation: "That is false; Conditional actions allow a flow to modify its behavior during runtime."
+  - content: "Which one of the following components does the UI elements tab store?"
+    choices: 
+    - content: "Images and UI elements"
+      isCorrect: false 
+      explanation: "The UI elements tab stores only the UI elements used in a flow. Images are stored into the images tab."
+    - content: "UI elements"
+      isCorrect: true 
+      explanation: "The UI elements tab stores only the UI elements used in a flow. Images are stored into the images tab."

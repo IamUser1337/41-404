@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to Microsoft Cloud for Retail overview
+  ms.date: 01/24/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.input-parameters.4-set-input-variable 
+title: Set input variables
+metadata: 
+  title: Set input variables
+  description: Learn how to edit values for input variables.
+  ms.date: 10/03/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-set-input-variable.md)] 

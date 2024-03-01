@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manufacturing-overview.unlock-innovation 
+title: Unlock innovation and introduce new products
+metadata: 
+  title: Unlock innovation and introduce new products
+  description: Learn how to unlock innovation and introduce new products.
+  ms.date: 12/22/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/unlock-innovation.md)] 

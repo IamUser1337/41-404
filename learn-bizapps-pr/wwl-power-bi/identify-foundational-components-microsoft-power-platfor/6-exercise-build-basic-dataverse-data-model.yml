@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-foundational-components-microsoft-power-platform.exercise-build-basic-dataverse-data-model
+title: Exercise - Build a basic Dataverse data model
+metadata:
+  title: Exercise - Build a basic Dataverse data model
+  description: "Hands-on exercise to build a Dataverse table."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/6-exercise-build-basic-dataverse-data-model.md)]

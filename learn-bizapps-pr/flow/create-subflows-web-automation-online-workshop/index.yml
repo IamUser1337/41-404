@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.create-subflows-web-automation-online-workshop
+metadata:
+ title: Create subflows and web automation with Power Automate for desktop - Online workshop
+ description: Learn how to create subflows and web automation by using Power Automate for desktop.
+ ms.date: 02/07/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Create subflows and web automation with Power Automate for desktop - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to create subflows and web automation to record invoice information into an existing Excel file. You also learn how to convert invoiced amounts from one currency to another by using real-time currency conversion rates, and then you log the converted amount into the Excel file. The Power Automate for desktop app lets you complete this type of task because it can automate against any website in addition to automating against Windows applications.
+abstract: |
+    This module shows you how to:
+    - Build a Power Automate Desktop subflow to write notes into Microsoft Excel.
+    - Create, test, and run a process with fixed value variables.
+    - Build web automation by using Power Automate for desktop.
+    - Learn how to scrape web data and write it to Excel.
+prerequisites: |
+   - Complete the **Install required software - Online workshop** module.
+   - Complete the **Add AI model to process invoice forms - Online workshop** module or import the provided solution in the resources folder.
+   - As you're recording actions that are performed in your UI in this module, we recommend that you view the module instructions on a separate device or in a printout. You can still complete the module while perusing the instructions during UI action recording. However, you need to perform extra work to cut the recorded actions of viewing the instructions from your flow.
+   This module is designed for use with the Power Automate: Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+iconUrl: /learn/achievements/create-subflows-web-automation-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+- business-user
+products:
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.create-subflows-web-automation-online-workshop.introduction
+- learn-bizapps.create-subflows-web-automation-online-workshop.import-solution
+- learn-bizapps.create-subflows-web-automation-online-workshop.exercise
+- learn-bizapps.create-subflows-web-automation-online-workshop.exercise-advanced
+- learn-bizapps.create-subflows-web-automation-online-workshop.check
+- learn-bizapps.create-subflows-web-automation-online-workshop.summary
+badge:
+  uid: learn-bizapps.create-subflows-web-automation-online-workshop.badge

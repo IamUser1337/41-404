@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-build-user-experience
+metadata:
+ title: Build user experience in Power Pages
+ description: Learn how to build a user experience in Power Pages.
+ ms.date: 06/08/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: power-pages
+title: Build user experience in Power Pages
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  A Power Pages maker should consider specific details when designing and building Power Pages websites. Implementing a website solution requires knowledge of the specific business requirements and needs of the customer. Along with being simplistic and well-designed, a successful website should provide functionality in consideration of geographical location, language, and accessibility needs. Additionally, makers should ensure that website metadata is backed up to source control and deployed to test and production environments in a consistent and structured way.
+abstract: |
+    In this module, you'll:
+    - Discover business requirements that you can meet with portal functionality and those that require deeper development or consideration of other technology.
+    - Learn how to design a portal, including page placement, site map best practices, and content planning.
+    - Identify how to ensure that websites are accessible.
+    - Learn how to set up and manage a multilingual website.
+prerequisites: |
+    - Basic understanding, usage, and navigation of Microsoft Power Pages
+    - Background in design and user experience and familiarity with accessibility standards, such as Web Content Accessibility Guidelines (WCAG), is also beneficial
+    - Familiarity with application lifecycle management (ALM) and Azure DevOps practices would be beneficial
+iconUrl: /training/achievements/power-pages-build-user-experience.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- administrator
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-build-user-experience.introduction
+- learn-bizapps.power-pages-build-user-experience.multilingual
+- learn-bizapps.power-pages-build-user-experience.reusable-content
+- learn-bizapps.power-pages-build-user-experience.navigation
+- learn-bizapps.power-pages-build-user-experience.themes
+- learn-bizapps.power-pages-build-user-experience.search
+- learn-bizapps.power-pages-build-user-experience.compliance
+- learn-bizapps.power-pages-build-user-experience.check
+- learn-bizapps.power-pages-build-user-experience.summary
+badge:
+  uid: learn-bizapps.power-pages-build-user-experience.badge

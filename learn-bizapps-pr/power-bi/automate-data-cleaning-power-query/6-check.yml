@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.automate-data-cleaning-power-query.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/09/2021 
+ author: DougKlopfenstein
+ ms.author: dougklo
+ ms.topic: unit
+durationInMinutes: 8
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the main purpose of using Power Query?
+    choices: 
+    - content: To build relationships to use in formulas
+      isCorrect: false 
+      explanation: The main purpose of using Power Query is to clean and transform data to use with data models.
+    - content: To clean and transform data to use with data models
+      isCorrect: true 
+      explanation: The main purpose of using Power Query is to clean and transform data to use with data models.
+    - content: To display information
+      isCorrect: false 
+      explanation: The main purpose of using Power Query is to clean and transform data to use with data models.
+    - content: To replace pivot tables
+      isCorrect: false 
+      explanation: The main purpose of using Power Query is to clean and transform data to use with data models.
+  - content: Which of the following data sources can Power Query connect to?
+    choices: 
+    - content: Excel
+      isCorrect: false 
+      explanation: Power Query can connect to Excel, CSV, and folder data sources. 
+    - content: CSV
+      isCorrect: false 
+      explanation: Power Query can connect to Excel, CSV, and folder data sources.
+    - content: Folders
+      isCorrect: false 
+      explanation: Power Query can connect to Excel, CSV, and folder data sources.
+    - content: All of the above
+      isCorrect: true 
+      explanation: Power Query can connect to Excel, CSV, and folder data sources.
+  - content: Which of the following selections isn't one of the five key areas of the Power Query Editor window?
+    choices: 
+    - content: Queries pane
+      isCorrect: false 
+      explanation: Conditional column isn't one of the five key areas of the Power Query Editor window.
+    - content: Preview
+      isCorrect: false 
+      explanation: Conditional column isn't one of the five key areas of the Power Query Editor window.
+    - content: Conditional column
+      isCorrect: true 
+      explanation: Conditional column isn't one of the five key areas of the Power Query Editor window.
+    - content: Query settings
+      isCorrect: false 
+      explanation: Conditional column isn't one of the five key areas of the Power Query Editor window.
+  - content: What language is used within the Power Query formula bar and is used to create custom columns?
+    choices: 
+    - content: MDX
+      isCorrect: false 
+      explanation: The M language is used in the formula bar and to create custom columns in Power Query.
+    - content: DAX
+      isCorrect: false 
+      explanation: The M language is used in the formula bar and to create custom columns in Power Query.
+    - content: M
+      isCorrect: true 
+      explanation: The M language is used in the formula bar and to create custom columns in Power Query.
+    - content: SQL
+      isCorrect: false 
+      explanation: The M language is used in the formula bar and to create custom columns in Power Query.

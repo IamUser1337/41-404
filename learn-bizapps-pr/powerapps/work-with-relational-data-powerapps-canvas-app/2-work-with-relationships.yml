@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-relational-data.2-work-with-relationships
+title: Work with relationships in Power Apps
+metadata:
+  title: Work with relationships in Power Apps
+  description: Working with relationships in Power Apps
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-work-with-relationships.md)]

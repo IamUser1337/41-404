@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.data-connectors
+title: Explore connectors and Microsoft Dataverse
+metadata:
+  title: Explore connectors and Microsoft Dataverse
+  description: "Explore connectors and Microsoft Dataverse and how they enable organizations to connect to data sources and manage business data."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 9
+content: |
+  [!include[](includes/4-explore-connectors-microsoft-dataverse.md)]

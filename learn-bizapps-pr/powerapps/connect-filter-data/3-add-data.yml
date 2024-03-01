@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.connect-filter-data.3-add-data
+title: Exercise - Add data in Dataverse
+metadata:
+  title: Exercise - Add data in Dataverse
+  description: Practice adding Dataverse data to your app.
+  ms.date: 01/31/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-add-data.md)]

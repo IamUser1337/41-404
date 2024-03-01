@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams 
+metadata: 
+ title: Create a copilot with Microsoft Copilot Studio and Dataverse for Teams
+ description: Learn how to create your first copilot by using Microsoft Copilot Studio and Microsoft Dataverse for Teams.
+ ms.date: 01/05/2024
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: copilot-studio
+
+title: Create a copilot with Microsoft Copilot Studio and Dataverse for Teams 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Employees who have quick access to information make better decisions, reduce errors, and save money. Copilots create a personalized experience that simplifies how employees get information. Microsoft Copilot Studio and Dataverse for Teams create intelligent copilots to quickly respond to employee needs without building high-code solutions. 
+abstract: |  
+    In this module, you will: 
+    - Learn how to create a copilot. 
+    - Discover how the copilot can call Microsoft Power Automate actions to retrieve data from Dataverse for Teams.
+    - Publish the copilot to your team or the whole company.
+prerequisites: None 
+iconUrl: /training/achievements/create-chatbot-power-virtual-agents-dataverse-teams.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+products:  
+ 
+- ms-copilot 
+subjects:
+- chatbot
+units:
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.1-introduction 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.2-create-first-chatbot 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.3-create-modify-topics 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.4-add-inputs-variables-conditions 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.5-call-action-pull-data 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.6-publish-share 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.7-check 
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.8-summary 
+badge: 
+  uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.badge

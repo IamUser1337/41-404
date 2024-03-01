@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.business-process-optimization-process-advisor.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/30/2023
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many recordings do you need to analyze a process?
+    choices: 
+    - content: At least 2
+      isCorrect: true 
+      explanation: You only need two recordings, but the more recordings you have, the greater your insights will be.
+    - content: At least 3
+      isCorrect: false 
+      explanation: You only need two recordings, but the more recordings you have, the greater your insights will be.
+    - content: At least 5
+      isCorrect: false 
+      explanation: You only need two recordings, but the more recordings you have, the greater your insights will be.
+    - content: At least 10
+      isCorrect: false 
+      explanation: You only need two recordings, but the more recordings you have, the greater your insights will be.
+  - content: What process advisor role does another user need to add recordings to YOUR process? 
+    choices: 
+    - content: Contributor
+      isCorrect: false 
+      explanation: Contributors or co-owners can add recordings. But contributors can only add, edit, or delete THEIR OWN recordings. Co-owners can add, edit, or delete ANY recordings in the process.
+    - content: Co-owner
+      isCorrect: true 
+      explanation: Contributors or co-owners can add recordings. But contributors can only add, edit, or delete THEIR OWN recordings. Co-owners can add, edit, or delete ANY recordings in the process.
+    - content: Contributor or co-owner
+      isCorrect: false 
+      explanation: Contributors or co-owners can add recordings. But contributors can only add, edit, or delete THEIR OWN recordings. Co-owners can add, edit, or delete ANY recordings in the process.
+    - content: No one can add recordings to your process, whatever their permissions.
+      isCorrect: false 
+      explanation: Contributors or co-owners can add recordings. But contributors can only add, edit, or delete THEIR OWN recordings. Co-owners can add, edit, or delete ANY recordings in the process.
+  - content: What is a variant?
+    choices: 
+    - content: A grouping of actions
+      isCorrect: false 
+      explanation: An activity is grouping of actions.
+    - content: A recording that fails to be analyzed and must be rerecorded 
+      isCorrect: false 
+      explanation: A recording will have a status of Failed if an error occurs and it needs to be rerecorded. 
+    - content: A specific path (same steps in the same sequence) that users take to complete a process 
+      isCorrect: true 
+      explanation: A variant is a deviation in the process where users take different paths. This is called out in the process map. 
+    - content: A recording that takes much longer than the others
+      isCorrect: false 
+      explanation: Many reasons exist for why a recording might take longer, but they aren't called variants.
+  - content: What connectors can automation recommendations suggest for improving your business processes and increasing efficiency? 
+    choices: 
+    - content: Automation recommendations only include Premium connectors. 
+      isCorrect: false 
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.
+    - content: Automation recommendations only include Office 365 connectors. 
+      isCorrect: false 
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.
+    - content: All connectors can be recommended, except AI Builder and Power Automate Desktop.
+      isCorrect: false 
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.
+    - content: All connectors that are relevant to your process will be suggested, including Power Automate Desktop to automate legacy applications.
+      isCorrect: true 
+      explanation: Recommendations include all connectors that are relevant to your process, including Power Automate for desktop to automate legacy applications.

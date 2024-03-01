@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-bots-power-virtual-agents-copilot.exercise 
+title: Exercise - Build a bot in Microsoft Copilot Studio with the new AI capabilities
+metadata: 
+  title: Exercise - Build a bot in Microsoft Copilot Studio with the new AI capabilities
+  description: Follow the steps to build a bot in Microsoft Copilot Studio by using the new AI capabilities.
+  ms.date: 09/25/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 25
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

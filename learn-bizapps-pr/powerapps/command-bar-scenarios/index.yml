@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.command-bar-scenarios
+metadata:
+ title: Common command bar scenarios
+ description: This module explores some of the common uses and techniques you can use when implementing logic for both the action and visibility on buttons.
+ ms.date: 12/19/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Common command bar scenarios
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module explores some common scenarios for customizing the command bars in Power Apps model-driven apps. Using Power Fx logic, you'll implement custom commands that handle various use cases. By combining these techniques, you'll provide app users with command bar commands that implement their unique requirements.
+abstract: |
+    In this module, you will:
+    - Implement a copy/clone of a data row from a command bar
+    - Dynamically use table permissions and definitions from command bar logic
+    - Improve the user experience using command bar commands using the Notify and Confirm functions
+    - Navigate to internal and external app content from command bar commands
+prerequisites: None
+iconUrl: /learn/achievements/command-bar-scenarios.svg
+levels:
+- intermediate
+roles:
+- developer
+- functional-consultant
+products:
+- power-apps
+subjects:
+- digital-application-innovation
+units:
+- learn-bizapps.command-bar-scenarios.introduction
+- learn-bizapps.command-bar-scenarios.duplicate-row
+- learn-bizapps.command-bar-scenarios.multiple-data-sources
+- learn-bizapps.command-bar-scenarios.data-source-record-information
+- learn-bizapps.command-bar-scenarios.notify-confirm
+- learn-bizapps.command-bar-scenarios.navigate-launch
+- learn-bizapps.command-bar-scenarios.check
+- learn-bizapps.command-bar-scenarios.summary
+badge:
+  uid: learn-bizapps.command-bar-scenarios.badge

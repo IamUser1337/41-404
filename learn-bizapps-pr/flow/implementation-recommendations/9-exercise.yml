@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.implementation-recommendations.9-exercise 
+title: Exercise - Manage a custom connector with a DLP policy 
+metadata: 
+  title: Exercise - Manage a custom connector with a DLP policy 
+  description: Practice managing a custom connector with a DLP policy. 
+  ms.date: 5/24/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 12 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/9-exercise.md)] 

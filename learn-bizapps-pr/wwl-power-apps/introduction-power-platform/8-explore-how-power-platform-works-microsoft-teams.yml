@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.explore-how-power-platform-works-microsoft-teams
+title: Explore how Power Platform works with Microsoft Teams
+metadata:
+  title: Explore how Power Platform works with Microsoft Teams
+  description: "Explore how Power Platform can be used from within Microsoft Teams."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 7
+content: |
+  [!include[](includes/8-explore-how-power-platform-works-microsoft-teams.md)]

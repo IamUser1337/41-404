@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.build-basic-power-automate-cloud-flow
+title: Build a basic Power Automate cloud flow
+metadata:
+  title: Build a basic Power Automate cloud flow
+  description: "Introduction to the process of building a Power Automate cloud flow."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+  [!include[](includes/7-build-basic-power-automate-cloud-flow.md)]

@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.healthcare-care-management 
+metadata: 
+ title: Manage healthcare data with Care Management in Microsoft Cloud for Healthcare
+ description: Learn how to manage healthcare data with the Microsoft Cloud for Healthcare solution.
+ ms.date: 10/30/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Manage healthcare data with Care Management in Microsoft Cloud for Healthcare
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  The Care Management application, as part of Microsoft Cloud for Healthcare, allows health organizations to view and manage their healthcare data in one place. It helps providers create, personalize, and view care plans, in addition to managing care teams, viewing clinical timelines, and acquiring health analytics.
+abstract: |  
+    In this module, you'll: 
+    - Explore the Microsoft Cloud for Healthcare data model.
+    - Navigate the Care Management application.
+    - Create a new location record for Lamna Healthcare Company.
+prerequisites: | 
+    [Microsoft Cloud for Healthcare training environment preparation](/training/modules/training-environment-preparation-healthcare/), an Azure subscription with administrator access, Omnichannel for Dynamics 365 Customer Service, and Power Apps Customer self-service portal
+iconUrl: /training/achievements/healthcare-care-management.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions 
+- mscloud-healthcare
+subjects:
+- business-applications
+units:
+- learn-bizapps.healthcare-care-management.1-introduction 
+- learn-bizapps.healthcare-care-management.2-explore-data-model 
+- learn-bizapps.healthcare-care-management.3-navigate-application 
+- learn-bizapps.healthcare-care-management.4-create-location 
+- learn-bizapps.healthcare-care-management.exercise-add-patient-information
+- learn-bizapps.healthcare-care-management.5-check 
+- learn-bizapps.healthcare-care-management.6-summary 
+badge: 
+  uid: learn-bizapps.healthcare-care-management.badge

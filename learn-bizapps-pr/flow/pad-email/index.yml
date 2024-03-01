@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-email 
+metadata: 
+ title: Automating email handling in Power Automate for desktop
+ description: In this module, we'll discuss how to automate email handling in Power Automate for desktop.
+ ms.date: 10/01/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: module
+ 
+title: Automating email handling in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Using email services is common in business procedures and critical for most organizations. Power Automate for desktop provides various actions that enable email handling for webmail services, Microsoft Outlook, and Exchange servers.
+abstract: |  
+    In this module, you will: 
+    - Become familiar with the email, Outlook, and Exchange actions.
+    - Create a flow that retrieves, processes, and sends emails.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), [flow development](../pad-power-automate-desktop-development-essentials/index.yml) and [variables](../pad-variables/index.yml).
+iconUrl: /training/achievements/pad-email.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant  
+products:  
+- power-automate 
+- power-platform   
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-email.1-introduction 
+- learn-bizapps.pad-email.2-webmail-services 
+- learn-bizapps.pad-email.3-outlook 
+- learn-bizapps.pad-email.4-exchange-server 
+- learn-bizapps.pad-email.5-exercise-confirm-support-tickets 
+- learn-bizapps.pad-email.6-check-knowledge 
+- learn-bizapps.pad-email.7-summary 
+badge: 
+  uid: learn-bizapps.pad-email.badge

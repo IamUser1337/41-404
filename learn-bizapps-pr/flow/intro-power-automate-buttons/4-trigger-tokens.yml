@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-power-automate-buttons.4-trigger-tokens 
+title: Use trigger tokens
+metadata: 
+  title: Use trigger tokens 
+  description: Learn about trigger tokens and how to use them.  
+  ms.date: 11/01/2021
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-trigger-tokens.md)] 

@@ -1,0 +1,2 @@
+Now that you’ve learned how to help your Data Analyst customers select the right tool or combination of tools for each job and the future, it’s time for a quick knowledge check.
+Choose the best response for each of the questions below. Then select “Check your answers.”

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-apps.build-basic-canvas-app
+title: Build a basic canvas app
+metadata:
+  title: Build a basic canvas app
+  description: "The process for building a canvas app."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 18
+content: |
+  [!include[](includes/6-build-basic-canvas-app.md)]

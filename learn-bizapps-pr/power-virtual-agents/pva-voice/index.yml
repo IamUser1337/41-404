@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.pva-voice 
+metadata: 
+ title: Set up a Microsoft Copilot Studio copilot for voice
+ description: This module explores how to set up a Microsoft Copilot Studio copilot to use voice.
+ ms.date: 1/12/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: copilot-studio
+title: Set up a Microsoft Copilot Studio copilot for voice
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Not only can copilots created in Microsoft Copilot Studio be leveraged in text based scenarios such as SMS and chat conversations with customers, but they can also be leveraged as interactive voice response (IVR). This module explores how to set up a Microsoft Copilot Studio copilot to use voice.
+abstract: |  
+  In this module, you’ll: 
+    - Explore the required setup for enabling a Microsoft Copilot Studio copilot for voice capabilities.
+    - Learn why you would enable a copilot for voice.
+    - Install the necessary extensions.
+    - Set up the handoff with your voice provider.
+prerequisites: None
+iconUrl: /learn/achievements/pva-voice.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- functional-consultant 
+products: 
+- ms-copilot
+subjects: 
+- chatbot 
+units: 
+- learn-bizapps.pva-voice.introduction 
+- learn-bizapps.pva-voice.setup-extensions 
+- learn-bizapps.pva-voice.configure-handoff 
+- learn-bizapps.pva-voice.enabling-voice 
+- learn-bizapps.pva-voice.check 
+- learn-bizapps.pva-voice.summary 
+badge: 
+  uid: learn-bizapps.pva-voice.badge 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.input-parameters.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to input and output parameters in Microsoft Power Automate
+  ms.date: 10/03/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

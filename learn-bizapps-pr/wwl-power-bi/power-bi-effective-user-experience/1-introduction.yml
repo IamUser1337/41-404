@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-user-experience.1-introduction 
+title: Design reports to show details 
+metadata: 
+  title: Design reports to show details 
+  description: Introduction to report design elements that enhance user experience.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 9 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

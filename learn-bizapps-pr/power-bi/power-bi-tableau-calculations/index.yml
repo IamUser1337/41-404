@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-calculations 
+metadata: 
+ title: Create Power BI calculations for Tableau users
+ description: This module provides guidance on Power BI calculation concepts, and how to create and edit calculations.
+ ms.date: 03/31/2021  
+ author: minewiskan  
+ manager: kfollis 
+ ms.author: owend  
+ ms.topic: module
+ ms.service: powerbi  
+title: Create Power BI calculations for Tableau users
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module provides guidance on Power BI calculation concepts, and how to create and edit calculations.
+abstract: |  
+    In this module, you will: 
+    - Create and apply calculated columns, measures, and calculated tables in Power BI using Data Analysis Expressions (DAX).
+    - Understand the importance of context in Power BI calculations.
+    - Identify differences and similarities between Tableau and Power BI calculation concepts.
+prerequisites: Access to Power BI service, familiarity with Tableau, understanding of Tableau concepts of moderate to advanced calculations, level of detail (LOD) expressions, and granularity.
+iconUrl: /training/achievements/power-bi-tableau-calculations.svg  
+levels:  
+- beginner
+roles:  
+- business-user
+- maker
+products:  
+- power-platform 
+- power-bi 
+subjects:
+- data-analytics
+units:
+- learn-bizapps.power-bi-tableau-calculations.1-introduction 
+- learn-bizapps.power-bi-tableau-calculations.2-calculated-columns-measures 
+- learn-bizapps.power-bi-tableau-calculations.3-iterator 
+- learn-bizapps.power-bi-tableau-calculations.4-calculate 
+- learn-bizapps.power-bi-tableau-calculations.5-table-dax 
+- learn-bizapps.power-bi-tableau-calculations.6-lab 
+- learn-bizapps.power-bi-tableau-calculations.7-check 
+- learn-bizapps.power-bi-tableau-calculations.8-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-calculations.badge

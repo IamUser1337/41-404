@@ -1,0 +1,50 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-visuals 
+metadata: 
+ title: Create Power BI visuals for Tableau users
+ description: Learn about the basics of creating visuals in Power BI for those familiar with Tableau. This module features a lab.
+ ms.date: 07/05/2023  
+ author: mihart 
+ manager: kfollis  
+ ms.author: mihart  
+ ms.topic: module
+ ms.service: powerbi  
+title: Create Power BI visuals for Tableau users 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module provides guidance on how to create visuals, report pages, and dashboards that bring quick, actionable insights.
+abstract: |  
+    In this module: 
+    - Learn the basics of creating visualizations.
+    - Identify basic tips and tricks on making pages more interactive and user-friendly.
+    - Create basic and customized pages that deliver insights.
+    - Identify how visualization processes and actions differ between Tableau and Power BI.
+prerequisites: |  
+    - Access to Power BI service
+    - Familiarity with Tableau
+    - Key Tableau concepts to understand are grouping fields in folders, editing default settings and field properties, and adding comments to fields.
+iconUrl: /training/achievements/power-bi-tableau-visuals.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- maker  
+products:  
+- power-platform 
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-tableau-visuals.1-introduction 
+- learn-bizapps.power-bi-tableau-visuals.2-build-visualization 
+- learn-bizapps.power-bi-tableau-visuals.3-format-visualization 
+- learn-bizapps.power-bi-tableau-visuals.4-tooltips 
+- learn-bizapps.power-bi-tableau-visuals.5-conditional-formatting 
+- learn-bizapps.power-bi-tableau-visuals.6-custom-visual 
+- learn-bizapps.power-bi-tableau-visuals.7-apply-filter 
+- learn-bizapps.power-bi-tableau-visuals.8-bookmark 
+- learn-bizapps.power-bi-tableau-visuals.9-lab 
+- learn-bizapps.power-bi-tableau-visuals.10-check 
+- learn-bizapps.power-bi-tableau-visuals.11-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-visuals.badge

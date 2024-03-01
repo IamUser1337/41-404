@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-licensing.2-included-premium-features 
+title: Included and premium AI Builder features
+metadata: 
+  title: Included and premium AI Builder features
+  description: Learn about included and premium AI Builder features.
+  ms.date: 04/30/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-included-premium-features.md)] 

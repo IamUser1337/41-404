@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.4-move-data-using-collect
+title: Move data between collections and data sources by using Collect
+metadata:
+  title: Move data between collections and data sources by using Collect
+  description: Move data between collections and data sources by using Collect
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-move-data-using-collect.md)]

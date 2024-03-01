@@ -1,0 +1,37 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-styling-workspace-online-workshop 
+metadata: 
+ title: Power Pages styling workspace - Online workshop
+ description: Learn about the styling workspace in Power Pages.
+ ms.date: 01/24/2024 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module
+ ms.service: power-pages
+title: Power Pages styling workspace - Online workshop
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  In this module, you'll customize the styles of your site to align with Contoso Coffee's branding. 
+abstract: | 
+    In this module, you'll: 
+    - Customize the styles of your site.
+    - Modify site colors.
+prerequisites: This module is part of a series of modules. Completion of the first module, [Introduction and prerequisites for Power Pages - Online workshop](/training/modules/power-pages-introduction-online-workshop/) is required.
+iconUrl: /learn/achievements/power-pages-styling-workspace-online-workshop.svg 
+levels: 
+- intermediate 
+roles: 
+- functional-consultant
+- maker
+products: 
+- power-platform
+- power-pages
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.power-pages-styling-workspace-online-workshop.introduction 
+- learn-bizapps.power-pages-styling-workspace-online-workshop.modify-styles 
+- learn-bizapps.power-pages-styling-workspace-online-workshop.check 
+- learn-bizapps.power-pages-styling-workspace-online-workshop.summary 
+badge: 
+  uid: learn-bizapps.power-pages-styling-workspace-online-workshop.badge 

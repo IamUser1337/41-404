@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-solution-explorer-online-workshop
+metadata:
+ title: Power Pages solution explorer - Online workshop
+ description: Learn how to set up a solution in Power Pages solution explorer.
+ ms.date: 01/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: power-pages
+title: Power Pages solution explorer - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you'll load the Power Apps in a Day solution configuration, run the Machine order app to generate sample data to work with, and set up your solution to contain all your Power Pages configuration.
+abstract: |
+    In this module, you'll:
+    - Install the StudentImport solution.
+    - Generate data.
+    - Set the solution.
+prerequisites: Latest version of Microsoft Edge or Google Chrome and completion of [Power Pages site design - Online workshop](/training/modules/power-pages-workspace-site-design-online-workshop/) module.
+iconUrl: /learn/achievements/power-pages-solution-explorer-online-workshop.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-solution-explorer-online-workshop.introduction
+- learn-bizapps.power-pages-solution-explorer-online-workshop.install-solution
+- learn-bizapps.power-pages-solution-explorer-online-workshop.generate-data
+- learn-bizapps.power-pages-solution-explorer-online-workshop.set-solution
+- learn-bizapps.power-pages-solution-explorer-online-workshop.check
+- learn-bizapps.power-pages-solution-explorer-online-workshop.summary
+badge:
+  uid: learn-bizapps.power-pages-solution-explorer-online-workshop.badge

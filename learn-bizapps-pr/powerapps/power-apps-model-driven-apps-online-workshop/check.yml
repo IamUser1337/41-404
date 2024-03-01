@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-model-driven-apps-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/31/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the data source for a model-driven app?
+    choices: 
+    - content: Microsoft Dataverse
+      isCorrect: true 
+      explanation: Correct. Microsoft Dataverse is the relational database that's the data source for all model-driven apps.
+    - content: Microsoft Excel
+      isCorrect: false 
+      explanation: Incorrect. It's possible to integrate with Excel, but it isn't a data source for model-driven apps from Power Apps.
+    - content: Any database with a connector
+      isCorrect: false 
+      explanation: Incorrect. Connectors are the way for canvas apps to receive data, but model-driven apps use Microsoft Dataverse.
+  - content: Why would you want a business process flow in your model-driven app?
+    choices: 
+    - content: To bring on-screen guidance to users
+      isCorrect: false 
+      explanation: Incorrect. A business process flow brings a step-by-step guide to users directly on the form where they're working. This flow helps improve user efficiency, reduces user error on data entry, and helps reduce ambiguity for users. It also allows users to know exactly what to do to complete the task at hand.
+    - content: To reduce user error on data entry 
+      isCorrect: false 
+      explanation: Incorrect. A business process flow brings a step-by-step guide to users directly on the form where they're working. This flow helps improve user efficiency, reduces user error on data entry, and helps reduce ambiguity for users. It also allows users to know exactly what to do to complete the task at hand.
+    - content: To increase user efficiency and reduce ambiguity
+      isCorrect: false 
+      explanation: Incorrect. A business process flow brings a step-by-step guide to users directly on the form where they're working. This flow helps improve user efficiency, reduces user error on data entry, and helps reduce ambiguity for users. It also allows users to know exactly what to do to complete the task at hand.
+    - content: All of these answers
+      isCorrect: true 
+      explanation: Correct. A business process flow brings a step-by-step guide to users directly on the form where they're working. This flow helps improve user efficiency, reduces user error on data entry, and helps reduce ambiguity for users. It also allows users to know exactly what to do to complete the task at hand.
+  - content: Your office users think that the list of machine orders shows too many columns, so they want you to make changes, where they only view the machine name, approval status, and price. How will you satisfy their needs?
+    choices: 
+    - content: Edit the Device Order Table form and remove all but the requested columns.
+      isCorrect: false 
+      explanation: Incorrect. Changing the form will only limit the input data.
+    - content: Create a new view or edit the existing view to show the requested columns.
+      isCorrect: true 
+      explanation: Correct. Creating a new view or editing the existing view will have the desired outcome.
+    - content: Create a new application with a view that has the requested columns.
+      isCorrect: false 
+      explanation: Incorrect. You don't need to create a new application. Creating a new view or editing the existing view will be the best way to satisfy the requested changes.

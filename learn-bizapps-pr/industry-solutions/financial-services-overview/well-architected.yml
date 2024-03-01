@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.financial-services-overview.well-architected
+title: Well Architected for Microsoft Cloud for Financial Services
+metadata: 
+  title: Well Architected for Microsoft Cloud for Financial Services
+  description: Learn about Well Architected for Microsoft Cloud for Financial Services.
+  ms.date: 01/31/2024 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok  
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/well-architected.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.4-5-exercise
+title: Exercise - Work with external data in a canvas app
+metadata:
+  title: Exercise - Work with external data in a canvas app
+  description: Exercise - Work with external data in a canvas app
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-5-exercise.md)]

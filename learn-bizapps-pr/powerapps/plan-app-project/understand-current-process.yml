@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-app-project.understand-current-process
+title: Analyze the current business process
+metadata:
+  title: Analyze the current business process
+  description: Learn how to analyze the manual process that your app replaces.
+  ms.date: 04/26/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/understand-current-process.md)]

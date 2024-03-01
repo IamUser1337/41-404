@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-organization-service.authenticate
+title: Authentication methods
+metadata:
+  title: Authentication methods
+  description: Learn to use built-in and custom Authentication methods.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/authenticate.md)]

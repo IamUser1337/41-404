@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.policy-templates-custom-connectors.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/12/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: A policy template is being applied to a custom connector action that you don't want it to run for. What should you do to fix the problem? 
+    choices: 
+    - content: Edit the action definition and turn off the policy template. 
+      isCorrect: false
+      explanation: You can't turn off a policy template by editing the action.
+    - content: Edit the policy template and ensure that the required triggers and actions are explicitly selected and the one that you don’t want to run isn't selected. 
+      isCorrect: true 
+      explanation: The list on the policy template controls which triggers and actions the policy is applied to.
+    - content: Edit the policy template and make sure that no triggers and actions are specified. 
+      isCorrect: false 
+      explanation: This approach will cause the policy template to run for all triggers and actions. 
+    - content: Edit the Excluded Actions property of the custom connector and make sure that the target action is selected. 
+      isCorrect: false 
+      explanation: Excluded Actions isn't a valid custom connector property. 
+  - content: You want to allow makers to configure the host name by providing the URL on the connection dialog box when they instantiate a connection by using your custom connector. What do you need to configure? 
+    choices: 
+    - content: Configure a Route Request policy template. 
+      isCorrect: false
+      explanation: You must add a connection property and configure a Set Host URL policy template.
+    - content: Set the User Prompt property of the Set Host URL policy template to Yes. 
+      isCorrect: false 
+      explanation: User Prompt isn't a valid property of the Set Host URL policy template.
+    - content: You must add a connection property and configure a Set Host URL policy template. 
+      isCorrect: true 
+      explanation: Both must be configured to allow the user to input the URL at connection creation time.
+    - content: Configure a Set Property policy template. 
+      isCorrect: false 
+      explanation: You must add a connection property and configure a Set Host URL policy template.
+  - content: The API that you're using returns categories in a single string field (for example, Categories A,B,C,D). Instead, you want it to be an array. What policy template would you configure? 
+    choices: 
+    - content: Configure a Convert object to an array policy template. 
+      isCorrect: false
+      explanation: You must use the Convert delimited string into an array of objects policy template.
+    - content: Configure a Convert delimited string into an array of objects policy template. 
+      isCorrect: true 
+      explanation: This action will allow you to specify the delimiter of “,” and separate the string into an array.
+    - content: Configure a Convert array to an object policy template. 
+      isCorrect: false 
+      explanation: You must use the Convert delimited string into an array of objects policy template.
+    - content: Configure a Split string policy template. 
+      isCorrect: false 
+      explanation: Split string isn't a valid policy template.

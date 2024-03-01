@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-data-model.6-summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of Microsoft Cloud for Healthcare data model
+  ms.date: 11/02/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-summary.md)]

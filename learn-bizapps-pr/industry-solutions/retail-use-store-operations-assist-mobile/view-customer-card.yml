@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist-mobile.view-customer-card
+title: Exercise - View a customer baseball card profile and create a virtual appointment
+metadata:
+  title: Exercise - View a customer baseball card profile and create a virtual appointment
+  description: Follow the steps to view a customer baseball card and then create a virtual appointment for that customer.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/view-customer-card.md)]

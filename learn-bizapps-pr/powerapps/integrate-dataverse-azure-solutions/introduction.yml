@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-dataverse-azure-solutions.introduction
+title: Microsoft Dataverse Azure Solutions overview
+metadata:
+  title: Dataverse Azure Solutions overview
+  description: Learn about Dataverse Azure Solutions.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

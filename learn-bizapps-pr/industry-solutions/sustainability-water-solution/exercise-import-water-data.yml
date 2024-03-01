@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-solution.exercise-import-water-data
+title: Exercise - Import water data
+metadata:
+  title: Exercise - Import water data
+  description: Follow the steps to import sample water data.
+  ms.date: 12/06/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-import-water-data.md)]

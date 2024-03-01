@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of the Working with Microsoft Dataverse Web API module
+  ms.date: 12/31/2019
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: power-platform
+  ms.subservice: developer
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

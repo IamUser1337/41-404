@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.6-powerapps-quiz-get-started
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you learned.
+  ms.date: 01/03/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Where do you configure and customize your app?
+    choices:
+    - content: In Power Apps Mobile
+      explanation: Incorrect. Power Apps Mobile allows you to run Power Apps apps on a mobile device but doesn't allow you to configure/customize your app. You must go to the Power Apps home page.
+      isCorrect: false
+    - content: In the Power Apps admin center
+      explanation: Incorrect. The Power Apps admin center isn't the place that you can configure/customize your app. That must happen from the Power Apps home page.
+      isCorrect: false
+    - content: In Microsoft Dynamics 365
+      explanation: Incorrect. Microsoft Dynamics 365 is a suite of pre-built model-driven apps, and it has nothing to do with canvas apps. You must go to the Power Apps home page to configure/customize your app.
+      isCorrect: false
+    - content: Power Apps home page (make.powerapps.com)
+      explanation: Correct. The Power Apps home page, accessible by make.powerapps.com, is the only place you can configure and customize an app.
+      isCorrect: true
+  - content: What type of data can you use in an app?
+    choices:
+    - content: Local data sources exclusively
+      explanation: Incorrect. Power apps can use multiple data sources, including local data sources, as long as you have a valid connection to that data source.
+      isCorrect: false
+    - content: Dataverse and SQL are the only data sources you can use with Power Apps
+      explanation: Incorrect. These are both valid data sources, however, you can use many different sources of data within your app; not just Dataverse and SQL.
+      isCorrect: false
+    - content: Power Apps can use multiple sources of data, as long as your data sources have valid connections
+      explanation: Correct. This is the only correct answer. There are hundreds of different types of data that you can use with Power Apps including local data, Dataverse, SQL, Excel and many others.
+      isCorrect: true
+    - content: Only Excel files on OneDrive
+      explanation: Incorrect. Excel can be used as a data source, but Power apps can use multiple data sources, as long as you have a valid connection to that data source.
+      isCorrect: false
+  - content: Before you create an app, what kinds of things should you consider?
+    choices:
+    - content: What you want your users to experience when they use the app
+      explanation: Incorrect. This is only a single part of your considerations. All these things should be considered.
+      isCorrect: false
+    - content: What the business requirements are
+      explanation: Incorrect. This is only a single part of your considerations. All these things should be considered.
+      isCorrect: false
+    - content: What you need for a data model
+      explanation: Incorrect. This is only a single part of your considerations. All these things should be considered.
+      isCorrect: false
+    - content: All of the above
+      explanation: Correct. It's best to consider all these things and more. Make sure you understand why you're building an app, who it's for, and how you need to structure the data to support the app.
+      isCorrect: true

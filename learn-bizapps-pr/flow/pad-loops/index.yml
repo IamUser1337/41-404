@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-loops 
+metadata: 
+ title: Automate repetitive tasks using loops in Power Automate for desktop
+ description: Learn how to use loops to repeat blocks of actions in a flow. 
+ ms.date: 10/01/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based
+ 
+title: Automate repetitive tasks using loops in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Loops are used to automate repetitive tasks by executing a block of actions multiple times.
+abstract: |  
+    In this module, you will: 
+    - Use simple loops to perform a given number of repetitions and iterate through data
+    - Deploy loop conditions in order to repeat actions until a condition is met
+    - Iterate through the items of a list using for each loops
+    - Explicitly end loops when required
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and [how to handle list and data table variables](../pad-variables/index.yml).
+iconUrl: /training/achievements/pad-loops.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer
+- functional-consultant 
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-loops.1-introduction 
+- learn-bizapps.pad-loops.2-loop-actions 
+- learn-bizapps.pad-loops.3-simple-loop 
+- learn-bizapps.pad-loops.4-for-each-loop 
+- learn-bizapps.pad-loops.5-loop-condition 
+- learn-bizapps.pad-loops.6-exercise-loops 
+- learn-bizapps.pad-loops.7-check-your-knowledge 
+- learn-bizapps.pad-loops.8-summary 
+badge: 
+  uid: learn-bizapps.pad-loops.badge

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.component-framework-advanced.web-api
+title: Use the Microsoft Dataverse web API in a Power Apps component
+metadata:
+  title: Use the Dataverse web API in a Power Apps component
+  description: Learn about using the Dataverse web API in a Power Apps component.
+  ms.date: 10/30/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/web-api.md)]

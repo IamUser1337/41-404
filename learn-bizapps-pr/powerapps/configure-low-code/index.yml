@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.configure-low-code
+metadata:
+ title: Set up low-code plug-ins
+ description: Learn how to set up low-code plug-ins.
+ ms.date: 12/14/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module-standard-task-based
+title: Set up low-code plug-ins
+summary: |
+  [!include[](../includes/module-banner.md)]
+  With Dataverse low-code plug-ins, you can create reusable Power Fx logic that runs on demand or in response to a Dataverse data event.
+abstract: |
+    This module explains the following concepts:
+    - Low-code plug-ins and how to use them
+    - How to use the Dataverse accelerator app to create plug-ins
+    - Differences between instant plug-ins and automated plug-ins
+    - How to create your first instant plug-in
+    - How to create your first automated plug-in
+prerequisites: |
+  - Basic understanding of Power Fx
+  - Access to an environment with Dataverse that has sample apps installed
+iconUrl: /learn/achievements/configure-low-code.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- dataverse
+- power-apps
+- power-automate
+subjects:
+- business-applications
+units:
+- learn-bizapps.configure-low-code.introduction
+- learn-bizapps.configure-low-code.low-code-plug-ins
+- learn-bizapps.configure-low-code.create-plug-in
+- learn-bizapps.configure-low-code.instant-plug-in
+- learn-bizapps.configure-low-code.exercise-instant
+- learn-bizapps.configure-low-code.automated-plug-ins
+- learn-bizapps.configure-low-code.exercise-automated
+- learn-bizapps.configure-low-code.check
+- learn-bizapps.configure-low-code.summary
+badge:
+  uid: learn-bizapps.configure-low-code.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-user-experience.tune-reports
+title: Tune report performance
+metadata:
+  title: Tune report performance
+  description: "Learn how to tune your report's performance."
+  ms.date: 01/18/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+content: |
+  [!include[](includes/8-tune-reports.md)]

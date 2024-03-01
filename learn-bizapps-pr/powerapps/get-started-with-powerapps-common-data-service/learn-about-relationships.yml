@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-common-data-service.learn-about-relationships
+title: Table relationships
+metadata:
+  title: Table relationships
+  description: Learn about creating relationships for Dataverse tables.
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/learn-about-relationships.md)]

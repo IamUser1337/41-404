@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-gift-batches-receipts-refunds.4-refunds-write-offs 
+title: Refunds and write-offs
+metadata: 
+  title: Refunds and write-offs
+  description: Fundraising and Engagement provide the ability to refund a partial or full amount of a gift back to the donor. 
+  ms.date: 10/29/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-refunds-write-offs.md)] 

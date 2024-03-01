@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.8-performance-issues
+title: Fix performance issues
+metadata:
+  title: Fix performance issues
+  description: "Learn how to fix performance issues."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](includes/8-performance-issues.md)]

@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-analytics-power-bi.11-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/14/2023
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What Power BI feature can give an in-depth analysis of the distribution of data? 
+    choices: 
+    - content: The Next Level of Hierarchy feature can give in-depth analysis because it will allow you to drill down for all subcategories and is not used to analyze the distribution.
+      isCorrect: false 
+      explanation: Incorrect. The Analyze feature gives an in-depth analysis of the distribution of data.
+    - content: The Analyze feature allows a user to understand why the distribution looks the way that it does.
+      isCorrect: true 
+      explanation: Correct. The Analyze feature gives an in-depth analysis of the distribution of data.
+    - content: Only time series analysis can provide in-depth analysis on the data.
+      isCorrect: false 
+      explanation: Incorrect. The Analyze feature gives an in-depth analysis of the distribution of data.
+  - content: How can you access the time series chart visual? 
+    choices: 
+    - content: The filter pane is where all filters on visuals and pages are located.
+      isCorrect: false 
+      explanation: Incorrect. Filter pane is only used for filters.
+    - content: Time series charts can be imported from AppSource.
+      isCorrect: true 
+      explanation: Correct. Time series charts can be imported from AppSource.
+    - content: The data pane is where all charts are located.
+      isCorrect: false 
+      explanation: The data pane lists all tables and their columns or calculations. 
+  - content: What visual should be used to display outliers? 
+    choices: 
+    - content: The line chart is best to display outliers.
+      isCorrect: false 
+      explanation: Incorrect. The line chart displays changes over time best.
+    - content: The scatter chart is best to display outliers.
+      isCorrect: true 
+      explanation: Correct. The scatter chart displays outliers best.
+    - content: The clustered column chart is best to display outliers.
+      isCorrect: false 
+      explanation: Incorrect. The clustered column chart displays categorical values best.

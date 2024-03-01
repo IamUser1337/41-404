@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-emissions-impact-dashboards.explore-emissions-impact-dashboards
+title: Explore Emissions Impact dashboards
+metadata: 
+  title: Explore Emissions Impact dashboards
+  description: Learn about the Emissions Impact dashboards for Microsoft 365 and Azure in Microsoft Cloud for Sustainability.
+  ms.date: 02/08/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/explore-emissions-impact-dashboards.md)] 

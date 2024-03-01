@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-ui-elements.3-window-handle-element-interaction 
+title: Window handling and element interaction
+metadata: 
+  title: Window handling and element interaction
+  description: Examine the different groups of actions that interact with windows and window elements.
+  ms.date: 11/02/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-window-handle-element-interaction.md)] 

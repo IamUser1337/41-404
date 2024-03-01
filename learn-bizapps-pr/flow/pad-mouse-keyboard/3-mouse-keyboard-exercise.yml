@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-mouse-keyboard.3-mouse-keyboard-exercise 
+title: Exercise - Simulate mouse and keyboard actions
+metadata: 
+  title: Exercise - Simulate mouse and keyboard actions
+  description: Try simulating mouse and keyboard actions
+  ms.date: 12/10/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-mouse-keyboard-exercise.md)] 

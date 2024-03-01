@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-model-driven.2-exercise
+title: Exercise - Add entities to the site map
+metadata:
+  title: Exercise - Add entities to the site map
+  description: Follow the steps to add entities to the site map.
+  ms.date: 11/07/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-exercise.md)]

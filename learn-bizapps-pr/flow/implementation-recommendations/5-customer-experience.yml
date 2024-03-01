@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.implementation-recommendations.5-customer-experience 
+title: Recommended DLP policy settings for Dynamics 365 environments
+metadata: 
+  title: Recommended DLP policy settings for Dynamics 365 environments
+  description: Learn about implementing the recommended DLP policy for Dynamics 365 customer experience users.  
+  ms.date: 5/24/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-customer-experience.md)] 

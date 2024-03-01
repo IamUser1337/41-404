@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-word-excel-dataverse.summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of using Microsoft Word and Excel templates with Dataverse
+  ms.date: 11/21/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/summary.md)] 

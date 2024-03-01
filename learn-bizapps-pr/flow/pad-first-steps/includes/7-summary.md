@@ -1,0 +1,1 @@
+Power Automate for desktop consists of two components: the console and the flow designer. These components provide all the essential functionality to manage and develop flows. Additionally, Power Automate for desktop supports data exchange with Power Automate through the input and output variables.

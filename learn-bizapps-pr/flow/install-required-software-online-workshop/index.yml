@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.install-required-software-online-workshop
+metadata:
+ title: "Install required software for Power Automate: Automation - Online workshop"
+ description: Learn how to install required software.
+ ms.date: 01/18/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: "Install required software for Power Automate: Automation - Online workshop"
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module guides you through the steps of installing required software on your computer so that you can complete the entire Learning Path for Power Automate: Automation.
+abstract: |
+    This module explains how to:
+    - Install the Power Automate for desktop app and the required extensions.
+    - Register your machine.
+    - Install the Contoso Invoice app.
+prerequisites: |
+    - Power Automate for each user with attended RPA plan trial
+    - Power Apps trial
+    - Exchange mailbox
+
+    This module is designed for use with the Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+
+    You need an environment with a licensed user to complete these exercises. Ensure that you complete the setup steps that were previously outlined.
+iconUrl: /learn/achievements/install-required-software-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.install-required-software-online-workshop.introduction
+- learn-bizapps.install-required-software-online-workshop.developer-plan
+- learn-bizapps.install-required-software-online-workshop.install-power-automate
+- learn-bizapps.install-required-software-online-workshop.register-machine
+- learn-bizapps.install-required-software-online-workshop.install-app
+- learn-bizapps.install-required-software-online-workshop.hosted-machine-optional
+- learn-bizapps.install-required-software-online-workshop.check
+- learn-bizapps.install-required-software-online-workshop.summary
+badge:
+  uid: learn-bizapps.install-required-software-online-workshop.badge

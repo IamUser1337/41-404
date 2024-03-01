@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.implement-power-virtual-agents.8-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of the Implement Microsoft Copilot Studio module
+  ms.date: 10/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/8-summary.md)] 

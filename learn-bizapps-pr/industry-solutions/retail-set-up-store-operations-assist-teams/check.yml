@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-set-up-store-operations-assist-teams.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/04/2023
+ author: lavanyapg 
+ ms.author: lsuresh 
+ ms.topic: interactive-tutorial 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following roles should you assign to a person who shares Store Operations Assist Teams with the appropriate users?
+    choices: 
+    - content: Microsoft Power Platform Admin
+      isCorrect: true 
+      explanation: Correct. Microsoft Power Platform Admin should be assigned to a person who shares Store Operations Assist Teams with the appropriate users.
+    - content: Retail store manager
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Power Platform Admin should be assigned to a person who shares Store Operations Assist Teams with the appropriate users.
+    - content: Retail data manager
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Power Platform Admin should be assigned to a person who shares Store Operations Assist Teams with the appropriate users.
+    - content: Microsoft Teams admin
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Power Platform Admin should be assigned to a person who shares Store Operations Assist Teams with the appropriate users.
+  - content: What is the purpose of setting up the SOAMobileAppID environment variable?
+    choices: 
+    - content: To share Store Operations Assist Teams with the associates and the managers
+      isCorrect: false
+      explanation: Incorrect. The purpose of setting up the SOAMobileAppID environment variable is to be able to navigate from Store Operations Assist Teams to Store Operations Assist Mobile.
+    - content: To navigate from Store Operations Assist Teams to Store Operations Assist Mobile
+      isCorrect: true 
+      explanation: Correct. The purpose of setting up the SOAMobileAppID environment variable is to be able to navigate from Store Operations Assist Teams to Store Operations Assist Mobile.
+    - content: To access Store Operations Assist Teams in Teams admin center
+      isCorrect: false 
+      explanation: Incorrect. The purpose of setting up the SOAMobileAppID environment variable is to be able to navigate from Store Operations Assist Teams to Store Operations Assist Mobile.
+    - content: To search Dataverse through Store Operations Assist Teams
+      isCorrect: false 
+      explanation: Incorrect. The purpose of setting up the SOAMobileAppID environment variable is to be able to navigate from Store Operations Assist Teams to Store Operations Assist Mobile.
+  - content: Which of the following environment variables do you need to set to embed Store Operations Assist Mobile to Teams?
+    choices: 
+    - content: SOACompanianAppID and SOAMobileURL
+      isCorrect: false 
+      explanation: Incorrect. You need to set the SOAMobileURL and SOAMobileAppID environment variables to embed Store Operations Assist Mobile to Teams.
+    - content: SOAMobileURL and SOAMobileAppID
+      isCorrect: true 
+      explanation: Correct. You need to set the SOAMobileURL and SOAMobileAppID environment variables to embed Store Operations Assist Mobile to Teams.
+    - content: SOAMobileAppID and SiteURL
+      isCorrect: false 
+      explanation: Incorrect. You need to set the SOAMobileURL and SOAMobileAppID environment variables to embed Store Operations Assist Mobile to Teams.
+    - content: SOACompanianAppID and SiteURL
+      isCorrect: false 
+      explanation: Incorrect. You need to set the SOAMobileURL and SOAMobileAppID environment variables to embed Store Operations Assist Mobile to Teams.

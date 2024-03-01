@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-canvas-apps.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introducing the guided project."
+  ms.date: 11/07/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: unit
+  ms.service: power-platform
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

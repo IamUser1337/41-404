@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.choice-columns-formulas.4-exercise
+title: Exercise - Dataverse choice columns
+metadata:
+  title: Exercise - Dataverse choice columns
+  description: Practice adding choice and choices columns to an existing table, and then use the new columns in an app.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-exercise.md)]

@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-intelligence-ai-copilot.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/25/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is text generation?
+    choices:
+    - content: A type of natural language processing task that involves generating text from a given input
+      isCorrect: true
+      explanation: Correct. Text generation is a type of natural language processing task that involves generating text from a given input.
+    - content: A type of machine-learning algorithm that can classify text into different categories
+      isCorrect: false
+      explanation: Incorrect. This answer isn't a definition of text generation.
+    - content: A type of data visualization technique that uses text to represent data
+      isCorrect: false
+      explanation: Incorrect. This answer isn't a definition of text generation.
+  - content: What can you use the text generation capability for?
+    choices:
+    - content: Chatbots
+      isCorrect: false
+      explanation: Incorrect. Chatbots isn't the only correct answer.
+    - content: Language translation
+      isCorrect: false
+      explanation: Incorrect. Language translation isn't the only correct answer.
+    - content: Content creation
+      isCorrect: false
+      explanation: Incorrect. Content creation isn't the only correct answer.
+    - content: All are correct
+      isCorrect: true
+      explanation: Correct. All of these answers are correct.
+  - content: What are the *instruction* and *context* components in the Create text with GPT model?
+    choices:
+    - content: The instruction tells the model what it should do. The context is the information that the model needs to follow the instruction.
+      isCorrect: true
+      explanation: Correct. In the Create text with GPT model, the instruction tells the model what it should do, and the context is the information that the model needs to follow the instruction.
+    - content: The instruction is the information that the model needs to follow. The context tells the model what it should do.
+      isCorrect: false
+      explanation: Incorrect. This answer doesn't correctly describe instruction and context in the Create text with GPT model.
+    - content: Instruction and context are the same thing.
+      isCorrect: false
+      explanation: Incorrect. The instruction and context components aren't the same.

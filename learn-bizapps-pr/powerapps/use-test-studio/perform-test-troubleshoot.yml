@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-test-studio.perform-test-troubleshoot 
+title: Perform a test and troubleshoot issues
+metadata: 
+  title: Perform a test and troubleshoot issues
+  description: Learn how to perform a test and troubleshoot issues.
+  ms.date: 09/27/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/perform-test-troubleshoot.md)] 

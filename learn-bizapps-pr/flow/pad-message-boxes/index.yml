@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-message-boxes
+metadata: 
+ title: Communicate using message boxes in Power Automate for desktop flows
+ description: In this module, we will discuss the use of message boxes in automated flows.
+ ms.date: 10/22/2020  
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based
+ 
+title: Communicate using message boxes in Power Automate for desktop flows
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Message boxes can be used to interact with a user to either request input, or to provide output.
+abstract: |  
+    In this module, you will:
+    - Familiarize yourself with the various preset message box actions
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
+iconUrl: /training/achievements/pad-message-boxes.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant
+products:  
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-message-boxes.1-introduction 
+- learn-bizapps.pad-message-boxes.2-message-boxes 
+- learn-bizapps.pad-message-boxes.3-exercise-message-boxes 
+- learn-bizapps.pad-message-boxes.4-check-your-knowledge 
+- learn-bizapps.pad-message-boxes.5-summary 
+badge: 
+  uid: learn-bizapps.pad-message-boxes.badge

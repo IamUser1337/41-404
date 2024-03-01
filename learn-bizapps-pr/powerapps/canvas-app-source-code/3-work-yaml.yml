@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.canvas-app-source-code.3-work-yaml 
+title: Work with YAML
+metadata: 
+  title: Work with YAML
+  description: Learn about working with YAML.
+  ms.date: 11/12/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-work-yaml.md)] 

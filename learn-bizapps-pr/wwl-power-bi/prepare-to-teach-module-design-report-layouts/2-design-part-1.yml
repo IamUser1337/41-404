@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-design-report-layouts.designing-part-1
+title: Design report layouts part 1
+metadata:
+  title: Design report layouts part 1
+  description: "Design report layouts part 1"
+  ms.date: 03/05/2021
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 23
+content: |
+  [!include[](includes/2-design-part-1.md)]

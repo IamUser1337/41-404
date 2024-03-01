@@ -1,0 +1,30 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.retail-smart-store-analytics
+metadata:
+  title: Get started with Smart Store Analytics
+  description: Learn the steps to deploy Smart Store Analytics, and explore some of its features.
+  ms.date: 02/12/2024
+  author: lavanyapg 
+  ms.author: lsuresh
+  ms.topic: learning-path
+title: Get started with Smart Store Analytics
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Smart Store Analytics from Microsoft Cloud for Retail empowers retailers to generate AI/ML driven actionable insights from their physical store space.
+prerequisites: None
+iconUrl: /learn/achievements/smart-store-analytics.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+modules:
+- learn-bizapps.retail-introduction-smart-store-analytics
+- learn-bizapps.retail-smart-store-analytics-user-interface
+trophy:
+  uid: learn-bizapps.retail-smart-store-analytics.trophy

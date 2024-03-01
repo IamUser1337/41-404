@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-variables.5-input-output-variables 
+title: Input and output variables
+metadata: 
+  title: Input and output variables
+  description: Input and output variables
+  ms.date: 10/01/2023 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-input-output-variables.md)] 

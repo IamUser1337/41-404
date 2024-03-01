@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-solution.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to setting up a water sustainability solution by using Microsoft Sustainability Manager
+  ms.date: 12/06/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

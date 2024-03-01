@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn.wwl.power-bi-paginated-reports
+metadata:
+  title: 'Prepare to teach: Power BI paginated reports in a day'
+  description: 'Prepare to teach: Power BI paginated reports in a day'
+  ms.date: 01/28/2021
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: learning-path
+title: 'Prepare to teach: Power BI paginated reports in a day'
+prerequisites: |
+  Basic familiarity with reporting tools
+summary: |
+  Explain and demonstrate how to create, publish, and distribute Power BI paginated reports.
+iconUrl: /training/achievements/create-and-demonstrate-power-bi-paginated-reports.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+- azure-powerbi-embedded
+subjects:
+- productivity
+modules:
+- learn.wwl.prepare-to-teach-module-power-bi-reporting
+- learn.wwl.prepare-to-teach-module-design-report-layouts
+- learn.wwl.prepare-to-teach-module-retrieve-report-data
+- learn.wwl.prepare-to-teach-module-work-with-parameters
+- learn.wwl.prepare-to-teach-module-visualize-report-data
+- learn.wwl.prepare-to-teach-module-add-interactivity-features
+- learn.wwl.prepare-to-teach-module-beyond-report-development
+trophy:
+  uid: learn.wwl.power-bi-paginated-reports.trophy

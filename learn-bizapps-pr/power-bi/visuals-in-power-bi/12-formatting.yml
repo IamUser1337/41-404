@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.visuals-in-power-bi.12-formatting 
+title: Page layout and formatting
+metadata: 
+  title: Page layout and formatting
+  description: Learn about page layout and formatting in Power BI.
+  ms.date: 06/02/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+   
+durationInMinutes: 12
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/12-formatting.md)] 
+

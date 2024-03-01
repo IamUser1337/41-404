@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-templates.dynamics-365
+title: Dynamics 365 Power Pages site templates
+metadata:
+  title: Dynamics 365 Power Pages site templates
+  description: Learn about available Dynamics 365 Power Pages site templates when you're using Microsoft Dynamics 365 apps such as Dynamics 365 Sales or Dynamics 365 Service.
+  ms.date: 01/06/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/dynamics-365.md)]

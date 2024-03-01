@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals
+metadata:
+  title: Get tips and tricks for teaching PL-900 Microsoft Power-platform Fundamentals
+  description: "Learn tips and tricks about preparing for your first teaching session, which labs to use, when and how to introduce technical topics, as well as other resources and materials."
+  ms.date: 03/20/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: module
+  ms.service: power-platform
+title: Get tips and tricks for teaching PL-900 Microsoft Power-platform Fundamentals
+summary: Learn tips and tricks about preparing for your first teaching session, which labs to use, when and how to introduce technical topics, as well as other resources and materials.
+abstract: |
+  After completing this module, you'll be able to:
+  *   Understand how to utilize the tips and tricks for teaching PL-900 Microsoft Power-platform Fundamentals in the classroom.
+  *   Use the lab environment during the instructional portion of the class.
+  *   Explain foundational course terminology and technical topics.
+  *   Discover more resources and materials to prepare students for success on their Microsoft certification exams.
+prerequisites: |
+  - Understand the Microsoft Learn for Educators program benefits
+  - Navigate the Microsoft Learn for Educators portal
+  - Know how to access the Microsoft Learning Download Center and download content
+  - Explain the different approaches to curriculum integration
+  - Integrate content from Microsoft Learn into your Learning Management System
+  - Understand the Microsoft technical training program
+  - Understand how to utilize the built-in accessibility features
+  - Understand using the objective domains when preparing to teach
+  - Understand the exam structure
+iconUrl: /training/achievements/get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.svg
+levels:
+- beginner
+roles:
+- higher-ed-educator
+products:
+- power-platform
+units:
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.introduction
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-objective-domains
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.learn-module-best-practices
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-best-practices-introduction-microsoft-power-platform
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-best-practices-introduction-microsoft-dataverse
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-best-practices-get-started-power-apps
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-best-practices-get-started-power-automate
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-best-practices-get-started-with-power-bi
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.explore-best-practices-get-started-power-virtual-agents
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.bring-it-together
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.knowledge-check
+- learn.wwl.get-tips-tricks-teach-pl-900-microsoft-power-platform-fundamentals.summary
+badge:
+  uid: learn.wwl.get-tips-tricks-for-teaching-pl-900-microsoft-power-platform-fundamentals.badge

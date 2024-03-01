@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.introduction-expressions 
+metadata: 
+ title: Introduction to expressions in Power Automate
+ description: Learn how to write expressions in Power Automate
+ ms.date: 10/01/2020  
+ author: davebeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: Introduction to expressions in Power Automate 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Get the most out of your data using functions to create expressions. 
+abstract: |  
+    In this module, you will: 
+    - Use one or more functions to create expressions. 
+    - Use functions to retrieve data, change data, evaluate data, and more. 
+prerequisites: None 
+iconUrl: /training/achievements/introduction-expressions.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+- maker 
+- developer
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.introduction-expressions.1-introduction 
+- learn-bizapps.introduction-expressions.2-get-started 
+- learn-bizapps.introduction-expressions.3-comments 
+- learn-bizapps.introduction-expressions.4-functions 
+- learn-bizapps.introduction-expressions.5-expressions 
+- learn-bizapps.introduction-expressions.6-exercise 
+- learn-bizapps.introduction-expressions.7-check 
+- learn-bizapps.introduction-expressions.8-summary 
+badge: 
+  uid: learn-bizapps.introduction-expressions.badge

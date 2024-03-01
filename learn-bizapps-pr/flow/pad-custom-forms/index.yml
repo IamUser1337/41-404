@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.flow.pad-custom-forms 
+metadata: 
+ title: Request multiple user inputs using custom forms
+ description: Learn how to design custom forms to request multiple types of data in a single dialog.
+ ms.date: 04/29/2022  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: Request multiple user inputs using custom forms
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Custom forms allow users to interact with desktop flows and provide multiple types of data in customizable dialogs. This module explains how to design custom forms and process the provided data in your flows.
+abstract: |  
+    In this module, you will: 
+    - Design a custom form from scratch
+    - Access the provided form data and use them in other actions in your desktop flow
+    - Visually customize a custom form
+prerequisites: 
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml) and [how to handle variables](../pad-variables/index.yml).
+iconUrl: /training/achievements/pad-custom-forms.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- developer 
+- functional-consultant
+products:  
+- power-platform 
+- power-automate
+units: 
+- learn-bizapps.flow.pad-custom-forms.introduction 
+- learn-bizapps.flow.pad-custom-forms.design-custom-forms 
+- learn-bizapps.flow.pad-custom-forms.handle-custom-form-data 
+- learn-bizapps.flow.pad-custom-forms.customize-custom-forms 
+- learn-bizapps.flow.pad-custom-forms.check-knowledge 
+- learn-bizapps.flow.pad-custom-forms.summary 
+badge: 
+  uid: learn-bizapps.flow.pad-custom-forms.badge 

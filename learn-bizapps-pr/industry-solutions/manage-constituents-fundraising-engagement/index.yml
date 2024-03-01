@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.manage-constituents-fundraising-engagement 
+metadata: 
+ title: Manage constituents in Fundraising and Engagement for Microsoft Cloud for Nonprofit
+ description: In this module, you will learn how to work with the core records for managing constituents - Contacts, Organizations, and Households in Microsoft Cloud for Nonprofit. You will see how you can track and update donor information including contact details, their supporting objectives, history of activities, contact preferences, donation and transaction summaries, and payment details. You will also take a look at how households are managed, and how to create one.
+ ms.date: 11/01/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-nonprofit
+title: Manage constituents in Fundraising and Engagement for Microsoft Cloud for Nonprofit
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Fundraising and Engagement, built on Microsoft Dynamics 365 and part of Microsoft Cloud for Nonprofit, enables you to manage relationships with your constituents, and to create a 360-degree view of the donor, which is at the center of all your fundraising activities. 
+abstract: |  
+    In this module, you will: 
+    - Manage relationships with constituents – individuals, organizations, and households 
+    - Track constituent preferences and activities
+    - View donation history for a constituent
+    - Manage payment and address changes for constituents 
+prerequisites: None
+iconUrl: /training/achievements/manage-constituents-fundraising-engagement.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.manage-constituents-fundraising-engagement.1-introduction 
+- learn-bizapps.manage-constituents-fundraising-engagement.2-contacts-organizations 
+- learn-bizapps.manage-constituents-fundraising-engagement.3-track-preferences-activities 
+- learn-bizapps.manage-constituents-fundraising-engagement.4-donation-information 
+- learn-bizapps.manage-constituents-fundraising-engagement.5-payment-methods-address-changes 
+- learn-bizapps.manage-constituents-fundraising-engagement.6-households 
+- learn-bizapps.manage-constituents-fundraising-engagement.7-exercise
+- learn-bizapps.manage-constituents-fundraising-engagement.8-check 
+- learn-bizapps.manage-constituents-fundraising-engagement.9-summary 
+badge: 
+  uid: learn-bizapps.manage-constituents-fundraising-engagement.badge

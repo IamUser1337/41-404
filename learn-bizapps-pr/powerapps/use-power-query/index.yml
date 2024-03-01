@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.use-power-query 
+metadata: 
+ title: Use Power Query to load data in Dataverse
+ description: Learn how to use Power Query to load data in Dataverse.
+ ms.date: 08/31/2023 
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+title: Use Power Query to load data in Dataverse
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Synchronizing data from different sources to a Microsoft Dataverse table can seem overwhelming. To help Power Apps users with these processes, the users can create Dataverse dataflows. Dataflows use the Power Query interface that is accessible in Power Apps Studio to provide a guided approach. Also, in this module, you'll explore how Power Query can help load data into Dataverse tables. 
+abstract: |  
+    In this module, you will: 
+    - Understand the different data source categories available when using Power Query.
+    - Know how to import data into a Dataverse table by using Power Query.
+    - Understand the different refresh options available.
+prerequisites: |  
+    - A Power Apps license
+    - Access to Microsoft Dataverse
+    - Access to Microsoft Excel
+    - Access to OneDrive for Business
+    -  A basic understanding of what a database is and its role within a software solution
+iconUrl: /learn/achievements/use-power-query.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-platform
+- power-query
+- power-apps
+- dataverse 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.use-power-query.introduction 
+- learn-bizapps.use-power-query.import-static-data 
+- learn-bizapps.use-power-query.exercise-add-accounts 
+- learn-bizapps.use-power-query.import-dynamic-data 
+- learn-bizapps.use-power-query.exercise-transfer-attendee-list 
+- learn-bizapps.use-power-query.check 
+- learn-bizapps.use-power-query.summary 
+badge: 
+  uid: learn-bizapps.use-power-query.badge 

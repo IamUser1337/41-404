@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.outlook-flows-online-workshop.exercise-outlook-trigger-flow
+title: Exercise - Use an Outlook email to trigger a desktop flow and pass input
+metadata:
+  title: Exercise - Use an Outlook email to trigger a desktop flow and pass input
+  description: Follow the steps to use an Outlook email to trigger a desktop flow and pass input from a cloud flow.
+  ms.date: 02/07/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-outlook-trigger-flow.md)]

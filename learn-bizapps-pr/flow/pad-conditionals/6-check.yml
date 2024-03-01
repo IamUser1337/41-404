@@ -1,0 +1,39 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-conditionals.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/27/2020 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "Which one of the following statements is true?"
+    choices: 
+    - content: "An If block may have unlimited alternative conditions."
+      isCorrect: true 
+      explanation: "There is no limit to the number of Else If actions that can be added to an If block."
+    - content: "An If block can have only five alternative conditions."
+      isCorrect: false 
+      explanation: "There is no limit to the number of Else If actions that can be added to an If block."
+  - content: "What is the difference between If and Switch blocks?"
+    choices: 
+    - content: "There is no unconditional case in a Switch block."
+      isCorrect: false 
+      explanation: "Both If and Switch blocks support unconditional cases."
+    - content: "Switch blocks use the same input variable in all their cases."
+      isCorrect: true 
+      explanation: "All switch cases use the same variable in their condition."
+  - content: "When is the implementation of a Switch block recommended?"
+    choices: 
+    - content: "When you have to check the values of multiple variables against multiple values."
+      isCorrect: false 
+      explanation: "Switch blocks check the value of one variable against multiple values."
+    - content: "When you have to check the value of one variable against multiple values."
+      isCorrect: true
+      explanation: "Switch blocks check the value of one variable against multiple values."

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.configure-low-code.instant-plug-in
+title: Instant plug-ins
+metadata:
+  title: Instant plug-ins
+  description: Learn about instant plug-ins and their input and output parameters.
+  ms.date: 12/14/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/instant-plug-in.md)]

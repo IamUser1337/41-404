@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-teams.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to creating an approval flow with Power Automate for Teams
+  ms.date: 10/07/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[.](../includes/unit-banner.md)]
+ [!include[.](includes/introduction.md)]

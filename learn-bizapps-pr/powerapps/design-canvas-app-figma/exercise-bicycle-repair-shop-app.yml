@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-canvas-app-figma.exercise-bicycle-repair-shop-app 
+title: Exercise – Design a bicycle repair shop app by using Figma
+metadata: 
+  title: Exercise – Design a bicycle repair shop app by using Figma
+  description: Follow the steps to design a bicycle repair shop app by using Figma.
+  ms.date: 01/05/2024
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 12
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-bicycle-repair-shop-app.md)] 

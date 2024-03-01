@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.transform-business-process.5-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of transforming a business process to a canvas app.
+  ms.date: 01/12/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-summary.md)] 

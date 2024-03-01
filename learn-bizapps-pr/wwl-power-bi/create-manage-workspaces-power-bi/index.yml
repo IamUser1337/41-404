@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.create-manage-workspaces-power-bi
+metadata:
+  title: Create and manage workspaces in Power BI
+  description: Learn how to navigate the Power BI service, create and manage workspaces and related items, and distribute reports to users.
+  ms.date: 03/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Create and manage workspaces in Power BI
+summary: Learn how to navigate the Power BI service, create and manage workspaces and related items, and distribute reports to users.
+abstract: |
+  In this module, you will:
+   - Create and manage Power BI workspaces and items.
+   - Distribute a report or dashboard.
+   - Monitor usage and performance.
+   - Recommend a development lifecycle strategy.
+   - Troubleshoot data by viewing its lineage.
+   - Configure data protection.
+prerequisites: |
+  None
+iconUrl: /training/achievements/create-manage-workspaces-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- collaboration
+units:
+- learn-bizapps.create-manage-workspaces-power-bi.1-introduction
+- learn-bizapps.create-manage-workspaces-power-bi.2-distribute-report-dashboard
+- learn-bizapps.create-manage-workspaces-power-bi.3-monitor-usage-performance
+- learn-bizapps.create-manage-workspaces-power-bi.4-development-lifecycle-strategy
+- learn-bizapps.create-manage-workspaces-power-bi.5-troubleshoot-data
+- learn-bizapps.create-manage-workspaces-power-bi.6-data-protection
+- learn-bizapps.create-manage-workspaces-power-bi.8-check
+- learn-bizapps.create-manage-workspaces-power-bi.9-summary
+badge:
+  uid: learn-bizapps.create-manage-workspaces-power-bi.badge

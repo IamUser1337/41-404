@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.actions-client-script-power-platform.upload-scripts
+title: Upload scripts
+metadata:
+  title: Upload scripts
+  description: Learn how to upload scripts.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 4
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/upload-scripts.md)]

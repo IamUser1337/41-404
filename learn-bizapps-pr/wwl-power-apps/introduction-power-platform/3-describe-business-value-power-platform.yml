@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.business-value
+title: Describe the business value of the Power Platform
+metadata:
+  title: Describe the business value of the Power Platform
+  description: "Describe the business value of the Power Platform that allows citizen developers and professional developers to work together to build targeted solutions for an organization."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-describe-business-value-power-platform.md)]

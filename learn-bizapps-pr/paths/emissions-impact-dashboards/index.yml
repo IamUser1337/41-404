@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.emissions-impact-dashboards
+metadata:
+  title: Get started with Emissions Impact Dashboards
+  description: Learn about Emissions Impact Dashboards in Microsoft Cloud for Sustainability.
+  ms.date: 02/09/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Emissions Impact Dashboards
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  The Emissions Impact dashboards promotes transparency of information and provides insights that empower organizations to make effective decisions to reach their sustainability goals. 
+  
+  In this Learning Path, you’ll be guided through hands-on exercises to install the Emissions Impact dashboards from the Microsoft Cloud Solution Center and you'll explore the dashboards to measure carbon emissions of an organization's use of Microsoft Cloud services.     
+prerequisites: |
+  - To complete the exercises in this Learning Path you need the Microsoft Power BI Pro license and a Sustainability Manager environment with admin user credentials.
+iconUrl: /training/achievements/emissions-impact-dashboards.svg
+levels:
+- intermediate
+- beginner
+- advanced 
+roles:
+- business-user
+- functional-consultant
+- developer
+- administrator
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.sustainability-emissions-impact-dashboards 
+trophy:
+  uid: learn.emissions-impact-dashboards.trophy

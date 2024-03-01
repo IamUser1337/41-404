@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-developer-resources.environments
+title: Power Platform environments
+metadata: 
+  title: Power Platform environments
+  description: This unit provides an overview of Power Platform environments and common settings developers should know. 
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 10 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/environments.md)] 

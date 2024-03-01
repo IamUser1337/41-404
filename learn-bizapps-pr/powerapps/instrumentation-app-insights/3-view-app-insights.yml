@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.instrumentation-app-insights.3-view-app-insights 
+title: View Application Insights data
+metadata: 
+  title: View Application Insights data
+  description: Learn how to view Application Insights data.
+  ms.date: 11/12/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-view-app-insights.md)] 

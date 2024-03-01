@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.architect-analytics.2-report-capabilities
+title: Power Platform reporting capabilities
+metadata:
+  title: Power Platform reporting capabilities
+  description: Learn about the reporting options that are provided in Power Platform.
+  ms.date: 03/09/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-report-capabilities.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-workspace-data-components-online-workshop.test
+title: Test the permission
+metadata:
+  title: Test the permission
+  description: Follow the steps to test the permission that you created.
+  ms.date: 1/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/test.md)]

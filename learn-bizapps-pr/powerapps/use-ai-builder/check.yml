@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-ai-builder.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/23/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Jim is creating an app in Power Apps. The custom model that Jim previously created isn't part of the list of available models. Which step is required to make this custom model available in Power Apps?
+    choices:
+    - content: Train the model.
+      isCorrect: false
+      explanation: Incorrect. The training step is required when you create a custom model, but it won't make the model available for Power Apps and Power Automate.
+    - content: Publish the model.
+      isCorrect: true
+      explanation: Correct. Only published custom models and prebuilt models are available for Power Apps and Power Automate.
+    - content: Test the model.
+      isCorrect: false
+      explanation: Incorrect. You should test a trained custom model to validate its processing against a different set of data than the model was trained on, but this step won't make it available for Power Apps and Power Automate.
+  - content: Which type of data can you include for custom models that’s also provided with prebuilt models?
+    choices:
+    - content: Organizational-specific
+      isCorrect: true
+      explanation: Correct. The core value of custom models is that they're based on data that’s specific to the business scenario that suits the organization that it's created for.
+    - content: Industry-specific
+      isCorrect: false
+      explanation: Incorrect. Generally available data, such as industry-specific data, is what most prebuilt models are based on.
+    - content: Regionally specific
+      isCorrect: false
+      explanation: Incorrect. Generally available data, such as regionally specific data, is what most prebuilt models are based on.
+  - content: A company wants to implement a process where incoming emails are analyzed and dispatched based on topics that the content relates to. Which AI Builder model can help achieve this goal?
+    choices:
+    - content: Include the object detector component in a canvas app.
+      isCorrect: false
+      explanation: Incorrect. The object detector recognizes objects in an image.
+    - content: Use a prediction model on the email messages.
+      isCorrect: false
+      explanation: Incorrect. A prediction model will predict a potential outcome for a record in a table based on historical trends.
+    - content: Process email messages by using category classification.
+      isCorrect: true
+      explanation: Correct. Category classification, whether prebuilt or custom, will extract categories for text, such as email messages.

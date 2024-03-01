@@ -1,0 +1,49 @@
+### YamlMime:Module
+uid: learn-bizapps.integrate-power-apps-online-workshop
+metadata:
+ title: Integrate a Power Apps app with Power Automate - Online Workshop
+ description: Follow the steps to integrate a Power Apps app into Power Automate.
+ ms.date: 02/16/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Integrate a Power Apps app with Power Automate - Online Workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you create a flow that uses the Modern Approvals service to automate the approval workflow. It sends an email to the selected approver and take an action based on their response.
+abstract: |
+    This module explains how to:
+    - Create a flow that triggers when a new Microsoft Dataverse row is created.
+    - Automate sending approval requests.
+    - Customize the approval based on the Microsoft Dataverse row.
+    - Use the Approval center.
+prerequisites: |
+  You should already have an app with these two screens:
+  > [!div class="mx-imgBorder"]
+  > [![Screenshot of your canvas app.](./media/canvas.png)](./media/canvas.png#lightbox)
+  > [!div class="mx-imgBorder"]
+  > [![Screenshot of your canvas app's second screen.](./media/second-screen.png)](./media/second-screen.png#lightbox)
+  We recommend completing each module in sequence of the [Create a machine ordering app with Power Apps - Online Workshop](/training/paths/power-apps-online-workshop/) Learning Path.
+  This module is designed for use with the App in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?search=App%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=06:00&endTime=11:00).
+iconUrl: /learn/achievements/integrate-power-apps-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-automate
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.integrate-power-apps-online-workshop.introduction
+- learn-bizapps.integrate-power-apps-online-workshop.exercise-approval
+- learn-bizapps.integrate-power-apps-online-workshop.exercise-conditional
+- learn-bizapps.integrate-power-apps-online-workshop.exercise-test
+- learn-bizapps.integrate-power-apps-online-workshop.exercise-update
+- learn-bizapps.integrate-power-apps-online-workshop.exercise-notification
+- learn-bizapps.integrate-power-apps-online-workshop.check
+- learn-bizapps.integrate-power-apps-online-workshop.summary
+badge:
+  uid: learn-bizapps.integrate-power-apps-online-workshop.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow.pad-custom-forms.introduction 
+title: Introduction to custom forms
+metadata: 
+  title: Introduction to custom forms
+  description: Introduction to custom forms
+  ms.date: 04/29/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

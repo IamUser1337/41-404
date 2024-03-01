@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.discuss-stakeholder-management-responsibilities
+title: Discuss stakeholder management responsibilities
+metadata:
+  title: Discuss stakeholder management responsibilities
+  description: "Discuss stakeholder management responsibilities"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 7
+content: |
+  [!include[](includes/6-discuss-stakeholder-management-responsibilities.md)]

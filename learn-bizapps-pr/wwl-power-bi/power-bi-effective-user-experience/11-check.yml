@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-user-experience.9-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/14/2023
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: At the Contoso Skateboard Company, Sally is creating a report to show sales over time. Sally is aware that occasional spikes occur in sales revenue that could be attributed to many different reasons, such as a marketing campaign. Sally needs to ensure that supporting visuals provide explanation for the spikes. What type of visual should Sally use? 
+    choices:
+    - content: Line chart visual with a trend line
+      isCorrect: false
+      explanation: Incorrect. A line chart visual with a trend line will not provide explanation of anomalies.
+    - content: Line chart visual with anomaly detection
+      isCorrect: true
+      explanation: Correct. Adding anomaly detection to a line chart visual will highlight anomalies and provide accompanying explanations as data visuals.
+    - content: Q&A visual
+      isCorrect: false
+      explanation: Incorrect. The Q&A visual allows for the entry of natural language questions that are answered by data visuals. It can’t provide explanation for spikes in data.
+  - content: At the Contoso Skateboard Company, Sanjay is authoring a report that will be distributed to sales managers. The report contains some sensitive data that shouldn’t be exported. Which report design feature can Sanjay configure to ensure that data isn’t exported?
+    choices:
+    - content: Drillthrough page
+      isCorrect: false
+      explanation: Incorrect. Drillthrough will direct the report consumer to a different page, possibly in a different report, and it can show details. It can’t restrict the exporting of data.
+    - content: Page tooltip
+      isCorrect: false
+      explanation: Incorrect. Page tooltips allow your report consumers to gain deeper insights quickly and efficiently from a visual. It can’t restrict the exporting of data.
+    - content: Visual header
+      isCorrect: true
+      explanation: Correct. By disabling the More options (…) icon, report consumers can’t export data.  
+  - content: What is the purpose of the Display state in bookmarks?
+    choices:
+    - content: Capture the visibility of report objects
+      isCorrect: true
+      explanation: Correct. The Display state captures the visibility of report objects, such as shapes, images, buttons, and text boxes.
+    - content: Capture the slicer values of visuals
+      isCorrect: false
+      explanation: Incorrect. The Data state captures the slicer values of visuals, such as slicer, filter, and dropdown.
+    - content: Capture the current page of the report
+      isCorrect: false
+      explanation: Incorrect. The Current page state captures the current page of the report.

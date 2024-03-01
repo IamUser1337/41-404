@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-admin-intro 
+metadata: 
+ title: Understand the Power BI administrator role
+ description: Learn how to administer Power BI to support business decisions backed by data.
+ ms.date: 01/09/2024  
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Understand the Power BI administrator role
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  Power BI administration is the management of the organization-wide settings that control how Power BI works. Users that are assigned to admin roles configure, monitor, and provision organizational resources. This module provides an overview of administration roles, tasks, and tools to help you get started.
+abstract: |  
+    In this module, you'll: 
+    - Describe key components and capabilities of Power BI
+    - Distinguish between the various Power BI administrator roles
+    - Identify the typical tasks performed by Power BI administrators
+    - Identify the typical tools used by Power BI administrators
+prerequisites: Fundamental understanding of the Power BI platform and experience with Power BI Desktop.
+iconUrl: /training/achievements/power-bi-admin-intro.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator   
+products: 
+- power-platform 
+- power-bi 
+subjects:
+- data-management
+units:
+- learn-bizapps.power-bi-admin-intro.1-introduction 
+- learn-bizapps.power-bi-admin-intro.2-tools 
+- learn-bizapps.power-bi-admin-intro.3-steward 
+- learn-bizapps.power-bi-admin-intro.4-administrator 
+- learn-bizapps.power-bi-admin-intro.5-tasks 
+- learn-bizapps.power-bi-admin-intro.6-typical-tools 
+- learn-bizapps.power-bi-admin-intro.7-check 
+- learn-bizapps.power-bi-admin-intro.8-summary 
+badge: 
+  uid: learn-bizapps.power-bi-admin-intro.badge

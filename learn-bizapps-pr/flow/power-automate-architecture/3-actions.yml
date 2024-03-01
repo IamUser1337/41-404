@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-architecture.3-actions
+title: Common actions
+metadata:
+  title: Common actions
+  description: Learn about the common actions with Power Automate and Dataverse.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-actions.md)]

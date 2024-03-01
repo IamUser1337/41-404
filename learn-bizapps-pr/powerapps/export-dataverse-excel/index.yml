@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.export-dataverse-excel
+metadata:
+ title: Export data from Dataverse and use Microsoft Excel to edit records
+ description: Learn how to export data from Dataverse and use Microsoft Excel to edit records.
+ ms.date: 11/21/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Export data from Dataverse and use Microsoft Excel to edit records
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Explore how you can use Microsoft Excel files to export and edit Microsoft Dataverse table data.
+abstract: |
+    In this module, you'll:
+    - Learn how to export data from Dataverse into Excel files.
+    - Discover the different exported file types.
+    - Learn about the security concepts for the exported data.
+prerequisites: |
+  - A Power Apps license
+  - Access to Microsoft Dataverse
+  - Access to Microsoft Excel
+  - A basic understanding of what a database is and its role within a software solution
+iconUrl: /learn/achievements/export-dataverse-excel.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+subjects:
+- data-management
+units:
+- learn-bizapps.export-dataverse-excel.introduction
+- learn-bizapps.export-dataverse-excel.export-data
+- learn-bizapps.export-dataverse-excel.exercise-create
+- learn-bizapps.export-dataverse-excel.edit-update
+- learn-bizapps.export-dataverse-excel.exercise-edit
+- learn-bizapps.export-dataverse-excel.check
+- learn-bizapps.export-dataverse-excel.summary
+badge:
+  uid: learn-bizapps.export-dataverse-excel.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-canvas-app-figma.design-app 
+title: Design an app by using the Figma UI kit
+metadata: 
+  title: Design an app by using the Figma UI kit
+  description: Learn how to design an app by using the Figma UI kit.
+  ms.date: 07/24/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/design-app.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-scenarios.duplicate-row
+title: Scenario - Duplicate a row
+metadata:
+  title: Scenario - Duplicate a row
+  description: Learn how you can allow users to duplicate a row.
+  ms.date: 12/22/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/duplicate-row.md)]

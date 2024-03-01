@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-volunteer-management-engagement.4-volunteer-engagement 
+title: Get introduced to the Volunteer Engagement
+metadata: 
+  title: Get introduced to the Volunteer Engagement
+  description: Learn about Volunteer Engagement.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-volunteer-engagement.md)] 

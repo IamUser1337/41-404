@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.8-lab
+title: Exercise - Load data in Power BI Desktop
+metadata:
+  title: Exercise - Load data in Power BI Desktop
+  description: "In this lab, you'll begin to apply transformations to each of the queries created in the previous lab. You'll then apply the queries to load each as a table to the semantic model."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+labId: 72672
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/8-lab.md)]

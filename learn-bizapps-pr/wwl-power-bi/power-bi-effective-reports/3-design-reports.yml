@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-reports.design-reports 
+title: Design visually appealing reports
+metadata: 
+  title: Design visually appealing reports
+  description: Learn how to design visually appealing reports.
+  ms.date: 10/07/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 9 
+content: | 
+ [!include[](includes/3-design-reports.md)] 

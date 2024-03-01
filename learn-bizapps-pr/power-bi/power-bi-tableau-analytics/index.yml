@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-analytics 
+metadata: 
+ title: Perform analytics in Power BI for Tableau users
+ description: This module provides guidance on how to apply analytics to data to gain greater insight.
+ ms.date: 07/12/2023  
+ author: maggiesMSFT  
+ manager: kfollis 
+ ms.author: maggies  
+ ms.topic: module
+ ms.service: powerbi  
+title: Perform analytics in Power BI for Tableau users 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module provides guidance on different ways that Microsoft Power BI allows business users to perform thoughtful analytics on top of their data to gain greater insight.
+abstract: |  
+    In this module, you will: 
+    - Build out-of-the-box functions that will be performed by analysts to gain deeper insight into their data.
+    - Perform thoughtful analytics on top of your data.
+    - Identify ways that Power BI can be integrated with other languages, such as R and Python.
+    - Identify differences and similarities between Tableau and Power BI concepts.
+prerequisites: |  
+    - Access to Power BI service
+    - Familiarity with Tableau
+    - Knowledge of key Tableau concepts, such as the analytics pane, ask data, and R and Python integration
+iconUrl: /training/achievements/power-bi-tableau-analytics.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- maker
+products:  
+- power-platform
+- power-bi 
+subjects:
+- data-analytics
+units:
+- learn-bizapps.power-bi-tableau-analytics.1-introduction 
+- learn-bizapps.power-bi-tableau-analytics.2-ai-visuals 
+- learn-bizapps.power-bi-tableau-analytics.3-analytics-pane 
+- learn-bizapps.power-bi-tableau-analytics.4-what-if-analysis 
+- learn-bizapps.power-bi-tableau-analytics.5-use-r-python 
+- learn-bizapps.power-bi-tableau-analytics.6-lab 
+- learn-bizapps.power-bi-tableau-analytics.7-check 
+- learn-bizapps.power-bi-tableau-analytics.8-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-analytics.badge

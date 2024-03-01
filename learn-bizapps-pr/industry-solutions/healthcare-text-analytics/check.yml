@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-text-analytics.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/25/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the purpose of named entity recognition in Text Analytics for health?
+    choices: 
+    - content: To identify connections between concepts in text
+      isCorrect: false 
+      explanation: Incorrect. Identifying connections between concepts in text is the purpose of relation extraction, not named entity recognition.
+    - content: To extract words and phrases that are mentioned in text, such as diagnosis, symptoms, or medication names
+      isCorrect: true 
+      explanation: Correct. Named entity recognition is essential in identifying words and phrases in unstructured health text.
+    - content: To identify entities in text and link them to a knowledge base
+      isCorrect: false 
+      explanation: Incorrect. Identifying entities in text and linking them to a knowledge base is the purpose of entity linking, not named entity recognition.
+    - content: To provide deeper understanding of concepts through assertion modifiers
+      isCorrect: false 
+      explanation: Incorrect. Providing deeper understanding of concepts through assertion modifiers is the purpose of assertion, not named entity recognition.
+  - content: What is an example of unstructured health data that Text Analytics for health can help structure?
+    choices: 
+    - content: Doctor's notes from a patient visit
+      isCorrect: true 
+      explanation: Correct. A doctor's note from a patient visit is an example of unstructured health data that Text Analytics for health can help structure.
+    - content: Telemetry from a medical device
+      isCorrect: false 
+      explanation: Incorrect. Telemetry from a medical device is an example of structured data.
+    - content: FHIR resource bundle
+      isCorrect: false 
+      explanation: Incorrect. A FHIR resource bundle is an example of structured data.
+  - content: Which part of the output will identify a connection between the entities that are extracted from the unstructured data? 
+    choices: 
+    - content: Relations 
+      isCorrect: true 
+      explanation: Correct. Relations identify meaningful connections between concepts or entities.
+    - content: Entity links
+      isCorrect: false 
+      explanation: Incorrect. Text Analytics for health uses entity linking to disambiguate the extracted entities by associating them with preferred names and codes.
+    - content: Association 
+      isCorrect: false 
+      explanation: Incorrect. Association is a category of assertions, such as conditional, positive, or hypothetical.

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-custom-updates.4a-exercise-patch 
+title: Using Patch function to update a Gallery 
+metadata: 
+  title: Using Patch function to update a Gallery  
+  description: Using Patch function to update a Gallery 
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+durationInMinutes: 8 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4a-exercise-patch.md)] 
+

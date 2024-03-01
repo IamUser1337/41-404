@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.participate-testing
+title: Participate in testing
+metadata:
+  title: Participate in testing
+  description: "Participate in testing"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 8
+content: |
+  [!include[](includes/9-participate-testing.md)]

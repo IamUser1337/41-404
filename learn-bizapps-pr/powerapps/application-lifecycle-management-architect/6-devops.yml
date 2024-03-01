@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.application-lifecycle-management-architect.6-devops
+title: ALM with Azure DevOps
+metadata:
+  title: ALM with Azure DevOps
+  description: Learn about Azure DevOps and how to use it with Power Platform to automate deployments.
+  ms.date: 07/30/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-devops.md)]

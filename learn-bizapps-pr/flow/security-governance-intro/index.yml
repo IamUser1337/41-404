@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.security-governance-intro
+metadata:
+ title: Introduction to Microsoft Power Platform security and governance
+ description: Learn how to secure and govern Microsoft Power Platform apps.
+ ms.date: 10/02/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Introduction to Microsoft Power Platform security and governance
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Do you want to learn about how to help secure and govern Microsoft Power Platform apps like Power Automate and Power Apps? This module focuses on introducing Microsoft Power Platform environments and their role in creating Data Loss Prevention (DLP) policies by using examples and use cases. A brief introduction and overview of tools will also be discussed, including Microsoft Power Platform and Power Automate Admin experiences and Microsoft Power Platform Center of Excellence (COE) toolkit.
+abstract: |
+    In this module, you will:
+    - Access Microsoft Power Platform admin experiences.
+    - Create simple environment and tenant-wide DLP policies.
+    - Discover and identify the differences between the Business data group and the No-business data group.
+    - Learn about the differences between out-of-the-box Power Automate Admin experiences and Microsoft Power Platform Center of Excellence toolkit.
+prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization.
+iconUrl: /training/achievements/security-governance-intro.svg
+levels:
+- intermediate
+roles:
+- administrator
+- functional-consultant
+products:
+- power-automate
+- power-platform
+- power-apps
+subjects:
+- information-protection-governance
+units:
+- learn-bizapps.security-governance-intro.1-introduction
+- learn-bizapps.security-governance-intro.2-environments
+- learn-bizapps.security-governance-intro.3-data-loss-prevention
+- learn-bizapps.security-governance-intro.4-center-of-excellence-starter-kit
+- learn-bizapps.security-governance-intro.5-exercise
+- learn-bizapps.security-governance-intro.6-check
+- learn-bizapps.security-governance-intro.7-summary
+badge:
+  uid: learn-bizapps.security-governance-intro.badge

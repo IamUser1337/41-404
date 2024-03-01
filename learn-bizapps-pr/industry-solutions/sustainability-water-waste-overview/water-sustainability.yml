@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-waste-overview.water-sustainability
+title: How to achieve water sustainability with Microsoft Cloud for Sustainability 
+metadata:
+  title: How to achieve water sustainability in Microsoft Cloud for Sustainability 
+  description: Learn how to achieve water sustainability with Microsoft Sustainability Manager.
+  ms.date: 11/10/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/water-sustainability.md)]

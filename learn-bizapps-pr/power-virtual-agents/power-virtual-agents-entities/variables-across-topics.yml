@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-entities.variables-across-topics 
+title: Reuse variables across topics
+metadata: 
+  title: Reuse variables across topics
+  description: Learn about reusing variables across topics.
+  ms.date: 01/02/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/variables-across-topics.md)] 

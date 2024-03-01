@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-volunteers-groups.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: A volunteer has recently completed their background check. Where would be the appropriate place to record this?
+    choices: 
+    - content: As a note on their timeline
+      isCorrect: false 
+      explanation: It cannot be easily used for matching the volunteer to relevant engagement opportunities if it's only added as a note on their timeline.
+    - content: As a preference
+      isCorrect: false 
+      explanation: Preferences are used to match volunteer interests to engagement opportunities.
+    - content: As a qualification
+      isCorrect: true 
+      explanation: It should be stored as a qualification.
+    - content: On their availability schedule
+      isCorrect: false 
+      explanation: It isn't possible to record this on their availability schedule.
+  - content: You would like to send a message to all volunteers who are often interested in your Clean Up Day opportunity. What would be the best way to send the message?
+    choices: 
+    - content: Create a group of all volunteers who meet the criteria, then send a message to the whole group.
+      isCorrect: true 
+      explanation: You can create a group of all volunteers who meet the criteria to communicate with them efficiently.
+    - content: Individually send a message to volunteers that meet the criteria from their volunteer record.
+      isCorrect: false 
+      explanation: This method is inefficient.
+    - content: Look up the email address of all volunteers who meet the criteria, then send open Outlook to send them an email.
+      isCorrect: false 
+      explanation: This method is inefficient.
+  - content: What is the purpose of an availability schedule?
+    choices: 
+    - content: To see a schedule of the dates and times a volunteer is available to work.
+      isCorrect: false 
+      explanation: The availability schedule doesn't record time.
+    - content: To see the days that a volunteer is available to work.
+      isCorrect: true 
+      explanation: You can see the days a volunteer has indicated that they're available.
+    - content: To see if a volunteer has signed up for an engagement.
+      isCorrect: false 
+      explanation: This cannot be viewed from the availability schedule.

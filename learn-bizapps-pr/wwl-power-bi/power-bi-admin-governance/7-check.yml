@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-governance.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/30/2021 
+ author: wwlpublish 
+ ms.author: shlindsay 
+ ms.topic: unit
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following is NOT a common component of an effective BI governance model?
+    choices: 
+    - content: Data engineering
+      isCorrect: false 
+      explanation: Data engineering is a normal component to a BI governance model developed by the IT/BI team.
+    - content: Service and support
+      isCorrect: true 
+      explanation: Service and support are associated with supporting the operations of a BI environment and not a common component to the BI governance model.
+    - content: Training and education
+      isCorrect: false 
+      explanation: Training and education is a standard component to a BI governance model developed by the central IT organization.
+    - content: Enterprise reporting
+      isCorrect: false 
+      explanation: Enterprise reporting is a critical component of a BI governance model and developed by the IT/BI team.
+  - content: Which element of data governance defines policies for use of data in a Power BI system?
+    choices: 
+    - content: Visibility
+      isCorrect: false 
+      explanation: The visibility element of BI data governance allows the administrator to determine what's going on in the Power BI environment.
+    - content: Control
+      isCorrect: true 
+      explanation: Control is a key component of BI data governance and defines policies for use of data in a Power BI system.
+    - content: Support
+      isCorrect: false 
+      explanation: Support is associated with the BI environment operational management and is not a typical element of BI data governance.
+    - content: Compliance
+      isCorrect: false 
+      explanation: Compliance ensures that all regulations are met in all your organization's data practices.
+  - content: Which of the following administrator roles is NOT responsible for configuring tenant settings?
+    choices: 
+    - content: Global administrator
+      isCorrect: false 
+      explanation: The global administrator is a role capable and responsible for configuring tenant settings.
+    - content: Power BI service administrator
+      isCorrect: false 
+      explanation: The Power BI service administrator is capable and responsible for configuring certain tenant settings.
+    - content: Microsoft Power Platform service administrator
+      isCorrect: false 
+      explanation: Microsoft Power Platform service administrator is capable and responsible for configuring certain tenant settings.
+    - content: Power BI billing administrator
+      isCorrect: true 
+      explanation: The Power BI billing administrator is responsible for administrating BI billing and not configuring tenant settings.
+  - content: Which link is NOT available for customization in the custom help and support menu?
+    choices: 
+    - content: Training documentation
+      isCorrect: false 
+      explanation: Training documentation is a customizable link in the custom help and support menu.
+    - content: Embed code list
+      isCorrect: true 
+      explanation: Embed code list provides a list of all available embed codes to users but is not a customizable link option in the custom help and support menu.
+    - content: Help desk
+      isCorrect: false 
+      explanation: Help desk is a customizable link in the custom help and support menu.
+    - content: Licensing requests
+      isCorrect: false 
+      explanation: Licensing requests is a customizable link in the custom help and support menu.

@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-model-driven-apps.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check unit for guided project module."
+  ms.date: 12/13/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "The Open Houses table was recently created. There needs to be a read-only list on the Real Estate Property – Property Management form that displays all the open house records for a property. What type of column needs to be added to the Open Houses table to ensure related open houses for a real estate property can be displayed?"
+    choices:
+    - content: "You need to add a Choice column that allows you to select a property listing record."
+      isCorrect: false
+      explanation: "Incorrect. Choice columns are used when you want to present the user with a list of different items they can choose from."
+    - content: "You need to add a Lookup column that points to the Real Estate Property table."
+      isCorrect: true
+      explanation: "Correct. A Lookup column creates a relationship between the table you create the lookup column in and the table your lookup column is pointing to."
+    - content: "You need to add a Customer lookup column."
+      isCorrect: false
+      explanation: "Incorrect. Choosing Customer creates a lookup column that points to both the Account and Contact tables. You can't select any other table."
+  - content: "Users want the customer’s level of interest to be displayed on the showings subgrid on the Real Estate Property – Property Information form. What needs to be done to display interest level on the subgrid?"
+    choices:
+    - content: "Add the Interest Level column to the relevant views on the Showing table."
+      isCorrect: true
+      explanation: "Correct. The information displayed in a subgrid comes from the related tables view associated with the sub–grid. Modifying the table view to include the Interest Level column displays the interest level column on the subgrid."
+    - content: "Add the Interest Level column to the subgrid control on the Real Estate Property – Property Information form."
+      isCorrect: false
+      explanation: "Incorrect. The subgrid control only allows you to specify the table and the view that is used. You can't directly add columns to this control."
+    - content: "Add the Interest Level column to the Showing – Showing Details form."
+      isCorrect: false
+      explanation: "Incorrect. Adding the interest Level column to the Showings form displays it on that form. Since forms aren't used to render information on a subgrid, that item does not display."
+  - content: "The Open Houses table needs to be added to the existing Property Management model-driven app. What type of page needs to be added to the model-driven app?"
+    choices:
+    - content: "Custom page."
+      isCorrect: false
+      explanation: "Incorrect. Custom pages are used when you want to add a page that includes Canvas application functionality."
+    - content: "Dashboard."
+      isCorrect: false
+      explanation: "Incorrect. Dashboard pages are used to connect to an existing Dynamics 365 dashboard."
+    - content: "Dataverse table."
+      isCorrect: true
+      explanation: "Correct. Dataverse table pages are used to display data that is in a Dataverse table."

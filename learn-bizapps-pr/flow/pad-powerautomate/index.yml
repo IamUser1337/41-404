@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.pad-power-automate
+metadata:
+ title: Combine Power Automate desktop and cloud flows
+ description: This module describes how to combine a Power Automate desktop flow with a Power Automate cloud flow.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+title: Combine Power Automate desktop and cloud flows
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module describes how to combine a Power Automate desktop flow with a Power Automate cloud flow. It demonstrates how to call an existing Power Automate desktop flow from a cloud flow to enhance its functionality and save time when designing large, complex flows.
+abstract: |
+    This module explains how to:
+    - Create a cloud flow in Power Automate that calls a Power Automate desktop flow.
+    - Use the values of variables from Power Automate in a Power Automate desktop flow.
+    - Use the resulting variables from Power Automate for desktop in Power Automate actions.
+prerequisites: |
+    - Either a paid or trial Power Automate license.
+    - A work or school account to sign into your Windows device with administrator privileges and Power Automate.
+    - A device that runs Windows 10 or Windows Server 2019.
+    - Microsoft Edge (version 80 or later) or other supported browser.
+    - An environment with a Dataverse database.
+iconUrl: /training/achievements/pad-power-automate.svg
+levels:
+- beginner
+roles:
+- maker
+- developer
+- functional-consultant
+products:
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-power-automate.1-introduction
+- learn-bizapps.pad-power-automate.2-run-pad-flows-power-automate
+- learn-bizapps.pad-power-automate.3-exercise-create-flow-call-pad
+- learn-bizapps.pad-power-automate.4-check-your-knowledge
+- learn-bizapps.pad-power-automate.5-summary
+badge:
+  uid: learn-bizapps.pad-power-automate.badge

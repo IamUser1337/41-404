@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-entities.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/25/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You want to create a container to store custom product types that can be used as responses to customer questions, and variables that can be used throughout your bot.  What Power Virtual Agent feature, should you use?
+    choices: 
+    - content: Topics
+      isCorrect: false 
+      explanation: Entities in Microsoft Copilot Studio are informational units that represent certain types of real-world subjects such as a phone number, postal code, city, or a person's name. Organizations create their own entities to represent organization specific items such as product categories.   
+    - content: Entities 
+      isCorrect: true 
+      explanation: Entities in Microsoft Copilot Studio are informational units that represent certain types of real-world subjects such as a phone number, postal code, city, or a person's name. Organizations create their own entities to represent organization specific items such as product categories.   
+    - content: Channels
+      isCorrect: false 
+      explanation: Entities in Microsoft Copilot Studio are informational units that represent certain types of real-world subjects such as a phone number, postal code, city, or a person's name. Organizations create their own entities to represent organization specific items such as product categories.   
+    - content: Environments
+      isCorrect: false 
+      explanation: Entities in Microsoft Copilot Studio are informational units that represent certain types of real-world subjects such as a phone number, postal code, city, or a person's name. Organizations create their own entities to represent organization specific items such as product categories.   
+  - content: You're creating a customer entity that will represent different departments your organization has.  Your Sales and Marketing departments work closely together.  You want to ensure that if someone indicates they have a Marketing question, that they're being sent to the Sales topic.  How would you do this? 
+    choices: 
+    - content: Add Sales as a Synonym of Marketing
+      isCorrect: false 
+      explanation: Synonyms can be used to add words with similar meanings or that's considered similar by nature.  Since we want to display Sales when someone enters Marketing, we would add Marketing as a Synonym of Sales.  
+    - content: Make Marketing a child of Sales
+      isCorrect: false 
+      explanation: Synonyms can be used to add words with similar meanings or that's considered similar by nature.  Since we want to display Sales when someone enters Marketing, we would add Marketing as a Synonym of Sales.  
+    - content: Add Marketing as a Synonym of Sales 
+      isCorrect: true 
+      explanation: Synonyms can be used to add words with similar meanings or that's considered similar by nature.  Since we want to display Sales when someone enters Marketing, we would add Marketing as a Synonym of Sales.  
+    - content: Make Sales a child of Marketing
+      isCorrect: false 
+      explanation: Synonyms can be used to add words with similar meanings or that's considered similar by nature.  Since we want to display Sales when someone enters Marketing, we would add Marketing as a Synonym of Sales.  
+  - content: Which of the variables defined below would be available to use across all topics in a bot?  
+    choices: 
+    - content: bot.UserName 
+      isCorrect: true 
+      explanation: By default, variables are only available to the topic that they were defined in.  If you want to make the variable available to all the topics in your bot, you can define it as a bot topic.  Once a variable is defined as a bot topic, it will include the prefix bot in front of it.  For example, UserName would be a topic specific variable, and bot.UserName would be a global/bot variable.  
+    - content: pva.UserName
+      isCorrect: false 
+      explanation: By default, variables are only available to the topic that they were defined in.  If you want to make the variable available to all the topics in your bot, you can define it as a bot topic.  Once a variable is defined as a bot topic, it will include the prefix bot in front of it.  For example, UserName would be a topic specific variable, and bot.UserName would be a global/bot variable.  
+    - content: global.UserName
+      isCorrect: false 
+      explanation: By default, variables are only available to the topic that they were defined in.  If you want to make the variable available to all the topics in your bot, you can define it as a bot topic.  Once a variable is defined as a bot topic, it will include the prefix bot in front of it.  For example, UserName would be a topic specific variable, and bot.UserName would be a global/bot variable.  
+    - content: all.UserName
+      isCorrect: false 
+      explanation: By default, variables are only available to the topic that they were defined in.  If you want to make the variable available to all the topics in your bot, you can define it as a bot topic.  Once a variable is defined as a bot topic, it will include the prefix bot in front of it.  For example, UserName would be a topic specific variable, and bot.UserName would be a global/bot variable.  

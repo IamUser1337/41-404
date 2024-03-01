@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-administration.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/12/2023
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 8
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where you can view all Power Pages websites that have been provisioned in a specific tenant?
+    choices: 
+    - content: Azure portal
+      isCorrect: false 
+      explanation: Microsoft Power Platform admin center has the ability to list all websites in the various environments of a specific tenant. Neither Azure portal or Microsoft 365 Admin Center doesn't provide access to Power Pages. Power Apps maker portal lists Power Pages websites in the selected environment only.
+    - content: Power Platform admin center
+      isCorrect: true 
+      explanation: Microsoft Power Platform admin center has the ability to list all websites in the various environments of a specific tenant. Neither Azure portal or Microsoft 365 Admin Center doesn't provide access to Power Pages. Power Apps maker portal lists Power Pages websites in the selected environment only.
+    - content: Microsoft 365 Admin Center
+      isCorrect: false 
+      explanation: Microsoft Power Platform admin center has the ability to list all websites in the various environments of a specific tenant. Neither Azure portal or Microsoft 365 Admin Center doesn't provide access to Power Pages. Power Apps maker portal lists Power Pages websites in the selected environment only.
+    - content: Power Apps maker portal
+      isCorrect: false 
+      explanation: Microsoft Power Platform admin center has the ability to list all websites in the various environments of a specific tenant. Neither Azure portal or Microsoft 365 Admin Center doesn't provide access to Power Pages. Power Apps maker portal lists Power Pages websites in the selected environment only.
+  - content: What kind of SSL certificate file format is required for Power Pages?
+    choices: 
+    - content: PFX
+      isCorrect: true 
+      explanation: PFX is the only certificate type that can be uploaded in the Power Pages admin center.
+    - content: CER
+      isCorrect: false 
+      explanation: PFX is the only certificate type that can be uploaded in the Power Pages admin center.
+    - content: P7B
+      isCorrect: false 
+      explanation: PFX is the only certificate type that can be uploaded in the Power Pages admin center.
+    - content: SHA2
+      isCorrect: false 
+      explanation: PFX is the only certificate type that can be uploaded in the Power Pages admin center.
+  - content: You need to update a large amount of Microsoft Dataverse data, which will affect some of the functionality of the Power Pages website. You want to block users from navigating to the website. What is your best option to complete this task?
+    choices: 
+    - content: Select Shut down this site action.
+      isCorrect: false 
+      explanation: Shutting down the website or using IP address restrictions prevent users from navigating to the website. Maintenance mode is the best option because users see a maintenance page. The reset action will only temporarily bring down the website.
+    - content: Run the Restart site action.
+      isCorrect: false 
+      explanation: Shutting down the website or using IP address restrictions prevent users from navigating to the website. Maintenance mode is the best option because users see a maintenance page. The reset action will only temporarily bring down the website.
+    - content: Use the Enable Maintenance Mode.
+      isCorrect: true 
+      explanation: Shutting down the website or using IP address restrictions prevent users from navigating to the website. Maintenance mode is the best option because users see a maintenance page. The reset action will only temporarily bring down the website.
+    - content: Set up IP address restrictions.
+      isCorrect: false 
+      explanation: Shutting down the website or using IP address restrictions prevent users from navigating to the website. Maintenance mode is the best option because users see a maintenance page. The reset action will only temporarily bring down the website.
+  - content: Which one of the following steps isn't required to configure a custom URL for a Power Pages website?
+    choices: 
+    - content: The website must be production and not a trial.
+      isCorrect: false 
+      explanation: The website doesn't need to be in maintenance mode to install a custom URL.
+    - content: You need to own a custom domain.
+      isCorrect: false 
+      explanation: The website doesn't need to be in maintenance mode to install a custom URL.
+    - content: You need an SSL certificate for the custom domain.
+      isCorrect: false 
+      explanation: The website doesn't need to be in maintenance mode to install a custom URL.
+    - content: The website must be in maintenance mode.
+      isCorrect: true 
+      explanation: The website doesn't need to be in maintenance mode to install a custom URL.

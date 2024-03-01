@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.test-app.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/30/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following test types is performed programmatically within fractions of a second?
+    choices: 
+    - content: User acceptance
+      isCorrect: false 
+      explanation: Incorrect. User acceptance testing (UAT) takes time, and it's to ensure that the app that's been built by the makers matches the requirements that the user initially requested.
+    - content: Unit
+      isCorrect: true 
+      explanation: Correct. Unit tests are repeatable and run programmatically within fractions of a second.
+    - content: End-to-end
+      isCorrect: false 
+      explanation: Incorrect. End-to-end tests are done by following a test scenario that's close to the use case of the actual business process.
+  - content: Which of the following tools can you use to write, organize, and automate tests for canvas apps?
+    choices: 
+    - content: Solution checker
+      isCorrect: false 
+      explanation: Incorrect. Solution checker is a tool that allows you to perform a static analysis check on your solutions against a set of best practice rules and then quickly identify these problematic patterns.
+    - content: EasyRepro
+      isCorrect: false 
+      explanation: Incorrect. EasyRepro is a testing tool, but it doesn't write, organize, and automate tests for canvas apps.
+    - content: Test Studio
+      isCorrect: true 
+      explanation: Correct. You can use Test Studio to write, organize, and automate tests for canvas apps.
+  - content: Which of the following components is analyzed by the solution checker?
+    choices: 
+    - content: Web resources
+      isCorrect: true 
+      explanation: Correct. Solution checker analyzes web resource components.
+    - content: Power pages
+      isCorrect: false 
+      explanation: Incorrect. The solution checker analyzes three solution components, but Power pages isn't one of them.
+    - content: Dataverse themes
+      isCorrect: false 
+      explanation: Incorrect. The solution checker analyzes three solution components, but Dataverse themes isn't one of them.

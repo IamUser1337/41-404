@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-emissions-calculation
+metadata:
+ title: Design emission calculations
+ description: Learn how to design emission calculations in Microsoft Cloud for Sustainability.
+ ms.date: 09/26/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Design emission calculations
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module focuses on performing the emission calculations and reviewing the emission calculations output. You create a new custom factor library, new calculation models and new calculation profiles.
+abstract: |
+    In this module, you'll:
+    - Review the Dynamic calculation capabilities of Microsoft Sustainability Manager by using factor libraries, emission factors, and more.
+    - Review the existing EPA 2022-eGRID factor library and emission factors.
+    - Create a new custom factor library for estimating miles to kilowatt-hours.
+    - Create new calculation models and new calculation profiles for calculation jobs.
+prerequisites: |
+    - Microsoft Sustainability Manager environment is set up with sample data
+    - Exercise 01 organization and reference data are entered
+    - Exercise 02 activity data is ingested
+iconUrl: /learn/achievements/sustainability-emissions-calculation.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-emissions-calculation.introduction
+- learn-bizapps.sustainability-emissions-calculation.exercise-factor-libraries
+- learn-bizapps.sustainability-emissions-calculation.exercise-calculation-models
+- learn-bizapps.sustainability-emissions-calculation.exercise-calculations
+- learn-bizapps.sustainability-emissions-calculation.exercise-allocations
+- learn-bizapps.sustainability-emissions-calculation.check
+- learn-bizapps.sustainability-emissions-calculation.summary
+badge:
+  uid: learn-bizapps.sustainability-emissions-calculation.badge

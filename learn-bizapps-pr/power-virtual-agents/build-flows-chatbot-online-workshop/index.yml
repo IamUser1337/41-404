@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.build-flows-chatbot-online-workshop
+metadata:
+ title: Build Power Automate flows for your copilot - Online workshop
+ description: Learn how to build Power Automate flows for your Microsoft Copilot Studio copilot to automate more customer support.
+ ms.date: 01/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: copilot-studio
+ ms.collection: bap-ai-copilot
+title: Build Power Automate flows for your copilot - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Copilot Studio connects with Power Automate, and it can pass the variables from user's responses and retrieve data from several different data sources, perform complex operations on that data, and then return to Microsoft Copilot Studio to share that data with the user. The ability to operate on and retrieve data from almost any data source that’s accessible through an API is one of the most valuable benefits of Microsoft Copilot Studio.
+abstract: |
+    This module explains the concepts:
+    - Learn about the basics of Power Automate.
+    - Use Microsoft Copilot Studio to request data from another data source and return the data in a conversational dialog with a customer or user.
+prerequisites: |
+    Some modules in this learning path, especially later modules, reference previous modules regarding capabilities and previous tasks. The modules are designed so that, as long you have access to a Microsoft Copilot Studio trial where you use the latest unified authoring canvas, you can get started from any module without needing to complete the previous module so that you can move forward. However, for the best experience in learning about the features and functionality within the product, we recommend that you complete specific modules before starting some modules.
+
+    This module is designed for use with the Microsoft Copilot Studio in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00&search=power%20virtual%20agents).
+iconUrl: /learn/achievements/build-flows-chatbot-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- ms-copilot
+ 
+subjects:
+- chatbot
+units:
+- learn-bizapps.build-flows-chatbot-online-workshop.introduction
+- learn-bizapps.build-flows-chatbot-online-workshop.understand-power-automate
+- learn-bizapps.build-flows-chatbot-online-workshop.exercise-build-flow
+- learn-bizapps.build-flows-chatbot-online-workshop.check
+- learn-bizapps.build-flows-chatbot-online-workshop.summary
+badge:
+  uid: learn-bizapps.build-flows-chatbot-online-workshop.badge

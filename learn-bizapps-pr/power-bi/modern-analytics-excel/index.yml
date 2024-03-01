@@ -1,0 +1,50 @@
+### YamlMime:Module 
+uid: learn-bizapps.modern-analytics-excel 
+metadata: 
+ title: Transcend data analysis together with Power BI and Excel
+ description: This module introduces potential ways that people can use Excel and Power BI together. Power BI is a great tool for telling a story through visuals; occasionally, it's beneficial to use Excel for analysis. Excel can make a connection to a Power BI dataset, enabling you to analyze the data by using PivotTables.
+ ms.date: 06/22/2023  
+ author: maggiesMSFT  
+ manager: kfollis 
+ ms.author: maggies  
+ ms.topic: module
+ ms.service: powerbi  
+title: Transcend data analysis together with Power BI and Excel
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module explains the different ways that Microsoft Excel users can interact with Microsoft Power BI datasets to analyze data.
+abstract: |  
+    In this module, you will: 
+    - Configure a connection to Power BI datasets within Excel.
+    - Learn about security configuration across applications.
+    - Build Excel reports by using a Power BI dataset and cube formulas.
+    - Enable Excel users to access featured tables.
+    - Use new Microsoft Office 365/Excel 2016+ formulas XLOOKUP(), FILTER(), and LET().
+    - Identify lineage from data source to dashboards.
+    - Use Excel together with Power BI.
+prerequisites: Microsoft Excel, PivotTables
+iconUrl: /training/achievements/modern-analytics-excel.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform 
+- power-bi 
+subjects:
+- data-analytics
+units:
+- learn-bizapps.modern-analytics-excel.1-enable-compatibility 
+- learn-bizapps.modern-analytics-excel.2-connect-excel 
+- learn-bizapps.modern-analytics-excel.3-types-security 
+- learn-bizapps.modern-analytics-excel.4-formulas 
+- learn-bizapps.modern-analytics-excel.5-excel-formulas 
+- learn-bizapps.modern-analytics-excel.6-tables-lineage 
+- learn-bizapps.modern-analytics-excel.7-excel-power-bi 
+- learn-bizapps.modern-analytics-excel.8-exercise
+- learn-bizapps.modern-analytics-excel.9-exercise 
+- learn-bizapps.modern-analytics-excel.10-check 
+- learn-bizapps.modern-analytics-excel.11-summary 
+badge: 
+  uid: learn-bizapps.modern-analytics-excel.badge

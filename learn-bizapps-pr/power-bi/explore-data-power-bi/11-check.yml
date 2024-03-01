@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.explore-data-power-bi.11-check 
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/31/2019 
+ author: paulinbar
+ manager: kfollis 
+ ms.author: painbar 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: How can you get Power BI to spot outliers and trends in your data?
+    choices: 
+    - content: Use the Spotlight feature  
+      isCorrect: false 
+      explanation: The Quick insights feature is built on a growing set of advanced analytical algorithms that allow people to find insights in their data in intuitive ways. 
+    - content: Export data to Microsoft Excel
+      isCorrect: false 
+      explanation: The Quick insights feature is built on a growing set of advanced analytical algorithms that allow people to find insights in their data in intuitive ways. 
+    - content: Use Quick insights
+      isCorrect: true 
+      explanation: The Quick insights feature is built on a growing set of advanced analytical algorithms that allow people to find insights in their data in intuitive ways. 
+    - content: Use Custom Q&A 
+      isCorrect: false 
+      explanation: The Quick insights feature is built on a growing set of advanced analytical algorithms that allow people to find insights in their data in intuitive ways. 
+
+  - content: How could you gather, arrange, and share interesting Power BI visuals from several different sources?
+    choices: 
+    - content: Pin them to a Power BI report
+      isCorrect: false 
+      explanation: A Power BI dashboard is a single page, often called a canvas. It uses visualizations from various reports to tell a story.
+    - content: Pin them to a Power BI dashboard
+      isCorrect: true 
+      explanation: A Power BI dashboard is a single page, often called a canvas. It uses visualizations from various reports to tell a story.
+    - content: Export them to PDF
+      isCorrect: false 
+      explanation: A Power BI dashboard is a single page, often called a canvas. It uses visualizations from various reports to tell a story.
+    - content: Use the Get Data feature
+      isCorrect: false 
+      explanation: A Power BI dashboard is a single page, often called a canvas. It uses visualizations from various reports to tell a story.
+
+  - content: If you think of some interesting questions to ask in your report, how could you share them to help your Q&A users?
+    choices: 
+    - content: Use the Spotlight feature  
+      isCorrect: false 
+      explanation: You can add your own featured questions to any dataset you own by adding them to the "Featured Q&A questions" feature in the dashboard setting, dashboard section.
+    - content: Include your questions in a text box on the report canvas
+      isCorrect: false 
+      explanation: You can add your own featured questions to any dataset you own by adding them to the "Featured Q&A questions" feature in the dashboard setting, dashboard section.
+    - content: Use the "Featured Q&A questions" feature
+      isCorrect: true 
+      explanation: You can add your own featured questions to any dataset you own by adding them to the "Featured Q&A questions" feature in the dashboard setting, dashboard section.
+    - content: Use the "Edit Queries" feature
+      isCorrect: false 
+      explanation: You can add your own featured questions to any dataset you own by adding them to the "Featured Q&A questions" feature in the dashboard setting, dashboard section.

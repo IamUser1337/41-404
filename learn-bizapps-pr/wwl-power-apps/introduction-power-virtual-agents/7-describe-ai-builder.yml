@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-virtual-agents.describe-ai-builder
+title: Describe AI Builder
+metadata:
+  title: Describe AI Builder
+  description: "Get introduced to AI Builder."
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+  [!include[](includes/7-describe-ai-builder.md)]

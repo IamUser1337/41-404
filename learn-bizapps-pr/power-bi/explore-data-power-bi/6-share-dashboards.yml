@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.explore-data-power-bi.6-share-dashboards 
+title: Share dashboards with your organization
+metadata: 
+  title: Share dashboards with your organization
+  description: Learn how to share dashboards with your organization in Power BI.
+  ms.date: 07/31/2019 
+  author: paulinbar 
+  manager: kfollis 
+  ms.author: painbar 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-share-dashboards.md)] 
+

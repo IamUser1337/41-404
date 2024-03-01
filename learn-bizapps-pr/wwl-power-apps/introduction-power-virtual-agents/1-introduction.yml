@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-virtual-agents.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction to complementary Power Platform solutions."
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/1-introduction.md)]

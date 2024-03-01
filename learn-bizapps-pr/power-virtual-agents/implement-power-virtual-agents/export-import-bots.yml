@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.implement-power-virtual-agents.export-import-bots
+title: Export and import bots
+metadata:
+  title: Exercise - Export and import bots
+  description: Learn how to use solutions to move chatbots from the development environment to testing and to production.
+  ms.date: 10/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/export-import-bots.md)]

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-analytics.6-lab 
+title: Lab - Perform analytics
+metadata: 
+  title: Lab - Perform analytics 
+  description: Practice performing analytics in Power BI. 
+  ms.date: 03/31/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 15 
+labId: 92053
+labModal: true
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-lab.md)] 

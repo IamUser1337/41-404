@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.understand-power-apps-component-framework
+title: Understand Power Apps component framework
+metadata:
+  title: Understand Power Apps component framework
+  description: "Understand Power Apps component framework"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 5
+content: |
+  [!include[](includes/12-understand-power-apps-component-framework.md)]

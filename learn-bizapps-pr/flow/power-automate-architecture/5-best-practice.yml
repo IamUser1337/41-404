@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-architecture.5-best-practice
+title: Best practice
+metadata:
+  title: Best practice
+  description: Learn about the best practice for cloud flows.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-best-practice.md)]

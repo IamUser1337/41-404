@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-integration-interoperability.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 11/22/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Azure Health Data Services is focused on which of the following global open standards and services?
+    choices:
+    - content: FHIR, DICOM, and medtech
+      isCorrect: true
+      explanation: Azure Health Data Services focuses on established standards and services, namely FHIR, DICOM, and medtech. 
+    - content: FHIR
+      isCorrect: false
+      explanation: Azure Health Data Services focuses on established standards and services, namely FHIR, DICOM, and medtech.
+    - content: DICOM
+      isCorrect: false
+      explanation: Azure Health Data Services focuses on established standards and services, namely FHIR, DICOM, and medtech.
+    - content: FHIR and DICOM
+      isCorrect: false
+      explanation: Azure Health Data Services focuses on established standards and services, namely FHIR, DICOM, and medtech.
+  - content: Virtual health data tables use which one of the following configuration records to switch between Dataverse and FHIR server as data storage?
+    choices:
+    - content: Entity Maps
+      isCorrect: false
+      explanation: Virtual health data tables use data routes between Dataverse and FHIR server data storage.
+    - content: Attribute Maps
+      isCorrect: false
+      explanation: Virtual health data tables use data routes between Dataverse and FHIR server data storage.
+    - content: Data Routes
+      isCorrect: true
+      explanation: Virtual health data tables use data routes between Dataverse and FHIR server data storage.
+    - content: Integration Settings 
+      isCorrect: false
+      explanation: Virtual health data tables use data routes between Dataverse and FHIR server data storage.
+  - content: Which of the following options would you use to set up virtual health data tables to access data on the remote FHIR server?
+    choices:
+    - content: Data integration toolkit 
+      isCorrect: true
+      explanation: You would set up authentication settings for the FHIR server in the Data integration toolkit Integration Settings.
+    - content: Azure FHIR server
+      isCorrect: false
+      explanation: You would set up authentication settings for the FHIR server in the Data integration toolkit Integration Settings.
+    - content: Microsoft Entra app
+      isCorrect: false
+      explanation: You would set up authentication settings for the FHIR server in the Data integration toolkit Integration Settings.
+    - content: Healthcare data pipeline template
+      isCorrect: false
+      explanation: You would set up authentication settings for the FHIR server in the Data integration toolkit Integration Settings.
+  - content: By default, to which of the following applications does virtual health data tables route the data requests?
+    choices:
+    - content: Azure FHIR server
+      isCorrect: false
+      explanation: By default, virtual health data tables route data requests to Dataverse.
+    - content: Dataverse
+      isCorrect: true
+      explanation: By default, virtual health data tables route data requests to Dataverse.
+    - content: Microsoft Entra app
+      isCorrect: false
+      explanation: By default, virtual health data tables route data requests to Dataverse.
+    - content: Healthcare date pipeline template 
+      isCorrect: false
+      explanation: By default, virtual health data tables route data requests to Dataverse.

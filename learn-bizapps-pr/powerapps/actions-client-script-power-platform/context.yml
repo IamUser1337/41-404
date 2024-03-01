@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.actions-client-script-power-platform.context
+title: Context objects
+metadata:
+  title: Context objects
+  description: Understand the context objects available and how to use them when creating event handlers and using the client scripting API.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 7
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/context.md)]

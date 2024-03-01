@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-developer-resources.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/27/2023 
+ author: davebeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ ms.service: powerapps 
+ ms.subservice: dataverse-developer
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Your organization is considering options on how to build an enterprise application with a robust data model and using as much low code as possible. Which of the following would be a good fit for this scenario?  
+    choices: 
+    - content: Azure SQL
+      isCorrect: false 
+      explanation: Azure SQL is a scalable relational database service that can be used as storage for many enterprise applications. It doesn't include any data model out of the box and can't be used to develop applications by itself.
+    - content: Power Apps  
+      isCorrect: true 
+      explanation: Power Apps interacts with the Dataverse and the best fit for this example.  
+    - content: Microsoft Excel  
+      isCorrect: false 
+      explanation: Microsoft Excel is a personal productivity tool that can't be used to build enterprise applications 
+  - content: Which of the following are components of Microsoft Power Platform?  
+    choices: 
+    - content: Azure Functions, Azure Service Bus, Azure Data Lake Storage  
+      isCorrect: false 
+      explanation: Azure Functions, Azure Service Bus, Azure Data Lake Storage are all Azure services. They can be used to extend Microsoft Power Platform solutions but aren't themselves part of the platform.
+    - content: Power BI, Azure HDInsight, Azure Synapse
+      isCorrect: false 
+      explanation: Power BI, Azure HDInsight, Azure Synapse are services to build large-scale analytical solutions. Only Power BI is a component of Microsoft Power Platform, HDInsight, and Synapse are part of Azure.
+    - content: SharePoint, Power Apps, Power Automate  
+      isCorrect: false 
+      explanation: Power Apps and Power Automate are components of Microsoft Power Platform but SharePoint, even though it can be used as a data source for Microsoft Power Platform solutions, is part of Office 365.
+    - content: Power Apps, Power BI, Power Automate
+      isCorrect: true
+      explanation: Power Apps, Power BI, and Power Automate are all components of Microsoft Power Platform.  
+  - content: Which of the following is a benefit of developing against the Dataverse?  
+    choices: 
+    - content: Provides the ability to quickly build apps without the need for writing code
+      isCorrect: true 
+      explanation: Dataverse provides the ability to quickly build data models and apps on top of these models without the need to write code.
+    - content: Provides the ability to translate data into different languages automatically 
+      isCorrect: false 
+      explanation: Dataverse supports multi-language deployments but doesn't provide automatic translation tools.
+    - content: Supports native mobile application development for iOS and Android platforms
+      isCorrect: false 
+      explanation: Power Apps built on top of Dataverse can run on mobile devices however they aren't native mobile apps.   

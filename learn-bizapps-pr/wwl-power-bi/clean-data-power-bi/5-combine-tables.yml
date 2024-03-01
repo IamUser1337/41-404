@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.5-combine-tables
+title: Combine multiple tables into a single table
+metadata:
+  title: Combine multiple tables into a single table
+  description: "Learn how to combine multiple tables into a single table."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](includes/5-combine-tables.md)]

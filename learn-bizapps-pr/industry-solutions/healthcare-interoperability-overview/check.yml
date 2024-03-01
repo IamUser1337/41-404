@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-overview.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 02/19/2024 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 8
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following statements about Data Integration Toolkit is true?
+    choices: 
+    - content: It's a rebranding of Sync Admin for FHIR
+      isCorrect: false 
+      explanation: Incorrect. Sync Admin for FHIR has been rebranded as Data Integration Toolkit.
+    - content: Collection of tools to administer integration and interoperability services in Microsoft Cloud for Healthcare
+      isCorrect: false 
+      explanation: Incorrect. Data Integration Toolkit is a collection of tools for administering the integration and interoperability services that are provided with Microsoft Cloud for Healthcare.
+    - content: You can sync protected patient’s health information between EHRs, FHIR servers, and Microsoft Dataverse.
+      isCorrect: false 
+      explanation: Incorrect. Data Integration Toolkit enables you to sync protected patient’s health information between EHRs, FHIR servers, and Microsoft Dataverse.
+    - content: All the above
+      isCorrect: true 
+      explanation: Correct. All the above statements are true.
+  - content: Which of the following security role helps access the Data Integration Toolkit features?
+    choices: 
+    - content: App Reg User.
+      isCorrect: false 
+      explanation: Incorrect. This role allows users to access Dataverse to sync the data with Azure FHIR server.
+    - content: Healthcare User.
+      isCorrect: true
+      explanation: Correct. Sync Admin for FHIR Healthcare User role provides access to the Data Integration Toolkit features. 
+    - content: Config Administrator.
+      isCorrect: false 
+      explanation: Incorrect. This role allows admins to set up the integration settings for Dataverse Healthcare APIs and virtual health data tables.
+    - content: None of the above. 
+      isCorrect: false 
+      explanation: Incorrect. Sync Admin for FHIR Healthcare User role provides access to the Data Integration Toolkit features. 
+  - content: Which are the endpoints are available in Dataverse Healthcare APIs?
+    choices: 
+    - content: msind_InsertBundle and msind_UpdateBundle
+      isCorrect: false 
+      explanation: Incorrect. Neither endpoint is available in Dataverse Healthcare APIs.
+    - content: msind_UpsertBundle and msind_DeleteBundle
+      isCorrect: false 
+      explanation: Incorrect. The msind_DeleteBundle endpoint doesn't exist.
+    - content: msind_UpsertBundle and msind_RetrieveBundle
+      isCorrect: true 
+      explanation: Correct. Both endpoints are available in Dataverse Healthcare APIs.
+    - content: msind_RetrieveBundle and msind_SendBundle
+      isCorrect: false 
+      explanation: Incorrect. The msind_SendBundle endpoint doesn't exist.
+ 

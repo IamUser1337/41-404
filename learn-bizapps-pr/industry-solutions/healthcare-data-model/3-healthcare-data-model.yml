@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-data-model.3-healthcare-data-model
+title: Healthcare data model
+metadata:
+  title: Healthcare data model
+  description: Learn how to use the healthcare data model, a common language for healthcare business entities.
+  ms.date: 11/02/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-healthcare-data-model.md)]

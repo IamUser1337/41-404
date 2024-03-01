@@ -1,0 +1,1 @@
+You have completed an entire learning path that took you through building a canvas app from an existing process. It can be difficult to translate an old process to a new technology, but the benefits are numerous. Now, you have a step-by-step guide on thinking through the process of translating into a canvas app solution and maintaining your solution through future changes.

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-platform-architecture.8-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/09/2023
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What should you use to control access to a Power Platform environment?
+    choices: 
+    - content: License
+      isCorrect: false
+      explanation: A user requires a license to access Power Platform, but a license can't be used to control access to an individual environment.
+    - content: Sharing
+      isCorrect: false
+      explanation: You can share apps and flows, but you can't share access to an environment.
+    - content: Workspace
+      isCorrect: false
+      explanation: Workspaces are used with Power BI. Workspaces do not control access to Power Platform environments.
+    - content: Security group
+      isCorrect: true
+      explanation: A Microsoft Entra ID security group can be assigned to an environment. Only members of the group will be able to access the environment.
+  - content: Which components should a solution architect consider for failover if a regional datacenter failure has occurred?
+    choices: 
+    - content: Portal apps
+      isCorrect: false
+      explanation: Portal apps are deployed to the paired region with Microsoft Azure Traffic Manager deciding where to send customer requests.
+    - content: Plug-ins
+      isCorrect: false
+      explanation: Plug-ins are stored in the Dataverse database and are replicated automatically to the servers that support Power Platform.
+    - content: Discovery service
+      isCorrect: false
+      explanation: Discovery service is a global service that applications can use to find the endpoint for Power Platform environments.
+    - content: Integrations
+      isCorrect: true
+      explanation: Integration will need to handle errors if a regional datacenter failure has occurred and will need to connect to the new endpoint and retry the transaction.
+  - content: You need to migrate millions of rows of data into Dataverse. You are concerned that Power Platform import tools will exceed the limits. What should you do?
+    choices: 
+    - content: Use ExecuteMultipleRequest and batches to import the data.
+      isCorrect: false
+      explanation: Batch operations are not a valid strategy to bypass entitlement limits. 
+    - content: Implement retry loops in the code.
+      isCorrect: true
+      explanation: Gradually increase the rate at which you send requests until you begin to reach limits, and then depend on the service protection API Limit Retry-After value to tell you when to send more. This value will keep your total throughput at the highest possible level.
+    - content: Use a data migration tool from another source to avoid reaching the limits.
+      isCorrect: false    
+      explanation: Data tools from other sources are subject to the exact same limits as Power Platform.
+    - content: Raise a service request with Microsoft to increase service protection limits.
+      isCorrect: false
+      explanation: The service protection limits can't be increased.

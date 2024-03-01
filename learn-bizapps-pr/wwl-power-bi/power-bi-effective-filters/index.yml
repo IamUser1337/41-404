@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.power-bi-effective-filters
+metadata:
+  title: Configure Power BI report filters
+  description: "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Configure Power BI report filters
+summary: Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations. Some filtering techniques apply at design time, while others are relevant at report consumption time (in reading view). What matters is that your report design allows report consumers to intuitively narrow down to the data points that interest them.
+abstract: |
+  In this module, you will:
+  - Design reports for filtering.
+  - Design reports with slicers.
+  - Design reports by using advanced filtering techniques.
+  - Apply consumption-time filtering.
+  - Select appropriate report filtering techniques.
+prerequisites: |
+  Experience creating reports and an understanding of the audience and purpose of an analytical report.
+iconUrl: /training/achievements/power-bi-effective-filters.svg
+levels:
+- intermediate
+roles:
+- business-analyst
+- business-user
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.power-bi-effective-filters.1-introduction
+- learn-bizapps.power-bi-effective-filters.2-report-structure
+- learn-bizapps.power-bi-effective-filters.3-slicers
+- learn-bizapps.power-bi-effective-filters.4-advanced-filtering
+- learn-bizapps.power-bi-effective-filters.5-consumption-time
+- learn-bizapps.power-bi-effective-filters.6-filter-techniques
+- learn-bizapps.power-bi-effective-filters.7-feedback-configuration
+- learn-bizapps.power-bi-effective-filters.8-check
+- learn-bizapps.power-bi-effective-filters.9-summary
+badge:
+  uid: learn-bizapps.power-bi-effective-filters.badge

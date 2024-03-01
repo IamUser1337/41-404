@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.install-required-software-online-workshop.install-power-automate
+title: Install the Power Automate for desktop application
+metadata:
+  title: Install the Power Automate for desktop application
+  description: Learn how to install the Power Automate for desktop application.
+  ms.date: 02/07/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/install-power-automate.md)]

@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-workspace-data-components-online-workshop
+metadata:
+ title: Power Pages workspace data components - Online workshop
+ description: Learn about workspace data components in Power Pages.
+ ms.date: 1/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: power-pages
+title: Power Pages workspace data components - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you set up your site to align with Contoso Coffee's use case.
+abstract: |
+    This module explains how to:
+    - Create a webpage.
+    - Create a list.
+    - Add and modify table permissions.
+prerequisites: Completion of [Power Pages data workspace - Online workshop](/training/modules/power-pages-data-workspace-online-workshop/) module.
+iconUrl: /learn/achievements/power-pages-workspace-data-components-online-workshop.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.introduction
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.create-web-page
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.add-form
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.create-list
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.add-table-permission
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.test
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.modify-table-permission-scope
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.secure-web-pages
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.check
+- learn-bizapps.power-pages-workspace-data-components-online-workshop.summary
+badge:
+  uid: learn-bizapps.power-pages-workspace-data-components-online-workshop.badge

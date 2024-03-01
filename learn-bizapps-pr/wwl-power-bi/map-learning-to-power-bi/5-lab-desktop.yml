@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.mapping-learning-to-power-bi.lab02-desktop
+title: 'Lab02: Power BI desktop'
+metadata:
+  title: 'Lab02: Power BI desktop'
+  description: "Lab02: Power BI desktop"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 24
+content: |
+  [!include[](includes/5-lab-desktop.md)]

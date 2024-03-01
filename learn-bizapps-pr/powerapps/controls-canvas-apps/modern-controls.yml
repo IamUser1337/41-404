@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.modern-controls
+title: Modern controls
+metadata:
+  title: Modern controls
+  description: Learn to use and understand modern controls and themes in Power Apps.
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/modern-controls.md)]

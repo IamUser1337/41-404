@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn.wwl.introduction-to-power-virtual-agents
+metadata:
+  title: Describe complementary Microsoft Power Platform solutions
+  description: "In this module, learners will be introduced to the Microsoft Power Virtual Agents to build bots, Microsoft Power Pages to build rich websites, and AI Builder to add intelligence to their applications."
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.service: copilot-studio
+title: Describe complementary Microsoft Power Platform solutions
+summary: Learn about the value and capabilities of Microsoft Power Virtual Agents, Power Pages and AI Builder and how organizations can use them to create solutions for their business.
+abstract: |
+  In this module, we will:
+  *   Describe the capabilities of Power Virtual Agents and the business value it provides.
+  *   Examine the process of building a simple chatbot.
+  *   Describe the capabilities of Power Pages and the business value it provides.
+  *   Examine the process for building a basic site.
+  *   Describe the capabilities of AI Builder and the business value it provides.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-to-power-virtual-agents.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- developer
+- maker
+products:
+- power-apps
+- ms-copilot
+- power-pages
+subjects:
+- chatbot
+units:
+- learn.wwl.introduction-to-power-virtual-agents.introduction
+- learn.wwl.introduction-to-power-virtual-agents.what-power-virtual-agents
+- learn.wwl.introduction-to-power-virtual-agents.build-basic-chatbot
+- learn.wwl.introduction-to-power-virtual-agents.explore-power-pages
+- learn.wwl.introduction-to-power-virtual-agents.describe-business-value-power-pages
+- learn.wwl.introduction-to-power-virtual-agents.build-power-pages-site
+- learn.wwl.introduction-to-power-virtual-agents.describe-ai-builder
+- learn.wwl.introduction-to-power-virtual-agents.knowledge-check
+- learn.wwl.introduction-to-power-virtual-agents.summary
+badge:
+  uid: learn.wwl.introduction-to-power-virtual-agents.badge

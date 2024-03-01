@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-invoice-processing.2-automate-workflow 
+title: Create an automated workflow using invoice processing
+metadata: 
+  title: Create an automated workflow using invoice processing
+  description: Learn to create a new flow, configure the trigger, write the data to Excel, and test the flow.
+  ms.date: 12/09/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-automate-workflow.md)] 

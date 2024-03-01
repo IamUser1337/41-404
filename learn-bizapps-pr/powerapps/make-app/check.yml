@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.make-app.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/03/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following options is a prerequisite for creating a model-driven app?
+    choices:
+    - content: Data connectors
+      isCorrect: false
+      explanation: Incorrect. Data connectors are used in model-driven apps, but they're not a prerequisite for creating your app.
+    - content: Microsoft Dataverse database
+      isCorrect: true
+      explanation: Correct. Model-driven apps rely on Dataverse for data storage, so this option is a prerequisite for creating a model-driven app.
+    - content: Power Apps template
+      isCorrect: false
+      explanation: Incorrect. Power Apps templates are optional when you're building an app.
+  - content: Which one of the following selections is a type of Power Automate flow?
+    choices:
+    - content: Delay
+      isCorrect: false
+      explanation: Incorrect. Delay isn't a type of Power Automate flow.
+    - content: Real-time
+      isCorrect: false
+      explanation: Incorrect. Real-time isn't a type of Power Automate flow.
+    - content: Cloud
+      isCorrect: true
+      explanation: Correct. You can create cloud flows, desktop flows, or business process flows.
+  - content: Which one of the following selections can you include in a managed solution?
+    choices:
+    - content: Processes
+      isCorrect: true
+      explanation: Correct. A solution can contain one or more apps and other components, such as site maps, tables, processes, web resources, choices, flows, and more.
+    - content: Data
+      isCorrect: false
+      explanation: Incorrect. A way doesn't exist for including data in a solution.
+    - content: User licenses
+      isCorrect: false
+      explanation: Incorrect. You can't include user licenses in a managed solution.

@@ -1,0 +1,42 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-system-services-actions.4-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/24/2020 
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where can the Take screenshot action save the taken screenshots?
+    choices: 
+    - content: "Clipboard"
+      isCorrect: false 
+      explanation: The Take screenshot action saves the taken screenshots to the clipboard or to a file.
+    - content: "Local file"
+      isCorrect: false 
+      explanation: The Take screenshot action saves the taken screenshots to the clipboard or to a file.
+    - content: "Both"
+      isCorrect: true 
+      explanation: The Take screenshot action saves the taken screenshots to the clipboard or to a file.
+  - content: Which services can the Pause service action pause?
+    choices: 
+    - content: "Windows services"
+      isCorrect: false 
+      explanation: The Pause service action can pause Windows services as well as services from other software.
+    - content: "All types of services installed on the computer"
+      isCorrect: true 
+      explanation: The Pause service action can pause Windows services as well as services from other software.
+  - content: Which one of the following actions sets a value to an environment variable?
+    choices: 
+    - content: "Set environment variable"
+      isCorrect: true 
+      explanation: The Set environment variable action sets a value to a Microsoft Windows environment variable.
+    - content: "Set variable"
+      isCorrect: false 
+      explanation: The Set variable action sets a value to a local flow variable, not to an environment variable.  

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.configure-low-code.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 12/14/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+ ms.service: powerapps
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: You want to perform validation on the values of new Project table rows. What type of low-code plug-in would you create?
+    choices:
+    - content: Instant
+      isCorrect: false
+      explanation: Incorrect. You would create an automated low-code plug-in.
+    - content: Automated
+      isCorrect: true
+      explanation: Correct. With an automated plug-in, you can validate the rows' data during the preoperation stage.
+    - content: Global
+      isCorrect: false
+      explanation: Incorrect. You would create an automated low-code plug-in. Automated plug-ins don't have scope.
+    - content: Post-operation
+      isCorrect: false
+      explanation: Incorrect. You would create an automated low-code plug-in by using the preoperation stage.
+  - content: With which type of low-code plug-in can you set up input and output parameters?
+    choices:
+    - content: Instant plug-ins
+      isCorrect: true
+      explanation: Correct. You can create input and output parameters on instant plug-ins.
+    - content: Automated plug-ins
+      isCorrect: False
+      explanation: Incorrect. An automated plug-in only has the data row that triggered the available event.
+    - content: None, low-code plug-ins don't support input and output parameters.
+      isCorrect: false
+      explanation: Incorrect. You can use instant plug-ins to set up input and output parameters.
+  - content: If you want to modify a data row before it's created in Dataverse, what type and stage would you set up for your low-code plug-in?
+    choices:
+    - content: Automated plug-in by using the preoperation stage
+      isCorrect: true
+      explanation: Correct. With the preoperation stage on an automated plug-in, you can modify the data row before saving it in Dataverse.
+    - content: Nothing, you have no way of updating the row data from a low-code plug-in before saving the data row.
+      isCorrect: false
+      explanation: Incorrect. With the preoperation stage on an automated plug-in, you can modify the data row before saving it in Dataverse.
+    - content: Automated plug-in by using the post-operation stage
+      isCorrect: false
+      explanation: Incorrect. You need to use the preoperation stage to modify the data row before saving it in Dataverse.
+    - content: Instant plug-in by using the preoperation stage
+      isCorrect: false
+      explanation: Incorrect. With the preoperation stage on an automated plug-in, you can modify the data row before saving it in Dataverse.
+    - content: Instant plug-in by using the post-operation stage
+      isCorrect: false
+      explanation: Incorrect. With the preoperation stage on an automated plug-in, you can modify the data row before saving it in Dataverse.

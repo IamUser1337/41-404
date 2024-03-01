@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-teams.exercise-install
+title: Exercise - Download and install Power Apps mobile app
+metadata:
+  title: Exercise - Download and install Power Apps mobile app
+  description: Follow the steps to download and install the Power Apps mobile app.
+  ms.date: 10/04/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: interactive-tutorial
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-install.md)]

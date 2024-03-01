@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-measures.5-compare-calculated-columns-measures 
+title: Compare calculated columns with measures
+metadata: 
+  title: Compare calculated columns with measures 
+  description: Learn about comparing calculated columns with measures.  
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-compare-calculated-columns-measures.md)] 

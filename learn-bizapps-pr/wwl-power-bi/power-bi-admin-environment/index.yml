@@ -1,0 +1,38 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-admin-environment 
+metadata: 
+ title: Establish a Power BI environment
+ description: This module covers how to create and manage Power BI environments.
+ ms.date: 01/09/2024
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Establish a Power BI environment
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  A Power BI environment is a combination of Microsoft 365, Microsoft Entra, and Power BI, which you can set up and manage through the Microsoft 365 admin center.
+abstract: |  
+    In this module, you'll: 
+    - Determine Power BI tenant location
+    - Distinguish between user and guest Power BI accounts
+    - Describe the attributes of different Power BI license types
+prerequisites: Fundamental understanding of the Power BI service and experience using Power BI Desktop. 
+iconUrl: /training/achievements/power-bi-admin-environment.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator   
+products: 
+- power-platform
+- power-bi 
+subjects:
+- data-management
+units:
+- learn-bizapps.power-bi-admin-environment.1-introduction 
+- learn-bizapps.power-bi-admin-environment.2-user-accounts 
+- learn-bizapps.power-bi-admin-environment.3-licensing 
+- learn-bizapps.power-bi-admin-environment.4-check 
+- learn-bizapps.power-bi-admin-environment.5-summary 
+badge: 
+  uid: learn-bizapps.power-bi-admin-environment.badge

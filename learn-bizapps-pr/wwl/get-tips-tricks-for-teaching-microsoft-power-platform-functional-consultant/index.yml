@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant
+metadata:
+  title: 'Get tips and tricks for teaching PL-200: Microsoft Power Platform Functional Consultant'
+  description: "Learn tips and tricks about preparing for your first teaching session, which labs to use, when and how to introduce technical topics, as well as other resources and materials."
+  ms.date: 07/31/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: module
+  ms.service: power-platform
+title: 'Get tips and tricks for teaching PL-200: Microsoft Power Platform Functional Consultant'
+summary: Learn tips and tricks about preparing for your first teaching session, which labs to use, when and how to introduce technical topics, as well as other resources and materials.
+abstract: |
+  After completing this module, you will be able to:
+  - Understand how to utilize the tips and tricks for teaching PL-200: Microsoft Power Platform Functional Consultant  in the classroom.
+  - Leverage the lab environment during the instructional portion of the class.
+  - Explain foundational course terminology and technical topics.
+  - Discover additional resources and materials to prepare students for success on their Microsoft certification exams.
+prerequisites: ""
+iconUrl: /training/achievements/get-tips-tricks-teaching-microsoft-power-platform-functional-consultant.svg
+levels:
+- beginner
+roles:
+- higher-ed-educator
+products:
+- power-platform
+units:
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.introduction
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-objective-domains
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.learn-path-best-practices
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-1
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-2
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-3
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-4
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practice-for-module-5
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-6
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-7
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-8
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.explore-best-practices-for-module-9
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.bring-it-all-together
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.knowledge-check
+- learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.summary
+badge:
+  uid: learn.wwl.get-tips-tricks-for-teaching-microsoft-power-platform-functional-consultant.badge

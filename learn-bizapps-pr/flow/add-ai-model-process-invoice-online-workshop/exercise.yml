@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-ai-model-process-invoice-online-workshop.exercise
+title: Exercise - Build and use AI models to enhance user experience in workflows
+metadata:
+  title: Exercise - Build and use AI models to enhance user experience in workflows
+  description: Follow the steps to build and use AI models to enhance user experience in workflows.
+  ms.date: 02/07/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 25
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

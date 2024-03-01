@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.virtual-visits.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/27/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: A practitioner specialty can be created as what kind of record type in the Microsoft Cloud for Healthcare?
+    choices:
+    - content: Activity
+      isCorrect: false
+      explanation: A practitioner specialty can't be created as an Activity record type in Microsoft Cloud for Healthcare.
+    - content: Codeable Concept
+      isCorrect: true
+      explanation: A practitioner specialty can be created as a Codeable Concept record type in Microsoft Cloud for Healthcare.
+    - content: Task
+      isCorrect: false
+      explanation: A practitioner specialty can't be created as a Task record type in Microsoft Cloud for Healthcare.
+    - content: Description
+      isCorrect: false
+      explanation: A practitioner specialty can't be created as a Description record type in Microsoft Cloud for Healthcare.
+  - content: Slots are related to what type of record?
+    choices:
+    - content: Schedules
+      isCorrect: true
+      explanation: Slots are used in schedules.
+    - content: Contacts
+      isCorrect: false
+      explanation: Slots aren't used in contacts.
+    - content: Locations
+      isCorrect: false
+      explanation: Slots aren't used in locations.
+    - content: Codeable Concepts
+      isCorrect: false
+      explanation: Slots aren't used in Codeable Concepts.
+  - content: Where are environment variables for virtual visits configured?
+    choices:
+    - content: Portal.azure.com
+      isCorrect: false
+      explanation: Virtual Visits aren't configured in portal.azure.com.
+    - content: Make.powerapps.com
+      isCorrect: true
+      explanation: Virtual Visits are configured in make.powerapps.com.
+    - content: Admin.powerplatform.com
+      isCorrect: false
+      explanation: Virtual Visits aren't configured in admin.powerplatform.com.
+    - content: Teams.microsoft.com
+      isCorrect: false
+      explanation: Virtual Visits aren't configured in teams.microsoft.com.
+

@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-virtual-agents-entities 
+metadata: 
+ title: Work with entities and variables in Microsoft Copilot Studio 
+ description: Learn about working with entities and variables.
+ ms.date: 01/02/2024
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: copilot-studio
+title: Work with entities and variables in Microsoft Copilot Studio 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Copilot Studio allows organizations to quickly create bots based on business scenarios their customers and employees can easily interact with as needed. Items like topics can be easily created by subject matter experts with no coding required, to create intelligent conversation paths to help guide individuals down as they interact with the bots. The bot authoring functionality provided by Microsoft Copilot Studio provides a great starting point for organizations to build intelligent bots. 
+abstract: |  
+    In this module, you will: 
+    - Understand entities and custom entities.
+    - Learn about variables across topics.
+prerequisites: None
+iconUrl: /learn/achievements/power-virtual-agents-entities.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+- developer 
+products: 
+  
+- ms-copilot
+subjects: 
+- chatbot 
+units: 
+- learn-bizapps.power-virtual-agents-entities.introduction 
+- learn-bizapps.power-virtual-agents-entities.entities 
+- learn-bizapps.power-virtual-agents-entities.custom-entities 
+- learn-bizapps.power-virtual-agents-entities.use-entities 
+- learn-bizapps.power-virtual-agents-entities.variables 
+- learn-bizapps.power-virtual-agents-entities.variables-across-topics 
+- learn-bizapps.power-virtual-agents-entities.check 
+- learn-bizapps.power-virtual-agents-entities.summary 
+badge: 
+  uid: learn-bizapps.power-virtual-agents-entities.badge 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-canvas-apps.summary
+title: Summary
+metadata:
+  title: Summary
+  description: "Summary of the completed guided project."
+  ms.date: 11/07/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: unit
+  ms.service: power-platform
+durationInMinutes: 1
+content: |
+  [!include[](includes/5-summary.md)]

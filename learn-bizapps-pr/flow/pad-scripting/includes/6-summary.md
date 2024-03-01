@@ -1,0 +1,1 @@
+Power Automate for desktop enables you to automate complex scenarios using VBScript, JavaScript, PowerShell, and Python scripts. Each language is ideal for specific purposes, and you can use it to simplify complex flows and automate business procedures more effectively.

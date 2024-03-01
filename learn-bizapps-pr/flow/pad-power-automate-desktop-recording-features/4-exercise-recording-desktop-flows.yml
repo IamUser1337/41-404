@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-power-automate-desktop-recording-features.4-exercise-recording-desktop-flows
+title: Exercise - Use the recorder to automate desktop applications
+metadata:
+  title: Exercise - Use the recorder to automate desktop applications
+  description: An exercise that uses the recorder to automate a desktop application.
+  ms.date: 10/01/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-exercise-recording-desktop-flows.md)]

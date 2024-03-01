@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-deployment-pipelines.check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 01/30/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "Which of the following is a key benefit of deployment pipelines?"
+    choices:
+    - content: "Dataset creation is streamlined"
+      isCorrect: false
+      explanation: "Your answer is incorrect. Deployment pipelines result in less manual work and fewer errors. They were not designed to help configure datasets, publish from multiple workspaces, or enhance user access to BI report source data."
+    - content: "Reports can be published from multiple workspace environments"
+      isCorrect: false
+      explanation: "Your answer is incorrect. Deployment pipelines result in less manual work and fewer errors. They were not designed to help configure datasets, publish from multiple workspaces, or enhance user access to BI report source data."
+    - content: "Enhanced user access to BI report source data"
+      isCorrect: false
+      explanation: "Your answer is incorrect. Deployment pipelines result in less manual work and fewer errors. They were not designed to help configure datasets, publish from multiple workspaces, or enhance user access to BI report source data."
+    - content: "Less manual work and fewer errors"
+      isCorrect: true
+      explanation: "Correct. Using deployment pipelines leads to less manual work and fewer errors."
+  - content: "Which of the following sequence of steps would you follow to create a pipeline from a Premium workspace?"
+    choices:
+    - content: "From the navigation panel on the left side of your Power BI home page, select Deployment pipelines. Next select Create pipeline and in the dialog box, enter a name for your pipeline."
+      isCorrect: false
+      explanation: "Your answer is incorrect. There are two primary ways to create a deployment pipeline. One is through the Deployment pipelines tab found in the navigation panel on the left side of the Power BI page, and the second is through a workspace. The three steps to create a pipeline through a workspace are- Select Create a pipeline, then enter a name and description for the pipeline and select Create."
+    - content: "Assign a pipeline to a workspace. Navigate to the workspace and enter a name and description for the pipeline. Select the Create button to create your pipeline."
+      isCorrect: false
+      explanation: "Your answer is incorrect. There are two primary ways to create a deployment pipeline. One is through the Deployment pipelines tab found in the navigation panel on the left side of the Power BI page, and the second is through a workspace. The three steps to create a pipeline through a workspace are- Select Create a pipeline, then enter a name and description for the pipeline and select Create."
+    - content: "From the navigation panel on the left side of your Power BI home page, select Create. Next assign a pipeline to a workspace and enter a name and description for the pipeline. Select Create."
+      isCorrect: false
+      explanation: "Your answer is incorrect. There are two primary ways to create a deployment pipeline. One is through the Deployment pipelines tab found in the navigation panel on the left side of the Power BI page, and the second is through a workspace. The three steps to create a pipeline through a workspace are- Select Create a pipeline, then enter a name and description for the pipeline and select Create."
+    - content: "From an existing workspace, select Create a pipeline, then enter a name and description for the pipeline and select Create."
+      isCorrect: true
+      explanation: "Correct. You can create a pipeline from a Premium workspace in three easy steps. Select Create a pipeline and then enter a name and description and select Create."
+  - content: "After creating a pipeline, what step must you take to add content to your pipeline?"
+    choices:
+    - content: "Create a workspace"
+      isCorrect: false
+      explanation: "Your answer is incorrect. Once you’ve created your pipeline, the next step is to assign a workspace containing the content you wish to manage in your pipeline. Creating a workspace with the data you wish to manage in the pipeline would likely have been done already. Configuring your deployment rules is a step you would normally take after you assign a workspace."
+    - content: "Assign a workspace containing the content you wish to manage in your pipeline"
+      isCorrect: true
+      explanation: "Correct. Assign a workspace containing the content you wish to manage in your pipeline."
+    - content: "Configure your deployment rules"
+      isCorrect: false
+      explanation: "Your answer is incorrect. Once you’ve created your pipeline, the next step is to assign a workspace containing the content you wish to manage in your pipeline. Creating a workspace with the data you wish to manage in the pipeline would likely have been done already. Configuring your deployment rules is a step you would normally take after you assign a workspace."
+    - content: "Add content to a workspace"
+      isCorrect: false
+      explanation: "Your answer is incorrect. Once you’ve created your pipeline, the next step is to assign a workspace containing the content you wish to manage in your pipeline. Creating a workspace with the data you wish to manage in the pipeline would likely have been done already. Configuring your deployment rules is a step you would normally take after you assign a workspace."
+  - content: "What is the primary advantage of the Compare view capability between pipeline stages?"
+    choices:
+    - content: "Compare view helps you determine the dependency of all items in sequential pipeline stages."
+      isCorrect: false
+      explanation: "Your answer is incorrect. The Compare view capability helps you identify and track changes between items in each pipeline stage. To determine the dependency of items in sequential stages, you would use the Select related button option. To determine the last time content was deployed to a stage, you would view the test and production stage cards. The Compare view does not include a comparison of data or refresh time between stages."
+    - content: "Compare view allows you to determine the last time content was deployed to a stage."
+      isCorrect: false
+      explanation: "Your answer is incorrect. The Compare view capability helps you identify and track changes between items in each pipeline stage. To determine the dependency of items in sequential stages, you would use the Select related button option. To determine the last time content was deployed to a stage, you would view the test and production stage cards. The Compare view does not include a comparison of data or refresh time between stages."
+    - content: "Compare view includes a comparison of the content and refresh time between stages."
+      isCorrect: false
+      explanation: "Your answer is incorrect. The Compare view capability helps you identify and track changes between items in each pipeline stage. To determine the dependency of items in sequential stages, you would use the Select related button option. To determine the last time content was deployed to a stage, you would view the test and production stage cards. The Compare view does not include a comparison of data or refresh time between stages."
+    - content: "Compare view helps you identify and track changes between items in each pipeline stage."
+      isCorrect: true
+      explanation: "Correct. Using the Compare view option helps you identify and track changes between items in each pipeline stage."

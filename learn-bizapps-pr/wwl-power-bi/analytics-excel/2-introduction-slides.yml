@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.analytics-excel.introduction-slides
+title: Introduction slides
+metadata:
+  title: Introduction slides
+  description: "Introduction slides"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 19
+content: |
+  [!include[](includes/2-introduction-slides.md)]

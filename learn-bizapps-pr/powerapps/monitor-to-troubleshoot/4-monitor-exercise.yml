@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.monitor-to-troubleshoot.4-monitor-exercise 
+title: Exercise - Troubleshoot and debug Monitor
+metadata: 
+  title: Exercise - Troubleshoot and debug Monitor
+  description: Practice troubleshooting and debugging Monitor. 
+  ms.date: 01/31/2024 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-monitor-exercise.md)]

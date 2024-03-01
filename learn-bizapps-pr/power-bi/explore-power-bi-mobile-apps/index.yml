@@ -1,0 +1,48 @@
+### YamlMime:Module 
+uid: learn-bizapps.intro-to-power-bi-mobile-apps 
+metadata: 
+  title: Get to your data on the go with Power BI mobile apps
+  description: Learn how to use Power BI Mobile apps to access your content in the Power BI service while you're on the go.
+  ms.date: 06/24/2023  
+  author: paulinbar
+  manager: kfollis 
+  ms.author: painbar  
+  ms.topic: module
+  ms.service: powerbi  
+title: Get to your data on the go with Power BI Mobile apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  You can use Power BI Mobile apps to review and interact with content that's available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with Power BI Mobile apps on iOS, Android, and Windows devices. 
+abstract: |
+    In this module, you will become familiar with the main features and capabilities of Power BI Mobile apps and learn how to:
+    - Find your content.
+    - View and interact with your data.
+    - Access and use filters and bookmarks.
+    - Share reports and dashboards with colleagues.
+    - Set data alerts.
+    - Create shortcuts to reports and dashboards.
+    - Use the device's camera and location capabilities to get data from out in the real world.  
+    - Configure app settings to personalize your experience with the app.
+prerequisites: Access to some content in the Power BI service 
+iconUrl: /training/achievements/intro-to-power-bi-mobile-apps.svg  
+levels:  
+- beginner   
+roles:  
+- business-user
+- data-analyst   
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-management
+units:
+- learn-bizapps.intro-to-power-bi-mobile-apps.1-power-bi-mobile-apps 
+- learn-bizapps.intro-to-power-bi-mobile-apps.2-find-your-data 
+- learn-bizapps.intro-to-power-bi-mobile-apps.3-view-interact-with-your-data 
+- learn-bizapps.intro-to-power-bi-mobile-apps.4-maximize-your-experience  
+- learn-bizapps.intro-to-power-bi-mobile-apps.5-get-your-data-out-in-real-world 
+- learn-bizapps.intro-to-power-bi-mobile-apps.6-configure-app-settings
+- learn-bizapps.intro-to-power-bi-mobile-apps.7-knowledge-check 
+- learn-bizapps.intro-to-power-bi-mobile-apps.8-summary 
+badge: 
+  uid: learn-bizapps.intro-to-power-bi-mobile-apps.badge

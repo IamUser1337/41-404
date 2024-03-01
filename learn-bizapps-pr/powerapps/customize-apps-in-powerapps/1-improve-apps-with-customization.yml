@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-customize.1-powerapps-customize
+title: Improve your app by making basic customizations
+metadata:
+  title: Improve your app by making basic customizations
+  description: Make basic customizations to your apps, such as choosing a layout and reordering fields.
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-powerapps-customize.md)]

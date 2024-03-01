@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-analytics.3-analytics-pane 
+title: Add reference lines from the Analytics pane
+metadata: 
+  title: Add reference lines from the Analytics pane 
+  description: Learn how to add reference lines from the Analytics pane.  
+  ms.date: 03/31/2021 
+  author: maggiesMSFT
+  manager: kfollis  
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-analytics-pane.md)] 

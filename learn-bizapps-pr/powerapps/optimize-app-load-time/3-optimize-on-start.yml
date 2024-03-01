@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.optimize-app-load-time.3-optimize-on-start 
+title: Optimize App.OnStart
+metadata: 
+  title: Optimize App.OnStart
+  description: Learn how to optimize the App.OnStart property. 
+  ms.date: 11/17/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-optimize-on-start.md)] 

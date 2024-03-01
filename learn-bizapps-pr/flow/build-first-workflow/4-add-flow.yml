@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-workflow.4-add-flow
+title: Exercise - Add a flow to your Power Apps app
+metadata:
+  title: Exercise - Add a flow to your Power Apps app
+  description: Practice adding a flow to your Power Apps app.
+  ms.date: 01/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-add-flow.md)]

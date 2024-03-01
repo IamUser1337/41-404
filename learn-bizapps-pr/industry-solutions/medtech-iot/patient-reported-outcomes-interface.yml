@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.medtech-iot.patient-reported-outcomes-interface 
+title: Use case 2 - Build a patient reported outcomes interface
+metadata: 
+  title: Use case 2 - Build a patient reported outcomes interface
+  description: Learn how to build a patient reported outcomes (PRO) interface.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/patient-reported-outcomes-interface.md)] 

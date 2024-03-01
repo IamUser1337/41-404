@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.integrate-teams-approval-online-workshop
+metadata:
+ title: Integrate with Microsoft Teams to get approvals - Online workshop
+ description: Learn how you can integrate Power Automate with Microsoft Teams for seamless approval mechanisms.
+ ms.date: 01/18/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+title: Integrate with Microsoft Teams to get approvals - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Integrate with Teams and build on the automation that’s implemented in previous modules to process invoices automatically. Now, users don't need to manually check email or enter data step by step. The automation doesn't send payments to vendors automatically. Instead, a human supervisor approves and confirms that the invoice is real and ready for payment before automation moves to the next step. Power Automate provides seamless, built-in human approval mechanisms that you can use.
+abstract: |
+    In this module, you'll:
+    - Integrate a Microsoft Teams-based approval model and the associated conditional logic into the invoice processing cloud flow.
+    - Integrate the desktop flow for entering the invoice information into the approval process.
+    - Integrate Outlook-based approval/rejection notifications into the invoice process.
+    - Perform a test of the end-to-end invoice processing cloud flow.
+prerequisites: |
+  - Complete the **Install required software - Online workshop** module.
+  - Complete the **Add an AI model to process invoice forms - Online workshop** module or import the provided solution in the resources folder.
+
+  This module is designed for use with the Power Automate: Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+iconUrl: /learn/achievements/integrate-teams-approval-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.integrate-teams-approval-online-workshop.introduction
+- learn-bizapps.integrate-teams-approval-online-workshop.import-solution
+- learn-bizapps.integrate-teams-approval-online-workshop.exercise
+- learn-bizapps.integrate-teams-approval-online-workshop.check
+- learn-bizapps.integrate-teams-approval-online-workshop.summary
+badge:
+  uid: learn-bizapps.integrate-teams-approval-online-workshop.badge

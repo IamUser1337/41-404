@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-center-excellence.1-setup
+title: Introduction to Center of Excellence
+metadata:
+  title: Introduction to Center of Excellence
+  description: Learn about getting started with the setup for Microsoft Power Platform Center of Excellence.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-setup.md)]

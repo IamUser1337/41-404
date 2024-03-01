@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-code-connectors.build-script-class 
+title: Build the script class
+metadata: 
+  title: Build the script class
+  description: Learn how to build the script class.
+  ms.date: 06/28/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/build-script-class.md)] 

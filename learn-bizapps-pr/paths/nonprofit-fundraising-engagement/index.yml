@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.nonprofit-fundraising-engagement
+metadata:
+  title: Manage nonprofit fundraising and engagement with Microsoft Cloud for Nonprofit
+  description: Learn how to use Microsoft Nonprofit Fundraising and Engagement solution.
+  ms.date: 11/01/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title:  Manage nonprofit fundraising and engagement with Microsoft Cloud for Nonprofit
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Cloud for Nonprofit empowers scalable and transformative mission impact by helping nonprofit organizations engage with donors and supporters, deliver effective programming, and accelerate mission outcomes.  
+prerequisites: |
+  - None
+iconUrl: /training/achievements/nonprofit-fundraising-engagement.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+modules:
+- learn-bizapps.get-started-fundraising-engagement
+- learn-bizapps.manage-constituents-fundraising-engagement
+- learn-bizapps.process-gifts
+- learn-bizapps.manage-gift-batches-receipts-refunds 
+- learn-bizapps.manage-membership-fundraising-engagement
+- learn-bizapps.moves-management
+- learn-bizapps.nonprofit-designations 
+- learn-bizapps.manage-events-fundraising-engagement
+- learn-bizapps.configure-settings-fundraising-engagement
+trophy:
+  uid: learn.nonprofit-fundraising-engagement.trophy

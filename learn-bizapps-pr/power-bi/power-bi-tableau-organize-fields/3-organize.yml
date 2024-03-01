@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-organize-fields.3-organize 
+title: Organize and simplify calculations
+metadata: 
+  title: Organize and simplify calculations
+  description: Learn to prepare your data for consumption in a way that makes sense to a business user.
+  ms.date: 10/13/2023 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 11
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-organize.md)] 

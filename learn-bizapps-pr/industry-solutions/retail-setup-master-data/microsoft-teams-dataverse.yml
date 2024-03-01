@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-master-data.microsoft-teams-dataverse
+title: Exercise - Set up Microsoft Teams and Dataverse security 
+metadata:
+  title: Exercise - Set up Microsoft Teams and Dataverse security 
+  description: Follow the steps to set up Microsoft Teams and Dataverse security.
+  ms.date: 01/17/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/microsoft-teams-dataverse.md)]

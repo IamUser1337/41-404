@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-ai-authoring-experience-power-platform.describe-use-cases-generative-ai-power-virtual-agents-bots
+title: Describe use cases for Generative AI bots
+metadata:
+  title: Describe use cases for Generative AI bots
+  description: "Description of Generative AI and where it can be used."
+  ms.date: 02/15/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/5-describe-use-cases-generative-ai-power-virtual-agents-bots.md)]

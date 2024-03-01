@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.multiple-data-sources.3-sql
+title: Exercise - Build a flow that uses SQL
+metadata:
+  title: Exercise - Build a flow that uses SQL
+  description: Learn to build a flow that uses SQL to update information.
+  ms.date: 01/05/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-sql.md)]

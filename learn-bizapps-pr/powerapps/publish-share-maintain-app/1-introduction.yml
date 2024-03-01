@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-maintain-app.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to publishing, sharing, and maintaining a canvas app solution
+  ms.date: 01/13/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.team-development-power-platform.setup-development-process 
+title: Determine your solution and environment strategy
+metadata: 
+  title: Determine your solution and environment strategy
+  description: Learn how to determine your solution and environment strategy.
+  ms.date: 05/06/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/setup-development-process.md)] 

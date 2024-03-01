@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-lab-manual-online-workshop.exercise-optional-ai-copilot
+title: Exercise - Building apps with Copilot
+metadata:
+  title: Exercise - Building apps with Copilot
+  description: Follow the steps to build an app using Copilot.
+  ms.date: 02/16/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.collection: bap-ai-copilot
+durationInMinutes: 22
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-optional-ai-copilot.md)]

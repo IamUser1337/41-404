@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-data-model-expense-report.2-use-predefined-tables
+title: Use predefined tables in Dataverse
+metadata:
+  title: Use predefined tables in Dataverse
+  description: Predefined tables help you define relationships in Dataverse and relate information inside your app.
+  ms.date: 04/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-use-predefined-tables.md)]

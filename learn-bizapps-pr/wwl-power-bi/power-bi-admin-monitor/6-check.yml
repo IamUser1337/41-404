@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-monitor.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/30/2021 
+ author: wwlpublish 
+ ms.author: shlindsay 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following is NOT a Power BI tenant metric available through the O365 admin portal?
+    choices: 
+    - content: Number of user dashboards
+      isCorrect: false 
+      explanation: Number of dashboards, reports, and datasets are all metrics available through the O365 admin portal.
+    - content: Number of user reports
+      isCorrect: false 
+      explanation: Number of dashboards, reports, and datasets are all metrics available through the O365 admin portal.
+    - content: Report peak usage time during the day
+      isCorrect: true 
+      explanation: Number of dashboards, reports, and datasets in a tenant are all metrics available metrics through the O365 admin portal. The metric - report peak usage time during the day, is not a metric currently available through the O365 admin portal.
+    - content: Number of user datasets
+      isCorrect: false 
+      explanation: Number of dashboards, reports, and datasets are all metrics available through the O365 admin portal.
+  - content: What's the easiest way to convert a usage metrics report into a full featured editable Power BI report?
+    choices: 
+    - content: Run the report through the Power BI report converter
+      isCorrect: false 
+      explanation: The metrics reports are read-only. There is no Power BI report converter and you do not have a settings option through the O365 admin portal that allows you to request an editable Power BI object.
+    - content: Use the "save as" command
+      isCorrect: true 
+      explanation: Usage metrics reports are read-only. However, you can personalize a usage metrics report by using "Save as." This creates a brand-new dataset and converts the read-only report to a full-featured Power BI report that can be edited.
+    - content: Set up your report request to render an editable Power BI object
+      isCorrect: false 
+      explanation: The metrics reports are read-only. There is no Power BI report converter and you do not have a settings option through the O365 admin portal that allows you to request an editable Power BI object.
+    - content: The usage metrics report is rendered in an editable format
+      isCorrect: false 
+      explanation: The metrics reports are read-only. There is no Power BI report converter and you do not have a settings option through the O365 admin portal that allows you to request an editable Power BI object.
+  - content: Which one of the following statements accurately describes searching through a Power BI activity log?
+    choices: 
+    - content: It is currently a manual task
+      isCorrect: true 
+      explanation: There currently is no user interface to search the activity logs.
+    - content: You can use the Microsoft 365 security center to search an audit log
+      isCorrect: false 
+      explanation: Your answer is incorrect. The Microsoft 365 security and compliance centers allows an admin to search the unified audit log. There is no option to export the activity log into an Excel workbook.
+    - content: You can use the Microsoft 365 compliance center to search an audit log
+      isCorrect: false 
+      explanation: Your answer is incorrect. The Microsoft 365 security and compliance centers allows an admin to search the unified audit log. There is no option to export the activity log into an Excel workbook.
+    - content: Export the activity log to a searchable file format, for example Excel workbook
+      isCorrect: false 
+      explanation: Your answer is incorrect. The Microsoft 365 security and compliance centers allows an admin to search the unified audit log. There is no option to export the activity log into an Excel workbook.

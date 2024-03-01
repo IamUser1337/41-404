@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-interactive-experiences.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to Power BI reports that use visuals slicers, bookmarks and more. 
+  ms.date: 09/28/2021 
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+durationInMinutes: 12 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

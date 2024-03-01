@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-build-application.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/23/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Virtual entities in Dataverse use which one of the following options to connect to the remote FHIR service?
+    choices: 
+    - content: Virtual data provider infrastructure
+      isCorrect: true 
+      explanation: Virtual entities in Dataverse use the Virtual data provider infrastructure to show information on the apps. 
+    - content: Data route
+      isCorrect: false 
+      explanation: Virtual entities in Dataverse use the Virtual data provider infrastructure to show information on the apps. 
+    - content: FHIR
+      isCorrect: false 
+      explanation: Virtual entities in Dataverse use the Virtual data provider infrastructure to show information on the apps. 
+    - content: Dataverse tables
+      isCorrect: false 
+      explanation: Virtual entities in Dataverse use the Virtual data provider infrastructure to show information on the apps. 
+  - content: Which one of the following options do you use to create a new solution?
+    choices: 
+    - content: Dataverse
+      isCorrect: false
+      explanation: You would use Power Apps maker portal to create a new solution.
+    - content: Power Apps maker portal
+      isCorrect: true
+      explanation: You would use Power Apps maker portal to create a new solution.
+    - content: Microsoft Power Apps
+      isCorrect: false 
+      explanation: You would use Power Apps maker portal to create a new solution.
+    - content: Microsoft Power Pages
+      isCorrect: false 
+      explanation: You would use Power Apps maker portal to create a new solution.
+  - content: For the app registration to be granted access to FHIR service, you need which one of the following options?
+    choices: 
+    - content: Application ID
+      isCorrect: false 
+      explanation: You need a copy of the Application/Client ID and Client secret for the app registration to be granted access to FHIR service.
+    - content: Client secret
+      isCorrect: false 
+      explanation: You need a copy of the Application/Client ID and Client secret for the app registration to be granted access to FHIR service.
+    - content: Application/Client ID and Client secret
+      isCorrect: true
+      explanation: You need a copy of the Application/Client ID and Client secret for the app registration to be granted access to FHIR service.
+    - content: None of the above
+      isCorrect: false 
+      explanation: You need a copy of the Application/Client ID and Client secret for the app registration to be granted access to FHIR service.
+  - content: Which solution is required to relay FHIR bundles to Dataverse and the FHIR server?
+    choices: 
+    - content: Azure Logic Apps template
+      isCorrect: true 
+      explanation: An Azure Logic Apps template relays FHIR bundles to Dataverse and the FHIR server.
+    - content: Data Ingestion ARM template
+      isCorrect: false 
+      explanation: An Azure Logic Apps template relays FHIR bundles to Dataverse and the FHIR server.
+    - content: Data routes
+      isCorrect: false 
+      explanation: An Azure Logic Apps template relays FHIR bundles to Dataverse and the FHIR server.
+    - content: Dataverse Healthcare APIs
+      isCorrect: false 
+      explanation: An Azure Logic Apps template relays FHIR bundles to Dataverse and the FHIR server.

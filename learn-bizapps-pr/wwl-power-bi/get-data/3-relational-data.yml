@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.3-relational-data
+title: Get data from relational data sources
+metadata:
+  title: Get data from relational data sources
+  description: "Learn how to get data from relational data sources."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+  [!include[](includes/3-relational-data.md)]

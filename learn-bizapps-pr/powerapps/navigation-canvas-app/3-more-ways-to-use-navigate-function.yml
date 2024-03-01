@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.navigation-canvas-app.3-more-ways-to-use-navigate-function
+title: More ways to use the Navigate function
+metadata:
+  title: More ways to use the Navigate function
+  description: More ways to use the Navigate function
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-more-ways-to-use-navigate-function.md)]

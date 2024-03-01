@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.navigation-canvas-app.2-navigate-back-function
+title: The Navigate and Back functions
+metadata:
+  title: The Navigate and Back functions
+  description: The Navigate and Back functions
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-navigate-back-function.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-retrieve-report-data.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+azureSandbox: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

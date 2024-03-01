@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-power-platform-app-makers 
+metadata: 
+ title: Get started with Microsoft Power Platform for app makers
+ description: Learn about getting started with Microsoft Power Platform for app makers.
+ ms.date: 12/13/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based 
+title: Get started with Microsoft Power Platform for app makers
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  This module introduces the core Microsoft Power Platform functionality that you should be aware of as a maker. Additionally, it provides scenarios on where you might use each element.
+abstract: | 
+    This module explains the following concepts: 
+    - How to identify which Microsoft Power Platform component to use based on a specific scenario.
+    - How to determine what type of app you should create based on your needs.
+    - Dataverse and directions on when and how to apply it.
+    - Environments and how makers use them.
+    - Copilot and why it matters to you as a maker.
+prerequisites: None
+iconUrl: /learn/achievements/get-started-power-platform-app-makers.svg 
+levels: 
+- intermediate 
+roles: 
+- maker 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.get-started-power-platform-app-makers.introduction 
+- learn-bizapps.get-started-power-platform-app-makers.identify-components 
+- learn-bizapps.get-started-power-platform-app-makers.create-app 
+- learn-bizapps.get-started-power-platform-app-makers.dataverse 
+- learn-bizapps.get-started-power-platform-app-makers.environments 
+- learn-bizapps.get-started-power-platform-app-makers.copilot 
+- learn-bizapps.get-started-power-platform-app-makers.check 
+- learn-bizapps.get-started-power-platform-app-makers.summary 
+badge: 
+  uid: learn-bizapps.get-started-power-platform-app-makers.badge 

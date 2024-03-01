@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.build-custom-connectors
+metadata:
+  title: Build custom connectors for Microsoft Power Platform
+  description: Learn how to build custom connectors for Microsoft Power Platform.
+  ms.date: 06/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Build custom connectors for Microsoft Power Platform
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  This Learning Path explores custom connectors and explains how to configure them and use them with Microsoft Power Apps, Microsoft Power Automate, and Microsoft Azure Logic Apps. 
+prerequisites: |
+  - A basic understanding of Microsoft Power Platform 
+  - Familiarity with Microsoft Power Platform, Power Apps, and Azure Logic Apps
+iconUrl: /training/achievements/build-custom-connectors.svg
+levels:
+- intermediate
+roles:
+- maker
+products:
+- power-platform
+- power-automate
+subjects:
+- data-visualization
+modules:
+- learn-bizapps.get-started-custom-connector 
+- learn-bizapps.configure-custom-connectors-api
+- learn-bizapps.create-triggers-custom-connectors 
+- learn-bizapps.open-source-connectors
+- learn-bizapps.custom-connectors-certified
+- learn-bizapps.custom-code-connectors 
+- learn-bizapps.policy-templates-custom-connectors 
+- learn-bizapps.custom-connectors-open-api
+- learn-bizapps.custom-connector-lifecycle-management
+trophy:
+  uid: learn.build-custom-connectors.trophy

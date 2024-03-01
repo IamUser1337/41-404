@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-datasets-power-bi.9-query-caching
+title: Boost performance with query caching (Premium)
+metadata:
+  title: Boost performance with query caching (Premium)
+  description: "Boost performance with query caching (Premium)"
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/9-query-caching.md)]

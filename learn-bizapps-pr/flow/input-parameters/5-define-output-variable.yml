@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.input-parameters.5-define-output-variable 
+title: Define output variables
+metadata: 
+  title: Define output variables
+  description: Learn how to define output variables.
+  ms.date: 10/03/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-define-output-variable.md)] 

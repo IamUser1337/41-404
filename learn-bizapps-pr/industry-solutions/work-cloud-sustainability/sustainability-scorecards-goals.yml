@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.sustainability-scorecards-goals 
+title: Sustainability scorecards and goals
+metadata: 
+  title: Sustainability scorecards and goals
+  description: Learn how Scorecards and Goals allow organizations to monitor progress against data-driven goals.
+  ms.date: 09/20/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/sustainability-scorecards-goals.md)] 

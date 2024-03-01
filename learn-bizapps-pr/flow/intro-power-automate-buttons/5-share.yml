@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-power-automate-buttons.5-share 
+title: Share a button
+metadata: 
+  title: Share a button 
+  description: Learn about sharing buttons.  
+  ms.date: 11/01/2021
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-share.md)] 

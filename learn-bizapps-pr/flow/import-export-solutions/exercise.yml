@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.import-export-solutions.exercise 
+title: Exercise - Create a flow outside of a solution
+metadata: 
+  title: Exercise - Create a flow outside of a solution
+  description: Practice creating a flow outside of a solution.
+  ms.date: 03/11/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-waste-overview.water-sustainability-manager
+title: Water sustainability in Microsoft Sustainability Manager
+metadata:
+  title: Water sustainability in Microsoft Sustainability Manager
+  description: Learn about water sustainability in Microsoft Sustainability Manager.
+  ms.date: 11/10/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/water-sustainability-manager.md)]

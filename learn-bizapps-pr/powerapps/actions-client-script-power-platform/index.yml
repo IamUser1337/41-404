@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.actions-client-script-power-platform
+metadata:
+ title: Perform common actions with client script in Power Platform
+ description: The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during Microsoft Power Platform implementations.
+ ms.date: 10/30/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: "power-platform"
+ ms.subservice: developer
+title: Perform common actions with client script in Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)]
+  The goal of this module is to review how to achieve common user experience automation procedures through Client Script. This module is intended to serve as a practical guide for how to solve real-world scenarios that are frequently encountered during Microsoft Power Platform implementations.
+abstract: |
+    This module explains how to:
+    - Write client scripts to perform common actions as listed in the module units.
+prerequisites: |
+    -  Basic understanding of Microsoft Power Platform and experience in software development against the Microsoft stack and Visual Studio.
+    -  Experience in administering solutions in Microsoft Azure is preferred.
+iconUrl: /training/achievements/actions-client-script-power-platform.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.actions-client-script-power-platform.introduction
+- learn-bizapps.actions-client-script-power-platform.upload-scripts
+- learn-bizapps.actions-client-script-power-platform.event-handlers
+- learn-bizapps.actions-client-script-power-platform.context
+- learn-bizapps.actions-client-script-power-platform.common-tasks
+- learn-bizapps.actions-client-script-power-platform.exercise
+- learn-bizapps.actions-client-script-power-platform.check
+- learn-bizapps.actions-client-script-power-platform.summary
+badge:
+  uid: learn-bizapps.actions-client-script-power-platform.badge

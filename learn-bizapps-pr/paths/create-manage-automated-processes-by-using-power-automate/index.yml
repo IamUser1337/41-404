@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn.wwl.create-manage-automated-processes-by-using-power-automate
+metadata:
+  title: Create and Manage Automated Processes by using Power Automate
+  description: In this learning path, you practice creating and managing automated processes by using Power Automate.
+  ms.date: 10/20/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: interactive-tutorial
+  ms.service: power-automate
+title: Create and Manage Automated Processes by using Power Automate
+prerequisites: |
+  - Fundamental understanding of Power Platform
+  - Basic understanding of Power Automate.
+summary: |
+  Get started with Power Automate by create and manage automated processes with Power Automate. Including creating triggers for cloud flows, configuring actions, implementing conditional logic for a cloud flow, testing a cloud flow, creating and configuring approvals by using Power Automate, and sharing cloud flows.
+iconUrl: /training/achievements/generic-trophy.svg
+hidden: false
+levels:
+- intermediate
+roles:
+- business-user
+products:
+- power-automate
+- dataverse
+subjects:
+- automation
+modules:
+- learn-bizapps.flow-get-started
+- learn-bizapps.build-approval-flows
+- learn-bizapps.manage-user-information
+- learn-bizapps.multiple-data-sources
+- learn.wwl.create-manage-automated-processes-with-power-automate
+trophy:
+  uid: learn.wwl.create-manage-automated-processes-by-using-power-automate.trophy

@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.dax-power-bi-add-calculated-tables 
+metadata: 
+ title: Add calculated tables and columns to Power BI Desktop models
+ description: By the end of this module, you'll be able to add calculated tables and calculated columns to your semantic model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.
+ ms.date: 06/15/2022  
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Add calculated tables and columns to Power BI Desktop models
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  By the end of this module, you'll be able to add calculated tables and calculated columns to your semantic model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.
+abstract: |  
+    By the end of this module, you'll be able to:
+    - Create calculated tables.
+    - Create calculated columns.
+    - Identify row context.
+    - Determine when to use a calculated column in place of a Power Query custom column.
+    - Add a date table to your model by using DAX calculations.
+prerequisites: Experience creating Microsoft Power BI Desktop models and designing Power BI report layouts, and an understanding of how to write Data Analysis Expressions (DAX) formulas 
+iconUrl: /training/achievements/dax-power-bi-add-calculated-tables.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- data-analyst  
+products:    
+- power-bi
+- power-platform 
+subjects:
+- data-analytics
+units:
+- learn-bizapps.dax-power-bi-add-calculated-tables.1-introduction 
+- learn-bizapps.dax-power-bi-add-calculated-tables.2-calculated-columns 
+- learn-bizapps.dax-power-bi-add-calculated-tables.3-row-context 
+- learn-bizapps.dax-power-bi-add-calculated-tables.4-technique 
+- learn-bizapps.dax-power-bi-add-calculated-tables.5-check 
+- learn-bizapps.dax-power-bi-add-calculated-tables.6-summary 
+badge: 
+  uid: learn-bizapps.dax-power-bi-add-calculated-tables.badge

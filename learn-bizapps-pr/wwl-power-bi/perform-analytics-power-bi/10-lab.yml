@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.perform-analytics-power-bi.lab
+title: Exercise - Perform Advanced Analytics with AI Visuals
+metadata:
+  title: Exercise - Perform Advanced Analytics with AI Visuals
+  description: "In this lab, you'll create the Sales Exploration report and use AI visuals to identify outliers and see a time series analysis."
+  ms.date: 07/21/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+labId: 72678
+labModal: true
+durationInMinutes: 30
+content: |
+  [!include[](includes/10-lab.md)]

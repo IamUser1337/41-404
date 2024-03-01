@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-interactive-experiences.3-exercise-use-power-bi-desktop-to-build-data-model 
+title: Use Power BI to build a data model
+metadata: 
+  title: Use Power BI to build a data model
+  description: In this exercise, create a data model, reports, and visuals in the Power BI application using guided steps. 
+  ms.date: 09/28/2021 
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+durationInMinutes: 30 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-exercise-use-power-bi-desktop-to-build-data-model.md)] 

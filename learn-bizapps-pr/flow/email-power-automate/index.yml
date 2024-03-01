@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.email-power-automate 
+metadata: 
+ title: Email with Power Automate
+ description: With Microsoft Power Automate, you can create emails that are sent automatically when new data is added or when existing data is updated. Additionally, you can have email metadata captured in SharePoint automatically. This module explains how you can use email actions in Power Automate with SharePoint as the data source.
+ ms.date: 11/02/2023
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: module 
+title: Email with Power Automate
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  With Microsoft Power Automate, you can create emails that are sent automatically when new data is added or when existing data is updated. Additionally, you can have email metadata captured in SharePoint automatically. This module explains how you can use email actions in Power Automate with SharePoint as the data source.
+abstract: |  
+    In this module, you will: 
+    - Learn about the SharePoint Connector for Power Automate.
+    - Use SharePoint triggers.
+    - Send emails by using Microsoft 365 Outlook.
+    - Send emails by using the Mail connector.
+    - Save email content to SharePoint.
+prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
+iconUrl: /training/achievements/email-power-automate.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.email-power-automate.1-introduction 
+- learn-bizapps.email-power-automate.2-sharepoint-triggers 
+- learn-bizapps.email-power-automate.3-send-outlook 
+- learn-bizapps.email-power-automate.4-send-mail 
+- learn-bizapps.email-power-automate.5-save-sharepoint 
+- learn-bizapps.email-power-automate.6-check 
+- learn-bizapps.email-power-automate.7-summary 
+badge: 
+  uid: learn-bizapps.email-power-automate.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-studio.web-pages
+title: Work with pages
+metadata:
+  title: Work with pages
+  description: Learn about working with pages.
+  ms.date: 01/04/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/web-pages.md)]

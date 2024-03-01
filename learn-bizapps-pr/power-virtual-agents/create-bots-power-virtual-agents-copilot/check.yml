@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-bots-power-virtual-agents-copilot.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/25/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the primary purpose of Copilot in Microsoft Copilot Studio?
+    choices: 
+    - content: To automate website searches
+      isCorrect: false 
+      explanation: Incorrect. The primary purpose of Copilot in Microsoft Copilot Studio is to help bot creation by using natural language.
+    - content: To enhance chatbot appearance
+      isCorrect: false 
+      explanation: Incorrect. The primary purpose of Copilot in Microsoft Copilot Studio is to help bot creation by using natural language.
+    - content: To help bot creation by using natural language
+      isCorrect: true 
+      explanation: Correct. The primary purpose of Copilot in Microsoft Copilot Studio is to help bot creation by using natural language.
+    - content: To deploy bots to multiple platforms
+      isCorrect: false 
+      explanation: Incorrect. The primary purpose of Copilot in Microsoft Copilot Studio is to help bot creation by using natural language.
+  - content: Which feature in Microsoft Copilot Studio allows the bot to present information from multiple sources without the need for creating topics?
+    choices: 
+    - content: Conversation Booster
+      isCorrect: true 
+      explanation: Correct. Conversation Booster allows the bot to present information from multiple sources without the need for creating topics.
+    - content: Generative Responses
+      isCorrect: false 
+      explanation: Incorrect. Conversation Booster allows the bot to present information from multiple sources without the need for creating topics.
+    - content: Copilot Builder
+      isCorrect: false 
+      explanation: Incorrect. Conversation Booster allows the bot to present information from multiple sources without the need for creating topics.
+    - content: Azure AI Bot Service
+      isCorrect: false 
+      explanation: Incorrect. Conversation Booster allows the bot to present information from multiple sources without the need for creating topics.
+  - content: How do you test your bot in Microsoft Copilot Studio?
+    choices: 
+    - content: Deploy the bot to Azure
+      isCorrect: false 
+      explanation: Incorrect. Select the Test your bot button in the lower-left corner of the screen to test the bot. 
+    - content: Select the Test your bot button in the lower-left corner of the screen
+      isCorrect: true 
+      explanation: Correct. Select the Test your bot button in the lower-left corner of the screen to test the bot. 
+    - content: By turning on the "Track between topics" toggle
+      isCorrect: false 
+      explanation: Incorrect. Select the Test your bot button in the lower-left corner of the screen to test the bot. 
+    - content: By publishing the bot to a test site
+      isCorrect: false 
+      explanation: Incorrect. Select the Test your bot button in the lower-left corner of the screen to test the bot. 

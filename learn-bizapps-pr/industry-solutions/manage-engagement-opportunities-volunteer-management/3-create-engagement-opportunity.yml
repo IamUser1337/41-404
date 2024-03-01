@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-engagement-opportunities-volunteer-management.3-create-engagement-opportunity 
+title: Create an engagement opportunity  
+metadata: 
+  title: Create an engagement opportunity 
+  description: Learn how to create an engagement opportunity.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-create-engagement-opportunity.md)] 

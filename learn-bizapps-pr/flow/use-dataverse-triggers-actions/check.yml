@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-dataverse-triggers-actions.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/18/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following methods isn't a way to filter the results when you're using the List row action in Dataverse?
+    choices:
+    - content: Use a SQL query
+      isCorrect: true
+      explanation: Correct. Using a SQL query isn't supported with the Dataverse connector, you need to use an OData expression or FetchXML.
+    - content: Use an OData expression
+      isCorrect: false
+      explanation: Incorrect. An OData expression is a supported query filter.
+    - content: Use FetchXML
+      isCorrect: false
+      explanation: Incorrect. FetchXML is a supported query filter.
+  - content: How would you clear an existing column value by using the Update row action?
+    choices:
+    - content: Set the action to pass a null value on the column. 
+      isCorrect: true
+      explanation: Correct. A null value on the Update action clears the existing row value.
+    - content: Don't set the action to pass a value on the column.
+      isCorrect: False
+      explanation: Incorrect. Leaving the column empty doesn't update the column to clear the existing value.
+    - content: Set the action to pass the current value.
+      isCorrect: false
+      explanation: Incorrect. Passing the current value doesn't clear the existing value; it only makes them the same.
+  - content: If you want to update a pre-existing row or create a row if it doesn't exist, what would you do?
+    choices:
+    - content: Use the Update row action and then edit the row ID of the item.
+      isCorrect: true
+      explanation: Correct. If you provide a row ID that doesn't exist or is generated with the GUID() expression, the action performs an update or insert (upsert) operation. As a result, the action creates a new row with the ID that you provide.
+    - content: Use the Add row action and then edit the row ID of the item.
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use this action to update a pre-existing row or create a row if it doesn't exist.
+    - content: Use the Update row action and then don't set the row ID.
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use this action to update a pre-existing row or create a row if it doesn't exist.
+    - content: Use the Add, Modify, Delete trigger and a filter that checks the row ID.
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use this action to update a pre-existing row or create a row if it doesn't exist.

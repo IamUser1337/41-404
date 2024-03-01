@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-effective-requirements 
+metadata: 
+ title: Scope report design requirements
+ description: Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.
+ ms.date: 10/11/2021  
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Scope report design requirements
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.
+abstract: |  
+    In this module, you will: 
+    - Determine business goals.
+    - Identify your audience.
+    - Determine report types.
+    - Define user interface requirements.
+    - Define user experience requirements.
+prerequisites: Experience with creating reports
+iconUrl: /training/achievements/power-bi-effective-requirements.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-effective-requirements.1-introduction 
+- learn-bizapps.power-bi-effective-requirements.2-identify 
+- learn-bizapps.power-bi-effective-requirements.3-determine 
+- learn-bizapps.power-bi-effective-requirements.4-define-interface 
+- learn-bizapps.power-bi-effective-requirements.5-define-experience 
+- learn-bizapps.power-bi-effective-requirements.6-explore-designs 
+- learn-bizapps.power-bi-effective-requirements.7-check 
+- learn-bizapps.power-bi-effective-requirements.8-summary 
+badge: 
+  uid: learn-bizapps.power-bi-effective-requirements.badge

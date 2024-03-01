@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-build-applications-automation-solutions.exercise-automate-cloud-flow
+title: 'Exercise - Automate with a cloud flow '
+metadata:
+  title: Exercise - Automate with a cloud flow
+  description: "Exercise - Automate with a cloud flow"
+  ms.date: 06/29/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 30
+content: |
+  [!include[](includes/6-exercise-automate-cloud-flow.md)]

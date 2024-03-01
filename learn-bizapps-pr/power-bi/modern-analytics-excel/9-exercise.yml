@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-excel.9-exercise 
+title: Exercise - Excel and Power BI service better together
+metadata: 
+  title: Exercise - Excel and Power BI service better together
+  description: Steps to use Excel to create a pivot table from a Dataset published in the Power BI service.
+  ms.date: 09/28/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 30
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/9-exercise.md)] 

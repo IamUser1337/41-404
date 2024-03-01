@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.approvals-power-automate.3-respond
+title: Respond to an approval
+metadata:
+  title: Respond to an approval
+  description: Learn how to respond to an approval.
+  ms.date: 01/03/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-respond.md)]

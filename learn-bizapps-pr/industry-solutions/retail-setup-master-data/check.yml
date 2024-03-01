@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-master-data.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/17/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which security role does a user require to manage the reference data in the App setup area within Store Operations Assist?
+    choices:
+    - content: Retail data manager
+      isCorrect: true
+      explanation: The user needs to have the Retail data manager role to manage the reference data.
+    - content: Retail store assistant
+      isCorrect: false
+      explanation: The user needs to have the Retail data manager role to manage the reference data.
+    - content: Retail District Ops manager
+      isCorrect: false
+      explanation: The user needs to have the Retail data manager role to manage the reference data.
+    - content: Retail Store manager
+      isCorrect: false
+      explanation: The user needs to have the Retail data manager role to manage the reference data.
+  - content: Which of the following entities would you use to set up and manage the store hierarchy?
+    choices:
+    - content: Business units
+      isCorrect: true
+      explanation: You can set up and manage the store hierarchy by using business units.
+    - content: Territories
+      isCorrect: false
+      explanation: You can set up and manage the store hierarchy by using business units.
+    - content: Target groups
+      isCorrect: false
+      explanation: You can set up and manage the store hierarchy by using business units.
+    - content: Store zones
+      isCorrect: false
+      explanation: You can set up and manage the store hierarchy by using business units.
+  - content: Which of the following entities do you use to categorize an appointment?
+    choices:
+    - content: Appointment type
+      isCorrect: true
+      explanation: You can categorize an appointment as different appointment types. 
+    - content: Appointment team
+      isCorrect: false
+      explanation: You can categorize an appointment as different appointment types. 
+    - content: Appointment reason
+      isCorrect: false
+      explanation: You can categorize an appointment as different appointment types. 
+    - content: None of the above
+      isCorrect: false
+      explanation: You can categorize an appointment as different appointment types. 

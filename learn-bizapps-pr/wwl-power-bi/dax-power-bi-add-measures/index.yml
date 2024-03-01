@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.dax-power-bi-add-measures 
+metadata: 
+ title: Add measures to Power BI Desktop models
+ description: In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.
+ ms.date: 06/15/2022 
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Add measures to Power BI Desktop models 
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.
+abstract: |  
+    By the end of this module, you'll be able to: 
+    - Determine when to use implicit and explicit measures.
+    - Create simple measures.
+    - Create compound measures.
+    - Create quick measures.
+    - Describe similarities of, and differences between, a calculated column and a measure.
+prerequisites: Experience creating Power BI Desktop models and designing Power BI report layouts, in addition to an understanding of how to write Data Analysis Expressions (DAX) formulas 
+iconUrl: /training/achievements/add-measures-power-bi-desktop.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- data-analyst  
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.dax-power-bi-add-measures.1-introduction 
+- learn-bizapps.dax-power-bi-add-measures.2-simple-measures 
+- learn-bizapps.dax-power-bi-add-measures.3-compound-measures 
+- learn-bizapps.dax-power-bi-add-measures.4-quick-measures 
+- learn-bizapps.dax-power-bi-add-measures.5-compare-calculated-columns-measures 
+- learn-bizapps.dax-power-bi-add-measures.6-check 
+- learn-bizapps.dax-power-bi-add-measures.lab
+- learn-bizapps.dax-power-bi-add-measures.7-summary 
+badge: 
+  uid: learn-bizapps.dax-power-bi-add-measures.badge

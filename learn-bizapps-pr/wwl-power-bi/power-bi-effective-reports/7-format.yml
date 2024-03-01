@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-reports.format
+title: Format and configure visualizations
+metadata:
+  title: Format and configure visualizations
+  description: "Learn how to format and configure visualizations for better flow and detail in your Power BI report."
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/7-format.md)]

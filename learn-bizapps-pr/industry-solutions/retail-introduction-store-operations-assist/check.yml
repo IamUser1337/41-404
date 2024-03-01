@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-introduction-store-operations-assist.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/24/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following features are available in Store Operations Assist Admin?
+    choices:
+    - content: Intelligent Store Operations
+      isCorrect: true
+      explanation: The Intelligent Store Operations feature in Store Operations Assist Admin helps generate actionable insights from your physical store space by using prebuilt, AI-powered skills.
+    - content: Intelligent Data Operations
+      isCorrect: false
+      explanation: The Intelligent Store Operations feature in Store Operations Assist Admin helps generate actionable insights from your physical store space by using prebuilt, AI-powered skills.
+    - content: Intelligent Order Management
+      isCorrect: false
+      explanation: The Intelligent Store Operations feature in Store Operations Assist Admin helps generate actionable insights from your physical store space by using prebuilt, AI-powered skills.
+    - content: Intelligent System Management
+      isCorrect: false
+      explanation: The Intelligent Store Operations feature in Store Operations Assist Admin helps generate actionable insights from your physical store space by using prebuilt, AI-powered skills.
+  - content: Store Operations Assist Admin is what type of entity? 
+    choices:
+    - content: Model-driven app
+      isCorrect: true
+      explanation: Store Operations Assist Admin is a model-driven app.
+    - content: Canvas app
+      isCorrect: false
+      explanation: Store Operations Assist Admin is a model-driven app.
+    - content: Power Pages webpage
+      isCorrect: false
+      explanation: Store Operations Assist Admin is a model-driven app.
+    - content: None of above
+      isCorrect: false
+      explanation: TStore Operations Assist Admin is a model-driven app.
+  - content: On which data model is Store Operations Assist solution built?
+    choices:
+    - content: Retail data model
+      isCorrect: true
+      explanation: Store Operations Assist is built on the Retail data model.
+    - content: CPG data model
+      isCorrect: false
+      explanation: Store Operations Assist is built on the Retail data model.
+    - content: Supply chain data model
+      isCorrect: false
+      explanation: Store Operations Assist is built on the Retail data model.
+    - content: None of the above
+      isCorrect: false
+      explanation: Store Operations Assist is built on the Retail data model.

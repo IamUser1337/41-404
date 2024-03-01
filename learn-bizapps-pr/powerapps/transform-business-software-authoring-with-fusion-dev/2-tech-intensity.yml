@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.2-tech-intensity
+title: What is tech intensity?
+metadata:
+  title: What is tech intensity?
+  description: The team at VanArsdel describes tech intensity and forms a Fusion Development Team
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: unit
+  ms.contributors:
+  - masoucou-04262021
+durationInMinutes: 2
+content: | 
+  [!include[](includes/2-tech-intensity.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.specialized-components-model-form.exercise
+title: Exercise - Create a business process flow
+metadata:
+  title: Exercise - Create a business process flow
+  description: Follow the steps to create a business process flow.
+  ms.date: 06/21/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

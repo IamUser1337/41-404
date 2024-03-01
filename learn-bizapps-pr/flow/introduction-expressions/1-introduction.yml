@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-expressions.1-introduction 
+title: Introduction to expressions
+metadata: 
+  title: Introduction to expressions 
+  description: Learn about the basics of expressions.  
+  ms.date: 10/01/2020 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

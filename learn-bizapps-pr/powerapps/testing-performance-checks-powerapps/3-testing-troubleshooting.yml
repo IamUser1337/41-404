@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.testing-performance-checks.3-testing-troubleshooting 
+title: Testing and troubleshooting your app
+metadata: 
+  title: Testing and troubleshooting your app 
+  description: Testing and troubleshooting your app 
+  ms.date: 06/29/2021 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+   
+durationInMinutes: 10 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-testing-troubleshooting.md)] 
+

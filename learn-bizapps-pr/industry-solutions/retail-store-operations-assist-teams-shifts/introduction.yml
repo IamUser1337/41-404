@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-store-operations-assist-teams-shifts.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to using Store Operations Assist with Microsoft Teams Shifts
+  ms.date: 12/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

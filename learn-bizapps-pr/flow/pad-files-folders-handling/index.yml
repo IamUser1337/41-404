@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-files-folders-handling 
+metadata: 
+ title: Control file and folder handling in Power Automate for desktop
+ description: Learn about the files and folders actions in Microsoft Power Automate for desktop.
+ ms.date: 10/01/2023
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based
+title: Control file and folder handling in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Manipulating files and folders is a fundamental part of most business processes. Power Automate for desktop provides the files and folders actions to help accomplish this task.
+abstract: |  
+    In this module, you will: 
+    - Learn how to create flows that manage files and folders.
+    - Learn how to manage the properties of multiple files and folders.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), and familiarity with managing files, folders and paths.
+iconUrl: /training/achievements/pad-files-folders-handling.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant  
+products:  
+- power-platform 
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-files-folders-handling.1-introduction 
+- learn-bizapps.pad-files-folders-handling.2-folders-actions 
+- learn-bizapps.pad-files-folders-handling.3-files-actions 
+- learn-bizapps.pad-files-folders-handling.4-exercise 
+- learn-bizapps.pad-files-folders-handling.5-check-knowledge 
+- learn-bizapps.pad-files-folders-handling.6-summary 
+badge: 
+  uid: learn-bizapps.pad-files-folders-handling.badge

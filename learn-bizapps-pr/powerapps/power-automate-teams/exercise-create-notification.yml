@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-teams.exercise-create-notification
+title: Exercise - Create an approval flow notification
+metadata:
+  title: Exercise - Create an approval flow notification
+  description: Follow the steps to send a Teams message to the user about their request approval.
+  ms.date: 10/07/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[.](../includes/unit-banner.md)]
+ [!include[.](includes/exercise-create-notification.md)]

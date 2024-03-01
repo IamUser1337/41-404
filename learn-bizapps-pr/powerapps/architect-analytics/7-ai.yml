@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.architect-analytics.7-ai
+title: AI
+metadata:
+  title: AI
+  description: Learn how to use Microsoft AI services to enhance data.
+  ms.date: 03/09/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/7-ai.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-modify-filter.4-examine-filter-context 
+title: Examine filter context
+metadata: 
+  title: Examine filter context 
+  description: Learn how to examine filter context.  
+  ms.date: 07/18/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-examine-filter-context.md)] 

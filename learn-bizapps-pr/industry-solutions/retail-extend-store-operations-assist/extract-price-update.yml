@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.extract-price-update
+title: Exercise - Use Power Automate flows to extract product price updates
+metadata:
+  title: Exercise - Use Power Automate flows to extract product price updates
+  description: Follow the steps to use a Power Automate flow that extracts product price updates.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/extract-price-update.md)]

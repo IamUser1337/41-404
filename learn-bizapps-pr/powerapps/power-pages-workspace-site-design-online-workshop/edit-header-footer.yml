@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-site-design-online-workshop.edit-header-footer 
+title: Edit the site header and footer
+metadata: 
+  title: Edit the site header and footer
+  description: Follow the steps to practice editing the site header and footer.
+  ms.date: 01/24/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/edit-header-footer.md)] 

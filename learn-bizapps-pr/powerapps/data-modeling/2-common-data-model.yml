@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.2-common-data-model
+title: Common Data Model
+metadata:
+  title: Common Data Model
+  description: Learn about Common Data Model.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-common-data-model.md)]

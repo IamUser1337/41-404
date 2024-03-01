@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-metadata
+metadata:
+ title: Work with Power Pages metadata
+ description: Makers are required to understand the various Power Pages metadata components so they can set up the website for various unique requirements. This module uses the Portal Management app to set up various website features by editing the website metadata.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: power-pages 
+title: Work with Power Pages metadata
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Makers are required to understand the various Power Pages metadata components so they can set up the website for various unique requirements. This module uses the Portal Management app to set up various website features by editing the website metadata.
+abstract: |
+    In this module, you'll:
+    - Review the various Power Pages metadata records and how you can use them to set up specific aspects of a website.
+    - Learn about the Portal Management model-driven app and how you can use it to set up specific aspects of a Power Pages website.
+    - Discover the structure of a webpage record and the various components that you can use to render a webpage and show content from multiple languages.
+    - Examine the page template and web template structure and how they apply consistent layouts and functionality of a webpage.
+prerequisites: A basic understanding of how to navigate a model-driven app and knowledge of web technologies such as HTML, CSS, and Bootstrap is also beneficial
+iconUrl: /training/achievements/power-pages-metadata.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+- developer
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-metadata.introduction
+- learn-bizapps.power-pages-metadata.metadata
+- learn-bizapps.power-pages-metadata.web-pages
+- learn-bizapps.power-pages-metadata.templates
+- learn-bizapps.power-pages-metadata.exercise
+- learn-bizapps.power-pages-metadata.check
+- learn-bizapps.power-pages-metadata.summary
+badge:
+  uid: learn-bizapps.power-pages-metadata.badge

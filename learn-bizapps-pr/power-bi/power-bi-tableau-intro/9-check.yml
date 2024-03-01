@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.9-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 03/31/2021 
+ author: ajburnle 
+ manager: kfollis 
+ ms.author: ajburnle 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the steps to the report building life cycle in Power BI?
+    choices: 
+    - content: Prepare, explore, visualize, and share and collaborate
+      isCorrect: true 
+      explanation: The first and most important step is to prepare the data for analysis. Then, you can explore the cleaned and vetted data. After exploring, you can visualize insights and then share those insights with others.
+    - content: Prepare, visualize, explore, and share and collaborate
+      isCorrect: false 
+      explanation: It doesn't make sense to visualize the data before exploring it. You need to become familiar with the data that you're working with before creating visualizations.
+    - content: Explore, prepare, visualize, and share and collaborate
+      isCorrect: false 
+      explanation: It doesn't make sense to explore the data before preparing it. In most cases, without data transformations, the data might not be ready for exploration.
+  - content: What Power BI feature allows analysts to detect critical issues and identify patterns and trends by highlighting cells?
+    choices: 
+    - content: Relationships
+      isCorrect: false 
+      explanation: Relationships allow users to connect to data from multiple tables.
+    - content: Conditional formatting
+      isCorrect: true 
+      explanation: Conditional formatting changes the appearance of cells based on conditions that you specify.
+    - content: CALCULATE function
+      isCorrect: false 
+      explanation: The CALCULATE function evaluates an expression in a modified filter context.
+  - content: What is the tool that allows users to find out how each of their report elements are performing when users interact with them?
+    choices: 
+    - content: Power Query Editor
+      isCorrect: false 
+      explanation: With Power Query Editor, you can connect to many different data sources, transform the data the way that you want, and quickly create reports and insights.
+    - content: Performance Analyzer
+      isCorrect: true 
+      explanation: Performance Analyzer provides a way for the report designer to determine the clock times of the processes that occur when data is refreshed and loaded into a Power BI visual.
+    - content: Get data
+      isCorrect: false 
+      explanation: Get data is the first step in connecting to the data that you want to access. It doesn't help with analyzing the performance of your report elements.

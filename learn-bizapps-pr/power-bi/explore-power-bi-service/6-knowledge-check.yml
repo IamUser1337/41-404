@@ -1,0 +1,158 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-to-power-bi-service.6-knowledge-check 
+metadata: 
+  title: Knowledge check
+  description: Check what you've learned.
+  ms.date: 07/07/2023 
+  author: maggiesMSFT
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+   
+   
+title: Check your knowledge 
+durationInMinutes: 5 
+quiz: 
+  title: Introduction to Power BI knowledge check
+  questions: 
+  - content: You just modified some filters to reveal some amazing business insights that could help boost company sales. You want to share these insights with your team. Which of the following strategies would not work?
+    choices: 
+    - content: Create a bookmark and share the bookmark with your team.
+      isCorrect: false 
+      explanation: Only Power BI designers can create and share apps, but you can share bookmarks, exported PowerPoint decks, or exported Excel spreadsheets.
+    - content: Export your visuals to PowerPoint and present to your team.
+      isCorrect: false 
+      explanation: Only Power BI designers can create and share apps, but you can share bookmarks, exported PowerPoint decks, or exported Excel spreadsheets.
+    - content: Save the report, bundle into a Power BI app, and send the app to your team.
+      isCorrect: true 
+      explanation: Only Power BI designers can create and share apps, but you can share bookmarks, exported PowerPoint decks, or exported Excel spreadsheets.
+    - content: Export your data to Excel and share the spreadsheet with your team.
+      isCorrect: false 
+      explanation: Only Power BI designers can create and share apps, but you can share bookmarks, exported PowerPoint decks, or exported Excel spreadsheets.
+  - content: Which of these is **false**?
+    choices: 
+    - content: Power BI is a tool for visualizing your data and for storytelling.
+      isCorrect: false 
+      explanation: Power BI is a standalone product and not a subset of other Microsoft tools.
+    - content: Power BI is interactive and you work with dashboards and reports to discover trends and insights.
+      isCorrect: false 
+      explanation: Power BI is a standalone product and not a subset of other Microsoft tools.
+    - content: Power BI is collaborative. You work from the same data (reports, apps, dashboards) with colleagues to collaborate and share.
+      isCorrect: false 
+      explanation: Power BI is a standalone product and not a subset of other Microsoft tools.
+    - content: Power BI is another name for the reporting tools found in Excel and Microsoft Dynamics.
+      isCorrect: true 
+      explanation: Power BI is a standalone product and not a subset of other Microsoft tools.
+  - content: Which Power BI component is an all-purpose tool for navigating to all of your content?
+    choices: 
+    - content: Report editor
+      isCorrect: false 
+      explanation: Power BI Home is an all-purpose tool for all your content and a quicker way to dive into your insights. Home will automatically surface your most important content or let you search for it in a single page. 
+    - content: Q&A natural language queries
+      isCorrect: false 
+      explanation: Power BI Home is an all-purpose tool for all your content and a quicker way to dive into your insights. Home will automatically surface your most important content or let you search for it in a single page. 
+    - content: Power BI Home
+      isCorrect: true 
+      explanation: Power BI Home is an all-purpose tool for all your content and a quicker way to dive into your insights. Home will automatically surface your most important content or let you search for it in a single page. 
+    - content: Apps
+      isCorrect: false 
+      explanation: Power BI Home is an all-purpose tool for all your content and a quicker way to dive into your insights. Home will automatically surface your most important content or let you search for it in a single page. 
+  - content: Power BI is an effective way for corporate employees to work with data. Which of the following is ***not*** true?
+    choices:
+    - content: Your data can't be shared outside of your company. 
+      isCorrect: true 
+      explanation: Collaborating with others outside of your company is a key scenario for Power BI. While some of your data will be restricted, data that is not proprietary can be shared with colleagues at different companies.
+    - content: Colleagues can work from the same version of datasets, reports, and dashboards. 
+      isCorrect: false 
+      explanation: Collaborating with others outside of your company is a key scenario for Power BI. While some of your data will be restricted, data that is not proprietary can be shared with colleagues at different companies. 
+    - content: You can interact with the shared dashboards, reports, and apps without impacting the underlying dataset. 
+      isCorrect: false 
+      explanation: Collaborating with others outside of your company is a key scenario for Power BI. While some of your data will be restricted, data that is not proprietary can be shared with colleagues at different companies. 
+    - content: Power BI works across devices, including iOS, Android, and Windows mobile devices. 
+      isCorrect: false 
+      explanation: Collaborating with others outside of your company is a key scenario for Power BI. While some of your data will be restricted, data that is not proprietary can be shared with colleagues at different companies. 
+  - content: Which of the following is a difference between a dashboard and a report? 
+    choices: 
+    - content: Reports have one or more pages
+      isCorrect: true 
+      explanation: Dashboards are a single page/screen. Reports can have one or more pages. Each page can be opened by selecting one of the tabs that run along the bottom. 
+    - content: Contains visualizations
+      isCorrect: false 
+      explanation: Dashboards are a single page/screen. Reports can have one or more pages. Each page can be opened by selecting one of the tabs that run along the bottom. 
+    - content: Can be part of an app
+      isCorrect: false 
+      explanation: Dashboards are a single page/screen. Reports can have one or more pages. Each page can be opened by selecting one of the tabs that run along the bottom. 
+    - content: Can hover over the visuals to see more detail
+      isCorrect: false 
+      explanation: Dashboards are a single page/screen. Reports can have one or more pages. Each page can be opened by selecting one of the tabs that run along the bottom. 
+  - content: Apps are shared with consumers in all of the following way, except...
+    choices: 
+    - content: Link in an email
+      isCorrect: false 
+      explanation: Apps are bundled collections of dashboards and reports that can be share in email, automatically installed by report designers (or administrators), or on AppSource.
+    - content: In Excel files
+      isCorrect: true 
+      explanation: Apps are bundled collections of dashboards and reports that can be share in email, automatically installed by report designers (or administrators), or on AppSource. 
+    - content: Automatically installed by report designers or administrators
+      isCorrect: false 
+      explanation: Apps are bundled collections of dashboards and reports that can be share in email, automatically installed by report designers (or administrators), or on AppSource.  
+    - content: On AppSource.com
+      isCorrect: false 
+      explanation: Apps are bundled collections of dashboards and reports that can be share in email, automatically installed by report designers (or administrators), or on AppSource.
+  - content: If you have a bar chart and select one bar, what do you call what happens to the other updated visuals on the report page? (This applies to reports and not dashboards.)
+    choices: 
+    - content: Filter
+      isCorrect: false 
+      explanation: All visuals on a report page can be related since they are created using data from the same data set. If you select a data value or category from one visual, it cross-filters or cross-highlights the other visuals on the page.  
+    - content: Cross-filter and cross-highlight 
+      isCorrect: true 
+      explanation: All visuals on a report page can be related since they are created using data from the same data set. If you select a data value or category from one visual, it cross-filters or cross-highlights the other visuals on the page.  
+    - content: Bookmark
+      isCorrect: false 
+      explanation: All visuals on a report page can be related since they are created using data from the same data set. If you select a data value or category from one visual, it cross-filters or cross-highlights the other visuals on the page.  
+    - content: Slicer
+      isCorrect: false 
+      explanation: All visuals on a report page can be related since they are created using data from the same data set. If you select a data value or category from one visual, it cross-filters or cross-highlights the other visuals on the page.  
+  - content: Which statement is true about adding comments to a dashboard?  
+    choices: 
+    - content: Comments can be added to an entire dashboard but not to individual visualizations on that dashboard.
+      isCorrect: false 
+      explanation: Comments can be added to an entire dashboard or to individual visualizations on a dashboard. Add a general comment or a comment targeted at specific colleagues. Also, comments can be added to a dashboard using Power BI or Power BI Mobile apps.  
+    - content: Before a comment is published, it must be approved by the dashboard designer.
+      isCorrect: false 
+      explanation: Comments can be added to an entire dashboard or to individual visualizations on a dashboard. Add a general comment or a comment targeted at specific colleagues. Also, comments can be added to a dashboard using Power BI or Power BI Mobile apps.  
+    - content: Only the report designer can add comments to a report.
+      isCorrect: false 
+      explanation: Comments can be added to an entire dashboard or to individual visualizations on a dashboard. Add a general comment or a comment targeted at specific colleagues. Also, comments can be added to a dashboard using Power BI or Power BI Mobile apps.  
+    - content: You can use the “@” symbol to mention a colleague in a comment.
+      isCorrect: true 
+      explanation: Comments can be added to an entire dashboard or to individual visualizations on a dashboard. Add a general comment or a comment targeted at specific colleagues. Also, comments can be added to a dashboard using Power BI or Power BI Mobile apps.    
+  - content: Which of the following actions will ensure you receive a daily email with a snapshot of a Power BI report? 
+    choices: 
+    - content: Create an alert
+      isCorrect: false 
+      explanation: You can subscribe yourself and your colleagues to the report pages and dashboards that matter most to you, and Power BI emails a snapshot to your inbox. You tell Power BI how often you want to receive the emails - immediately, daily, weekly, on specific days at specific times, or once a day after the initial data refresh.   
+    - content: Subscribe
+      isCorrect: true 
+      explanation: You can subscribe yourself and your colleagues to the report pages and dashboards that matter most to you, and Power BI emails a snapshot to your inbox. You tell Power BI how often you want to receive the emails - immediately, daily, weekly, on specific days at specific times, or once a day after the initial data refresh.
+    - content: Bookmark
+      isCorrect: false 
+      explanation: You can subscribe yourself and your colleagues to the report pages and dashboards that matter most to you, and Power BI emails a snapshot to your inbox. You tell Power BI how often you want to receive the emails - immediately, daily, weekly, on specific days at specific times, or once a day after the initial data refresh.
+    - content: Export data
+      isCorrect: false 
+      explanation: You can subscribe yourself and your colleagues to the report pages and dashboards that matter most to you, and Power BI emails a snapshot to your inbox. You tell Power BI how often you want to receive the emails - immediately, daily, weekly, on specific days at specific times, or once a day after the initial data refresh.
+  - content: There are several actions that reveal the underlying data that's used to build your visuals. Which of the following is ***not*** one of those actions?
+    choices: 
+    - content: From a visual in a report, select **Show data**.
+      isCorrect: false 
+      explanation: Power BI designers use data from datasets to build dashboards and reports. When a designer shares an app with you, the dataset is not included. You can, however, see some of the underlying data using **Export to Excel**, **Export data**, and **Show data**. 
+    - content: From a tile on a dashboard, select **Export to Excel**.
+      isCorrect: false 
+      explanation: Power BI designers use data from datasets to build dashboards and reports. When a designer shares an app with you, the dataset is not included. You can, however, see some of the underlying data using **Export to Excel**, **Export data**, and **Show data**. 
+    - content: From a visual on a report, select **Export data**.
+      isCorrect: false 
+      explanation: Power BI designers use data from datasets to build dashboards and reports. When a designer shares an app with you, the dataset is not included. You can, however, see some of the underlying data using **Export to Excel**, **Export data**, and **Show data**.  
+    - content: From an app, display the underlying dataset.
+      isCorrect: true 
+      explanation: Power BI designers use data from datasets to build dashboards and reports. When a designer shares an app with you, the dataset is not included. You can, however, see some of the underlying data using **Export to Excel**, **Export data**, and **Show data**. 
+      

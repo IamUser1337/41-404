@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-retail-insights-dashboard.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 02/08/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You want to keep track of tasks that are open as of today and tasks that need review. Which section of the Retail Insights dashboard can help you accomplish this task?  
+    choices:
+    - content: Today’s highlights 
+      isCorrect: true
+      explanation: The Today’s highlights section helps you keep track of tasks that are open as of today and tasks that need review.
+    - content: Task completion by department 
+      isCorrect: false
+      explanation: The Task completion by department section shows the count of tasks that are completed by each department within a store or stores.
+    - content: Task type 
+      isCorrect: false
+      explanation: The Task type section contains a breakup of the task based on the type that it is, such as planned, ad-hoc, or related tasks.
+    - content: Task count over time 
+      isCorrect: false
+      explanation: The Task count over time section provides the task count across various departments over a period based on the scheduled start date.
+  - content: Which of the following statements regarding the Retail Insights dashboard is correct? 
+    choices:
+    - content: The Retail Insights dashboard helps identify issues or bottlenecks that impact store operations and helps you address them. 
+      isCorrect: true
+      explanation: The Retail Insights dashboard enables the store manager to track the status of tasks in real time and to monitor performance and progress toward completing them.
+    - content: The Retail insights dashboard provides a 360-degree view of tasks across only a single store at a time.
+      isCorrect: false
+      explanation: The Retail insights dashboard provides a 360-degree view of tasks across all stores and departments.
+    - content: The Retail insights dashboard is part of the Advanced Analytics package and is automatically deployed along with Microsoft Cloud for Retail.  
+      isCorrect: false
+      explanation: The Retail insights dashboard is part of the Advanced Analytics package and is an optional component that you can deploy along with Microsoft Cloud for Retail.
+    - content: The Retail Insights dashboard is accessible to all users regardless of their security roles.  
+      isCorrect: false
+      explanation: The Retail Insights dashboard is accessible to specific security roles that the IT admin has set up.  
+  - content: You can set up the refresh frequency of the Retail Insights dashboard from the admin portal of Power BI. Is this statement correct or incorrect? 
+    choices:
+    - content: Correct
+      isCorrect: true
+      explanation: You can set up the refresh frequency of the Retail Insights dashboard from the admin portal of Power BI.
+    - content: Incorrect
+      isCorrect: false
+      explanation: You can set up the refresh frequency of the Retail Insights dashboard from the admin portal of Power BI.

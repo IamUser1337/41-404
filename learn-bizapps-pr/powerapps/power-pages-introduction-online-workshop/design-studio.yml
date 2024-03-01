@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-introduction-online-workshop.design-studio
+title: Power Pages design studio
+metadata:
+  title: Power Pages design studio
+  description: Follow the steps to tour and preview the website in Power Pages design studio.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/design-studio.md)]

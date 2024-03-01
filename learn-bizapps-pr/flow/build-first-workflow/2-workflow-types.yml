@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-workflow.2-workflow-types
+title: Types of workflows that Power Automate can build in Dataverse
+metadata:
+  title: Types of workflows that Power Automate can build in Dataverse
+  description: Learn about the different types of workflows that Power Automate can build in Dataverse.
+  ms.date: 01/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-workflow-types.md)]

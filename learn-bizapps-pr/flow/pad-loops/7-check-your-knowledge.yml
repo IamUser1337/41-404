@@ -1,0 +1,45 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-loops.7-check-your-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/22/2020 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "If the number of repetitions is known in advance which type of loop should be used?"
+    choices: 
+    - content: "Loop condition"
+      isCorrect: false
+      explanation: "That is false; the loop action is ideal for a known number of repetitions."
+    - content: "Loop"
+      isCorrect: true 
+      explanation: "That is correct! The loop action is ideal for a known number of repetitions."
+    - content: "For Each"
+      isCorrect: false 
+      explanation: "That is false; the loop action is ideal for a known number of repetitions."
+    - content: "Any of the above"
+      isCorrect: false 
+      explanation: "That is false; the loop action is ideal for a known number of repetitions."
+  - content: "The elements of which data types can be accessed through a For Each loop?"
+    choices: 
+    - content: "Lists and data tables."
+      isCorrect: true 
+      explanation: "The For Each action repeats once for each item in a list or data table."
+    - content: "Only Lists"
+      isCorrect: false 
+      explanation: "The For Each action repeats once for each item in a list or data table."
+  - content: "What is the difference between a Loop and a For Each loop?"
+    choices: 
+    - content: "For Each loops iterate through a list of items, while Loops iterate for a set number of repetitions."
+      isCorrect: true
+      explanation: "Loops iterate for a set number of repetitions."
+    - content: "For Each loops iterate through a list of items, while Loops iterate until a condition is met."
+      isCorrect: false 
+      explanation: "Loops iterate for a set number of repetitions."

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.configure-settings-fundraising-engagement.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When configuring a preference category, what are the options for selecting the areas in Fundraising and Engagement where it can be used?
+    choices: 
+    - content: To be used with opportunities, accounts, or events. One or more categories can be set.r
+      isCorrect: false 
+      explanation: Incorrect. Category of a preference category can only be set up for use with either opportunities or events.
+    - content: To be used with opportunities, accounts, or events. Only one category can be set.
+      isCorrect: false 
+      explanation: Incorrect. Category of a preference category can only be set up for use with either opportunities or events.
+    - content: To be used with opportunities or events. One or more categories can be set.
+      isCorrect: false 
+      explanation: Incorrect. Only one category can be set up for a preference category.
+    - content: To be used with opportunities or events. Only one category can be set.
+      isCorrect: true 
+      explanation: Correct. Preference categories can only be set up for use with either opportunities or events.
+  - content: Where can objectives be used on an opportunity?
+    choices: 
+    - content: On Reporting Plan only.
+      isCorrect: false 
+      explanation: Incorrect. Reporting plan is not the only place on an opportunity that objectives can be used.
+    - content: On Preferences, Reporting Plan, and Stage History.
+      isCorrect: false 
+      explanation: Incorrect. Objectives do not appear in the Stage History
+    - content: On Preferences and Reporting Plan.
+      isCorrect: true
+      explanation: Correct. Objectives can be used in Preferences and Reporting Plan for an opportunity.
+    - content: On Preferences only.
+      isCorrect: false 
+      explanation: Incorrect. Preferences are not the only place on an opportunity that objectives can be used.      
+  - content: A nonprofit wants to segment donors based on the total amount of donations received. Which setting should be configured? 
+    choices: 
+    - content: Giving levels
+      isCorrect: true 
+      explanation: Correct. Giving levels allows users to segment constituents based on their total giving level.
+    - content: Preference categories
+      isCorrect: false 
+      explanation: Incorrect. Preferences are used to track specific characteristics of a constituent or opportunity.
+    - content: Objectives and budgets
+      isCorrect: false 
+      explanation: Incorrect. Objectives and budgets are used to track priorities, strategies, and goals of the nonprofit.
+    - content: Budgets
+      isCorrect: false 
+      explanation: Incorrect. Budgets are where the nonprofit can assign funds towards a particular objective.

@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-teams.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2021 
+ author: maggiesMSFT 
+ manager: kfollis 
+ ms.author: maggies 
+ ms.topic: unit
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What outlets can be used to share a Power BI report within Microsoft Teams? 
+    choices: 
+    - content: Power BI app
+      isCorrect: false
+      explanation: The Power BI app, chat, and channel can all be used to share a Power BI report within Microsoft Teams.
+    - content: Chat
+      isCorrect: false 
+      explanation: The Power BI app, chat, and channel can all be used to share a Power BI report within Microsoft Teams.
+    - content: Channel
+      isCorrect: false 
+      explanation: The Power BI app, chat, and channel can all be used to share a Power BI report within Microsoft Teams.
+    - content: All of the above
+      isCorrect: true 
+      explanation: The Power BI app, chat, and channel can all be used to share a Power BI report within Microsoft Teams.
+  - content: What data file type used in SharePoint Online is a connector within Power BI?
+    choices: 
+    - content: SharePoint database
+      isCorrect: false
+      explanation: SharePoint Online list is a connector within Power BI used in SharePoint Online. 
+    - content: SharePoint Online list
+      isCorrect: true 
+      explanation: SharePoint Online list is a connector within Power BI used in SharePoint Online. 
+    - content: SharePoint objects
+      isCorrect: false 
+      explanation: SharePoint Online list is a connector within Power BI used in SharePoint Online. 
+    - content: SharePoint exchange
+      isCorrect: false 
+      explanation: SharePoint Online list is a connector within Power BI used in SharePoint Online. 

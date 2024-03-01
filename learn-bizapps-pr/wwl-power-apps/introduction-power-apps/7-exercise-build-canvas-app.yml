@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-apps.exercise-build-canvas-app
+title: 'Exercise: Build a canvas app'
+metadata:
+  title: 'Exercise: Build a canvas app'
+  description: "Hands-on exercise building a canvas app."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+  [!include[](includes/7-exercise-build-canvas-app.md)]

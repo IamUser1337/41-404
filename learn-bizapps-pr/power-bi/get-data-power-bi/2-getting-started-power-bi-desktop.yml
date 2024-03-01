@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data-power-bi.2-getting-started-power-bi-desktop 
+title: Explore Power BI Desktop
+metadata: 
+  title: Explore Power BI Desktop
+  description: Experience the Power BI Desktop by exploring its user interface.
+  ms.date: 05/30/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-getting-started-power-bi-desktop.md)] 
+

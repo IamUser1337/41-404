@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-prediction.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/30/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Jim, a bakery owner, wants to offer a new type of pastry to customers. For the last five years, as customers were introduced to and tasted new products, Jim asked them to select one of the following satisfaction levels, Happy, Neutral, or Unhappy. This metric, combined with the recipe information, has resulted in Jim wanting to use AI Builder prediction to determine the potential success for the next offering. Which type of prediction model should Jim create?
+    choices: 
+    - content: Numerical outcome
+      isCorrect: false 
+      explanation: Incorrect. A numerical outcome is when the result to a question is a number. In this scenario, the satisfaction level is measured with emoticons that are represented by statuses.
+    - content: Binary outcome
+      isCorrect: false 
+      explanation: Incorrect. A binary outcome is when only two options are possible. This scenario has three different options.
+    - content: Multiple outcome
+      isCorrect: true 
+      explanation: Correct. The three different emoticons represent the multiple statuses that define the satisfaction outcome for a specific product.
+  - content: After you’ve trained a prediction model, the performance level is given a **D** grading. What could result in this performance level?
+    choices: 
+    - content: The model is correct in many cases.
+      isCorrect: false 
+      explanation: Incorrect. When a model is correct in many cases, the grade is **B**.
+    - content: The model is performing at or near 100 percent.
+      isCorrect: true 
+      explanation: Correct. Models that perform at or near 100 percent generally include a column that is directly correlated to the result (overfit model) and are graded **D**.
+    - content: The model is doing slightly better than a random guess.
+      isCorrect: false 
+      explanation: Incorrect. When a model is doing slightly better than a random guess, the grade is **C**.
+  - content: A company wants to implement a prediction model so that sales agents can use the outcome as they create sales quotes and are in discussion with their customers. You create a prediction model and publish it. The prediction is updated on a daily schedule. What can you do to obtain a real-time prediction?
+    choices: 
+    - content: Create a Power Automate cloud flow on the creation or update a sales quote that will use the **Predict** action.
+      isCorrect: true 
+      explanation: Correct. The flow will be triggered as new sales quotes are created and will allow the prediction model to determine the outcome and then update the sales quotes record in real time.
+    - content: Set up the prediction model setting to run on a more frequent schedule than a daily run, such as **Instantaneous**.
+      isCorrect: false 
+      explanation: Incorrect. The smallest frequency that you can set a model run to is daily.
+    - content: Create a Power Automate cloud flow on the creation of a customer record that will train the model.
+      isCorrect: false 
+      explanation: Incorrect. No action is available in Power Automate to train a model, and the prediction is expected on the sales quote, not the customer.

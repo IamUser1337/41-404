@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.component-framework-advanced.formatting-api
+title: Use the formatting API in a Power Apps component
+metadata:
+  title: Use the formatting API in a Power Apps component
+  description: Learn how to use the formatting API in a Power Apps component.
+  ms.date: 10/30/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/formatting-api.md)]

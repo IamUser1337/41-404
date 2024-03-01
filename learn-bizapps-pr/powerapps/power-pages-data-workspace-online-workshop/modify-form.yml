@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-data-workspace-online-workshop.modify-form 
+title: Modify a form
+metadata: 
+  title: Modify a form
+  description: Follow the steps to practice modifying a form.
+  ms.date: 01/24/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/modify-form.md)] 

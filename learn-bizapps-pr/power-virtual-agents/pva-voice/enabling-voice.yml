@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pva-voice.enabling-voice 
+title: Set up for voice 
+metadata: 
+  title: Set up for voice 
+  description: Learn how to set up the bot for voice.
+  ms.date: 09/28/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/enabling-voice.md)] 

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Universal Resource Scheduling for Microsoft Dynamics 365/defining-bookable-resources-in-microsoft-dynamics-365-for-field-service</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-5.9%" y="-6.8%" width="111.8%" height="113.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-11.8%" y="-8.3%" width="123.5%" height="116.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0977411685 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Universal-Resource-Scheduling-for-Microsoft-Dynamics-365" transform="translate(-579.000000, -327.000000)">
+            <g id="Universal-Resource-Scheduling-for-Microsoft-Dynamics-365/defining-bookable-resources-in-microsoft-dynamics-365-for-field-service" transform="translate(579.000000, 327.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Group-5" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(14.000000, 16.398814)">
+                            <path d="M2,7.36842105 L66,7.36842105 C67.1045695,7.36842105 68,8.26385155 68,9.36842105 L68,55.3684211 C68,57.0252753 66.6568542,58.3684211 65,58.3684211 L1,58.3684211 C0.44771525,58.3684211 3.99185455e-15,57.9207058 0,57.3684211 L0,9.36842105 C-1.3527075e-16,8.26385155 0.8954305,7.36842105 2,7.36842105 Z" id="Rectangle" stroke="none" fill="#E1E4E1" fill-rule="nonzero"></path>
+                            <path d="M34,7.36842105 L66,7.36842105 C67.1045695,7.36842105 68,8.26385155 68,9.36842105 L68,57.4736842 L34,57.4736842 L34,7.36842105 Z" id="Rectangle" stroke="none" fill="#C5CCCD" fill-rule="nonzero"></path>
+                            <path d="M30.6,57.2970837 L0,57.2970837 C0,58.1339853 0.765,58.818723 1.7,58.818723 L66.3,58.818723 C67.235,58.818723 68,58.1339853 68,57.2970837 L68,51.2105263 L37.4,51.2105263 C35.5215,51.2105263 34,52.5723935 34,54.253805 C34,55.9352165 32.4785,57.2970837 30.6,57.2970837 Z" id="Fill-117" stroke="none" fill="#C5CCCD" fill-rule="evenodd"></path>
+                            <path d="M30.6,13.4549784 L0,13.4549784 C0,14.2918801 0.765,14.9766178 1.7,14.9766178 L66.3,14.9766178 C67.235,14.9766178 68,14.2918801 68,13.4549784 L68,7.36842105 L37.4,7.36842105 C35.5215,7.36842105 34,8.73028827 34,10.4116997 C34,12.0931112 32.4785,13.4549784 30.6,13.4549784 Z" id="Fill-117" stroke="none" fill="#E1E4E1" fill-rule="evenodd" transform="translate(34.000000, 11.172519) scale(-1, -1) translate(-34.000000, -11.172519) "></path>
+                            <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(2.684211, 13.631579)">
+                                <rect id="Rectangle" fill="#F7CB64" fill-rule="nonzero" x="0" y="0" width="62.6315789" height="14.3157895"></rect>
+                                <rect id="Rectangle" fill="#A9B3B6" fill-rule="nonzero" x="0" y="12.9766178" width="62.6315789" height="25.9473684"></rect>
+                            </g>
+                            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill="none" fill-rule="nonzero" x="8.5" y="30.5" width="7.05263158" height="7.05263158" rx="2"></rect>
+                            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill="none" fill-rule="nonzero" x="38.5" y="30.5" width="7.05263158" height="7.05263158" rx="2"></rect>
+                            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill="none" fill-rule="nonzero" x="38.5" y="41.5" width="7.05263158" height="7.05263158" rx="2"></rect>
+                            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="1" fill="none" fill-rule="nonzero" x="8.5" y="41.5" width="7.05263158" height="7.05263158" rx="2"></rect>
+                            <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(9.842105, 30.421053)" stroke-linecap="round">
+                                <path d="M0.325358852,3.41731488 L2.03730562,5.12926165" id="Line-2" stroke="#000000" stroke-width="2" fill-rule="nonzero"></path>
+                                <path d="M2.03730562,5.12926165 L6.83253589,0.814444066" id="Line" stroke="#000000" stroke-width="2" fill-rule="nonzero"></path>
+                            </g>
+                            <path d="M32,8.47368421 C32,10.1296842 30.656,11.4736842 29,11.4736842 C27.343,11.4736842 26,10.1296842 26,8.47368421 C26,6.81768421 27.343,5.47368421 29,5.47368421 C30.656,5.47368421 32,6.81768421 32,8.47368421" id="Fill-214" stroke="none" fill="#A9B3B6" fill-rule="evenodd"></path>
+                            <path d="M22,8.47368421 C22,10.1296842 20.656,11.4736842 19,11.4736842 C17.343,11.4736842 16,10.1296842 16,8.47368421 C16,6.81768421 17.343,5.47368421 19,5.47368421 C20.656,5.47368421 22,6.81768421 22,8.47368421" id="Fill-215" stroke="none" fill="#A9B3B6" fill-rule="evenodd"></path>
+                            <path d="M12,8.47368421 C12,10.1296842 10.656,11.4736842 9,11.4736842 C7.343,11.4736842 6,10.1296842 6,8.47368421 C6,6.81768421 7.343,5.47368421 9,5.47368421 C10.656,5.47368421 12,6.81768421 12,8.47368421" id="Fill-216" stroke="none" fill="#A9B3B6" fill-rule="evenodd"></path>
+                            <path d="M42,8.47368421 C42,10.1296842 40.656,11.4736842 39,11.4736842 C37.343,11.4736842 36,10.1296842 36,8.47368421 C36,6.81768421 37.343,5.47368421 39,5.47368421 C40.656,5.47368421 42,6.81768421 42,8.47368421" id="Fill-217" stroke="none" fill="#A9B3B6" fill-rule="evenodd"></path>
+                            <path d="M9,10.4736842 C7.895,10.4736842 7,9.57768421 7,8.47368421 L7,2.47368421 C7,1.36968421 7.895,0.473684211 9,0.473684211 C10.104,0.473684211 11,1.36968421 11,2.47368421 L11,8.47368421 C11,9.57768421 10.104,10.4736842 9,10.4736842" id="Fill-218" stroke="none" fill="#546670" fill-rule="evenodd"></path>
+                            <path d="M19,10.4736842 C17.895,10.4736842 17,9.57768421 17,8.47368421 L17,2.47368421 C17,1.36968421 17.895,0.473684211 19,0.473684211 C20.104,0.473684211 21,1.36968421 21,2.47368421 L21,8.47368421 C21,9.57768421 20.104,10.4736842 19,10.4736842" id="Fill-219" stroke="none" fill="#546670" fill-rule="evenodd"></path>
+                            <path d="M29,10.4736842 C27.895,10.4736842 27,9.57768421 27,8.47368421 L27,2.47368421 C27,1.36968421 27.895,0.473684211 29,0.473684211 C30.104,0.473684211 31,1.36968421 31,2.47368421 L31,8.47368421 C31,9.57768421 30.104,10.4736842 29,10.4736842" id="Fill-220" stroke="none" fill="#546670" fill-rule="evenodd"></path>
+                            <path d="M39,10.4736842 C37.895,10.4736842 37,9.57768421 37,8.47368421 L37,2.47368421 C37,1.36968421 37.895,0.473684211 39,0.473684211 C40.104,0.473684211 41,1.36968421 41,2.47368421 L41,8.47368421 C41,9.57768421 40.104,10.4736842 39,10.4736842" id="Fill-221" stroke="none" fill="#546670" fill-rule="evenodd"></path>
+                            <path d="M52,8.47368421 C52,10.1296842 50.656,11.4736842 49,11.4736842 C47.343,11.4736842 46,10.1296842 46,8.47368421 C46,6.81768421 47.343,5.47368421 49,5.47368421 C50.656,5.47368421 52,6.81768421 52,8.47368421" id="Fill-217" stroke="none" fill="#A9B3B6" fill-rule="evenodd"></path>
+                            <path d="M49,10.4736842 C47.895,10.4736842 47,9.57768421 47,8.47368421 L47,2.47368421 C47,1.36968421 47.895,0.473684211 49,0.473684211 C50.104,0.473684211 51,1.36968421 51,2.47368421 L51,8.47368421 C51,9.57768421 50.104,10.4736842 49,10.4736842" id="Fill-221" stroke="none" fill="#546670" fill-rule="evenodd"></path>
+                            <path d="M62,8.47368421 C62,10.1296842 60.656,11.4736842 59,11.4736842 C57.343,11.4736842 56,10.1296842 56,8.47368421 C56,6.81768421 57.343,5.47368421 59,5.47368421 C60.656,5.47368421 62,6.81768421 62,8.47368421" id="Fill-217" stroke="none" fill="#A9B3B6" fill-rule="evenodd"></path>
+                            <path d="M59,10.4736842 C57.895,10.4736842 57,9.57768421 57,8.47368421 L57,2.47368421 C57,1.36968421 57.895,0.473684211 59,0.473684211 C60.104,0.473684211 61,1.36968421 61,2.47368421 L61,8.47368421 C61,9.57768421 60.104,10.4736842 59,10.4736842" id="Fill-221" stroke="none" fill="#546670" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <g id="Group-4" filter="url(#filter-4)" mask="url(#mask-2)">
+                        <g transform="translate(39.048232, 73.898814) rotate(-5.000000) translate(-39.048232, -73.898814) translate(22.048232, 49.898814)">
+                            <path d="M31.2984,17.328 L24.192,12.8864 C22.148,11.6088 19.5288,11.72 17.6,13.1664 L17.6,4 C17.6,2.1288 15.9944,0.6328 14.0856,0.8152 C12.4216,0.9736 11.2,2.3288 11.2,4 L11.2,22.4 C11.2,22.4 6.5968,18.8528 5.6712,18.3272 C4.1344,17.4552 2.2584,17.2152 1.0088,18.4648 C-0.2408,19.7144 -0.3784,21.0776 0.8712,22.3272 C1.2144,22.6712 9.1336,32.0144 13.3,36 L29.9312,36 C30.1896,35.488 30.5928,35.052 31.1368,34.4 L32.064,33.2872 C33.0568,32.096 33.6,31.1504 33.6,29.6 L33.6,21.4808 C33.6,19.792 32.7304,18.2232 31.2984,17.328" id="Fill-49" fill="#EAC5A7"></path>
+                            <path d="M16.4632,16.5904 L17.6,18.1056 L17.6,4.4 C17.6,3.7376 17.0624,3.2 16.4,3.2 C15.7376,3.2 15.2,3.7376 15.2,4.4 L15.2,12.8 C15.2,14.1672 15.6432,15.4968 16.4632,16.5904" id="Fill-55" fill="#D9B090"></path>
+                            <path d="M12.8,36 L30.4,36 C31.284,36 32,36.716 32,37.6 L32,40.8 L11.2,40.8 L11.2,37.6 C11.2,36.716 11.916,36 12.8,36" id="Fill-56" fill="#E1E4E1"></path>
+                            <path d="M13.3,36 L21.956,36 C21.4016,35.0472 20.3816,34.4 19.2,34.4 L18.0416,34.4 C16.044,34.4 14.12,33.6232 12.7008,32.2168 C9.5888,29.132 4.6744,23.5272 2.1936,20.6616 C1.3128,19.6448 -0.2704,20.916 0.5584,21.976 C0.6512,22.0936 0.7552,22.2112 0.8712,22.3272 C1.2144,22.6712 9.1336,32.0144 13.3,36" id="Fill-57" fill="#D9B090"></path>
+                            <path d="M11.2,40.8 L32,40.8 C32.884,40.8 33.6,41.516 33.6,42.4 L33.6,47.2 L9.6,47.2 L9.6,42.4 C9.6,41.516 10.316,40.8 11.2,40.8" id="Fill-58" fill="#546670"></path>
+                            <path d="M19.2,45.6 L9.6,45.6 L9.6,47.2 L33.6,47.2 L33.6,42.4 L22.4,42.4 C21.516,42.4 20.8,43.116 20.8,44 C20.8,44.884 20.084,45.6 19.2,45.6" id="Fill-59" fill="#3C4E5D"></path>
+                            <path d="M12.8,39.2 L19.2,39.2 C20.084,39.2 20.8,38.484 20.8,37.6 C20.8,36.716 21.5168,36 22.4,36 L30.4,36 C31.284,36 32,36.716 32,37.6 L32,40.8 L11.2,40.8 C11.2,39.916 11.9168,39.2 12.8,39.2" id="Fill-60" fill="#CDD3D1"></path>
+                            <path d="M28.8,37.6 C28.3584,37.6 28,37.9584 28,38.4 C28,38.8416 28.3584,39.2 28.8,39.2 C29.2416,39.2 29.6,38.8416 29.6,38.4 C29.6,37.9584 29.2416,37.6 28.8,37.6" id="Fill-61" fill="#7694A3"></path>
+                            <path d="M15.2,6.4 L13.6,6.4 C13.1584,6.4 12.8,6.0416 12.8,5.6 L12.8,4 C12.8,3.116 13.516,2.4 14.4,2.4 C15.284,2.4 16,3.116 16,4 L16,5.6 C16,6.0416 15.6416,6.4 15.2,6.4" id="Fill-62" fill="#F9D8BE"></path>
+                            <path d="M14.4,5.6 C13.7632,5.6 13.2184,5.7872 12.9608,6.056 C13.1056,6.2592 13.332,6.4 13.6,6.4 L15.2,6.4 C15.4688,6.4 15.6944,6.2592 15.8392,6.056 C15.5816,5.7872 15.0368,5.6 14.4,5.6" id="Fill-63" fill="#FFFFFE"></path>
+                            <path d="M16,5.6 L16,4 C16,3.7632 15.9456,3.54 15.8528,3.3376 C15.4664,3.5368 15.2,3.9352 15.2,4.4 L15.2,6.4 C15.6416,6.4 16,6.0416 16,5.6" id="Fill-64" fill="#EAC5A7"></path>
+                            <path d="M15.8392,6.056 C15.7008,5.9112 15.4744,5.7936 15.2,5.7128 L15.2,6.4 C15.4688,6.4 15.6944,6.2592 15.8392,6.056" id="Fill-65" fill="#F9D8BE"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

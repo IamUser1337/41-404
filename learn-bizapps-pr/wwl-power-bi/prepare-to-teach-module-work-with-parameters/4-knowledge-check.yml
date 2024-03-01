@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-work-with-parameters.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/4-knowledge-check.md)]
+quiz:
+  title: "Working with parameters"
+  questions:
+  - content: "Which of these is true about report parameters?"
+    choices:
+    - content: "Retrieve values at report execution time"
+      isCorrect: true
+      explanation: "That's correct. Report parameters retrieve values at report execution time."
+    - content: "Pass tables to a dataset query"
+      isCorrect: false
+      explanation: "That's incorrect. Report parameters Retrieve values at report execution time."
+    - content: "Pass values to a dataset query"
+      isCorrect: false
+      explanation: "That's incorrect. Report parameters Retrieve values at report execution time"
+  - content: "Which of the following is a use for report parameters?"
+    choices:
+    - content: "Reloading the source data"
+      isCorrect: false
+      explanation: "That's incorrect. Report parameters are for formatting, configuring, and drillthrough actions."
+    - content: "Reformatting the datasources"
+      isCorrect: false
+      explanation: "That's incorrect. Report parameters are for formatting reports, configuring, and drillthrough actions."
+    - content: "Configuring subreports and report drillthrough actions"
+      isCorrect: true
+      explanation: "That's correct. Report parameters are for formatting, configuring, and drillthrough actions."
+  - content: "When previewing a report, what happens if a report parameter doesn’t have a valid default value?"
+    choices:
+    - content: "The user must choose a value and the report will process automatically."
+      isCorrect: false
+      explanation: "That's incorrect. The user must choose a value and click View Report."
+    - content: "The user must choose a value and click View Report."
+      isCorrect: true
+      explanation: "That's correct. The user must choose a value and click View Report."
+    - content: "The report will process automatically with the first value option selected."
+      isCorrect: false
+      explanation: "That's incorrect. The user must choose a value and click View Report."

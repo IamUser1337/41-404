@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.create-app-copilot
+metadata:
+  title: Exercise - Create an app from Excel using Copilot
+  description: Follow the steps to create an app from Excel using Copilot.
+  ms.date: 01/10/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+  ms.collection: bap-ai-copilot
+title: Exercise - Create an app from Excel using Copilot
+durationInMinutes: 11
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/create-app-copilot.md)]

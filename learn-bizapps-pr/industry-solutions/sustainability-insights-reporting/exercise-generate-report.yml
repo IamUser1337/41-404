@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-insights-reporting.exercise-generate-report 
+title: Exercise - Generate the Quantitative preparation report
+metadata: 
+  title: Exercise - Generate the Quantitative preparation report
+  description: Learn how to generate quantitative preparation reports that extract emission and activity data from Microsoft Sustainability Manager. 
+  ms.date: 09/27/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 20 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-generate-report.md)] 

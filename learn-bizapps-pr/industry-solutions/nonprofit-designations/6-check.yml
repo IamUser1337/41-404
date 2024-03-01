@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.nonprofit-designations.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What type of information can be viewed from the performance tab of a campaign record?
+    choices: 
+    - content: A summary of the value and number of donations, pledges, and performance of related events.
+      isCorrect: true 
+      explanation: Reporting Hierarchy tab displays a summary of the value and number of donations, pledges, and performance of related events.
+    - content: A list of all the related donations, pledges, and related events.
+      isCorrect: false 
+      explanation: This is viewed via the Related tab.
+    - content: The hierarchy of related appeals and packages.
+      isCorrect: false 
+      explanation: This is viewed via the Reporting Hierarchy tab.
+    - content: A list of all the related opportunities and their current status.
+      isCorrect: false 
+      explanation: This is viewed via the Related > Opportunities tab.
+  - content: What would be an example of a campaign, appeal, and package hierarchy?
+    choices: 
+    - content: Campaign = Annual Event, Appeal = Direct Mail, Package = Family Aid
+      isCorrect: false 
+      explanation: Incorrect.
+    - content: Campaign = Family Aid, Appeal = January Appeal, Package= Direct Mail
+      isCorrect: true 
+      explanation: Campaign is a container for all the activities, Appeal is a delivery mechanism, and Package is an actual end interaction between the donor and nonprofit organization.
+    - content: Campaign = Direct Mail, Appeal = Family Aid, Package= Tanzania Family Aid
+      isCorrect: false 
+      explanation: Incorrect.
+  - content: Which of the following best describes the function of a designation?
+    choices: 
+    - content: To hold information needed to track expected and received revenue to the nonprofit organization's financial system.
+      isCorrect: true 
+      explanation: Designations are used track expected and received revenue to the nonprofit organization's financial system.
+    - content: To track administrative details such as who created a campaign, date a campaign was last changed, and the status of a campaign.
+      isCorrect: false 
+      explanation: This type of information can be found in the Administrative section of a campaign.
+    - content: To plan a campaign, such as the proposed start and end date and actual start and end date.
+      isCorrect: false 
+      explanation: This is recorded on the Planning section of a campaign.

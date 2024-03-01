@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-introduction-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/23/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is Microsoft Dataverse?
+    choices:
+    - content: A repository for research data.
+      isCorrect: false
+      explanation: Incorrect. Dataverse is a cloud data service that securely stores and manages data used by business applications.
+    - content: A place to manage publications of data associated with articles.
+      isCorrect: false
+      explanation: Incorrect. Dataverse is a cloud data service that securely stores and manages data used by business applications.
+    - content: 	A cloud data service that securely stores and manages data used by business applications.
+      isCorrect: true
+      explanation: Correct. Dataverse is a cloud data service that securely stores and manages data used by business applications.
+    - content: An on-premises relational database.
+      isCorrect: false
+      explanation: Incorrect. Dataverse is a cloud data service that securely stores and manages data used by business applications.
+  - content: What is a solution?
+    choices:
+    - content: Solutions are how customizers and developers author, package, and maintain units of software that extend Microsoft Dataverse.
+      isCorrect: true
+      explanation: Correct. Solutions are how customizers and developers author, package, and maintain units of software that extend Microsoft Dataverse.
+    - content: Solutions are used to break apart data tables and create new environments. 
+      isCorrect: false
+      explanation: Incorrect. Solutions are how customizers and developers author, package, and maintain units of software that extend Microsoft Dataverse.
+    - content: Solutions are only app packages.
+      isCorrect: false
+      explanation: Incorrect. Solutions are how customizers and developers author, package, and maintain units of software that extend Microsoft Dataverse.
+    - content: Solutions are used to move Microsoft 365 components between SharePoint sites.
+      isCorrect: false
+      explanation: Incorrect. Solutions are how customizers and developers author, package, and maintain units of software that extend Microsoft Dataverse.
+  - content: What can you use to build my Power Pages site?
+    choices:
+    - content: Power Pages design studio, Dataverse and Visual Studio Code.
+      isCorrect: true
+      explanation: Correct. You build Power Pages sites with Power Pages design studio, Dataverse and Visual Studio Code.
+    - content: Power Apps maker studio, Dataverse and Azure portal.
+      isCorrect: false
+      explanation: Incorrect. You build Power Pages sites with Power Pages design studio, Dataverse and Visual Studio Code.
+    - content: Power Platform admin center, Microsoft 365 admin center and Dataverse for Teams.
+      isCorrect: false
+      explanation: Incorrect. You build Power Pages sites with Power Pages design studio, Dataverse and Visual Studio Code.
+    - content: Dynamics 365 and Visual Studio.
+      isCorrect: false
+      explanation: Incorrect. You build Power Pages sites with Power Pages design studio, Dataverse and Visual Studio Code.

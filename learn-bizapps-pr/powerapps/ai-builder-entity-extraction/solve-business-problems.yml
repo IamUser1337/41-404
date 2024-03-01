@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-entity-extraction.solve-business-problems 
+title: Solve business problems with AI Builder entity extraction
+metadata: 
+  title: Solve business problems with AI Builder entity extraction
+  description: Learn how to solve business problems with AI Builder entity extraction.
+  ms.date: 06/20/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/solve-business-problems.md)] 

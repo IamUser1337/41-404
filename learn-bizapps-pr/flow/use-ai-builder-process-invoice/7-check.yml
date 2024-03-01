@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-ai-builder-process-invoice.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 08/01/2023  
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: interactive-tutorial  
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many documents are needed to train the form processor?
+    choices: 
+    - content: "5"
+      isCorrect: true 
+      explanation: Only five documents of the same layout are necessary.
+    - content: "10"
+      isCorrect: false 
+      explanation: Only five documents of the same layout are necessary.
+    - content: "50"
+      isCorrect: false 
+      explanation: Only five documents of the same layout are necessary.
+    - content: "100"
+      isCorrect: false 
+      explanation: Only five documents of the same layout are necessary, but you can have 100 different layouts.
+  - content: What does a collection hold in the form processor?
+    choices: 
+    - content: Documents with a similar layout
+      isCorrect: true 
+      explanation: A collection allows you to group documents. You can have up to 100 collections to specify different layouts.
+    - content: Documents that haven't been analyzed by the form processor
+      isCorrect: false 
+      explanation: A collection holds a group of documents with a similar layout.
+    - content: Documents that are actively passing through your flow
+      isCorrect: false 
+      explanation: A collection holds a group of documents with a similar layout.
+    - content: The output variables that are captured by the form processor
+      isCorrect: false 
+      explanation: A collection holds a group of documents with a similar layout.
+  - content: What does the "Apply to each" action do in the created cloud flow?
+    choices: 
+    - content: Tells the form processor to process multiple attachments in a single email
+      isCorrect: true 
+      explanation: Power Automate adds this action automatically when more than one item exists.
+    - content: Tells the form processor to read through each field in the document
+      isCorrect: false 
+      explanation: The form processor will always read through each field in the document.
+    - content: Tells the form processor to analyze all documents that are needed to train it
+      isCorrect: false 
+      explanation: Training the model doesn't take place in the flow.
+    - content: Tells the form processor that you're done selecting fields from your document
+      isCorrect: false 
+      explanation: This process doesn't take place in the flow.

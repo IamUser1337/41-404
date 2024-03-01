@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.make-app.model-driven-app
+title: Make a model-driven app
+metadata:
+  title: Make a model-driven app
+  description: Learn how to make a model-driven app.
+  ms.date: 05/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/model-driven-app.md)]

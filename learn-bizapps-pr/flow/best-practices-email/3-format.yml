@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.best-practices-email.3-format 
+title: Format the email body
+metadata: 
+  title: Format the email body 
+  description: Learn about formatting the body of an email.  
+  ms.date: 04/21/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-format.md)] 

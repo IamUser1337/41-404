@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.share-cloud-flow.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/08/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+ 
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You've created a cloud flow. Who can edit the flow?
+    choices:
+    - content: All licensed users in your organization
+      isCorrect: false
+      explanation: Incorrect. When you create a new Power Automate cloud flow, you’re the only one who can view, edit, and run it. By sharing the flow, you can allow other users within your organization to help edit your automation.
+    - content: Only you, its creator
+      isCorrect: true
+      explanation: Correct. When you create a new Power Automate cloud flow, you’re the only one who can view, edit, and run it. By sharing the flow, you can allow other users within your organization to help edit your automation.
+    - content: Global administrators
+      isCorrect: false
+      explanation: Incorrect. When you create a new Power Automate cloud flow, you’re the only one who can view, edit, and run it. By sharing the flow, you can allow other users within your organization to help edit your automation. An administrator could share the flow with themselves.
+    - content: Microsoft Power Platform administrators
+      isCorrect: false
+      explanation: Incorrect. When you create a new Power Automate cloud flow, you’re the only one who can view, edit, and run it. By sharing the flow, you can allow other users within your organization, including administrators, to access your automation. An administrator could share the flow with themselves.
+  - content: A colleague has made you a co-owner of a cloud flow that they created. Which one of the following options is a limitation of what you can do with the shared flow?
+    choices:
+    - content: Edit the flow definition
+      isCorrect: false
+      explanation: Incorrect. Co-owners of the flow can edit the flow definition, including adding or removing an action or condition.
+    - content: Delete the flow
+      isCorrect: false
+      explanation: Incorrect. Any co-owner of the flow can delete it.
+    - content: Remove the creator of the flow from the list of the owners
+      isCorrect: true
+      explanation: Correct. You can remove all other co-owners of the flow, but not the creator.
+    - content: Share the flow with the other users
+      isCorrect: false
+      explanation: Incorrect. Co-owners of the flow can share it with other users.
+  - content: What do you need to complete first in the environment to share a cloud flow that’s in a solution with an office group?
+    choices:
+    - content: Create a Dataverse team that's associated with the office group.
+      isCorrect: true
+      explanation: Correct. Sharing a solution cloud flow with a group is done by sharing with a Dataverse team.
+    - content: Nothing, you can share with the group.
+      isCorrect: false
+      explanation: Incorrect. Sharing a solution cloud flow with a group is done by sharing with a Dataverse team. You first need to create a Dataverse team that’s associated with the office group.
+    - content: Share with each user directly because group sharing isn't possible.
+      isCorrect: false
+      explanation: Incorrect. Sharing a solution cloud flow with a group is done by sharing with a Dataverse team. You first need to create a Dataverse team that’s associated with the office group.
+    - content: Use a Dataverse team and manually add the same group members.
+      isCorrect: false
+      explanation: Incorrect. Sharing a solution cloud flow with an office group is done by sharing with a Dataverse team. You first need to create a Dataverse team that’s associated with the Office Group. It isn't necessary to manually add the same members to the Dataverse team.
+  - content: You shared a flow that includes a Dataverse connection by using the run-only option. You want run-only users to be able to run this flow regardless of whether they have access to Dataverse or not. Which option should you select for the Dataverse connection?
+    choices:
+    - content: Provided by run-only user
+      isCorrect: false
+      explanation: Incorrect. Selecting this option will require the run-only user to create their own connection when running the flow for the first time.
+    - content: Provided by administrator
+      isCorrect: false
+      explanation: Incorrect. This option isn't valid for connection sharing.
+    - content: No selection is required because connection access is defined by the user's license
+      isCorrect: false
+      explanation: Incorrect. The sharing option needs to be specified for each connection that’s used by the flow and is independent of licensing.
+    - content: Use this connection
+      isCorrect: true
+      explanation: Correct. Selecting the Use this connection option allows run-only users to run the flow and use the connection that’s provided by the flow creator.

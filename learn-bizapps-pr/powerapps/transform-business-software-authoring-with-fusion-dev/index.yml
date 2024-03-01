@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev
+title: Transform business software authoring with fusion development teams
+summary: |
+  Do you want to empower your development team to build better apps, faster? Maybe you want your development teams to work more efficiently with and deliver more value to your business teams. Or you want to free business, or citizen, developers to create applications for their ever changing needs. Ultimately you want your software development, IT, and business teams to work better together; a new software development paradigm called Fusion Development teams can help.
+metadata:
+  title: Transform business software authoring with fusion development teams
+  description: Increase software development efficiency and productivity with fusion development teams.
+  ms.date: 04/15/2021
+  author: codemillmatt
+  ms.author: masoucou
+  ms.topic: module
+  ms.contributors:
+  - masoucou-04262021
+abstract: |
+  In this module you will:
+  - Grow productivity across business units with fusion development teams
+  - Increase tech intensity with a fusion development team
+  - Organize business and IT professionals into a fusion development team
+prerequisites: |
+  - None
+iconUrl: /training/achievements/transform-business-software-authoring-with-fusion-development.svg
+ratingEnabled: false
+levels:
+  - beginner
+roles: 
+  - developer
+  - maker
+  - administrator
+  - business-user
+products: 
+  - power-platform
+  - power-apps
+subjects:
+- productivity
+- custom-app-development
+units:
+  - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.1-meet-the-team
+  - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.2-tech-intensity
+  - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.3-current-process  
+  - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.4-fusion-development-process
+  - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.5-knowledge-check
+  - learn-bizapps.powerapps.transform-biz-software-auth-fusion-dev.6-summary
+badge: 
+  uid: learn-bizapps.transform-business-software-authoring-with-fusion-development.badge

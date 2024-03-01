@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-solutions.version-control 
+title: Use version control for solutions
+metadata: 
+  title: Use version control for solutions
+  description: Learn how to use version control for solutions.
+  ms.date: 08/31/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/version-control.md)] 

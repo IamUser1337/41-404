@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.virtual-visits.2-configure-app
+title: Configure Microsoft Cloud for Healthcare for virtual visits
+metadata:
+  title: Configure Microsoft Cloud for Healthcare for virtual visits 
+  description: Learn to configure the Microsoft Cloud for Healthcare for virtual visits.
+  ms.date: 07/27/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 30
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-configure-app.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Kiana & Maria decide to build a Power Apps app together to help the field technicians check inventory (and order parts if necessary) while on service calls
+  ms.date: 04/22/2021
+  author: ghurlman
+  ms.author: grhurl
+  ms.topic: unit
+  ms.contributors:
+  - grhurl-04072021
+durationInMinutes: 5
+content: | 
+  [!include[](includes/1-introduction.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-power-apps-online-workshop.exercise-approval
+title: Exercise - Create an approval request flow
+metadata:
+  title: Exercise - Create an approval request flow
+  description: Follow the steps to create an approval request flow.
+  ms.date: 02/16/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-approval.md)]

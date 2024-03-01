@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-reports.4-visuals-layout 
+title: Select report visuals to suit the report layout
+metadata: 
+  title: Select report visuals to suit the report layout
+  description: Learn to select visuals that suit the layout of your report.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-visuals-layout.md)] 

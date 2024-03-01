@@ -1,0 +1,1 @@
+In this module, you learned how to enable the Teams Approvals for Requests flow. Additionally, you learned how to create a request and assign it to the store managers by using Store Operations Assist embedded in Teams. You also learned how to approve or reject any request by using the Approvals app in Microsoft Teams.

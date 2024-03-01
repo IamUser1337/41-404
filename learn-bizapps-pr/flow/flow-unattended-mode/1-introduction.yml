@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-unattended-mode.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction 
+  description: Introduction to running a Power Automate for desktop UI flow in unattended mode
+  ms.date: 06/01/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

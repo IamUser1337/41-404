@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.monitor-to-troubleshoot.3-remote-collaboration 
+title: Collaborate by using Monitor
+metadata: 
+  title: Collaborate by using Monitor
+  description: Learn how to collaborate by using Monitor.
+  ms.date: 11/10/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-remote-collaboration.md)]

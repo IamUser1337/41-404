@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-sharepoint.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/29/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you add SharePoint as a data source into your Power Apps canvas app?
+    choices:
+    - content: The **Insert** button
+      isCorrect: false
+      explanation: Incorrect. The **Insert** button adds a new control to your app.
+    - content: The **Add data** button
+      isCorrect: true
+      explanation: Correct. The **Add data** button adds a new data source of your choice to your app.
+    - content: The **New screen** button
+      isCorrect: false
+      explanation: Incorrect. The **New screen** button adds another screen to your app.
+  - content: True or False. SharePoint and Microsoft Dataverse are data storage options for Power Apps.
+    choices:
+    - content: True.
+      isCorrect: true
+      explanation: Correct. Both SharePoint and Microsoft Dataverse are data storage options for Power Apps. SharePoint is well-suited for document management, collaboration, and content-centric applications, while Dataverse offers a more structured and scalable data model for building complex business applications.
+    - content: False.
+      isCorrect: false
+      explanation: Incorrect. Both Microsoft SharePoint and Microsoft Dataverse are data storage options for Power Apps. SharePoint is well-suited for document management, collaboration, and content-centric applications, while Dataverse offers a more structured and scalable data model for building complex business applications.
+  - content: When you share a Power Apps application with a person or group, which permission level allows them to also edit the app?
+    choices:
+    - content: User
+      isCorrect: false
+      explanation: Incorrect. The User role only allows the person or group to use the app but not make changes to the design.
+    - content: Member
+      isCorrect: false
+      explanation: Incorrect. Member isn't a defined role when you're sharing a Power Apps application, but it does exist within SharePoint.
+    - content: Co-owner
+      isCorrect: true
+      explanation: Correct. The Co-owner role allows that person or group to use, edit, or share the app.

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.summary-resources
+title: Summary and resources
+metadata:
+  title: Summary and resources
+  description: "Module summary and list of resources available for further study."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/13-summary-resources.md)]

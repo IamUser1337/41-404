@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-custom-web.build-api 
+title: Web templates as API
+metadata: 
+  title: Web templates as API
+  description: Learn how to implement web templates as API.
+  ms.date: 05/26/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/build-api.md)] 

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connectors.4-knowledge-check 
+metadata: 
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 05/13/2020 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: Use custom connectors in a Power Apps canvas app knowledge check
+  questions: 
+  - content: Which approach is Not valid to create custom connectors?
+    choices: 
+    - content: Creating from scratch
+      isCorrect: false
+      explanation: All of these are valid except using custom code. 
+    - content: Using custom code
+      isCorrect: true
+      explanation: All of these are valid except using custom code.
+    - content: Using an OpenAPI definition
+      isCorrect: false 
+      explanation: All of these are valid except using custom code. 
+    - content: Using a Postman collection
+      isCorrect: false 
+      explanation: All of these are valid except using custom code. 
+  - content: A custom connector created in Power Apps can be directly used in which additional services?
+    choices: 
+    - content: Power Automate
+      isCorrect: false 
+      explanation: Custom connectors can be used in both Power Automate and Azure Logic Apps. 
+    - content: Azure Logic Apps 
+      isCorrect: false 
+      explanation: Custom connectors can be used in both Power Automate and Azure Logic Apps. 
+    - content: Both Power Automate and Azure Logic Apps
+      isCorrect: true 
+      explanation: Custom connectors can be used in both Power Automate and Azure Logic Apps. 
+    - content: Custom connectors cannot be used in Power Automate or Azure Logic Apps
+      isCorrect: false 
+      explanation: Custom connectors can be used in both Power Automate and Azure Logic Apps. 
+  - content: What are the prerequisites needed to create a custom connector using Postman?
+    choices: 
+    - content: A Postman collection
+      isCorrect: false
+      explanation: A Postman collection and a subscription for either Power Apps or Power Automate. 
+    - content: A Power Apps subscription
+      isCorrect: false 
+      explanation: A Postman collection and a subscription for either Power Apps or Power Automate. 
+    - content: A Power Automate subscription 
+      isCorrect: false 
+      explanation: A Postman collection and a subscription for either Power Apps or Power Automate.    
+    - content: A Postman collection and either a Power Apps or Power Automate subscription.
+      isCorrect: true
+      explanation: A Postman collection and a subscription for either Power Apps or Power Automate. 

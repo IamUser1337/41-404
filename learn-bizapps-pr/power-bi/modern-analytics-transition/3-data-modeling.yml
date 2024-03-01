@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-transition.3-data-modeling 
+title: Data modeling in Power BI Desktop
+metadata: 
+  title: Data modeling in Power BI Desktop
+  description: Learn about data modeling in Power BI Desktop.
+  ms.date: 06/30/2023 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-data-modeling.md)] 

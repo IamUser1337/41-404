@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-first-desktop-flow-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/29/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Can you create a new Power Automate desktop flow in an environment without a Microsoft Dataverse database?
+    choices: 
+    - content: Yes
+      isCorrect: false 
+      explanation: Incorrect. You can only create a desktop flow in an environment that has a Microsoft Dataverse database.
+    - content: No
+      isCorrect: true 
+      explanation: Correct. You can only create a desktop flow in an environment that has a Microsoft Dataverse database.
+  - content: Which of the following panes contains reusable components that you can use within your automated process?
+    choices: 
+    - content: Actions pane
+      isCorrect: true 
+      explanation: Correct. The Actions pane contains reusable components that simplify the completion of common tasks, such as setting a variable or opening a file.
+    - content: Workspace
+      isCorrect: false 
+      explanation: Incorrect. The Actions pane contains reusable components that simplify the completion of common tasks, such as setting a variable or opening a file.
+    - content: Flow variables
+      isCorrect: false 
+      explanation: Incorrect. The Actions pane contains reusable components that simplify the completion of common tasks, such as setting a variable or opening a file.
+    - content: The toolbar
+      isCorrect: false 
+      explanation: Incorrect. The Actions pane contains reusable components that simplify the completion of common tasks, such as setting a variable or opening a file.
+  - content: After opening and minimizing the Contoso Invoicing app manually, which button starts your **Enter an invoice** recording?
+    choices: 
+    - content: Save
+      isCorrect: false 
+      explanation: Incorrect. The Recorder allows you to start recording your actions within the application.
+    - content: Recorder
+      isCorrect: true 
+      explanation: Correct. The Recorder allows you to start recording your actions within the application.
+    - content: Run
+      isCorrect: false 
+      explanation: Incorrect. The Recorder allows you to start recording your actions within the application.
+    - content: Run the next action
+      isCorrect: false 
+      explanation: Incorrect. The Recorder allows you to start recording your actions within the application.

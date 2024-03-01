@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-canvas-app.2-start-app
+title: Exercise - Start your app
+metadata:
+  title: Exercise - Start your app
+  description: Follow the steps to start building your canvas app from blank.
+  ms.date: 01/12/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-start-app.md)]

@@ -1,0 +1,84 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-metadata.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 10
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Row in which table defines the header and the footer for the entire site?
+    choices:
+    - content: Website
+      isCorrect: true
+      explanation: The central table in this architecture is Website. The rest of the website tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
+    - content: Website Binding
+      isCorrect: false
+      explanation: The central table in this architecture is Website. The rest of the website tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
+    - content: Page Template
+      isCorrect: false
+      explanation: The central table in this architecture is Website. The rest of the website tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
+    - content: Site Setting
+      isCorrect: false
+      explanation: The central table in this architecture is Website. The rest of the website tables are linked to and dependent on the website directly or indirectly. Website defines the header and the footer for the entire site.
+  - content: In a single language website, how many webpage rows exist for each website page?
+    choices:
+    - content: Zero
+      isCorrect: false
+      explanation: Every webpage, even in a single language website, has a root webpage and a content page for the base language.
+    - content: One
+      isCorrect: false
+      explanation: Every webpage, even in a single language website, has a root webpage and a content page for the base language.
+    - content: Two
+      isCorrect: true
+      explanation: Every webpage, even in a single language website, has a root webpage and a content page for the base language.
+    - content: Between zero and two, depending on whether the page is published or not
+      isCorrect: false
+      explanation: Every webpage, even in a single language website, has a root webpage and a content page for the base language.
+  - content: Which template type supports inheritance?
+    choices:
+    - content: Rewrite
+      isCorrect: false
+      explanation: You can render the Web template on its own or you can include it as part of another template. Web templates support inheritance where one template is based on and extends functionality of another.
+    - content: Nested
+      isCorrect: false
+      explanation: You can render the Web template on its own or you can include it as part of another template. Web templates support inheritance where one template is based on and extends functionality of another.
+    - content: Web
+      isCorrect: true
+      explanation: You can render the Web template on its own or you can include it as part of another template. Web templates support inheritance where one template is based on and extends functionality of another.
+    - content: All template types support inheritance
+      isCorrect: false
+      explanation: You can render the Web template on its own or you can include it as part of another template. Web templates support inheritance where one template is based on and extends functionality of another.
+  - content: What template language is integrated into Power Pages?
+    choices:
+    - content: Solid
+      isCorrect: false
+      explanation: Liquid is an open-source template language that's integrated into Power Pages. Template developers can use it to add dynamic content to pages and to create various custom templates.
+    - content: Liquid
+      isCorrect: true
+      explanation: Liquid is an open-source template language that's integrated into Power Pages. Template developers can use it to add dynamic content to pages and to create various custom templates.
+    - content: HTML
+      isCorrect: false
+      explanation: Liquid is an open-source template language that's integrated into Power Pages. Template developers can use it to add dynamic content to pages and to create various custom templates.
+    - content: JavaScript
+      isCorrect: false
+      explanation: Liquid is an open-source template language that's integrated into Power Pages. Template developers can use it to add dynamic content to pages and to create various custom templates.
+  - content: Which component can't you add from the page canvas in Power Pages design studio, but you can add it into the page source in the Portal Management app or Visual Studio Code editor?
+    choices:
+    - content: Lists
+      isCorrect: false
+      explanation: You can add lists, images, and Power BI reports as components from design studio. You need to add content snippets by using the Portal Management app or Visual Studio Code editor.
+    - content: Content snippets
+      isCorrect: true
+      explanation: You can add lists, images, and Power BI reports as components from design studio. You need to add content snippets by using the Portal Management app or Visual Studio Code editor.
+    - content: Images
+      isCorrect: false
+      explanation: You can add lists, images, and Power BI reports as components from design studio. You need to add content snippets by using the Portal Management app or Visual Studio Code editor.
+    - content: Embedded Microsoft Power BI reports
+      isCorrect: false
+      explanation: You can add lists, images, and Power BI reports as components from design studio. You need to add content snippets by using the Portal Management app or Visual Studio Code editor.

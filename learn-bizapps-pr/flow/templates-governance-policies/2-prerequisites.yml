@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.templates-governance-policies.2-prerequisites 
+title: Prerequisites
+metadata: 
+  title: Prerequisites 
+  description: Prerequisites for using templates to enforce governance policies.
+  ms.date: 10/02/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-prerequisites.md)] 

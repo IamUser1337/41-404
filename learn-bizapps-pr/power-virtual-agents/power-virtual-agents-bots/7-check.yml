@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agent-bots.7-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/02/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following Microsoft Copilot Studio components is used to define the conversation path between a customer and the bot?
+    choices:
+    - content: Entities
+      isCorrect: false
+      explanation: In Microsoft Copilot Studio, topics represent potential conversation paths. Each topic contains triggers and a conversation path. Conversation nodes in the topic help dictate how the customer progresses down the path.
+    - content: Topics
+      isCorrect: true
+      explanation: In Microsoft Copilot Studio, topics represent potential conversation paths. Each topic contains triggers and a conversation path. Conversation nodes in the topic help dictate how the customer progresses down the path.
+    - content: Variables
+      isCorrect: false
+      explanation: In Microsoft Copilot Studio, topics represent potential conversation paths. Each topic contains triggers and a conversation path. Conversation nodes in the topic help dictate how the customer progresses down the path.
+    - content: Channels
+      isCorrect: false
+      explanation: In Microsoft Copilot Studio, topics represent potential conversation paths. Each topic contains triggers and a conversation path. Conversation nodes in the topic help dictate how the customer progresses down the path.
+  - content: Which setting on the Test bot panel lets you monitor a test conversation that spans across multiple topics?
+    choices:
+    - content: Switch between topics
+      isCorrect: false
+      explanation: When you enable Track between topics on the Test bot panel, each topic that is being tested displays in the conversation panel. This feature lets you monitor each topic individually while it's being tested. It also lets you engage with multiple topics in a single test session.
+    - content: Monitor between topics
+      isCorrect: false
+      explanation: When you enable Track between topics on the Test bot panel, each topic that is being tested displays in the conversation panel. This feature lets you monitor each topic individually while it's being tested. It also lets you engage with multiple topics in a single test session.
+    - content: Track between topics
+      isCorrect: true
+      explanation: When you enable Track between topics on the Test bot panel, each topic that is being tested displays in the conversation panel. This feature lets you monitor each topic individually while it's being tested. It also lets you engage with multiple topics in a single test session.
+    - content: Follow between topics
+      isCorrect: false
+      explanation: When you enable Track between topics on the Test bot panel, each topic that is being tested displays in the conversation panel. This feature lets you monitor each topic individually while it's being tested. It also lets you engage with multiple topics in a single test session.
+  - content: What must be done at least once before a bot can be deployed to different channels, such as websites, Microsoft Teams, or Facebook?
+    choices:
+    - content: Publish the bot
+      isCorrect: true
+      explanation: Publishing a bot allows customers to engage with it. A bot needs to be published at least once before it can be made available across multiple platforms and channels, such as Microsoft Teams or Facebook.
+    - content: Test the bot
+      isCorrect: false
+      explanation: Publishing a bot allows customers to engage with it. A bot needs to be published at least once before it can be made available across multiple platforms and channels, such as Microsoft Teams or Facebook.
+    - content: Define synonyms
+      isCorrect: false
+      explanation: Publishing a bot allows customers to engage with it. A bot needs to be published at least once before it can be made available across multiple platforms and channels, such as Microsoft Teams or Facebook.
+    - content: Create entities
+      isCorrect: false
+      explanation: Publishing a bot allows customers to engage with it. A bot needs to be published at least once before it can be made available across multiple platforms and channels, such as Microsoft Teams or Facebook.

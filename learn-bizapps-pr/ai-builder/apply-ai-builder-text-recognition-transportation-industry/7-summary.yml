@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.7-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of "Apply AI Builder Text Recognition in transportation industry"
+  ms.date: 04/27/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-summary.md)] 

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.tables-and-records.4-filter-your-table
+title: Filter your table
+metadata: 
+  title: Filter your table
+  description: Filter your table
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+durationInMinutes: 3 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-filter-your-table.md)] 
+

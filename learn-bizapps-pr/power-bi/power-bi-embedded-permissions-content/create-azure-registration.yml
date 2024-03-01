@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-permissions-content.create-azure-registration
+title: Create an Azure AD app registration
+metadata:
+  title: Create an Azure AD app registration
+  description: Learn to establish an identity for your app and to specify permissions to Power BI REST API resources.
+  ms.date: 04/10/2022
+  author: paulinbar
+  manager: kfollis 
+  ms.author: painbar
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-azure-registration.md)]

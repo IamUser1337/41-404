@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-calculated-tables.3-row-context 
+title: Learn about row context
+metadata: 
+  title: Learn about row context 
+  description: Learn about row context.  
+  ms.date: 06/15/2022 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-row-context.md)] 

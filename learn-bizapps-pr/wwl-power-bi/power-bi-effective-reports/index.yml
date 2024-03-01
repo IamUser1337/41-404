@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-effective-reports 
+metadata: 
+ title: Design Power BI reports
+ description: Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.
+ ms.date: 10/11/2021  
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Design Power BI reports
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.
+abstract: |  
+    In this module, you will: 
+    - Learn about the structure of a Power BI report.
+    - Learn about report objects.
+    - Select the appropriate visual type to use.
+prerequisites: Experience creating reports and an understanding of the audience and purpose of an analytical report
+iconUrl: /training/achievements/power-bi-effective-reports.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- business-analyst 
+- data-analyst
+products: 
+- power-platform
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-effective-reports.1-introduction 
+- learn-bizapps.power-bi-effective-reports.design-layout
+- learn-bizapps.power-bi-effective-reports.design-reports
+- learn-bizapps.power-bi-effective-reports.2-report-objects
+- learn-bizapps.power-bi-effective-reports.3-report-visuals 
+- learn-bizapps.power-bi-effective-reports.4-visuals-layout
+- learn-bizapps.power-bi-effective-reports.format
+- learn-bizapps.power-bi-effective-reports.kpi 
+- learn-bizapps.power-bi-effective-reports.lab
+- learn-bizapps.power-bi-effective-reports.6-check
+- learn-bizapps.power-bi-effective-reports.7-summary
+
+badge: 
+  uid: learn-bizapps.power-bi-effective-reports.badge

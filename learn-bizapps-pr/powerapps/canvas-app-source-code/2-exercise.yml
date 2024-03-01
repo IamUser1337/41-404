@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.canvas-app-source-code.2-exercise 
+title: Exercise - Use source code to create an app and install tools
+metadata: 
+  title: Exercise - Use source code to create an app and install tools
+  description: Practice using source code to create an app and install tools.
+  ms.date: 11/12/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-exercise.md)] 

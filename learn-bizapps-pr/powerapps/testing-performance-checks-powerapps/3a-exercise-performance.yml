@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.testing-performance-checks.3a-exercise-performance
+title: Exercise - Using the Concurrent function to test performance
+metadata: 
+  title: Exercise - Using the Concurrent function to test performance
+  description: This exercise will teach you how to use the Concurrent function to test performance.
+  ms.date: 05/25/2022 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+durationInMinutes: 7 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3a-exercise-performance.md)] 
+

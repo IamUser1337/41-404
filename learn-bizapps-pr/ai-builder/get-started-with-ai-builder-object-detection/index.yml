@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-with-ai-builder-object-detection 
+metadata: 
+ title: Detect objects with AI Builder
+ description: Learn the basics of AI Builder Object detection and how it can benefit your organization.
+ ms.date: 04/10/2020  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Detect objects with AI Builder
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn the basics of AI Builder Object detection and how it can benefit your organization.
+abstract: |  
+    In this module, you will: 
+    - Explore how object detection can help save time.
+    - Create your first Object detection model.
+    - Learn how to use your Object detection models in Power Apps and Power Automate.
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+iconUrl: /training/achievements/get-started-with-object-detection.svg  
+levels:  
+- beginner   
+roles:
+- business-user
+- maker
+products:    
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+- business-applications
+units:
+- learn-bizapps.get-started-with-ai-builder-object-detection.1-introduction 
+- learn-bizapps.get-started-with-ai-builder-object-detection.2-create-model 
+- learn-bizapps.get-started-with-ai-builder-object-detection.3-use-model 
+- learn-bizapps.get-started-with-ai-builder-object-detection.4-check 
+- learn-bizapps.get-started-with-ai-builder-object-detection.5-summary 
+badge: 
+  uid: learn-bizapps.get-started-with-object-detection.badge

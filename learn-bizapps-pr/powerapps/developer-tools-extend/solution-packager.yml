@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.developer-tools-extend.solution-packager 
+title: Solutions overview
+metadata: 
+  title: Solutions overview
+  description: Learn how to manage solutions with Solution Packager. 
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 3 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/solutions.md)] 
+

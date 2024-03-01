@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-exception-handling.4-exercise-exception-handling 
+title: Exercise – Exception handling
+metadata: 
+  title: Exercise – Exception handling
+  description: Exercise – Exception handling
+  ms.date: 10/01/2023 
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise-exception-handling.md)] 

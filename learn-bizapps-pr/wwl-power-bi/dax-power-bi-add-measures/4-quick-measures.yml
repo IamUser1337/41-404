@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-measures.4-quick-measures 
+title: Create quick measures
+metadata: 
+  title: Create quick measures 
+  description: Learn about creating quick measures.  
+  ms.date: 06/15/2022 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-quick-measures.md)] 

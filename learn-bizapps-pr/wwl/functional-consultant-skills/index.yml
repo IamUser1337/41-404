@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn.wwl.functional-consultant-skills
+metadata:
+  title: Functional Consultant skills
+  description: "Learn about the functional consultant role and the key skills needed to be successful in this role on a Microsoft Power Platform project."
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: module
+  ms.service: powerapps
+title: Functional Consultant skills
+summary: Learn about the functional consultant role and the key skills needed to be successful in this role on a Microsoft Power Platform project.
+abstract: |
+  In this module, you will:
+  - Learn the key responsibilities and skills of the functional consultant role on a project that involves Microsoft Power Platform.
+  - Learn about creating entity relationship diagrams, wireframes, and mockups for apps, documenting requirements and solution artifacts, and documenting details of data for migration and integration.
+  - Understand how functional consultants are expected to engage with stakeholders, perform quality assurance, and configure integrations on projects.
+prerequisites: |
+  - None
+iconUrl: /training/achievements/functional-consultant-skills.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-365
+- power-platform
+subjects:
+- knowledge-management
+units:
+- learn.wwl.functional-consultant-skills.introduction
+- learn.wwl.functional-consultant-skills.create-entity-relationship-diagrams
+- learn.wwl.functional-consultant-skills.create-document-mock-ups
+- learn.wwl.functional-consultant-skills.document-functional-requirements-artifacts
+- learn.wwl.functional-consultant-skills.complete-fit-gap-analysis
+- learn.wwl.functional-consultant-skills.discuss-stakeholder-management-responsibilities
+- learn.wwl.functional-consultant-skills.understand-industry-accelerators
+- learn.wwl.functional-consultant-skills.define-application-lifecycle-management
+- learn.wwl.functional-consultant-skills.participate-testing
+- learn.wwl.functional-consultant-skills.evaluate-options
+- learn.wwl.functional-consultant-skills.define-connectors
+- learn.wwl.functional-consultant-skills.understand-power-apps-component-framework
+- learn.wwl.functional-consultant-skills.knowledge-check
+- learn.wwl.functional-consultant-skills.summary
+badge:
+  uid: learn.wwl.functional-consultant-skills.badge

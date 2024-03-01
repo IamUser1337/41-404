@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.common-low-code-plug-in.use-instant-plug-ins-power-apps 
+title: Use instant plug-ins from Power Apps
+metadata: 
+  title: Use instant plug-ins from Power Apps
+  description: Learn how to use instant plug-ins from Power Apps.
+  ms.date: 01/10/2024 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit 
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/use-instant-plug-ins-power-apps.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.wrap-up.is-better-than-or
+title: And is better than Or
+metadata:
+  title: And is better than Or
+  description: "And is better than Or"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 9
+content: |
+  [!include[](includes/3-and-is-better-than-or.md)]

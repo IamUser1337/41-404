@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data-source.3-expense-report-table
+title: Exercise - Write to the Expense Report table
+metadata:
+  title: Exercise - Write to the Expense Report table
+  description: Follow the steps to write new records to the Expense Report table and allow users to edit existing drafts.
+  ms.date: 01/31/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-expense-report-table.md)]

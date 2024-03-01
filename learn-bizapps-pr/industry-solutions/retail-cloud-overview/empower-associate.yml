@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.empower-associate
+title: Empower the store associate
+metadata:
+  title: Empower the store associate
+  description: Learn how real-time store communications and collaboration, retail workforce management, process automation, and career development can empower your store associates.
+  ms.date: 01/24/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/empower-associate.md)]

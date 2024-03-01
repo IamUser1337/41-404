@@ -1,0 +1,1 @@
+In this module, you learned how the integration of Store Operations Assist with Microsoft Teams provides retail frontline workers with a central hub for essential tools. Additionally, you've learned about the retail story of Contoso Retail, which you use in further modules in this learning path.

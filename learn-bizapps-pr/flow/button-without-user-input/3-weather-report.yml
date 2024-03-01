@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.button-without-user-input.3-weather-report 
+title: Exercise - Create a weather report Power Automate button
+metadata: 
+  title: Exercise - Create a weather report Power Automate button 
+  description: Learn how to create a Power Automate button that sends you the weather report. 
+  ms.date: 01/03/2022 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-weather-report.md)] 

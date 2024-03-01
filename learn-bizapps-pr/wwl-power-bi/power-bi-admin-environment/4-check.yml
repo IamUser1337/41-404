@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-environment.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/30/2021 
+ author: wwlpublish 
+ ms.author: shlindsay 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following is an accurate statement about a Power BI tenant location?
+    choices: 
+    - content: Subscribers located in the same region share the same Power BI tenant.
+      isCorrect: false 
+      explanation: Your answer is incorrect. Power BI admins can determine tenant location at any time by selecting Help (?), then **About Power BI**. Look for the value next to **Your data is stored in**. It's the region where the tenant is located. The value is also the region where an organization's data is stored unless it uses capacities in different regions for workspaces. Tenant location is based on the country/region an organization is in and cannot be changed once it's created.
+    - content: Admins can determine a tenant location through Help | About Power BI.
+      isCorrect: true 
+      explanation: Correct. In the Power BI service, in the top menu, select help (**?**) then **About Power BI**. Look for the value next to **Your data is stored in**. It's the region where the tenant is located. The value is also the region where an organization's data is stored unless it uses capacities in different regions for workspaces.
+    - content: Admins can change an organization's Power BI tenant location.
+      isCorrect: false 
+      explanation: Your answer is incorrect. Power BI admins can determine tenant location at any time by selecting Help (?), then **About Power BI**. Look for the value next to **Your data is stored in**. It's the region where the tenant is located. The value is also the region where an organization's data is stored unless it uses capacities in different regions for workspaces. Tenant location is based on the country/region an organization is in and cannot be changed once it's created.
+    - content: Power BI tenant locations are dynamically relocated to optimize performance.
+      isCorrect: false 
+      explanation: Your answer is incorrect. Power BI admins can determine tenant location at any time by selecting Help (?), then **About Power BI**. Look for the value next to **Your data is stored in**. It's the region where the tenant is located. The value is also the region where an organization's data is stored unless it uses capacities in different regions for workspaces. Tenant location is based on the country/region an organization is in and cannot be changed once it's created.
+  - content: Where are Power BI user accounts created?
+    choices: 
+    - content: Power BI
+      isCorrect: false 
+      explanation: Your answer is incorrect. All user-based, commercial licenses from Microsoft are based on Azure Active Directory identities. Users can consume content based on access level and license type.
+    - content: Office 365
+      isCorrect: false 
+      explanation: Your answer is incorrect. All user-based, commercial licenses from Microsoft are based on Azure Active Directory identities. Users can consume content based on access level and license type.
+    - content: Azure AD
+      isCorrect: true 
+      explanation: Correct. All user-based, commercial licenses from Microsoft are based on Azure Active Directory identities. Users can consume content based on access level and license type.
+    - content: SQL Server
+      isCorrect: false 
+      explanation: Your answer is incorrect. All user-based, commercial licenses from Microsoft are based on Azure Active Directory identities. Users can consume content based on access level and license type.
+  - content: Which one of the following is an accurate description of a Power BI premium license?
+    choices: 
+    - content: Premium licenses are based on capacity, not named users.
+      isCorrect: true 
+      explanation: Correct. A Power BI Premium license allocates a capacity to an organization. Suitable for enterprise BI, big data analytics, and cloud and on-premises reporting, Premium provides advanced administration and deployment controls.
+    - content: Premium licenses are assigned to individual users.
+      isCorrect: false 
+      explanation: Your answer is incorrect. A Power BI Premium license allocates a capacity to an organization. Suitable for enterprise BI, big data analytics, and cloud and on-premises reporting, Premium provides advanced administration and deployment controls.
+    - content: Premium licenses are based on a monthly per-user fee.
+      isCorrect: false 
+      explanation: Your answer is incorrect. A Power BI Premium license allocates a capacity to an organization. Suitable for enterprise BI, big data analytics, and cloud and on-premises reporting, Premium provides advanced administration and deployment controls.
+    - content: All Office 365 E-level agreements include Power BI premium.
+      isCorrect: false 
+      explanation: Your answer is incorrect. A Power BI Premium license allocates a capacity to an organization. Suitable for enterprise BI, big data analytics, and cloud and on-premises reporting, Premium provides advanced administration and deployment controls.

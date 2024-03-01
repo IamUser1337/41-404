@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-integration-interoperability.virtual-health-data-table
+title: Virtualize clinical reference and healthcare data by using virtual health data tables
+metadata:
+  title: Virtualize clinical reference and healthcare data by using virtual health data tables
+  description: Learn how to virtualize clinical reference and healthcare data by using virtual health data tables.
+  ms.date: 11/22/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/virtual-health-data-table.md)]

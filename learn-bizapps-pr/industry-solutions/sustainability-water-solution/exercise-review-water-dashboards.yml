@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-solution.exercise-review-water-dashboards
+title: Exercise - Review water dashboards
+metadata:
+  title: Exercise - Review water dashboards
+  description: Follow the steps to review the water dashboards.
+  ms.date: 12/06/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-review-water-dashboards.md)]

@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-smart-store-analytics-user-interface
+metadata:
+ title: Get familiar with the Smart Store Analytics user interface
+ description: Learn where to find key features in the Smart Store Analytics UI.
+ ms.date: 12/18/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-retail
+title: Get familiar with the Smart Store Analytics user interface
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Smart Store Analytics helps transform the shopping experience through data analytics and new store technology. Retailers can enhance in-store experiences and operational efficiency with predictive analytics that help optimize store layout, product catalog, shelf placement, and inventory. 
+abstract: |
+    This module explains the following concepts:
+    - Key areas on the Smart Store Analytics Home page
+    - Main sections of the Performance page
+    - Key sections on the Insights and recommendations page
+prerequisites: None
+iconUrl: /learn/achievements/smart-store-analytics-user-interface.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.smart-store-analytics-user-interface.introduction
+- learn-bizapps.smart-store-analytics-user-interface.performance
+- learn-bizapps.smart-store-analytics-user-interface.insights-recommendations
+- learn-bizapps.smart-store-analytics-user-interface.check
+- learn-bizapps.smart-store-analytics-user-interface.summary
+badge:
+  uid: learn-bizapps.retail-smart-store-analytics-user-interface.badge
+
+

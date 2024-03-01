@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn.wwl.challenge-project-create-microsoft-power-platform-solutions
+metadata:
+  title: Challenge project - Create Microsoft Power Platform solutions
+  description: "In this challenge project, you are creating your own solutions to the stated problems for a customer. You are analyzing and architecting solutions based on a series of sheets in a planning workbook."
+  ms.date: 08/02/2023
+  author: wwlpublish
+  ms.author: hakimm
+  ms.topic: module
+  ms.service: power-platform
+title: Challenge project - Create Microsoft Power Platform solutions
+summary: In this challenge project, you are creating your own solutions to the stated problems for a customer. You are analyzing and architecting solutions based on a series of sheets in a planning workbook.
+abstract: |
+  In this module, you demonstrate your ability to:
+  - Choose a customer based on a provided industry
+  - Get to know the customer
+  - Evaluate the current state of technology
+  - Compare to the stated needs
+  - Perform discovery and planning exercises
+  - Complete the project workbook
+prerequisites: ""
+iconUrl: /training/achievements/challenge-project-create-microsoft-power-platform-solutions.svg
+levels:
+- intermediate
+roles:
+- business-analyst
+- functional-consultant
+products:
+- power-platform
+subjects:
+- application-management
+- custom-app-development
+- data-management
+- it-management-monitoring
+units:
+- learn.wwl.challenge-project-create-microsoft-power-platform-solutions.introduction
+- learn.wwl.challenge-project-create-microsoft-power-platform-solutions.prepare
+- learn.wwl.challenge-project-create-microsoft-power-platform-solutions.exercise-create-solutions-for-customers-using
+- learn.wwl.challenge-project-create-microsoft-power-platform-solutions.knowledge-check
+- learn.wwl.challenge-project-create-microsoft-power-platform-solutions.summary
+badge:
+  uid: learn.wwl.challenge-project-create-microsoft-power-platform-solutions.badge

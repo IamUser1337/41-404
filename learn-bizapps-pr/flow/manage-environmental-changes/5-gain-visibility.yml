@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-environmental-changes.5-gain-visibility 
+title: Gain visibility by using Power Automate PowerShell cmdlets 
+metadata: 
+  title: Gain visibility by using Power Automate PowerShell cmdlets 
+  description: Learn how to use Power Automate PowerShell cmdlets.
+  ms.date: 01/05/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-gain-visibility.md)] 

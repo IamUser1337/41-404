@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-gift-batches-receipts-refunds.2-gift-batches 
+title: Gift batches
+metadata: 
+  title: Gift batches
+  description: Gift batching in Fundraising and Engagement allows you to enter multiple gifts efficiently in one grouping or batch. 
+  ms.date: 10/29/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-gift-batches.md)] 

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-language-detection.3a-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/09/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Do you need to provide training data to train the Language detection prebuilt model? 
+    choices: 
+    - content: Yes
+      isCorrect: false
+      explanation: Prebuilt models are ready to use out of the box
+    - content: Prebuilt models do not need training data, they are ready to use out of the box.
+      isCorrect: true
+      explanation: Prebuilt models are ready to use out of the box.
+    - content: No, but you can improve it by adding more data 
+      isCorrect: false
+      explanation: Prebuilt models are ready to use out of the box.
+  - content: What technology is used for the prebuilt Language detection model?
+    choices: 
+    - content: Power Automate
+      isCorrect: false
+      explanation: Power Automate is not used for the prebuilt Language detection model.
+    - content: Power Apps
+      isCorrect: false
+      explanation: Power Apps is not used for the prebuilt Language detection model.
+    - content: Azure Cognitive Services Text analytics
+      isCorrect: true
+      explanation: AI Builder Language detection identifies the language of the text by using Azure Cognitive Services Text analytics technology.
+  - content: Language detection could be used in which of the following technologies?
+    choices: 
+    - content: Power Automate only
+      isCorrect: false
+      explanation: Language detection can be used in both Power Automate and Power Apps.
+    - content: Power Apps only
+      isCorrect: false
+      explanation: Language detection can be used in both Power Automate and Power Apps.
+    - content: Both Power Automate and Power Apps
+      isCorrect: true
+      explanation: Language detection can be used in both Power Automate and Power Apps.

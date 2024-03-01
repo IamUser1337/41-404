@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-membership-fundraising-engagement.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: A nonprofit wants to add one of its donors to a membership group called V.I.P. to track their V.I.P. status. There is no fee associated with this membership. How should the user add the membership to the donor?
+    choices: 
+    - content: From the constituent’s record.
+      isCorrect: true 
+      explanation: As there is no fee, it should be added from the constituent’s (contact or organization) record.
+    - content: By creating and processing a transaction.
+      isCorrect: false 
+      explanation: Unless there is a fee involved, or the membership is being processed along with a donation, a transaction cannot be created.
+    - content: By creating a new membership instance.
+      isCorrect: false 
+      explanation: You should add the membership from either a transaction or constituent’s record.
+  - content: Which of the following best describes a membership order?
+    choices: 
+    - content: A membership created via a transaction.
+      isCorrect: false
+      explanation: A membership order is a list of membership options available to the user when processing a membership.
+    - content: A list of membership options available to the user when processing a membership.
+      isCorrect: true 
+      explanation: A membership order is a list of membership options available to the user when processing a membership.
+    - content: A membership a constituent pays a fee for.
+      isCorrect: false 
+      explanation: A membership order is a list of membership options available to the user when processing a membership.
+    - content: The primary membership associated to a constituent.
+      isCorrect: false 
+      explanation: A membership order is a list of membership options available to the user when processing a membership.
+  - content: What is primary membership?
+    choices: 
+    - content: A key single membership instance that appears on a constituent’s record.
+      isCorrect: true
+      explanation: A key single membership instance that appears on a constituent's record.
+    - content: Key multiple membership instances that appear on a constituent’s record.
+      isCorrect: false 
+      explanation: A key single membership instance that appears on a constituent's record.
+    - content: A membership group that all constituents are required to belong to.
+      isCorrect: false 
+      explanation: A key single membership instance that appears on a constituent's record.
+    - content: A membership category that all constituents are required to belong to.
+      isCorrect: false 
+      explanation: A key single membership instance that appears on a constituent's record.

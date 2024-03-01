@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.instrumentation-app-insights.2-configure 
+title: Set up an app for Application Insights
+metadata: 
+  title: Set up an app for Application Insights
+  description: Learn how to set up an app from Power Apps for Application Insights.
+  ms.date: 11/12/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-configure.md)] 

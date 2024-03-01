@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-beyond-report-development.beyond-report
+title: Beyond report development
+metadata:
+  title: Beyond report development
+  description: "Beyond report development"
+  ms.date: 12/17/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 20
+content: |
+  [!include[](includes/2-beyond-report.md)]

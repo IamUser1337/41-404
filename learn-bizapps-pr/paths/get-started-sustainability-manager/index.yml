@@ -1,0 +1,39 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-sustainability-manager
+metadata:
+  title: Get started with Microsoft Sustainability Manager
+  description: Learn about Microsoft Sustainability Manager.
+  ms.date: 09/20/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+  ms.collection: get-started
+title:  Get started with Microsoft Sustainability Manager
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Sustainability Manager is an extensible solution that unifies data intelligence and provides comprehensive, integrated, and automated sustainability management for organizations at any stage of their sustainability journey. Sustainability Manager automates manual processes, enabling organizations to more efficiently record, report, and reduce their emissions   and water or waste impact.   
+  
+  In this Learning Path, you’ll obtain a foundational understanding of the Microsoft Sustainability Manager. This learning path also describes the concepts, semantic model and process flow, and how the semantic model relates to the functional area.     
+prerequisites: |
+  - None. 
+iconUrl: /training/achievements/get-started-sustainability-manager.svg
+levels:
+- intermediate
+- beginner
+- advanced 
+roles:
+- business-user
+- functional-consultant
+- developer
+- administrator
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.work-cloud-sustainability
+trophy:
+  uid: learn.get-started-sustainability-manager.trophy

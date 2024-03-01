@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Work with Dynamics for Marketing/assessing-leads-in-dynamics-365-for-marketing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-6.2%" y="-12.5%" width="112.5%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101873868 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-with-Dynamics-for-Marketing" transform="translate(-50.000000, -660.000000)">
+            <g id="Work-with-Dynamics-for-Marketing/assessing-leads-in-dynamics-365-for-marketing" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Group-3" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(16.000000, 32.000000)">
+                            <polygon id="Fill-97" fill="#30404D" points="20 32 44 32 44 29 20 29"></polygon>
+                            <path d="M40,0 L24,0 C22.896,0 22,0.895 22,2 L22,32 L42,32 L42,2 C42,0.895 41.105,0 40,0" id="Fill-98" fill="#546670"></path>
+                            <path d="M62,6 L46,6 C44.896,6 44,6.895 44,8 L44,32 L64,32 L64,8 C64,6.895 63.105,6 62,6" id="Fill-99" fill="#546670"></path>
+                            <path d="M18,12 L2,12 C0.896,12 0,12.895 0,14 L0,32 L20,32 L20,14 C20,12.895 19.105,12 18,12" id="Fill-100" fill="#546670"></path>
+                            <path d="M62,6 L54,6 L54,27 C54,28.105 53.105,29 52,29 L44,29 L44,32 L64,32 L64,8 C64,6.895 63.105,6 62,6" id="Fill-101" fill="#30404D"></path>
+                            <path d="M18,12 L10,12 L10,27 C10,28.105 9.105,29 8,29 L0,29 L0,32 L20,32 L20,14 C20,12.895 19.105,12 18,12" id="Fill-102" fill="#30404D"></path>
+                            <path d="M40,0 L32,0 L32,27 C32,28.105 31.105,29 30,29 L22,29 L22,32 L42,32 L42,2 C42,0.895 41.105,0 40,0" id="Fill-103" fill="#30404D"></path>
+                            <g id="Dynamics-icon" stroke-width="1" fill="none" transform="translate(25.634550, 4.500000)">
+                                <polygon id="Path" fill="#FFFFFF" points="0 20.2546066 4.0578 8.92976388 0 6.34350667"></polygon>
+                                <polygon id="Path" fill="#FFFFFF" points="12.8332 13.250241 12.8332 6.82077206 0 20.2546066"></polygon>
+                                <polygon id="Path" fill="#FFFFFF" points="0 0 0 5.42690039 8.3746 9.42103218 12.267 6.34214527"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M39.2078098,76.6035812 C39.2078098,70.8794968 34.5955933,66.2672803 28.8715089,66.2672803 C34.5955933,66.2672803 39.2078098,61.6550638 39.2078098,55.9309793 C39.2078098,61.6550638 43.8200263,66.2672803 49.5441107,66.2672803 C43.8200263,66.2672803 39.2078098,70.8794968 39.2078098,76.6035812 Z M35.2078098,30.4948825 C29.0616513,30.4948825 24.1093461,25.5425773 24.1093461,19.3964188 C24.1093461,25.5425773 19.1570408,30.4948825 13.0108823,30.4948825 C19.1570408,30.4948825 24.1093461,35.4471878 24.1093461,41.5933463 C24.1093461,35.4471878 29.0616513,30.4948825 35.2078098,30.4948825 Z M87.9891177,37.2418413 C83.1997142,37.2418413 79.3406227,33.3827497 79.3406227,28.5933463 C79.3406227,33.3827497 75.4815312,37.2418413 70.6921277,37.2418413 C75.4815312,37.2418413 79.3406227,41.1009328 79.3406227,45.8903363 C79.4081874,41.1009328 83.267239,37.2418413 87.9891177,37.2418413 Z" id="Sparkle" fill="#FFFFFF" opacity="0.949999988" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

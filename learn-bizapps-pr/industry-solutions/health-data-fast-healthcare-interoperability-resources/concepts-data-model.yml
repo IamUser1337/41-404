@@ -1,0 +1,14 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.concepts-data-model
+title: Introduction to FHIR concepts and data model
+metadata:
+  title: Introduction to FHIR concepts and data model
+  description: Learn about key tenets of FHIR and its standards and principles.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/concepts-data-model.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.approvals-power-automate.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to the Approvals connector in Power Automate
+  ms.date: 01/03/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

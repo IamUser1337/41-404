@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-lab-manual-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/31/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: If you wanted a Dataverse table column with a predefined list of values for use in your application, which column type would you use?
+    choices:
+    - content: Choice
+      isCorrect: true
+      explanation: Correct. A choice column offers users a dropdown menu of options to choose for the value needed.
+    - content: Simple
+      isCorrect: false
+      explanation: Incorrect. Simple is a subtype of data for a column.
+    - content: Calculated
+      isCorrect: false
+      explanation: Incorrect. Calculated is a subtype of data for a column.
+    - content: Text
+      isCorrect: false
+      explanation: Incorrect. A text column doesn't offer the user options as described.
+  - content: If you wanted to set a date column to default to seven days in the future, what would you do?
+    choices:
+    - content: Set the default value on the column.
+      isCorrect: false
+      explanation: Incorrect. You can't set a default value for a date column.
+    - content: Create a business rule to calculate and set the column default value.
+      isCorrect: true
+      explanation: Correct. A business rule allows you to set this column with automation.
+    - content: Set the precision on the column to 7.
+      isCorrect: false
+      explanation: Incorrect. Precision value determines how many places occur after a decimal point for a column type of numeric value.
+    - content: Use a choice column.
+      isCorrect: false
+      explanation: Incorrect. A choice column gives users a dropdown menu of choices, and you can't automate it in this way.
+  - content: If you wanted to track the date when the warranty expired on the machine that you purchased, what would you do?
+    choices:
+    - content: Create a Warranty custom table.
+      isCorrect: false
+      explanation: Incorrect. If you needed to capture more information about a warranty, you might consider a custom table to hold the information.
+    - content: Create a Warranty Expires date column on the Machine Order table.
+      isCorrect: true
+      explanation: Correct. Using the date column type allows you to save the information and use it in context for other actions, such as automation to notify machine owners of a pending expiration.
+    - content: Store the date in the description column for each Machine Order row.
+      isCorrect: false
+      explanation: Incorrect. Users can store this information as text, but it isn't stored in a way that allows the date to be used in context. It's best saved as a date data type.
+    - content: Use Power Automate.
+      isCorrect: false
+      explanation: Incorrect. You could use Power Automate to automate setting the date or using the date as a trigger for actions. The data would still need to be contained in a column.

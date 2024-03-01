@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/01/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following licenses is required to use the Store Operations Assist solution?
+    choices:
+    - content: Microsoft Power Platform
+      isCorrect: true
+      explanation: Correct. The Store Operations Assist solution requires Microsoft Power Platform.
+    - content: Dynamics 365 Intelligent Order Management trial
+      isCorrect: false
+      explanation: Incorrect. The Store Operations Assist solution isn't in Dynamics 365 Intelligent order management.
+    - content: Microsoft Cloud for Sustainability
+      isCorrect: false
+      explanation: Incorrect. The Store Operations Assist solution isn't in Microsoft Cloud for Sustainability.
+    - content: Dynamics 365 Commerce
+      isCorrect: false
+      explanation: Incorrect. The Store Operations Assist solution isn't in Dynamics 365 Commerce.
+  - content: Which of the following options can you use to deploy the licenses?
+    choices:
+    - content: Power Platform admin center
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use the Power Platform admin center to deploy the licenses.
+    - content: Power Apps maker portal
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use the Power Apps maker portal to deploy the licenses.
+    - content: Microsoft admin center
+      isCorrect: true
+      explanation: Correct. You'd use Microsoft admin center to deploy the licenses.
+    - content: Microsoft Cloud Solution Center
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use Microsoft Cloud Solution Center to deploy the licenses.
+  - content: Which of the following options is required to deploy Store Operations Assist?
+    choices:
+    - content: Microsoft Dynamics 365 Lifecycle Services
+      isCorrect: false
+      explanation: Incorrect. Lifecycle Services isn't required to deploy Store Options Assist.
+    - content: Microsoft Azure portal
+      isCorrect: false
+      explanation: Incorrect. Azure portal isn't required to deploy Store Options Assist.
+    - content: Microsoft Cloud Solution Center
+      isCorrect: true
+      explanation: Correct. Microsoft Cloud Solution Center is required to deploy Store Options Assist.
+    - content: None of these options are required
+      isCorrect: false
+      explanation: Incorrect. One of the options is required to deploy Store Options Assist.

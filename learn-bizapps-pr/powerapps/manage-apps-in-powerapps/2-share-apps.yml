@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-manage.2-powerapps-share
+title: Exercise - Share apps in Power Apps
+metadata:
+  title: Exercise - Share apps in Power Apps
+  description: Learn how to share apps that you built in Power Apps with others in your organization.
+  ms.date: 08/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-powerapps-share.md)]

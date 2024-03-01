@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-scenarios.data-source-record-information
+title: Scenario - Use data source and record information
+metadata:
+  title: Scenario - Use data source and record information
+  description: Learn to use the DataSourceInfo function and the RecordInfo function.
+  ms.date: 12/22/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/data-source-record-information.md)]

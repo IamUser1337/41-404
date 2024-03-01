@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-reach.3-embedded-capacity 
+title: Provision a Power BI embedded capacity
+metadata: 
+  title: Provision a Power BI embedded capacity 
+  description: Learn about provisioning a Power BI embedded capacity. 
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-embedded-capacity.md)] 

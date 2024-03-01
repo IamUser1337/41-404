@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.demonstrate-capabilities-power-pages.build-power-pages-site
+title: Build a Power Pages site
+metadata:
+  title: Build a Power Pages site
+  description: "Follow the process of building a Power Pages website."
+  ms.date: 02/26/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 15
+content: |
+  [!include[](includes/4-build-power-pages-site.md)]

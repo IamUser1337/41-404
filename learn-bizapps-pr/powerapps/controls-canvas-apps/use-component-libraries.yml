@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.use-component-libraries
+title: Work with component libraries
+metadata:
+  title: Work with component libraries
+  description: Learn to work with component libraries in Power Apps.
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/use-component-libraries.md)]

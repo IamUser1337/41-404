@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.business-process-optimization-process-advisor.6-automation-recommendations
+title: Automation recommendations
+metadata: 
+  title: Automation recommendations
+  description: Learn about automation recommendations. 
+  ms.date: 11/30/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-automation-recommendations.md)] 

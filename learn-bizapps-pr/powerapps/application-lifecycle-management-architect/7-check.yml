@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.application-lifecycle-management-architect.7-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/30/2021
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which type of environment should you use for a proof of concept?
+    choices: 
+    - content: Community
+      isCorrect: false
+      explanation: The Community Plan (Developer) environment is a personal environment that can't be shared.
+    - content: Production
+      isCorrect: false
+      explanation: Production environments are used for live data and users. It should not be used for proofs of concept because they are thrown away.
+    - content: Sandbox
+      isCorrect: false
+      explanation: Isolated from production, a sandbox environment is the place to safely develop and test application changes with low risk. It should not be used for proof of concept.
+    - content: Trial
+      isCorrect: true
+      explanation: Trial environments are used to try new features and perform proofs of concept because they are automatically deleted after 30 days.
+  - content: You need to remove a component that has already been deployed to production. What should you do?
+    choices: 
+    - content: Clone a patch
+      isCorrect: false
+      explanation: Using the Clone a patch option to update a solution is no longer recommended.
+    - content: Clone solution
+      isCorrect: false
+      explanation: Using the Clone solution option to update a solution is no longer recommended.
+    - content: Import a new version of the solution with the Update option
+      isCorrect: false
+      explanation: You can't delete components by using the Update option.
+    - content: Import a new version of the solution with the Upgrade option
+      isCorrect: true
+      explanation: The Upgrade option removes components that are not in the new solution.
+  - content: You want to partition your solutions by creating separate solutions for each type of component. What is this called?
+    choices: 
+    - content: Horizontal splitting
+      isCorrect: true
+      explanation: Horizontal splitting refers to creating solutions that only contain components of the same type.
+    - content: Solution segmentation
+      isCorrect: false
+      explanation: Adding only what subcomponents are required to a solution is known as segmenting a solution.
+    - content: Vertical layering
+      isCorrect: false
+      explanation: Vertical layering will group components into functional areas.

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.project-governance.6-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+  
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You have joined a new Power Platform project as a solution architect. The customer has a project governance process. You evaluate the process and decide that it is not appropriate for the project. What should you do?
+    choices: 
+    - content: Implement an agile methodology.
+      isCorrect: false
+      explanation: Methodologies are not the same as governance processes. Project governance is concerned with how project decisions are made.
+    - content: Create a hybrid process.
+      isCorrect: true
+      explanation: A solution architect will build a hybrid governance process that meets the needs of the customer, project, and Power Platform.
+    - content: Use the customer's process.
+      isCorrect: false
+      explanation: The customer's process does not fit how Power Platform works. The solution architect should look at adapting the customer's governance process to Power Platform.
+    - content: Create a risk register.
+      isCorrect: false
+      explanation: Having a risk register is necessary for project governance, but it is not sufficient for implementing project governance.
+  - content: Which one of the following statements is true regarding feedback?
+    choices: 
+    - content: Feedback must always be positive.
+      isCorrect: false
+      explanation: Feedback can be positive and negative. Handling bad news is part of the solution architect's role.
+    - content: Feedback should be left until project checkpoints.
+      isCorrect: false
+      explanation: Feedback should not be left until a project checkpoint. Feedback should be performed immediately.
+    - content: Feedback must always be constructive.
+      isCorrect: true
+      explanation: Feedback must be actionable with a clear statement of the problem and suggestions of what to do or where to look.
+    - content: Feedback is provided only to team members.
+      isCorrect: false
+      explanation: The solution architect needs to provide feedback to customers and team members.
+  - content: How should a solution architect assess the skills of the team?
+    choices: 
+    - content: Require team members to be certified in Power Platform.
+      isCorrect: false
+      explanation: While certifications are useful in demonstrating a basic competence in a role or technology, they do not show team members' strengths and weaknesses that the solution architect needs to allocate tasks appropriately.
+    - content: Review the resumes of each team member.
+      isCorrect: false
+      explanation: A solution architect does not need a resume. The solution architect needs to learn each team member's strengths and weaknesses to decide how to allocate work. A resume does not provide this information.
+    - content: Ask team members to complete a test of questions about customizing Power Platform.
+      isCorrect: false    
+      explanation: A test simply confirms a team member's knowledge. It would be better for the solution architect to ask questions that trigger a discussion that allows the team member to demonstrate their knowledge.
+    - content: Ask each team member probing questions.
+      isCorrect: true
+      explanation: A solution architect should have a set of probing discussion questions that can be asked to test each team member's knowledge.

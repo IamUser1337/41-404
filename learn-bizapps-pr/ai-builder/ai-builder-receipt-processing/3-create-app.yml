@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-receipt-processing.3-create-app 
+title: Create an app by using receipt processing
+metadata: 
+  title: Create an app by using receipt processing
+  description: Learn how to create an app by using receipt processing.
+  ms.date: 07/20/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-create-app.md)] 

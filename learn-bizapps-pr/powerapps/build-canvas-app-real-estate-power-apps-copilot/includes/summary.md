@@ -1,0 +1,1 @@
+In this module, you built a Power Apps canvas app for field agents to browse real estate inventory and manage appointments for showings. You accomplished this task by using Copilot in Power Apps with natural language. You also learned how to customize the Dataverse table data that Copilot generates and how to add more data to the table.

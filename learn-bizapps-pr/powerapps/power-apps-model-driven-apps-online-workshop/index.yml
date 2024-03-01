@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.power-apps-model-driven-apps-online-workshop
+metadata:
+ title: Create a model-driven Power Apps app for machine ordering - Online Workshop
+ description: Learn how to build a Power Apps model-driven app.
+ ms.date: 02/16/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Create a model-driven Power Apps app for machine ordering - Online Workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In the first lab module, you built a Power Apps canvas application for an organization where, every few years, the employees go through a coffee machine replacement cycle. The application allows employees to request a machine by using the app that you built. In the second lab module, while using a custom table that you created in the Microsoft Dataverse lab, you stored that request for processing. From the requesting employee's point of view, after they’ve placed the order, the new coffee machine shows up, but a back-office process needs to happen to manage the procurement, setup of the device, and distribution of the machine to that requesting employee. In this lab, you'll build a Power Apps model-driven app that back-office staff who manage fulfilling machine requests will use. By using the model-driven app style, you can take advantage of the business process feature of model-driven apps to keep the back-office staff on track for each machine request.
+abstract: |
+    In this module, you'll:
+    - Create a standalone model-driven app.
+    - Customize forms for the model-driven app.
+    - Use a business process flow to guide users through a process.
+prerequisites: |
+  It is recommended to complete each module in sequence of the [Create a machine ordering app with Power Apps - Online Workshop](/training/paths/power-apps-online-workshop/) Learning Path.
+
+  This module is designed for use with the App in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?search=App%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=06:00&endTime=11:00).
+iconUrl: /learn/achievements/power-apps-model-driven-apps-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.introduction
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.exercise-create-application-add-columns
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.exercise-business-process-flow
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.exercise-form-view-modification
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.exercise-test-application
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.check
+- learn-bizapps.power-apps-model-driven-apps-online-workshop.summary
+badge:
+  uid: learn-bizapps.power-apps-model-driven-apps-online-workshop.badge

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-integration
+metadata:
+  title: Integrate Power Pages with web-based technologies
+  description: Learn how to integrate Power Pages with web-based technologies.
+  ms.date: 05/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: power-pages 
+title: Integrate Power Pages with web-based technologies
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Occasionally, you’ll need to integrate your portal to web-based technologies to extend the scope of your application. This module explains the process and options to integrate a Power Pages website with related technologies, such as SharePoint, Microsoft Power BI, model-driven charts, and others.
+abstract: |
+    In this module, you'll:
+    - Discover how to use the Iframe component to link to other cloud-based technologies.
+    - Learn how to set up portal integration to SharePoint document libraries.
+    - Learn how to embed Power BI reports on a Power Pages page.
+    - Learn how to enhance a portal page with model-driven charts.
+prerequisites: Basic understanding of Power Pages, how to create webpages, and Power BI concepts and components
+iconUrl: /training/achievements/power-pages-integration.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- administrator
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-integration.introduction
+- learn-bizapps.power-pages-integration.sharepoint
+- learn-bizapps.power-pages-integration.power-bi
+- learn-bizapps.power-pages-integration.model-driven-charts
+- learn-bizapps.power-pages-integration.check
+- learn-bizapps.power-pages-integration.summary
+badge:
+  uid: learn-bizapps.power-pages-integration.badge

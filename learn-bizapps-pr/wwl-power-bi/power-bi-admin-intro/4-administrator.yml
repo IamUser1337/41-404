@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-intro.4-administrator 
+title: Power BI administrator role
+metadata: 
+  title: Power BI administrator role
+  description: Learn about the types of administrator roles there are in Power BI.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-administrator.md)] 

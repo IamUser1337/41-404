@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-first-model-driven-app-dataverse 
+metadata: 
+ title: How to build your first model-driven app with Dataverse
+ description: This module will focus on the building blocks of Dataverse and model-driven apps. These key components will help you build quick business apps in your organization. 
+ ms.date: 12/16/2022  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.subservice: dataverse-maker
+title: How to build your first model-driven app with Dataverse
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Do you want to quickly build apps with little to no code? This module focuses on the building blocks of Dataverse and model-driven apps. These key components will help you build quick business apps in your organization. 
+abstract: |  
+    In this module, you will: 
+    - Discover the value and key features of Dataverse.
+    - Learn about the value and key features of model-driven apps.
+    - Explore sample model-driven template apps.
+prerequisites: A basic understanding of Power Apps and Dataverse  
+iconUrl: /learn/achievements/build-first-model-driven-app-dataverse.svg  
+levels:  
+- beginner   
+roles:  
+- functional-consultant  
+- business-user  
+- maker
+products: 
+- power-platform
+- power-apps 
+- dataverse
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.build-first-model-driven-app-dataverse.introduction 
+- learn-bizapps.build-first-model-driven-app-dataverse.model-driven-apps 
+- learn-bizapps.build-first-model-driven-app-dataverse.dataverse-model-driven-apps 
+- learn-bizapps.build-first-model-driven-app-dataverse.exercise-explore-sample-apps 
+- learn-bizapps.build-first-model-driven-app-dataverse.check 
+- learn-bizapps.build-first-model-driven-app-dataverse.summary 
+badge: 
+  uid: learn-bizapps.build-first-model-driven-app-dataverse.badge 

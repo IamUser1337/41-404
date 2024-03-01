@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-email.5-exercise-confirm-support-tickets 
+title: Exercise - Confirm the submission of support tickets
+metadata: 
+  title: Exercise - Confirm the submission of support tickets
+  description: Exercise - Confirm the submission of support tickets
+  ms.date: 10/29/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-exercise-confirm-support-tickets.md)] 

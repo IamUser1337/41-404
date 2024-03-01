@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-text-manipulation.5-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/22/2020 
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What method can you use to retrieve the length of a variable that holds a single text value?
+    choices: 
+    - content: The Get subtext action
+      isCorrect: false
+      explanation: The %Variable.length% syntax can be used to get the length of a text variable.
+    - content: The %Variable.length% syntax
+      isCorrect: true 
+      explanation: The %Variable.length% syntax can be used to get the length of a text variable.
+    - content: All of the above
+      isCorrect: false 
+      explanation: The %Variable.length% syntax can be used to get the length of a text variable.
+    - content: None of the above
+      isCorrect: false 
+      explanation: The %Variable.length% syntax can be used to get the length of a text variable.
+  - content: Which one of the following actions is used to remove whitespace characters from the beginning and end of a text or list of text values?
+    choices:
+    - content: Pad
+      isCorrect: false 
+      explanation: The Pad action adds padding around a text value.
+    - content: Trim
+      isCorrect: true 
+      explanation: The Trim action removes white space from the beginning and end of a text value.
+    - content: Parse
+      isCorrect: false 
+      explanation: The Parse action parses a text value to find the first occurrence, or all occurrences, of a specified subtext.
+  - content: Which one of the following statements is true about the Get subtext action?
+    choices:
+    - content: "It retrieves a part of a text value or variable and stores it in a new variable."
+      isCorrect: true 
+      explanation: The Get subtext action retrieves a subtext of a text value or variable and stores it by default in a new variable.
+    - content: "It retrieves a part of a text variable and stores it by default in the original variable."
+      isCorrect: false
+      explanation: The Get subtext action retrieves a subtext of a text value or variable and stores it by default in a new variable.

@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-solution-explorer-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/14/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Where in Power Pages do you customize Dataverse?
+    choices:
+    - content: Pages Workspace
+      isCorrect: false
+      explanation: Incorrect. You customize Dataverse in the Data Workspace.
+    - content: Setup Workspace
+      isCorrect: false
+      explanation: Incorrect. You customize Dataverse in the Data Workspace.
+    - content: Data Workspace
+      isCorrect: true
+      explanation: Correct. You customize Dataverse in the Data Workspace. Workspace
+    - content: Styling Workspace
+      isCorrect: false
+      explanation: Incorrect. You customize Dataverse in the Data Workspace.
+  - content: Does Power Pages take advantage of Dataverse solutions?
+    choices:
+    - content: "True"
+      isCorrect: true
+      explanation: Correct. Power Pages takes advantage of Dataverse solutions.
+    - content: "False"
+      isCorrect: false
+      explanation: Incorrect. Power Pages takes advantage of Dataverse solutions.
+  - content: Why are using solutions important when building Power Pages Sites?
+    choices:
+    - content: Because of GitHub Actions.
+      isCorrect: false
+      explanation: Incorrect. Solutions enables better ALM practices so you can combine all website and Dataverse components into a single solution artifact and participate in advanced ALM capabilities to deploy websites to destination environments.
+    - content: Enables better ALM practices so you can combine all website and Dataverse components into a single solution artifact and participate in advanced ALM capabilities to deploy websites to destination environments.
+      isCorrect: true
+      explanation: Correct. Solutions enables better ALM practices so you can combine all website and Dataverse components into a single solution artifact and participate in advanced ALM capabilities to deploy websites to destination environments. 
+    - content: Enables a full cloud backup that is stored in the Power Platform Admin Center Site backup area.
+      isCorrect: false
+      explanation: Incorrect. Solutions enables better ALM practices so you can combine all website and Dataverse components into a single solution artifact and participate in advanced ALM capabilities to deploy websites to destination environments.
+    - content: Improves site accessibility when customizing data tables.
+      isCorrect: false
+      explanation: Incorrect. Solutions enables better ALM practices so you can combine all website and Dataverse components into a single solution artifact and participate in advanced ALM capabilities to deploy websites to destination environments.

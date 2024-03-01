@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-ocr.4-check-knowledge
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: "Which one of the following OCR engines does Power Automate for desktop support?"
+    choices:
+    - content: "Windows OCR engine"
+      isCorrect: false
+      explanation: "Power Automate for desktop supports both Windows and Google Tesseract OCR engines."
+    - content: "Google Tesseract"
+      isCorrect: false
+      explanation: "Power Automate for desktop supports both Windows and Google Tesseract OCR engines."
+    - content: "Both"
+      isCorrect: true
+      explanation: "Power Automate for desktop supports both Windows and Google Tesseract OCR engines."
+  - content: "Width and height multipliers make the OCR extraction more effective, when:"
+    choices:
+    - content: "You set them to the highest possible values"
+      isCorrect: false
+      explanation: "High values in width and height multipliers can make OCR actions to fail."
+    - content: "You set them to one"
+      isCorrect: false
+      explanation: "Setting the width and height multipliers to one doesn't make the OCR extraction more effective."
+    - content: "They're set to two or three"
+      isCorrect: true
+      explanation: "Setting the width and height multipliers to two or three can make the OCR extraction more effective."
+  - content: "The Wait for text on screen (OCR) action waits for a text to:"
+    choices:
+    - content: "Appear on the screen"
+      isCorrect: false
+      explanation: "The Wait for text on screen (OCR) action can wait for a text to appear to or disappear from the screen."
+    - content: "Disappear from the screen"
+      isCorrect: false
+      explanation: "The Wait for text on screen (OCR) action can wait for a text to appear to or disappear from the screen."
+    - content: "Appear to or disappear from the screen"
+      isCorrect: true
+      explanation: "The Wait for text on screen (OCR) action can wait for a text to appear to or disappear from the screen."

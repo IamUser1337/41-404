@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-apps.explore-model-driven-applications
+title: Explore model-driven applications
+metadata:
+  title: Explore model-driven applications
+  description: "Introduction to model-driven apps created in Microsoft Power Apps."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/4-explore-model-driven-applications.md)]

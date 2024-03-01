@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.unified-authoring-online-workshop.rich-text 
+title: Rich text options for message and question nodes
+metadata: 
+  title: Rich text options for message and question nodes
+  description: Learn about rich text options for message and question nodes.
+  ms.date: 01/16/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/rich-text.md)] 

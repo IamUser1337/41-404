@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-scenarios.multiple-data-sources
+title: Scenario - Use multiple data sources
+metadata:
+  title: Scenario - Use multiple data sources
+  description: Learn about using multiple data sources in Power FX expressions.
+  ms.date: 12/22/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/multiple-data-sources.md)]

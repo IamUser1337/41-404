@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.testing-performance-checks.1-performance 
+title: The importance of thinking about performance
+metadata: 
+  title: The importance of thinking about performance 
+  description: The importance of thinking about performance 
+  ms.date: 05/25/2022 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+   
+durationInMinutes: 8 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-performance.md)] 
+

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-identity-document-reader.3-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/28/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 2 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What types of identity documents are currently supported by the ID reader?
+    choices: 
+    - content: Passports and driver licenses from around the world
+      isCorrect: false 
+      explanation: The ID reader supports passports from around the world and US driver licenses.
+    - content: Passports from around the world and US driver licenses
+      isCorrect: true 
+      explanation: The ID reader supports passports from around the world and US driver licenses.
+    - content: US passports and US driver licenses
+      isCorrect: false 
+      explanation: The ID reader supports passports from around the world and US driver licenses.
+  - content: What file formats are supported?
+    choices: 
+    - content: Only PDF files
+      isCorrect: false 
+      explanation: The ID reader supports PDF and image (JPG, PNG) files.
+    - content: Only image files (JPG, PNG)
+      isCorrect: false 
+      explanation: The ID reader supports PDF and image (JPG, PNG) files.
+    - content: PDF and image (JPG, PNG) files
+      isCorrect: true 
+      explanation: The ID reader supports PDF and image (JPG, PNG) files.
+  - content: Do you need to provide training data to train the ID reader?
+    choices: 
+    - content: Yes
+      isCorrect: false 
+      explanation: Prebuilt models do not require training data.
+    - content: No, but you can improve the model by adding more data.
+      isCorrect: false
+      explanation: Prebuilt models do not require training data.
+    - content: Prebuilt models don't need training data; they're ready out of the box.
+      isCorrect: true 
+      explanation: Prebuilt models do not require training data.

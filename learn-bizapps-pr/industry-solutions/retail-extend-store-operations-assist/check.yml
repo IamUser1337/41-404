@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/24/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of these statements related to prerequisites to install for plug-in development is correct?
+    choices:
+    - content: Only paid editions, such as Microsoft Visual Studio Professional or Enterprise edition, is required for developing plug-ins
+      isCorrect: false
+      explanation: Incorrect. You can also use Microsoft Visual Studio 2019 or 2022 Community free edition for development. It isn't mandatory to have a Professional or Enterprise edition for development.
+    - content: You can use the Plugin Registration Tool to develop plug-ins for Dataverse.
+      isCorrect: false
+      explanation: Incorrect. You can use the Plugin Registration Tool only for registering plug-ins, not for development.
+    - content: Microsoft .NET Framework 4.6.2 is required for plug-in or custom workflow activity development.
+      isCorrect: true
+      explanation: Correct. Microsoft .NET Framework 4.6.2 is required for plug-in or custom workflow activity development.
+    - content: It isn't necessary to have a Power Apps subscription or a trial environment to develop plug-ins.
+      isCorrect: false
+      explanation: Incorrect. A Power Apps subscription or a trial environment is required to develop plug-ins.
+  - content: Which of these statements is correct?
+    choices:
+    - content: You can change only the background color for the Store Operations Assist Admin, but for Store Operations Assist Mobile, you can’t change the background color.
+      isCorrect: false
+      explanation: Incorrect. You can change the background color of Store Operations Assist Mobile through customizations.
+    - content: Users can change the text font color in Store Operations Assist Mobile at their convenience.
+      isCorrect: false
+      explanation: Incorrect. Users can’t change the text font colors in Store Operations Assist Mobile.
+    - content: You can only extract the responses that have been made to the survey and product audit responses to an Excel file format.
+      isCorrect: false
+      explanation: Incorrect. You can extract the responses to any supported format. Ideally, the customer can use Azure integration services and Azure blobs to write the responses for file-based integrations. Alternatively, they can use the Microsoft Power Platform connectors that are available out of the box to connect to other applications.
+    - content: You can extract the responses that have been made to the survey and product audit responses by developing custom plug-ins.
+      isCorrect: true
+      explanation: Correct. You can extract the responses that have been made to the survey and product audit responses by using low-code solutions and by developing custom plug-ins.
+  - content: Which of these statements is correct?
+    choices:
+    - content: The plans that the retail district manager has created are automatically published and implemented, and the tasks are created by using the “Trigger execution plan” Power Automate flow every 15 minutes.
+      isCorrect: false
+      explanation: Incorrect. The plans aren't automatically published, but the retail district or regional manager need to publish it manually. The Trigger execution plan Power Automate flow only implements published plans automatically and creates tasks. 
+    - content: After you create the plan, as a next step, the retail district manager can select the Execute plan button to execute the plan.
+      isCorrect: false
+      explanation: Incorrect. You can use the Execute plan button to implement the plan, but only after you’ve published the flow, not immediately after creating it.
+    - content: The retail district manager can use the Duplicate button to create a duplicate plan.
+      isCorrect: false
+      explanation: Incorrect. The retail district manager can use the Make a copy button to duplicate the plan.
+    - content: The custom plug-in code updates the product prices and expected quantity of the inventory for the respective stores against the tasks that were created after the plan is implemented.
+      isCorrect: true
+      explanation: Correct. The custom plug-in code in this lab updates the product prices and expected quantity of the product for the respective stores against the tasks that were created after the plan is implemented.

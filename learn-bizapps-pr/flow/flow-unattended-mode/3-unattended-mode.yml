@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-unattended-mode.3-unattended-mode 
+title: Create a new cloud flow that calls an existing flow in unattended mode
+metadata: 
+  title: Create a new cloud flow that calls an existing flow in unattended mode 
+  description: Learn how to create a new cloud flow that calls an existing flow in unattended mode. 
+  ms.date: 11/01/2021
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-unattended-mode.md)] 

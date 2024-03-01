@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-bizapps.unified-authoring-online-workshop
+metadata:
+ title: "Authoring 101: writing in unified authoring - Online workshop"
+ description: Learn about unified authoring.
+ ms.date: 01/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: copilot-studio
+ ms.collection: bap-ai-copilot
+title: "Authoring 101: writing in unified authoring - Online workshop"
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn the fundamentals of message and question nodes, become familiar with the system topics, and learn how to use variables.
+abstract: | 
+    In this module, you'll: 
+    - Learn the fundamentals of the message and question nodes.
+    - Become familiar with the system topics and their behavior.
+    - Discover the fundamentals of entities and slot filling.
+    - Learn how to use variables in Microsoft Copilot Studio.
+    - Explore the extensibility capability, including Power Fx and extended node properties.
+prerequisites: |
+    Complete the Plan your first chatbot and Create your first chatbot modules.
+
+    This module is designed for use with the Microsoft Copilot Studio in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00&search=power%20virtual%20agents).
+iconUrl: /learn/achievements/unified-authoring-online-workshop.svg 
+levels: 
+- beginner 
+roles: 
+- maker 
+- functional-consultant 
+products: 
+ 
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn-bizapps.unified-authoring-online-workshop.introduction
+- learn-bizapps.unified-authoring-online-workshop.setup
+- learn-bizapps.unified-authoring-online-workshop.entities
+- learn-bizapps.unified-authoring-online-workshop.variables
+- learn-bizapps.unified-authoring-online-workshop.variables-conditions
+- learn-bizapps.unified-authoring-online-workshop.topic-nodes
+- learn-bizapps.unified-authoring-online-workshop.question-nodes
+- learn-bizapps.unified-authoring-online-workshop.rich-text
+- learn-bizapps.unified-authoring-online-workshop.message-variations
+- learn-bizapps.unified-authoring-online-workshop.productivity-features
+- learn-bizapps.unified-authoring-online-workshop.speech-authoring
+- learn-bizapps.unified-authoring-online-workshop.code-view-power-function
+- learn-bizapps.unified-authoring-online-workshop.check
+- learn-bizapps.unified-authoring-online-workshop.summary
+badge:
+  uid: learn-bizapps.unified-authoring-online-workshop.badge

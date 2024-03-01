@@ -1,0 +1,51 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-effective-user-experience 
+metadata: 
+ title: Enhance Power BI report designs for the user experience
+ description: Enhance Power BI report designs for the user experience
+ ms.date: 10/11/2021  
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi 
+title: Enhance Power BI report designs for the user experience
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  The features and capabilities that are covered in this module will help you enhance your reports to make them more refined. 
+abstract: |  
+    In this module, you will: 
+    - 	Design reports to show details.
+    -   Design reports to highlight values.
+    -   Design reports that behave like apps.
+    -   Work with bookmarks.
+    -   Design reports for navigation.
+    -   Work with visual headers.
+    -   Design reports with built-in assistance.
+    -   Use specialized visuals.
+prerequisites: An experience creating reports and an understanding of the audience and purpose of an analytical report
+iconUrl: /training/achievements/power-bi-effective-user-experience.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- dynamics-365 
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-effective-user-experience.1-introduction 
+- learn-bizapps.power-bi-effective-user-experience.2-design-reports 
+- learn-bizapps.power-bi-effective-user-experience.3-design-app-reports 
+- learn-bizapps.power-bi-effective-user-experience.4-bookmarks 
+- learn-bizapps.power-bi-effective-user-experience.5-design-navigation-reports 
+- learn-bizapps.power-bi-effective-user-experience.6-visual-headers 
+- learn-bizapps.power-bi-effective-user-experience.7-design-built-in-assistance 
+- learn-bizapps.power-bi-effective-user-experience.tune-reports
+- learn-bizapps.power-bi-effective-user-experience.reports-mobile
+- learn-bizapps.power-bi-effective-user-experience.lab
+- learn-bizapps.power-bi-effective-user-experience.9-check 
+- learn-bizapps.power-bi-effective-user-experience.10-summary 
+badge: 
+  uid: learn-bizapps.power-bi-effective-user-experience.badge

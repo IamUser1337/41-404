@@ -1,0 +1,49 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-intro 
+metadata: 
+ title: Introduction to Power BI for Tableau users
+ description: This module explores how Microsoft Power BI and Tableau connect to data and help you build visualizations. 
+ ms.date: 06/27/2023 
+ author: ajburnle  
+ manager: kfollis 
+ ms.author: ajburnle  
+ ms.topic: module
+ ms.service: powerbi
+ ms.collection: get-started
+title: Introduction to Power BI for Tableau users
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  How does Microsoft Power BI differ from Tableau? What do these two tools share in common? Let's explore how they connect to data and help you build visualizations. 
+abstract: |  
+    After completing this module, you'll be able to: 
+    - Describe the Power BI Desktop interface.
+    - Connect to your data in Power BI Desktop by using the DirectQuery and Import methods.
+    - Describe the importance of relationships in your Power BI data models.
+    - Build a visualization in Power BI Desktop.
+    - Apply conditional formatting to help analysts detect critical issues and identify patterns in data.
+    - Discover differences and similarities between Tableau and Power BI concepts.
+prerequisites: Access to Power BI service, familiarity with Tableau, and an understanding of key Tableau concepts such as connecting to data, building visualizations, and knowing the difference between extracts versus live connections
+iconUrl: /training/achievements/power-bi-tableau-intro.svg  
+levels:  
+- beginner
+roles:  
+- business-user
+- maker
+products:  
+- power-platform 
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-tableau-intro.1-introduction 
+- learn-bizapps.power-bi-tableau-intro.2-workspace 
+- learn-bizapps.power-bi-tableau-intro.3-terminology 
+- learn-bizapps.power-bi-tableau-intro.4-relationships 
+- learn-bizapps.power-bi-tableau-intro.5-calculate 
+- learn-bizapps.power-bi-tableau-intro.6-build-visual 
+- learn-bizapps.power-bi-tableau-intro.7-conditional 
+- learn-bizapps.power-bi-tableau-intro.8-performance 
+- learn-bizapps.power-bi-tableau-intro.9-check 
+- learn-bizapps.power-bi-tableau-intro.10-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-intro.badge

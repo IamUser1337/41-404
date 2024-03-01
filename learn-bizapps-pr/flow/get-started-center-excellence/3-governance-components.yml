@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-center-excellence.3-governance-components
+title: Set up governance components
+metadata:
+  title: Set up governance components
+  description: Learn about setting up governance components.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-governance-components.md)]

@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-filters.8-check
+title: 'Check your knowledge '
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](includes/8-check.md)]
+quiz:
+  title: "Knowledge check"
+  questions:
+  - content: "Which of the following capabilities is unique to the Filters pane?"
+    choices:
+    - content: "Relative date filtering"
+      isCorrect: false
+      explanation: "Incorrect. Search can be achieved with slicers also."
+    - content: "Single selection"
+      isCorrect: false
+      explanation: "Incorrect. Single selection can be achieved with slicers also."
+    - content: "Top N filtering"
+      isCorrect: true
+      explanation: "Correct. Top N filtering can only be achieved in the Filters pane."
+  - content: "Which of the following capabilities is unique to slicers?"
+    choices:
+    - content: "Horizontal orientation"
+      isCorrect: true
+      explanation: "Correct. Horizontal orientation can only be achieved with slicers."
+    - content: "Relative date filtering"
+      isCorrect: false
+      explanation: "Incorrect. Search can be achieved in the Filters pane also."
+    - content: "Top N filtering"
+      isCorrect: false
+      explanation: "Incorrect. Slicers can’t achieve Top N filtering."
+  - content: "At the Contoso Skateboard Company, John is responsible for developing a report for the sales director. One report page includes a date slicer and many visuals. When the sales director uses the slicer, all but one of the visuals, a Decomposition Tree visual, should receive the slicer filters. How should John configure the requirement?"
+    choices:
+    - content: "Add a bookmark that doesn’t capture the state of the Decomposition Tree visual."
+      isCorrect: false
+      explanation: "Incorrect. A bookmark can’t be invoked when a report consumer interacts with the slicer."
+    - content: "Add a visual-level filter to all but the Decomposition Tree visual."
+      isCorrect: false
+      explanation: "Incorrect. This configuration would apply the filter to the one visual that should not be filtered. The requirement is for the slicer to filter the page."
+    - content: "Edit visual interactions."
+      isCorrect: true
+      explanation: "Correct. By editing visual interactions, John can restrict the slicer from filtering the Decomposition Tree visual."

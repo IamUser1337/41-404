@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-prediction.summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of getting started with AI Builder prediction
+  ms.date: 06/30/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/summary.md)] 

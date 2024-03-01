@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.approvals-kit-workshop.contoso-coffee-scenario 
+title: Work with Contoso Coffee
+metadata: 
+  title: Work with Contoso Coffee
+  description: Learn about the Contoso Coffee scenario.
+  ms.date: 11/02/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/contoso-coffee-scenario.md)] 

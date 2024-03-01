@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.perform-custom-updates 
+metadata: 
+  title: Perform custom updates in a Power Apps canvas app
+  description: With some Power Apps canvas apps, a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley  
+  ms.topic: module
+  
+title: Perform custom updates in a Power Apps canvas app 
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  With some Power Apps canvas apps a form is not the solution.  This module will focus on how to perform custom updates when your data is not in a form. 
+abstract: |  
+    In this module, you will: 
+    - Use the Patch function to update your data
+    - Understand how the Defaults function is used to create new records with Patch
+    - Utilize the Remove and RemoveIf functions to delete records
+    - Determine whether to use Clear and Collect or ClearCollect in their scenario
+prerequisites: A basic understanding of how to create a Power Apps canvas app.       
+iconUrl: /training/achievements/perform-custom-updates.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+- maker  
+products:  
+- power-platform
+- power-apps
+subjects:
+- data-management
+units:
+- learn-bizapps.perform-custom-updates.1-more-than-forms 
+- learn-bizapps.perform-custom-updates.2-patch-function 
+- learn-bizapps.perform-custom-updates.3-deleting-records 
+- learn-bizapps.perform-custom-updates.4a-exercise-patch
+- learn-bizapps.perform-custom-updates.4-knowledge-check 
+- learn-bizapps.perform-custom-updates.5-summary 
+badge: 
+  uid: learn-bizapps.perform-custom-updates.badge

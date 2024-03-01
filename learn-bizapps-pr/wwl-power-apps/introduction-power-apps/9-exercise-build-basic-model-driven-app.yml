@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-apps.exercise-build-basic-model-driven-app
+title: 'Exercise: Build a basic model-driven app'
+metadata:
+  title: 'Exercise: Build a basic model-driven app'
+  description: "Hands-on exercise building a model-driven app."
+  ms.date: 02/20/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+  [!include[](includes/9-exercise-build-basic-model-driven-app.md)]

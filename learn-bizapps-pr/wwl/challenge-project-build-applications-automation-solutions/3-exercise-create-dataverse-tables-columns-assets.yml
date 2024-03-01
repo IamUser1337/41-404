@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-build-applications-automation-solutions.exercise-create-dataverse-tables-columns-assets
+title: Exercise - Create Microsoft Dataverse tables, columns and additional assets
+metadata:
+  title: Exercise - Create Microsoft Dataverse tables, columns and additional assets
+  description: "Exercise - Create Microsoft Dataverse tables, columns and additional assets"
+  ms.date: 06/29/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 45
+content: |
+  [!include[](includes/3-exercise-create-dataverse-tables-columns-assets.md)]

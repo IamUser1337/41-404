@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-fundraising-engagement.3-fundraising-engagement 
+title: Get introduced to Fundraising and Engagement
+metadata: 
+  title: Get introduced to Fundraising and Engagement
+  description: Learn about Fundraising and Engagement.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-fundraising-engagement.md)] 

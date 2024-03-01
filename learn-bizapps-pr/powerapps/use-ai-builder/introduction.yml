@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-ai-builder.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to using AI Builder models in Power Apps
+  ms.date: 06/23/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-visuals.10-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 3/31/2021 
+ author: mihart 
+ manager: kfollis 
+ ms.author: mihart 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What benefit does a bookmark provide in Power BI?
+    choices: 
+    - content: It captures a specific view of a report page and allows you to navigate between multiple states in your report.
+      isCorrect: true 
+      explanation: Bookmarks are a great way to create a navigation system in your reports.
+    - content: It only allows you to mark a specific portion of your report.
+      isCorrect: false 
+      explanation: It allows you to mark a specific state with your report and lets you navigate between multiple states.
+    - content: It only allows the user to favorite specific reports in your workbook.
+      isCorrect: false 
+      explanation: It does allow you to create a bookmark, which could allow you to favorite specific reports, but it does so much more than that; it allows you to mark a specific state and navigate between multiple states in your report.
+  - content: What part of Power BI allows users to expand their visual library by using visualizations created by third parties?
+    choices: 
+    - content: Power BI Q&A
+      isCorrect: false
+      explanation: The Q&A feature lets you explore your data in your own words.
+    - content: Power BI service
+      isCorrect: false 
+      explanation: The Power BI service is a cloud-based business analytics service that enables users to visualize and analyze data with greater speed, efficiency, and understanding.
+    - content: AppSource
+      isCorrect: true
+      explanation: The AppSource allows users to find the right visualization for their business needs.
+  - content: What are the steps to creating a visualization in Power BI?
+    choices: 
+    - content: Start with the data, select the visual, and then apply formatting.
+      isCorrect: false
+      explanation: This is the way that Tableau analysts are used to creating visualizations.
+    - content: Start with the visual, apply formatting, and then select the data.
+      isCorrect: false 
+      explanation: It doesn't make sense to apply formatting before selecting the data.
+    - content: Start with the visual, select the data, and then apply formatting.
+      isCorrect: true
+      explanation: It's often easiest to start with the visual because each visual will contain different options. The visual itself guides what fields can be used and the subsequent formatting options.

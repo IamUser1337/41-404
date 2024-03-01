@@ -1,0 +1,1841 @@
+<svg width="981" height="405" aria-owns="chrome1" data-stacking-context="true" version="1.1" viewBox="686 462 981 405" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g class="chrome performance-mode-normal" mask="url(#je)" aria-owns="head1 exp-density-view1" data-stacking-context="true" data-tag="html" data-z-index="auto">
+  <g data-stacking-layer="childStackingContextsWithStackLevelZeroAndPositionedDescendantsWithStackLevelZero">
+   <g class="exp-density-view hide-messages power-bar-visible hybrid-layout-enabled initialized loadingscreendone" mask="url(#is)" aria-owns="svg1 svg2 script34 outer-shell1 promote-desktop1 promote-mobile1 script35 aria-live-assertive1 aria-live-polite1 acc-hidden-element1 ExperienceContainerManagerMountElement1" data-stacking-context="true" data-tag="body" data-z-index="0" role="document">
+    <g data-stacking-layer="rootBackgroundAndBorders">
+     <rect width="1920" height="963" fill="#fff"/>
+    </g>
+    <mask id="is">
+     <rect width="1920" height="963" fill="#fff"/>
+     <rect y="48" width="1920" height="915" fill="#fff"/>
+     <rect x="-1e4" y="963" width="1" height="1" fill="#fff"/>
+     <rect x="-1e4" y="963" width="1" height="1" fill="#fff"/>
+     <rect y="963" width="0" height="0" fill="#fff"/>
+    </mask>
+    <g mask="url(#au)" aria-owns="icons-people-filled1 icons-more1 icons-more-filled1 icons-chat1 icons-close1 icons-filter1 icons-filter-filled1 icons-unread1 icons-unread-filled1 icons-mention1 icons-mention-filled1 icons-channel-icon1 icons-channel-icon-filled1 icons-reply1 icons-reply-filled1 icons-bookmarked1 icons-bookmark1 icons-arrow-left1 icons-like1 icons-liked1 icons-emoji1 icons-reactions-angry1 icons-reactions-angry-filled1 icons-reactions-angry-filled-fluent1 icons-reactions-generic1 icons-reactions-generic-filled1 icons-reactions-generic-filled-fluent1 icons-reactions-heart1 icons-reactions-heart-filled1 icons-reactions-heart-filled-fluent1 icons-reactions-laugh1 icons-reactions-laugh-filled1 icons-reactions-laugh-filled-fluent1 icons-reactions-like1 icons-reactions-like-filled1 icons-reactions-like-filled-fluent1 icons-reactions-sad1 icons-reactions-sad-filled1 icons-reactions-sad-filled-fluent1 icons-reactions-wow1 icons-reactions-wow-filled1 icons-reactions-wow-filled-fluent1 icons-apps1 icons-apps-filled1 icons-follow-channel1 icons-follow-channel-filled1 icons-teams1 icons-teams-filled1 icons-team-create1 icons-team-create-filled1 icons-promoted1 icons-promoted-filled1 icons-inferred1 icons-inferred-filled1 icons-feedback1 icons-feedback-filled1 icons-trending1 icons-trending-filled1 icons-voicemail1 icons-voicemail-filled1 icons-call-missed1 icons-call-missed-filled1 icons-call-alert1 icons-call-alert-filled1 icons-no-chat1 icons-redbang-unfilled1 icons-redbang-filled1 icons-attachment1 icons-attachment-filled1 icons-lock-181 icons-lock-141 icons-archive1 icons-archive-filled1 icons-urgent1 icons-urgent-filled1 icons-faq1 icons-faq-filled1 icons-unhide1 icons-calendar1 icons-calendar-filled1 icons-tasks-activity1 icons-tasks-activity-filled1 icons-muted1 icons-shifts-activity1 icons-shifts-activity-filled1 icons-cross-post1 icons-cross-post-filled1 icons-person-add1 icons-person-add-filled1 icons-unfollow-channel1 icons-unfollow-channel-filled1 icons-clock1 icons-clock-filled1 icons-clock-large1 icons-flag1 icons-flag-filled1 icons-big-flag1 icons-bell-muted1 icons-bell-muted-filled1 icons-bell1 icons-bell-filled1" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="au">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+     <g mask="url(#dy)" aria-owns="path1" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dy">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#eb)" aria-owns="path2 path3 path4" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="eb">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ec)" aria-owns="path5 path6 path7" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ec">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fe)" aria-owns="path8" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fe">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fa)" aria-owns="path9" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fa">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ep)" aria-owns="path10" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ep">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#eq)" aria-owns="path11" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="eq">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cg)" aria-owns="path12 path13" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cg">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ch)" aria-owns="path14" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ch">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ed)" aria-owns="path15" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ed">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ee)" aria-owns="path16" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ee">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ff)" aria-owns="path17 path18 path19 path20" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ff">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fg)" aria-owns="path21" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fg">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cv)" aria-owns="path22" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cv">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cw)" aria-owns="path23" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cw">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fn)" aria-owns="path24" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fn">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fo)" aria-owns="path25" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fo">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fw)" aria-owns="path26" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fw">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ei)" aria-owns="path27" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ei">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#eh)" aria-owns="path28" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="eh">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ev)" aria-owns="path29" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ev">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dr)" aria-owns="path30 path31 path32 path33" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dr">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ds)" aria-owns="path34 path35 path36 path37 path38 path39 path40 path41 path42 path43 path44 path45 path46 path47 defs1" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ds">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dt)" aria-owns="defs2 path48 path49 path50 path51 path52 path53 path54 path55 circle1 circle2 path56 path57 path58 path59 path60 path61" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dt">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#do)" aria-owns="path62" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="do">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dp)" aria-owns="path63 path64 path65 path66 path67 path68 path69 defs3" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dp">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dq)" aria-owns="g2 path71 path72 path73 path74 g3 g4 g5 rect6 rect7 g6 rect9 g7 g8 g9 path76 path77 g10 g11 g12 defs4" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+      <mask id="dq">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dl)" aria-owns="path78" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dl">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dm)" aria-owns="path79" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dm">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dn)" aria-owns="path80 path81 path82 path83 path84 path85 path86 g13 g14 g15 g16 g17 g18 defs5" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dn">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#di)" aria-owns="path90 path91 path92 path93" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="di">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dj)" aria-owns="path94 path95 path96 path97 path98 path99 path100 path101 path102 defs6" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dj">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dk)" aria-owns="path103 path104 path105 path106 path107 g19 path110 path111 g20 path114 path115 defs7" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dk">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#df)" aria-owns="path116" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="df">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dg)" aria-owns="path117 path118 path119 path120 path121 path122 path123 defs8" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dg">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dh)" aria-owns="g21 path125 path126 path127 path128 g22 g23 g24 rect24 rect25 g25 rect27 g26 g27 g28 path130 path131 g29 g30 g31 defs9" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dh">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dc)" aria-owns="path132 path133 path134 path135" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dc">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dd)" aria-owns="path136 path137 path138 path139 path140 path141 path142 path143 path144 path145 path146 path147 path148 path149 defs10" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dd">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#de)" aria-owns="path150 path151 path152 circle3 circle4 path153 path154 path155 path156 defs11" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="de">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cz)" aria-owns="path157 path158 path159 path160" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cz">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#da)" aria-owns="path161 path162 path163 path164 path165 path166 path167 path168 path169 path170 defs12" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="da">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#db)" aria-owns="path171 path172 path173 circle5 circle6 path174 path175 path176 rect37 defs13" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="db">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fz)" aria-owns="path177" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fz">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ga)" aria-owns="path178" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ga">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#el)" aria-owns="path179 path180 path181 path182 path183 path184" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="el">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#em)" aria-owns="path185" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="em">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cn)" aria-owns="path186" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cn">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#co)" aria-owns="path187" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="co">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cp)" aria-owns="path188 path189 path190 path191" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cp">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cq)" aria-owns="path192" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cq">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#du)" aria-owns="path193" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="du">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dv)" aria-owns="path194" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dv">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ej)" aria-owns="icons-unfilled1 icons-filled1" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ej">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ek)" aria-owns="path201 path202" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ek">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#er)" aria-owns="icons-unfilled2 icons-filled2" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="er">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#es)" aria-owns="path209 path210" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="es">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cl)" aria-owns="path211" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cl">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cm)" aria-owns="path212" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cm">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cc)" aria-owns="path213 path214" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cc">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cd)" aria-owns="path215" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cd">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fh)" aria-owns="path216 path217 path218" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fh">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fi)" aria-owns="path219" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fi">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fj)" aria-owns="path220 path221 path222" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fj">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fk)" aria-owns="path223" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fk">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dz)" aria-owns="path224 path225" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dz">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cx)" aria-owns="path226" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cx">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cy)" aria-owns="path227" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cy">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fu)" aria-owns="icons-unfilled3 icons-filled3" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fu">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fv)" aria-owns="path228" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fv">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ef)" aria-owns="path229" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ef">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#eg)" aria-owns="path230" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="eg">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fx)" aria-owns="path231" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fx">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fy)" aria-owns="path232" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fy">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ce)" aria-owns="path233 path234 path235 path236" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ce">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cf)" aria-owns="path237" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cf">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#et)" aria-owns="path238" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="et">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#eu)" aria-owns="path239" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="eu">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ci)" aria-owns="path240 path241" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ci">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="app-svg icons-calendar app-bar-icons-fill-colors" mask="url(#fl)" aria-owns="icons-unfilled4 icons-filled4" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fl">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="app-svg icons-calendar app-bar-icons-fill-colors" mask="url(#fm)" aria-owns="path250 path251" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fm">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cr)" aria-owns="path252" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cr">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cs)" aria-owns="path253" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cs">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g class="app-svg icons-bell app-bar-icons-fill-colors" mask="url(#ea)" aria-owns="icons-unfilled5" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+      <mask id="ea">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ct)" aria-owns="path256 path257 path258 path259 path260" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ct">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cu)" aria-owns="path261" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cu">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ey)" aria-owns="icons-default-fill1" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ey">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ez)" aria-owns="path262" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ez">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dw)" aria-owns="path263" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dw">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#dx)" aria-owns="path264" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="dx">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#cj)" aria-owns="path265 path266 path267 path268 path269 path270" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="cj">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ck)" aria-owns="path271" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ck">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fb)" aria-owns="path272" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fb">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fd)" aria-owns="path273" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fd">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fc)" aria-owns="path274" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fc">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#en)" aria-owns="path275" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="en">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#eo)" aria-owns="path276" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="eo">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fp)" aria-owns="path277" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fp">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fr)" aria-owns="path278" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fr">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fs)" aria-owns="path279" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fs">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#fq)" aria-owns="path280" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="fq">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+     <g mask="url(#ft)" aria-owns="path281" data-stacking-context="true" data-tag="symbol" data-z-index="auto" role="presentation">
+      <mask id="ft">
+       <rect width="0" height="0" fill="#fff"/>
+      </mask>
+     </g>
+    </g>
+    <g mask="url(#at)" aria-owns="defs14" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+     <mask id="at">
+      <rect width="0" height="0" fill="#fff"/>
+     </mask>
+    </g>
+    <g class="outer-shell" mask="url(#bv)" aria-owns="div1 wrapper1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+     <mask id="bv">
+      <rect width="1920" height="963" fill="#fff"/>
+      <rect y="48" width="1920" height="915" fill="#fff"/>
+     </mask>
+     <g class="ts-main no-right-rail right-rail-ui-updates" mask="url(#a)" aria-owns="full-screen-hybrid-content-viewport1 media-preview1 app-left-wrapper1 page-content-wrapper1 div7" data-stacking-context="true" data-tag="div" data-z-index="auto">
+      <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+       <g class="ts-left-rail-wrapper ts-main-flex app-full-viewport-height pull-left left-rail-z-index hybrid-passthrough" mask="url(#x)" aria-owns="ts-left-rail1 file-download-link-popup1 file-open-native-link1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+        <mask id="x">
+         <rect x="68" y="48" width="360" height="915" fill="#fff"/>
+        </mask>
+       </g>
+       <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+        <g class="ts-main-flex app-bar app-bar-width pull-left app-full-viewport-height app-bar-offset" aria-owns="teams-app-bar1" data-stacking-context="true" data-tag="app-bar" data-z-index="3">
+         <g class="app-bar-items app-bar-width app-bar-app-header-bar-common left-rail-box-shadow-overlay simple-scrollbar apps-overflow-enabled" mask="url(#am)" aria-label="App bar, use up or down arrow keys to navigate through the controls" aria-owns="span10 flex-fill1 app-icon-filter-svg1 tse-scrollbar4" data-stacking-context="true" data-tag="nav" data-z-index="auto" role="navigation">
+          <mask id="am">
+           <rect y="48" width="68" height="915" fill="#fff"/>
+           <rect x="60" y="48" width="8" height="915" fill="#fff"/>
+           <rect x="52" y="48" width="16" height="915" fill="#fff"/>
+          </mask>
+          <g class="app-icon-filter-svg" mask="url(#kd)" aria-owns="app-icon-filter1 app-icon-filter-selected1 app-icon-filter-hover1" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+           <mask id="kd">
+            <rect width="0" height="0" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#kn)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kn">
+            <rect x="5" y="80" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-bell app-bar-icons-fill-colors" mask="url(#jn)" opacity=".9" aria-owns="icons-default-fill9 icons-default-fill10" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jn">
+            <rect x="14" y="49" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#km)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="km">
+            <rect x="5" y="136" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-chat" mask="url(#jm)" opacity=".9" aria-owns="icons-default-fill11 icons-default-fill12" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jm">
+            <rect x="14" y="105" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#kl)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kl">
+            <rect x="5" y="192" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(91, 95, 199)" dominant-baseline="text-after-edge" fill="rgb(91, 95, 199)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(91, 95, 199)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-teams" mask="url(#jl)" aria-owns="icons-default-fill13 icons-default-fill14" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jl">
+            <rect x="14" y="161" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#kk)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kk">
+            <rect x="5" y="248" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-calendar app-bar-icons-fill-colors" mask="url(#ka)" opacity=".9" aria-owns="icons-default-fill15" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="ka">
+            <rect x="14" y="217" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#kj)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kj">
+            <rect x="5" y="304" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-call app-bar-icons-fill-colors" mask="url(#jy)" opacity=".9" aria-owns="icons-default-fill16" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jy">
+            <rect x="14" y="273" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#ki)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="ki">
+            <rect x="5" y="360" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-document app-bar-icons-fill-colors" mask="url(#jx)" opacity=".9" aria-owns="icons-document1 icons-document-download1 use2 use3" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jx">
+            <rect x="14" y="329" width="40" height="40" fill="#fff"/>
+           </mask>
+           <g mask="url(#ew)" aria-owns="icons-default-fill17 icons-default-fill18 icons-default-fill19" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+            <mask id="ew">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+           </g>
+           <g mask="url(#ex)" aria-owns="circle-border1 icons-white-fill1 download1 icons-default-fill20" data-stacking-context="true" data-tag="symbol" data-z-index="auto">
+            <mask id="ex">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+           </g>
+          </g>
+          <g class="app-icon ts-image app-icon-with-filter" mask="url(#kc)" data-stacking-context="true" data-tag="img" data-z-index="auto" role="presentation">
+           <mask id="kc">
+            <rect x="24" y="394" width="20" height="20" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#kh)" aria-hidden="true" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kh">
+            <rect x="5" y="415" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <title>More added apps</title>
+          <g class="app-svg icons-more app-bar-extra-icons-fill-colors" mask="url(#jw)" opacity=".9" aria-owns="icons-default-fill21" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jw">
+            <rect x="14" y="448" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <title>More added apps</title>
+          <g class="app-bar-text" mask="url(#kg)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kg">
+            <rect x="5" y="528" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-apps app-bar-extra-icons-fill-colors" mask="url(#jv)" opacity=".9" aria-owns="icons-default-fill22" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jv">
+            <rect x="14" y="497" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="app-bar-text" mask="url(#kf)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="kf">
+            <rect x="5" y="939" width="58" height="14.281" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="10px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="optimizelegibility" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+          <g class="app-svg icons-faq app-bar-extra-icons-fill-colors" mask="url(#ju)" opacity=".9" aria-owns="icons-default-fill23 icons-default-fill24" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="ju">
+            <rect x="14" y="908" width="40" height="40" fill="#fff"/>
+           </mask>
+          </g>
+          <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+           <g class="tse-scrollbar simple-scrollbar" mask="url(#o)" aria-owns="drag-handle4" data-stacking-context="true" data-tag="div" data-z-index="99">
+            <mask id="o">
+             <rect x="52" y="48" width="16" height="915" fill="#fff"/>
+            </mask>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+      <mask id="a">
+       <rect y="48" width="1920" height="915" fill="#fff"/>
+       <rect y="48" width="1920" height="915" fill="#fff"/>
+      </mask>
+      <g class="app-notification-banner" mask="url(#kb)" data-stacking-context="true" data-tag="div" data-z-index="auto" role="region">
+       <mask id="kb">
+        <rect x="428" y="48" width="1492" height="0" fill="#fff"/>
+       </mask>
+      </g>
+      <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+       <g class="ts-draggable-multi-call-list-container ng-hide" aria-owns="ts-draggable-multi-call-list-header1 multi-call-list1" data-stacking-context="true" data-tag="div" data-z-index="10000">
+        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+         <g class="ts-draggable-multi-call-list-header" opacity=".75" aria-owns="icon-float-center1" data-stacking-context="true" data-tag="div" data-z-index="1100">
+          <g class="app-svg icons-gripper" mask="url(#jt)" aria-owns="g32" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+           <mask id="jt">
+            <rect width="0" height="0" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+     <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+      <g aria-owns="app-header-bar2" data-stacking-context="true" data-tag="app-header-bar" data-z-index="10000">
+       <title>Settings and more</title>
+       <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+        <g class="popover app-header-bar-saved-coachmark" aria-owns="span8 app-svg6 span9" data-stacking-context="true" data-tag="div" data-z-index="10000000">
+         <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+          <g class="app-svg icons-bookmarked icon-show-on-hover icons-default-fill" mask="url(#jo)" aria-owns="use1" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+           <mask id="jo">
+            <rect width="0" height="0" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+        </g>
+        <g class="autosuggest-dropdown ng-hide" mask="url(#jh)" aria-owns="autosuggest-history1 autosuggest-scroll1" data-stacking-context="true" data-tag="div" data-z-index="2147483647">
+         <mask id="jh">
+          <rect width="0" height="0" fill="#fff"/>
+         </mask>
+         <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+          <g class="angucomplete-dropdown autosuggest-flex-row people-suggestions-row" aria-owns="autosuggest-id-01 autosuggest-id-11 autosuggest-id-21 autosuggest-id-31 autosuggest-id-41" data-stacking-context="true" data-tag="ul" data-z-index="9999" role="list">
+           <g class="ts-sym autosuggest-row autosuggest-recent autosuggest-button autosuggest-profile-button" mask="url(#w)" aria-labelledby="" aria-owns="profile-img1 person-name-container1" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+            <mask id="w">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+            <g class="profile-img profile-picture-person" mask="url(#bn)" aria-hidden="true" aria-owns="profile-picture1" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="bn">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+             <g class="profile-img default-profile-image" mask="url(#bm)" aria-label="Profile picture of Eric Sauvé (You)." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+              <mask id="bm">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+            </g>
+            <g class="truncated-person-name" mask="url(#ag)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="ag">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+            <g class="truncated-person-name" mask="url(#af)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="af">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+           </g>
+           <g class="ts-sym autosuggest-row autosuggest-recent autosuggest-button autosuggest-profile-button" mask="url(#v)" aria-labelledby="" aria-owns="profile-img3 person-name-container2" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+            <mask id="v">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+            <g class="profile-img profile-picture-person" mask="url(#bl)" aria-hidden="true" aria-owns="profile-picture2" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="bl">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+             <g class="profile-img" mask="url(#bk)" aria-label="Profile picture of BUg2 License." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+              <mask id="bk">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+            </g>
+            <g class="truncated-person-name" mask="url(#ae)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="ae">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+            <g class="truncated-person-name" mask="url(#ad)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="ad">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+           </g>
+           <g class="ts-sym autosuggest-row autosuggest-recent autosuggest-button autosuggest-profile-button" mask="url(#u)" aria-labelledby="" aria-owns="profile-img5 person-name-container3" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+            <mask id="u">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+            <g class="profile-img profile-picture-person" mask="url(#bj)" aria-hidden="true" aria-owns="profile-picture3" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="bj">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+             <g class="profile-img" mask="url(#bi)" aria-label="Profile picture of Mon Précieux." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+              <mask id="bi">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+            </g>
+            <g class="truncated-person-name" mask="url(#ac)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="ac">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+            <g class="truncated-person-name" mask="url(#ab)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="ab">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+           </g>
+           <g class="ts-sym autosuggest-row autosuggest-recent autosuggest-button autosuggest-profile-button" mask="url(#t)" aria-labelledby="" aria-owns="profile-img7 person-name-container4" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+            <mask id="t">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+            <g class="profile-img profile-picture-person" mask="url(#bh)" aria-hidden="true" aria-owns="profile-picture4" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="bh">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+             <g class="profile-img" mask="url(#bg)" aria-label="Profile picture of Peter Parker." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+              <mask id="bg">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+            </g>
+            <g class="truncated-person-name" mask="url(#aa)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="aa">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+            <g class="truncated-person-name" mask="url(#z)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="z">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+           </g>
+           <g class="ts-sym autosuggest-row autosuggest-recent autosuggest-button autosuggest-profile-button" mask="url(#s)" aria-labelledby="" aria-owns="profile-img9 person-name-container5" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+            <mask id="s">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+            <g class="profile-img profile-picture-person" mask="url(#bf)" aria-hidden="true" aria-owns="profile-picture5" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="bf">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+             <g class="profile-img" mask="url(#bo)" aria-label="Profile picture of Eric Sauve (Admin)." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+              <mask id="bo">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+            </g>
+            <g class="truncated-person-name" mask="url(#y)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="y">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+            <g class="truncated-person-name" mask="url(#ah)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+             <mask id="ah">
+              <rect width="0" height="0" fill="#fff"/>
+             </mask>
+            </g>
+           </g>
+          </g>
+         </g>
+         <g class="autosuggest-scroll simple-scrollbar" mask="url(#jf)" aria-owns="autosuggest_dropdown1 tse-scrollbar1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+          <mask id="jf">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+          <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+           <g class="tse-scrollbar simple-scrollbar" mask="url(#r)" aria-owns="drag-handle1" data-stacking-context="true" data-tag="div" data-z-index="10000">
+            <mask id="r">
+             <rect width="0" height="0" fill="#fff"/>
+            </mask>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g class="app-svg icons-waffle" mask="url(#jz)" aria-owns="icons-default-fill3" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+        <mask id="jz">
+         <rect x="18" y="6" width="32" height="32" fill="#fff"/>
+        </mask>
+       </g>
+       <g class="app-svg icons-teams-monochrome" mask="url(#js)" aria-owns="icons-default-fill4" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+        <mask id="js">
+         <rect x="66" y="6" width="32" height="32" fill="#fff"/>
+        </mask>
+       </g>
+       <g class="app-switcher-text single-line-truncation" mask="url(#jk)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+        <mask id="jk">
+         <rect x="106" y="14" width="113.03" height="20" fill="#fff"/>
+        </mask>
+        <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+       </g>
+       <g class="power-bar-hide" mask="url(#br)" aria-hidden="true" aria-owns="input-group1" data-stacking-context="true" data-tag="search-box" data-z-index="auto">
+        <mask id="br">
+         <rect x="756" y="40" width="1" height="1" fill="#fff"/>
+        </mask>
+       </g>
+       <g class="slash-command-box power-bar-hide" mask="url(#ba)" aria-hidden="true" aria-owns="input-group2" data-stacking-context="true" data-tag="slash-command-box" data-z-index="auto">
+        <mask id="ba">
+         <rect x="756" y="40" width="1" height="1" fill="#fff"/>
+        </mask>
+        <g class="slash-text-ruler" mask="url(#ax)" data-stacking-context="true" data-tag="pre" data-z-index="auto">
+         <mask id="ax">
+          <rect x="756" y="45" width="11" height="11" rx="2" ry="2" fill="#fff"/>
+         </mask>
+        </g>
+        <g class="slash-param-input-area horizontal ng-hide simple-scrollbar" mask="url(#ay)" aria-owns="slash-param-input1 tse-scrollbar2" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="ay">
+          <rect width="0" height="0" fill="#fff"/>
+         </mask>
+         <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+          <g class="tse-scrollbar simple-scrollbar horizontal" mask="url(#q)" aria-owns="drag-handle2" data-stacking-context="true" data-tag="div" data-z-index="99">
+           <mask id="q">
+            <rect width="0" height="0" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+        </g>
+        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+         <g class="slash-command-popover" mask="url(#az)" aria-owns="autosuggest-dropdown2" data-stacking-context="true" data-tag="slash-command-popover" data-z-index="10001">
+          <mask id="az">
+           <rect x="756" y="73" width="1" height="0" fill="#fff"/>
+          </mask>
+          <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+           <g class="autosuggest-dropdown remove-high-contrast-border" mask="url(#jg)" data-stacking-context="true" data-tag="div" data-z-index="2147483647">
+            <mask id="jg">
+             <rect x="756" y="73" width="1" height="0" fill="#fff"/>
+            </mask>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g class="power-bar-hide" mask="url(#bq)" aria-hidden="true" aria-owns="ts-input-extension-box1" data-stacking-context="true" data-tag="power-bar-at-command-selector" data-z-index="auto">
+        <mask id="bq">
+         <rect x="756" y="40" width="1" height="1" fill="#fff"/>
+        </mask>
+        <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+         <g class="input-extension-list vdi-occlusion" mask="url(#cb)" aria-owns="scrolled-content1 div4" data-stacking-context="true" data-tag="div" data-z-index="10001">
+          <mask id="cb">
+           <rect x="756" y="73" width="1" height="64" rx=".5" ry=".5" fill="#fff"/>
+           <rect x="741" y="73" width="16" height="64" fill="#fff"/>
+          </mask>
+          <g data-stacking-layer="inFlowNonInlineNonPositionedDescendants">
+           <g class="app-svg icons-apps icons-discover-apps" mask="url(#jq)" aria-owns="icons-default-fill7" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+            <mask id="jq">
+             <rect x="765" y="96" width="32" height="32" fill="#fff"/>
+            </mask>
+           </g>
+          </g>
+          <text color="rgb(0, 0, 0)" dominant-baseline="text-after-edge" fill="rgb(0, 0, 0)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(0, 0, 0)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          <g class="scrolled-content simple-scrollbar" mask="url(#bc)" aria-owns="aria-autosuggest-at-command1 tse-scrollbar3" data-stacking-context="true" data-tag="div" data-z-index="auto">
+           <mask id="bc">
+            <rect x="756" y="81" width="1" height="16" fill="#fff"/>
+            <rect x="741" y="73" width="16" height="64" fill="#fff"/>
+           </mask>
+           <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+            <g class="tse-scrollbar simple-scrollbar" mask="url(#p)" aria-owns="drag-handle3" data-stacking-context="true" data-tag="div" data-z-index="99">
+             <mask id="p">
+              <rect x="741" y="73" width="16" height="64" fill="#fff"/>
+             </mask>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+       </g>
+       <g class="app-svg icons-search" mask="url(#jr)" aria-owns="icons-default-fill5 icons-default-fill6" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+        <mask id="jr">
+         <rect x="756" y="8" width="32" height="32" fill="#fff"/>
+        </mask>
+       </g>
+       <g class="ts-sym me-profile me-profile-flex" mask="url(#bs)" aria-expanded="false" aria-haspopup="true" aria-label="Profile." aria-labelledby="" aria-owns="app-header-bar-tenant-name-v21 user-information-button1" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="0">
+        <mask id="bs">
+         <rect x="1781" width="133.06" height="48" fill="#fff"/>
+         <rect x="1896" y="24" width="10" height="20" fill="#fff"/>
+        </mask>
+        <g class="app-header-bar-tenant-name-v2 app-small-font single-line-truncation" mask="url(#ke)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="ke">
+          <rect x="1789" y="15" width="85.062" height="17.141" fill="#fff"/>
+         </mask>
+         <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(255, 255, 255)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+        </g>
+        <g class="profile-img-parent" mask="url(#bp)" aria-owns="profile-picture6 skype-status1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="bp">
+          <rect x="1874" y="8" width="32" height="32" rx="16" ry="16" fill="#fff"/>
+          <rect x="1896" y="24" width="10" height="20" fill="#fff"/>
+         </mask>
+         <g class="user-picture" mask="url(#b)" aria-label="Profile picture of Eric Sauvé." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+          <mask id="b">
+           <rect x="1874" y="8" width="32" height="32" fill="#fff"/>
+          </mask>
+         </g>
+         <title>Available</title>
+        </g>
+       </g>
+       <g class="app-svg icons-more app-bar-extra-icons-fill-colors" mask="url(#jp)" aria-owns="icons-default-fill8" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+        <mask id="jp">
+         <rect x="1749" y="8" width="32" height="32" fill="#fff"/>
+        </mask>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g mask="url(#jj)" aria-atomic="true" aria-live="assertive" data-stacking-context="true" data-tag="div" data-z-index="auto">
+     <mask id="jj">
+      <rect x="-1e4" y="963" width="1" height="1" fill="#fff"/>
+     </mask>
+    </g>
+    <g mask="url(#ji)" aria-atomic="true" aria-live="polite" data-stacking-context="true" data-tag="div" data-z-index="auto">
+     <mask id="ji">
+      <rect x="-1e4" y="963" width="1" height="1" fill="#fff"/>
+     </mask>
+    </g>
+    <g data-stacking-layer="childStackingContextsWithNegativeStackLevels">
+     <g class="overlay-hybrid" aria-owns="experience-container-524f2014-4ba8-4d9c-b7a6-454c49df2fc11" data-stacking-context="true" data-tag="div" data-z-index="-1">
+      <g class="embedded-electron-webview embedded-page-content" mask="url(#iq)" aria-owns="html1" data-stacking-context="true" data-tag="iframe" data-z-index="auto" role="group">
+       <mask id="iq">
+        <rect width="1920" height="963" fill="#fff"/>
+       </mask>
+       <g mask="url(#ca)" aria-owns="i2 bot-hexagon-clip-path-container1 app1 initialize-bootstrap-data1 cache-chunks1 2583021 script39 2757421 script40 3716191 script41 52731 script42 3066911 script43 4579181 script44 3664491 script45 4520691 script46 7687371 script47 788251 script48 5976851 script49 6334321 script50 5622321 script51 8347691 script52 3961691 script53 3181981 script54 966871 script55 1577921 script56 9017841 script57 8667591 script58 581221 script59 508401 script60 1132361 script61 1903961 script62 6928421 script63 8065851 script64 5100811 script65 5682651 script66 9915371 script67 9952071 script68 6068961 script69 1953891 script70 364911 script71 1475271 script72 main1 script73 script74 div36 div37 script75 script76 fluent-default-layer-host1 style36 i19" data-stacking-context="true" data-tag="body" data-z-index="auto" role="document">
+        <mask id="ca">
+         <rect width="1920" height="963" fill="#fff"/>
+         <rect x="-1" y="962" width="1" height="1" fill="#fff"/>
+         <rect x="-1" y="962" width="1" height="1" fill="#fff"/>
+        </mask>
+        <g mask="url(#iu)" aria-atomic="true" aria-live="polite" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="iu">
+          <rect x="-1" y="962" width="1" height="1" fill="#fff"/>
+         </mask>
+        </g>
+        <g mask="url(#it)" aria-atomic="true" aria-live="assertive" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="it">
+          <rect x="-1" y="962" width="1" height="1" fill="#fff"/>
+         </mask>
+        </g>
+        <g mask="url(#as)" aria-owns="defs15" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+         <mask id="as">
+          <rect width="0" height="0" fill="#fff"/>
+         </mask>
+        </g>
+        <g class="fui-Primitive ___u2iuyv0 f1ekcaio f1mpe4l3 fkrn0sh f179hvsh fmxx68s f1538868 f1p9o1ba f1sil6mw f1nbblvp fifp7yv f1ov4xf1 f1asdtw4 frkrog8 f1euv43f" mask="url(#bd)" aria-hidden="true" aria-owns="channel-list-context-menu1 channel-team-type-private1 channel-type-shared1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="bd">
+          <rect x="67" y="47" width="1" height="1" fill="#fff"/>
+         </mask>
+         <g fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb">
+          <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" unicode-bidi="isolate" user-select="auto"/>
+          <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" unicode-bidi="isolate" user-select="auto"/>
+          <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" unicode-bidi="isolate" user-select="auto"/>
+         </g>
+        </g>
+        <g class="fui-StyledText ___1014dwg fg38ndl f16wzh4i f1p9o1ba f1sil6mw f1cmbuwj fz5stix f12lm4oi" mask="url(#an)" aria-level="1" data-stacking-context="true" data-tag="h1" data-z-index="auto" role="heading">
+         <mask id="an">
+          <rect x="88" y="65" width="52.766" height="25.703" fill="#fff"/>
+         </mask>
+         <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="18px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+        </g>
+        <g class="fui-Button rlr4yyk ___1eu6g8f f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la" mask="url(#io)" aria-haspopup="true" aria-hidden="false" aria-label="More options" aria-labelledby="" aria-owns="fui-Button__icon1" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="io">
+          <rect x="312" y="62" width="32" height="32" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hq)" aria-hidden="true" aria-owns="path304" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hq">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#hd)" aria-hidden="true" aria-owns="path305" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hd">
+           <rect x="318" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk ___1eu6g8f f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la" mask="url(#in)" aria-label="Filter" aria-labelledby="" aria-owns="fui-Button__icon2" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="in">
+          <rect x="344" y="62" width="32" height="32" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hm)" aria-hidden="true" aria-owns="path306" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hm">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#gz)" aria-hidden="true" aria-owns="path307" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="gz">
+           <rect x="350" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk ___1eu6g8f f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la" mask="url(#by)" aria-haspopup="true" aria-label="Join or Create a Team" aria-labelledby="" aria-owns="fui-Button__icon3" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="by">
+          <rect x="376" y="62" width="32" height="32" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hl)" aria-hidden="true" aria-owns="path308" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hl">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#gy)" aria-hidden="true" aria-owns="path309" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="gy">
+           <rect x="382" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g data-stacking-layer="childStackingContextsWithNegativeStackLevels">
+         <g class="resize-triggers" mask="url(#be)" opacity="0" aria-owns="expand-trigger1 contract-trigger1" data-stacking-context="true" data-tag="div" data-z-index="-1">
+          <g data-stacking-layer="childStackingContextsWithNegativeStackLevels">
+           <g class="expand-trigger" mask="url(#ir)" aria-owns="div17" data-stacking-context="true" data-tag="div" data-z-index="-1">
+            <mask id="ir">
+             <rect x="72" y="109" width="352" height="854" fill="#fff"/>
+            </mask>
+           </g>
+           <g class="contract-trigger" mask="url(#jd)" aria-owns="span20" data-stacking-context="true" data-tag="div" data-z-index="-1">
+            <g data-stacking-layer="childStackingContextsWithNegativeStackLevels">
+             <g mask="url(#aw)" data-stacking-context="true" data-tag="span" data-z-index="-1">
+              <mask id="aw">
+               <rect x="-264" y="-729" width="672" height="1676" fill="#fff"/>
+              </mask>
+             </g>
+            </g>
+            <mask id="jd">
+             <rect x="72" y="109" width="352" height="854" fill="#fff"/>
+             <rect x="-264" y="-729" width="672" height="1676" fill="#fff"/>
+            </mask>
+           </g>
+          </g>
+          <mask id="be">
+           <rect x="72" y="109" width="352" height="854" fill="#fff"/>
+           <rect x="72" y="109" width="352" height="854" fill="#fff"/>
+           <rect x="72" y="109" width="352" height="854" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="ui-box df dg dh di dj dk dl dm dn do dp dq dr ds dt du dv virtual-tree-list-scroll-container" mask="url(#n)" aria-label=" " aria-owns="div15 div16" data-stacking-context="true" data-tag="div" data-z-index="auto" role="group" tabindex="-1">
+         <mask id="n">
+          <rect x="72" y="109" width="352" height="854" fill="#fff"/>
+          <rect x="72" y="109" width="352" height="190" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___46zdbv0 f1w7gpdv fez10in fg4l7m0 f1hu3pq6 f1u1hfzm f19f4twv f8yvrc6 f11d4kpn" mask="url(#hk)" aria-hidden="true" aria-owns="path310" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hk">
+           <rect x="76" y="124" width="12" height="12" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___z62aua0 fjseox fez10in fg4l7m0 f1hu3pq6 f1u1hfzm f19f4twv f8yvrc6 f11d4kpn" mask="url(#gx)" aria-hidden="true" aria-owns="path311" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="gx">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+         <g class="fui-Flex ___15xrdf8 f22iagw f122n59 fly5x3f f1l02sjl f1p9o1ba f1sil6mw" mask="url(#if)" aria-owns="fui-StyledText3" data-stacking-context="true" data-tag="div" data-z-index="auto">
+          <mask id="if">
+           <rect x="131" y="180" width="272" height="26" fill="#fff"/>
+          </mask>
+          <g class="fui-StyledText ___5k2ekq0 f71fsbu f11d4kpn fvm675v f1p9o1ba f1sil6mw f1cmbuwj fz5stix" mask="url(#gl)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="gl">
+            <rect x="131" y="183" width="47.562" height="20" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+         </g>
+         <g class="fui-Flex ___15xrdf8 f22iagw f122n59 fly5x3f f1l02sjl f1p9o1ba f1sil6mw" mask="url(#ib)" aria-owns="fui-StyledText5" data-stacking-context="true" data-tag="div" data-z-index="auto">
+          <mask id="ib">
+           <rect x="131" y="244" width="272" height="26" fill="#fff"/>
+          </mask>
+          <g class="fui-StyledText ___5k2ekq0 f71fsbu f11d4kpn fvm675v f1p9o1ba f1sil6mw f1cmbuwj fz5stix" mask="url(#gj)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="gj">
+            <rect x="131" y="247" width="47.562" height="20" fill="#fff"/>
+           </mask>
+           <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+         </g>
+         <g class="fui-Flex ___15xrdf8 f22iagw f122n59 fly5x3f f1l02sjl f1p9o1ba f1sil6mw" mask="url(#ia)" aria-owns="fui-StyledText6" data-stacking-context="true" data-tag="div" data-z-index="auto">
+          <mask id="ia">
+           <rect x="131" y="272" width="272" height="26" fill="#fff"/>
+          </mask>
+          <g class="fui-StyledText ___5k2ekq0 f71fsbu f11d4kpn fvm675v f1p9o1ba f1sil6mw f1cmbuwj fz5stix" mask="url(#gi)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+           <mask id="gi">
+            <rect x="131" y="275" width="76.078" height="20" fill="#fff"/>
+           </mask>
+           <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          </g>
+         </g>
+         <g class="fui-Button rlr4yyk ___1lpbt6z f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la f1at4ntt" mask="url(#ik)" aria-haspopup="true" aria-hidden="false" aria-label="More options" aria-labelledby="" aria-owns="fui-Button__icon6" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+          <mask id="ik">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+          <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hf)" aria-hidden="true" aria-owns="path320" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+           <mask id="hf">
+            <rect width="0" height="0" fill="#fff"/>
+           </mask>
+          </g>
+          <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#gs)" aria-hidden="true" aria-owns="path321" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+           <mask id="gs">
+            <rect width="0" height="0" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+         <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+          <g class="ui-tree__item ___spma280 fcbbff fvevi3p f1qbp2q0 fz9h3o6 fubbrps" aria-describedby=" channel-list-context-menu" aria-expanded="true" aria-level="2" aria-owns="ui-tree__title2" aria-setsize="2" data-stacking-context="true" data-tag="div" data-z-index="999" role="treeitem" tabindex="-1">
+           <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+            <g class="ui-tree__title ___13hf1mf fkhj508 f441oxj f19g0ac f122n59 f22iagw f1g0x7ka fhxju0i f1qch9an f1cnd47f f118ihkj fb4i99f f3bv7ky fgvdrvz fzkkow9 fcdblym fg706s2 fjik90z f1p3nwhy f11589ue f1q5o8ev f1pdflbu f1aa9q02 f16jpd5f f1jar5jt fyu767a fgr6219 f11qmguv f10jk5vf f1tyq0we f8v0z38 fzuuxzl f161q2fk f1k6fduh f11oyicx" aria-owns="fui-Icon-filled5 fui-Icon-regular5 fui-Flex5" data-stacking-context="true" data-tag="span" data-z-index="1">
+             <g class="fui-Icon-filled ___46zdbv0 f1w7gpdv fez10in fg4l7m0 f1hu3pq6 f1u1hfzm f19f4twv f8yvrc6 f11d4kpn" mask="url(#hj)" aria-hidden="true" aria-owns="path312" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+              <mask id="hj">
+               <rect x="76" y="154" width="12.469" height="14" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="fui-Icon-regular ___z62aua0 fjseox fez10in fg4l7m0 f1hu3pq6 f1u1hfzm f19f4twv f8yvrc6 f11d4kpn" mask="url(#gw)" aria-hidden="true" aria-owns="path313" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+              <mask id="gw">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="fui-Flex ___52mgke0 f22iagw f122n59 fly5x3f fs977oj ftcjrdy f1p9o1ba f1sil6mw" mask="url(#hv)" aria-describedby=" channel-list-context-menu" aria-owns="fui-Flex6 fui-Button3" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="hv">
+               <rect x="91" y="144" width="311.53" height="34" fill="#fff"/>
+              </mask>
+              <g class="fui-Flex ___15xrdf8 f22iagw f122n59 fly5x3f f1l02sjl f1p9o1ba f1sil6mw" mask="url(#ht)" aria-owns="fui-Flex7 fui-Flex8" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="ht">
+                <rect x="91" y="144" width="279.53" height="34" fill="#fff"/>
+               </mask>
+               <g class="fui-Flex ___pugb7e0 f22iagw f1p9o1ba f1sil6mw" mask="url(#hs)" aria-owns="fui-StyledText2" data-stacking-context="true" data-tag="div" data-z-index="auto">
+                <mask id="hs">
+                 <rect x="129" y="151" width="106.36" height="20" fill="#fff"/>
+                </mask>
+                <g class="fui-StyledText ___eul8380 f11d4kpn fvm675v f1p9o1ba f1sil6mw f1cmbuwj fz5stix" mask="url(#gm)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+                 <mask id="gm">
+                  <rect x="129" y="151" width="98.359" height="20" fill="#fff"/>
+                 </mask>
+                 <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+                </g>
+               </g>
+               <g class="ui-image a bv bt ca cb cc cd ce cf cg bl ch ci cj cl cm cn co cp ___oiyfbn0 f1ps3kmd" mask="url(#j)" aria-hidden="true" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+                <mask id="j">
+                 <rect x="91" y="147" width="28" height="28" rx="4" ry="4" fill="#fff"/>
+                </mask>
+               </g>
+              </g>
+              <g class="fui-Button rlr4yyk ___1lpbt6z f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la f1at4ntt" mask="url(#im)" aria-haspopup="true" aria-hidden="false" aria-label="More options" aria-labelledby="" aria-owns="fui-Button__icon4" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+               <mask id="im">
+                <rect x="371" y="149" width="32" height="24" rx="4" ry="4" fill="#fff"/>
+               </mask>
+               <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hi)" aria-hidden="true" aria-owns="path314" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+                <mask id="hi">
+                 <rect width="0" height="0" fill="#fff"/>
+                </mask>
+               </g>
+               <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#gv)" aria-hidden="true" aria-owns="path315" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+                <mask id="gv">
+                 <rect x="377" y="151" width="20" height="20" fill="#fff"/>
+                </mask>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+          <g class="ui-tree__item ___spma280 fcbbff fvevi3p f1qbp2q0 fz9h3o6 fubbrps" aria-describedby=" channel-list-context-menu" aria-expanded="true" aria-level="2" aria-owns="ui-tree__title4" aria-setsize="2" data-stacking-context="true" data-tag="div" data-z-index="999" role="treeitem" tabindex="-1">
+           <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+            <g class="ui-tree__title ___13hf1mf fkhj508 f441oxj f19g0ac f122n59 f22iagw f1g0x7ka fhxju0i f1qch9an f1cnd47f f118ihkj fb4i99f f3bv7ky fgvdrvz fzkkow9 fcdblym fg706s2 fjik90z f1p3nwhy f11589ue f1q5o8ev f1pdflbu f1aa9q02 f16jpd5f f1jar5jt fyu767a fgr6219 f11qmguv f10jk5vf f1tyq0we f8v0z38 fzuuxzl f161q2fk f1k6fduh f11oyicx" aria-owns="fui-Icon-filled7 fui-Icon-regular7 fui-Flex12" data-stacking-context="true" data-tag="span" data-z-index="1">
+             <g class="fui-Icon-filled ___46zdbv0 f1w7gpdv fez10in fg4l7m0 f1hu3pq6 f1u1hfzm f19f4twv f8yvrc6 f11d4kpn" mask="url(#hh)" aria-hidden="true" aria-owns="path316" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+              <mask id="hh">
+               <rect x="76" y="218" width="12.469" height="14" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="fui-Icon-regular ___z62aua0 fjseox fez10in fg4l7m0 f1hu3pq6 f1u1hfzm f19f4twv f8yvrc6 f11d4kpn" mask="url(#gu)" aria-hidden="true" aria-owns="path317" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+              <mask id="gu">
+               <rect width="0" height="0" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="fui-Flex ___52mgke0 f22iagw f122n59 fly5x3f fs977oj ftcjrdy f1p9o1ba f1sil6mw" mask="url(#ie)" aria-describedby=" channel-list-context-menu" aria-owns="fui-Flex13 fui-Button4" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="ie">
+               <rect x="91" y="208" width="311.53" height="34" fill="#fff"/>
+              </mask>
+              <g class="fui-Flex ___15xrdf8 f22iagw f122n59 fly5x3f f1l02sjl f1p9o1ba f1sil6mw" mask="url(#id)" aria-owns="fui-Flex14 fui-Flex15" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="id">
+                <rect x="91" y="208" width="279.53" height="34" fill="#fff"/>
+               </mask>
+               <g class="fui-Flex ___pugb7e0 f22iagw f1p9o1ba f1sil6mw" mask="url(#ic)" aria-owns="fui-StyledText4" data-stacking-context="true" data-tag="div" data-z-index="auto">
+                <mask id="ic">
+                 <rect x="129" y="215" width="93.25" height="20" fill="#fff"/>
+                </mask>
+                <g class="fui-StyledText ___eul8380 f11d4kpn fvm675v f1p9o1ba f1sil6mw f1cmbuwj fz5stix" mask="url(#gk)" data-stacking-context="true" data-tag="span" data-z-index="auto">
+                 <mask id="gk">
+                  <rect x="129" y="215" width="85.25" height="20" fill="#fff"/>
+                 </mask>
+                 <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+                </g>
+               </g>
+               <g class="ui-image a bv bt ca cb cc cd ce cf cg bl ch ci cj cl cm cn co cp ___oiyfbn0 f1ps3kmd" mask="url(#i)" aria-hidden="true" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+                <mask id="i">
+                 <rect x="91" y="211" width="28" height="28" rx="4" ry="4" fill="#fff"/>
+                </mask>
+               </g>
+              </g>
+              <g class="fui-Button rlr4yyk ___1lpbt6z f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la f1at4ntt" mask="url(#il)" aria-haspopup="true" aria-hidden="false" aria-label="More options" aria-labelledby="" aria-owns="fui-Button__icon5" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button" tabindex="-1">
+               <mask id="il">
+                <rect x="371" y="213" width="32" height="24" rx="4" ry="4" fill="#fff"/>
+               </mask>
+               <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hg)" aria-hidden="true" aria-owns="path318" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+                <mask id="hg">
+                 <rect width="0" height="0" fill="#fff"/>
+                </mask>
+               </g>
+               <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#gt)" aria-hidden="true" aria-owns="path319" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+                <mask id="gt">
+                 <rect x="377" y="215" width="20" height="20" fill="#fff"/>
+                </mask>
+               </g>
+              </g>
+             </g>
+            </g>
+           </g>
+          </g>
+         </g>
+        </g>
+        <g mask="url(#ky)" aria-atomic="true" aria-live="assertive" data-stacking-context="true" data-tag="div" data-z-index="auto" role="status">
+         <mask id="ky">
+          <rect x="447" y="78" width="1" height="1" fill="#fff"/>
+         </mask>
+        </g>
+        <g class="ui-image a bv bt ca cb cc cd ce cf cg bl ch ci cj cl cm cn co cp cq ___oiyfbn0 f1ps3kmd" mask="url(#h)" aria-hidden="true" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+         <mask id="h">
+          <rect x="448" y="62" width="32" height="32" rx="4" ry="4" fill="#fff"/>
+         </mask>
+        </g>
+        <g class="fui-StyledText ___1cw8lep ftgm304 f1fjxbv2 f1leeax8 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1ksvbgx f1p9o1ba f1sil6mw f1cmbuwj fz5stix" mask="url(#gh)" aria-level="2" data-stacking-context="true" data-tag="h2" data-z-index="auto" role="heading">
+         <mask id="gh">
+          <rect x="492" y="65" width="102.55" height="25.703" fill="#fff"/>
+         </mask>
+         <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="18px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+        </g>
+        <g class="fui-Primitive ___u2iuyv0 f1ekcaio f1mpe4l3 fkrn0sh f179hvsh fmxx68s f1538868 f1p9o1ba f1sil6mw f1nbblvp fifp7yv f1ov4xf1 f1asdtw4 frkrog8 f1euv43f" mask="url(#ap)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="ap">
+          <rect x="604" y="47" width="1" height="1" fill="#fff"/>
+         </mask>
+         <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+        </g>
+        <g class="fui-Tab ___p7vy2r0 f122n59 fwhevhj f61n433 fv1dfc8 f1q8l70w f1aa9q02 f16jpd5f f1jar5jt fyu767a fre7gi1 f1358rze fqdk4by f1rvrf73 f1k6fduh f13qh94s fi64zpg f1u07yai frn2hmy f1olsevy fk6fouc f1i3iumi f1s6fcnf f10pi13n f1p9o1ba f1sil6mw f1cxpek8 f4d9j23 f1rjii52 f1nbblvp f1sgzk6v f1ov4xf1 f1bg5zqg f8hki3x f1d2448m f1bjia2o ffh67wi f1p7hgxw f1way5bb f9znhxp fqa318h f1vjpng2 f1c21dwh fjxutwb fophhak fmmjozx f1mfqf41 f10aiid4 fpkze5g f149wc3x fjioou7 fhw179n f10y1uxy f6aiuy0 f1kfpfnu f1dx5wco f1kmhr4c fl1ydde f1y7maxz f105swax fscdmel f1tkcw1w f1u11x8o f16cxu0 f1nwgacf f15ovonk fvje46l fchca7p f1s2r9ax fkvc240 fek6jos fz5stix f5p0z4x f1lvlocs fb2fd0s" mask="url(#kx)" aria-describedby="tab-submenu-aria-description" aria-label="Files, Has context menu" aria-labelledby="" aria-owns="fui-Tab__content2 fui-Tab__content--reserved-space1" aria-selected="false" data-stacking-context="true" data-tag="button" data-z-index="auto" role="tab">
+         <mask id="kx">
+          <rect x="654" y="48" width="43.828" height="60" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Tab__content ___1spbhtg fk6fouc fkhj508 figsok6 f1i3iumi f1p9o1ba f1sil6mw fztplxc ffczdla f9g1xly fgiv446 fwpfdsa f16hsg94" mask="url(#gd)" aria-owns="fui-Flex27" data-stacking-context="true" data-tag="span" data-z-index="auto">
+          <mask id="gd">
+           <rect x="660" y="51" width="31.828" height="54" fill="#fff"/>
+          </mask>
+          <g class="fui-Primitive ___1jtqi5x f1cmbuwj f1p9o1ba f1sil6mw f11nazly f11qmguv fygbvs5 f1tyq0we" mask="url(#gq)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+           <title>Files</title>
+           <mask id="gq">
+            <rect x="662" y="68" width="27.828" height="20" fill="#fff"/>
+           </mask>
+           <text color="rgb(66, 66, 66)" dominant-baseline="text-after-edge" fill="rgb(66, 66, 66)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(66, 66, 66)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+          </g>
+         </g>
+         <g class="fui-Tab__content--reserved-space ___13otpm3 fk6fouc fkhj508 fl43uef f1i3iumi f1p9o1ba f1sil6mw fztplxc ffczdla f9g1xly fgiv446 fwpfdsa f16hsg94 fd7fpy0" mask="url(#gg)" aria-owns="fui-Flex28" data-stacking-context="true" data-tag="span" data-z-index="auto">
+          <mask id="gg">
+           <rect x="660" y="51" width="31.828" height="54" fill="#fff"/>
+          </mask>
+          <g class="fui-Primitive ___1jtqi5x f1cmbuwj f1p9o1ba f1sil6mw f11nazly f11qmguv fygbvs5 f1tyq0we" mask="url(#gp)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+           <title>Files</title>
+           <mask id="gp">
+            <rect x="662" y="68" width="27.828" height="20" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+        </g>
+        <g class="fui-Tab ___p7vy2r0 f122n59 fwhevhj f61n433 fv1dfc8 f1q8l70w f1aa9q02 f16jpd5f f1jar5jt fyu767a fre7gi1 f1358rze fqdk4by f1rvrf73 f1k6fduh f13qh94s fi64zpg f1u07yai frn2hmy f1olsevy fk6fouc f1i3iumi f1s6fcnf f10pi13n f1p9o1ba f1sil6mw f1cxpek8 f4d9j23 f1rjii52 f1nbblvp f1sgzk6v f1ov4xf1 f1bg5zqg f8hki3x f1d2448m f1bjia2o ffh67wi f1p7hgxw f1way5bb f9znhxp fqa318h f1vjpng2 f1c21dwh fjxutwb fophhak fmmjozx f1mfqf41 f10aiid4 fpkze5g f149wc3x fjioou7 fhw179n f10y1uxy f6aiuy0 f1kfpfnu f1dx5wco f1kmhr4c fl1ydde f1y7maxz f105swax fscdmel f1tkcw1w f1u11x8o f16cxu0 f1nwgacf f15ovonk fvje46l fchca7p f1s2r9ax fkvc240 fek6jos fz5stix f5p0z4x f1lvlocs fb2fd0s" mask="url(#ao)" aria-describedby="DndDescribedBy-0" aria-label="Notes, Has context menu" aria-labelledby="" aria-owns="fui-Tab__content3 fui-Tab__content--reserved-space2" aria-selected="false" data-stacking-context="true" data-tag="button" data-z-index="auto" role="tab">
+         <mask id="ao">
+          <rect x="698" y="48" width="53.562" height="60" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Tab__content ___1spbhtg fk6fouc fkhj508 figsok6 f1i3iumi f1p9o1ba f1sil6mw fztplxc ffczdla f9g1xly fgiv446 fwpfdsa f16hsg94" mask="url(#gc)" aria-owns="fui-Flex29" data-stacking-context="true" data-tag="span" data-z-index="auto">
+          <mask id="gc">
+           <rect x="704" y="51" width="41.562" height="54" fill="#fff"/>
+          </mask>
+          <g class="fui-Primitive ___1jtqi5x f1cmbuwj f1p9o1ba f1sil6mw f11nazly f11qmguv fygbvs5 f1tyq0we" mask="url(#go)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+           <title>Notes</title>
+           <mask id="go">
+            <rect x="706" y="68" width="37.562" height="20" fill="#fff"/>
+           </mask>
+           <text color="rgb(66, 66, 66)" dominant-baseline="text-after-edge" fill="rgb(66, 66, 66)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(66, 66, 66)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+          </g>
+         </g>
+         <g class="fui-Tab__content--reserved-space ___13otpm3 fk6fouc fkhj508 fl43uef f1i3iumi f1p9o1ba f1sil6mw fztplxc ffczdla f9g1xly fgiv446 fwpfdsa f16hsg94 fd7fpy0" mask="url(#gf)" aria-owns="fui-Flex30" data-stacking-context="true" data-tag="span" data-z-index="auto">
+          <mask id="gf">
+           <rect x="704" y="51" width="41.562" height="54" fill="#fff"/>
+          </mask>
+          <g class="fui-Primitive ___1jtqi5x f1cmbuwj f1p9o1ba f1sil6mw f11nazly f11qmguv fygbvs5 f1tyq0we" mask="url(#gn)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+           <title>Notes</title>
+           <mask id="gn">
+            <rect x="706" y="68" width="37.562" height="20" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk ___40edap0 f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la f1pit55b f1orqat1 f136mcbi ffbvwxd ftqa4ok f2hkw1w fqrak0z" mask="url(#ko)" aria-label="Add a tab" aria-labelledby="" aria-owns="fui-Button__icon7" data-stacking-context="true" data-tag="button" data-z-index="auto" role="tab">
+         <mask id="ko">
+          <rect x="751" y="48" width="32" height="60" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hr)" aria-hidden="true" aria-owns="path322" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hr">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#he)" aria-hidden="true" aria-owns="path323" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="he">
+           <rect x="757" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="fui-Tab__content ___vt9qut0 fk6fouc fkhj508 fl43uef f1i3iumi f1p9o1ba f1sil6mw fztplxc ffczdla f9g1xly fgiv446 fwpfdsa f16hsg94" mask="url(#ge)" aria-owns="fui-Flex26" data-stacking-context="true" data-tag="span" data-z-index="auto">
+         <mask id="ge">
+          <rect x="611" y="51" width="37.203" height="54" fill="#fff"/>
+         </mask>
+         <g class="fui-Primitive ___1jtqi5x f1cmbuwj f1p9o1ba f1sil6mw f11nazly f11qmguv fygbvs5 f1tyq0we" mask="url(#gr)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+          <title>Posts</title>
+          <mask id="gr">
+           <rect x="613" y="68" width="33.203" height="20" fill="#fff"/>
+          </mask>
+          <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk ___1eu6g8f f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu fkfq4zb fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la" mask="url(#ij)" aria-haspopup="true" aria-hidden="false" aria-label="More options" aria-labelledby="" aria-owns="fui-Button__icon8" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="ij">
+          <rect x="1773" y="62" width="32" height="32" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hp)" aria-hidden="true" aria-owns="path324" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hp">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#hc)" aria-hidden="true" aria-owns="path325" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hc">
+           <rect x="1779" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk ___1d33kbd f1g0x7ka fhxju0i f1qch9an f1cnd47f ff9fk16 f44c6la f1z0v4m0 f1kdaspl f7zvb2z f1aa9q02 f16jpd5f f1jar5jt fyu767a f118ihkj fb4i99f f3bv7ky fgvdrvz fzkkow9 fcdblym fg706s2 fjik90z fj3muxo f1akhkt f1aperda f1lxtadh fxugw4r f19n0e5 f1b5kl63 f18s3qgh f7mif6r f148gwce f1l1xy81 f1175b83 f77g5f4 f1pp13mm fw0g2pn f12b9ojs" mask="url(#ii)" aria-label="Open channel details" aria-labelledby="" aria-owns="fui-Button__icon10" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="ii">
+          <rect x="1868" y="62" width="31" height="31" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#hn)" aria-hidden="true" aria-owns="path329" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hn">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#ha)" aria-hidden="true" aria-owns="path330" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="ha">
+           <rect x="1874" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk fui-SplitButton__primaryActionButton ___10ghymo f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la f1x37qnr fn4c73s f1sw78cg" mask="url(#av)" aria-describedby="instruction-message" aria-label="Meet" aria-labelledby="" aria-owns="fui-Button__icon9" aria-roledescription="calling_splitbutton" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="av">
+          <rect x="1805" y="62" width="31" height="31" rx="4" ry="4" fill="#fff"/>
+         </mask>
+         <g class="fui-Icon-filled ___1vjqft9 fjseox fez10in fg4l7m0" mask="url(#ho)" aria-hidden="true" aria-owns="path326" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="ho">
+           <rect width="0" height="0" fill="#fff"/>
+          </mask>
+         </g>
+         <g class="fui-Icon-regular ___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#hb)" aria-hidden="true" aria-owns="path327" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="hb">
+           <rect x="1811" y="68" width="20" height="20" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g class="fui-Button rlr4yyk fui-MenuButton fui-SplitButton__menuButton ___1es75jx f1sbtcvk fwiuce9 fdghr9 f15vdbe4 fwbmr0d f44c6la frrbwxo f1um7c6d f6pwzcr f1sw78cg" mask="url(#bz)" aria-expanded="false" aria-haspopup="menu" aria-label="More channel meetings options" aria-labelledby="" aria-owns="fui-MenuButton__menuIcon1" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+         <mask id="bz">
+          <rect x="1837" y="62" width="23" height="32" fill="#fff"/>
+         </mask>
+         <g class="___12fm75w f1w7gpdv fez10in fg4l7m0" mask="url(#kw)" aria-hidden="true" aria-owns="path328" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+          <mask id="kw">
+           <rect x="1842" y="73" width="12" height="12" fill="#fff"/>
+          </mask>
+         </g>
+        </g>
+        <g data-stacking-layer="rootBackgroundAndBorders">
+         <rect x="428" y="109" width="1492" height="854" fill="#f5f5f5"/>
+        </g>
+        <g class="ui-flex bg dy bt cn dz ea eb ec" mask="url(#bw)" aria-owns="ui-flex2 div33 ui-box16" data-stacking-context="true" data-tag="div" data-z-index="auto">
+         <mask id="bw">
+          <rect x="428" y="109" width="1492" height="854" fill="#fff"/>
+         </mask>
+         <g class="ui-flex bg dy bt cn df dg ed ee e ef" mask="url(#k)" aria-labelledby="message-pane-body-text" aria-owns="i5 message-pane-body-text1 fui-Flex33 i18" data-stacking-context="true" data-tag="div" data-z-index="auto" role="main">
+          <mask id="k">
+           <rect x="428" y="109" width="1492" height="739" fill="#fff"/>
+           <rect x="427" y="108" width="1" height="1" fill="#fff"/>
+           <rect x="428" y="846" width="1492" height="2" fill="#fff"/>
+           <rect x="427" y="108" width="1" height="1" fill="#fff"/>
+          </mask>
+          <g class="fui-ReaderHeading rsuwu0d" mask="url(#bx)" aria-hidden="true" aria-level="2" data-stacking-context="true" data-tag="div" data-z-index="auto" role="heading">
+           <mask id="bx">
+            <rect x="427" y="108" width="1" height="1" fill="#fff"/>
+           </mask>
+           <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+          </g>
+          <g class="fui-Flex ___1758ndo f22iagw f1vx9l62 f1l02sjl f1p9o1ba f1sil6mw fhfum1" mask="url(#hz)" aria-owns="ui-box2 ui-divider2 has-context-menu1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+           <mask id="hz">
+            <rect x="428" y="109" width="1492" height="739" fill="#fff"/>
+            <rect x="428" y="846" width="1492" height="2" fill="#fff"/>
+            <rect x="427" y="108" width="1" height="1" fill="#fff"/>
+           </mask>
+           <g class="ui-box eg dg dh di dj dk dl dm dn do dp dq dr ds dt du eh cn ei ej ek el em en eo ep eq er es et eu ev ew" mask="url(#m)" aria-owns="fui-Flex34" data-stacking-context="true" data-tag="div" data-z-index="auto">
+            <mask id="m">
+             <rect x="428" y="109" width="1492" height="739" fill="#fff"/>
+            </mask>
+            <g class="fui-Flex ___1ius51g f22iagw f122n59 f18w1nra fvi13kb f1b1jndt f1g0x7ka fwihf70 f1qch9an ffkyht9 f1p9o1ba f1sil6mw" mask="url(#hy)" aria-owns="ui-avatar4 fui-Flex36 svg4 fui-Flex44" data-stacking-context="true" data-tag="div" data-z-index="auto">
+             <mask id="hy">
+              <rect x="719" y="67" width="910" height="64" fill="#fff"/>
+             </mask>
+             <g mask="url(#ar)" aria-owns="rect38" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+              <mask id="ar">
+               <rect x="723" y="83" width="4" height="32" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="ui-image a bv bt gn cb cc cd ce cf cg bl ch ci cj cl cm cn co cp cq ___oiyfbn0 f1ps3kmd" mask="url(#g)" aria-label="Profile picture of ." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+              <mask id="g">
+               <rect x="737" y="83" width="32" height="32" rx="16" ry="16" fill="#fff"/>
+              </mask>
+             </g>
+             <title>Available</title>
+             <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+             <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+            </g>
+            <g class="fui-Flex ___gpp0nw0 f22iagw f1vx9l62 f1q9h2pe fpgzoln f10kwr27 f17eu5jy f11kjbkx frxrpoy f32x088 f33mesk f1ev1wfn f16hbvrv f10cx7ro f1yq3ekw f4gzzmy f9sufv2 f1dr1xf1 f1vyg3t2 fns3mgy f16owxnm fcsiy0s f1od9mow f1llda9m f5zfpvi f1slo1yd f1biw00e fgu8x5g fa69xcc f4h0rn6 fwxnxt9 f1klrut3 fi6e2n4 f1i9i995 f14gafeo f19sjv2b f197cytj fjzyvr9 fvlf769 fidvcce f192tqmc f1g0iu95 f1iqhfzz ferw88z fq54q8l fymjoix fn7bfmd fjbpr7z f1a69jdl f1gaqtye f14xwh6o fdlwbod f1k162kl f1ac2nhu fwzjow2 fv0lott f1q30u83 fedr22k fc26dot f1kwmpht f8x5z4h fjf5x0v f1862ai6 f1it6od7 f1nof542 fnjtf92 f2ggin0 fxbwv9y fnmf5nv fnri7ct f3kcbmp f1w461sr fh6zopv f1dtpxtr f1w4ewpn f1yokhje f1yxd181 f13gpks9 f67cook f7x91ce f19ptzjt fyhlx6i fgoz3dl f1vbfobf f6e0e65 f1xd138l f1n4abl3 f1q21q71 fgr0m7j fv2gmq9 f1v20h81 fao91e0 ffw664r fyl1vau fz7q7g0 f1hmwnqj fra1emx fko5oet f1a3r5br fxl08rt fq2pv60 fgz6vhl f7kdsvq flq5vdr frfzrdx f12t19pp f1uog0w6 f1xwzr7n f5kmyl f1s4hm70 f1a82ksq fdzznqz fpge9z0 f19dfog1 f6llqrf ffesroj fw9czzq fy2yb9q fayfcv4 f8s7teq frruxth f1wjx8ee f10snkdn f2lpnfm f1wh1ikk fddp6ji f1bj7tjk f138nym3 fxtwqdx fz3jfjp fhmx3t9 f15nh289 f8ixvwx fkcs67f f1hxp115 fp1f8q5 f1knbhtw f8155xs fm2cdvl fglsp9n f65ro8h f1enp1w f129nb5a f1gwgtfk frv41kl fv8tau7 f1lgfrz8 f1en64wj fc5olwt f15ctg56 f11tt5n8 f1qe1x91 fgw5xmv f1sadco6 f1nm73ok f412xg6 f6mg92f f1g2yqhq fzrnsgv frfim4g f1j6nkvo f79di9g fl7keh6 f1w2vg2n fqkx09v f1hp9lab f1dggqj5 f1ywigw8 feb8dbj f1jo9yz5 f6ehxmw fi2zt70 f1gxrt3a f1os76ua f1js9cnw f1g87ej0 freluf8 f1yggaq6 f2i3chp f1151osp feffojt f5lkhw2 f12rx30l f1sbgw95 fxgblah f3uge2w flycg6v ffacpel fkaekyk ffmk5l2 f1lnenzq fhiq4k3 fqh12pm f11kb1dg f1rzvh6u f9ryskr fvhlfan fjp2w9i f102p0pq f1cbhep8 fxj39o5 fa9prbu fhtot8y f1phkerw f19r4pzi f1aab7c7 f19bz9aj fhhndet fu1c40c f1cn4lpc fqq0721 f1oumf8w ft7lrud fchy9kd fjhm02g f1chsoxe f1nbblvp fped4kj f1ov4xf1 fjmnotq f1oy3dpc f1sil6mw f9ijwd5 fhzvm9l f1hyqv2m f9i9he9 f1x8o288 f1lsrdcm flp1aja f9awzh f1fqzr9r f1welpc1 f2kkxp f1n9qd8b f13jlbaw f1r13a54 f1r6i70n f1ieg7a1 fbjtx37 fmgznnq fa9gob0 f1554xh9 f1yyjf7x f1rherzu f104v32j f1h87add fqee0gn f1yf7kho funb44c f19lohrl f4ow73z fuak92t f1smjcpa f1nsh78 f1c3s3zq f1h213i8 f127e7uu" mask="url(#hx)" aria-owns="subject-line-17010221117741 fui-Primitive13" data-stacking-context="true" data-tag="div" data-z-index="auto">
+             <mask id="hx">
+              <rect x="735" y="131" width="878" height="241.7" fill="#fff"/>
+             </mask>
+             <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="18px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+             <g class="fui-Primitive ___141tn3s f1w5ry8l f1sil6mw" mask="url(#bb)" aria-owns="content-17010221117741" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="bb">
+               <rect x="737" y="173" width="874" height="200" fill="#fff"/>
+              </mask>
+              <title>https://make.powerapps.com/environment/147cbac2-47f9-494d-be3e-eae38416be02/cards/play/15875e77-748c-ee11-8179-000d3a17af6f/ih7jm6?config=microsoft-teams-light</title>
+              <text color="rgb(79, 82, 178)" dominant-baseline="text-after-edge" fill="rgb(79, 82, 178)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none 1px solid rgb(79, 82, 178)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="text"/>
+              <g class="ui-flex bg dy in ja jc jd ef io" mask="url(#l)" aria-owns="ui-text1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="l">
+                <rect x="791" y="241" width="760" height="24" fill="#fff"/>
+               </mask>
+               <text color="rgb(66, 66, 66)" dominant-baseline="text-after-edge" fill="rgb(66, 66, 66)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(66, 66, 66)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+              </g>
+              <g class="ui-image a bv bw it iu iv iw ix iy iz ja sz eh jb ui-animation ip iq fw ir is ui-known-width-and-height" mask="url(#f)" aria-hidden="true" data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+               <mask id="f">
+                <rect x="755" y="241" width="23" height="23" rx="8" ry="8" fill="#fff"/>
+               </mask>
+              </g>
+              <title>More options</title>
+              <g class="cr gg gh gi gj" mask="url(#jc)" aria-owns="ui-icon__filled1 ui-icon__outline1" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+               <mask id="jc">
+                <rect x="1575" y="245" width="16" height="16" fill="#fff"/>
+               </mask>
+              </g>
+              <g class="ac-textBlock" mask="url(#al)" aria-owns="ui-box6" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="al">
+                <rect x="755" y="279" width="838" height="18.609" fill="#fff"/>
+               </mask>
+               <g mask="url(#bu)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+                <mask id="bu">
+                 <rect x="755" y="279" width="838" height="18.609" fill="#fff"/>
+                </mask>
+                <text color="rgb(31, 31, 31)" dominant-baseline="text-after-edge" fill="rgb(31, 31, 31)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(31, 31, 31)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+               </g>
+              </g>
+              <g class="ac-horizontal-separator" mask="url(#kv)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="kv">
+                <rect x="755" y="297" width="838" height="12" fill="#fff"/>
+               </mask>
+              </g>
+              <g class="ac-textBlock" mask="url(#aj)" aria-owns="ui-box7" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="aj">
+                <rect x="755" y="309" width="838" height="18.609" fill="#fff"/>
+               </mask>
+               <text color="rgb(31, 31, 31)" dominant-baseline="text-after-edge" fill="rgb(31, 31, 31)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(31, 31, 31)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+              </g>
+              <g class="ac-horizontal-separator" mask="url(#ku)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="ku">
+                <rect x="755" y="328" width="838" height="12" fill="#fff"/>
+               </mask>
+              </g>
+              <g class="ac-horizontal-separator" mask="url(#kt)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="kt">
+                <rect x="755" y="371" width="838" height="12" fill="#fff"/>
+               </mask>
+              </g>
+              <g mask="url(#ja)" aria-owns="ac-actionSet1" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="ja">
+                <rect x="755" y="383" width="838" height="32" fill="#fff"/>
+               </mask>
+               <title>Submit Suggestion</title>
+               <g mask="url(#iz)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+                <mask id="iz">
+                 <rect x="764" y="389" width="120.58" height="20" fill="#fff"/>
+                </mask>
+                <text color="rgb(91, 95, 199)" dominant-baseline="text-after-edge" fill="rgb(91, 95, 199)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(91, 95, 199)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+               </g>
+               <title>View List</title>
+               <g mask="url(#iy)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+                <mask id="iy">
+                 <rect x="911" y="389" width="56.109" height="20" fill="#fff"/>
+                </mask>
+                <text color="rgb(91, 95, 199)" dominant-baseline="text-after-edge" fill="rgb(91, 95, 199)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(91, 95, 199)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+               </g>
+              </g>
+             </g>
+             <g data-stacking-layer="childStackingContextsWithPositiveStackLevels">
+              <g class="fui-Flex ___8ryly10 f22iagw f1euv43f f1yab3r1 f1e31b4d fxugw4r fly5x3f f1hc5s0a" aria-owns="fui-Link2" data-stacking-context="true" data-tag="div" data-z-index="10">
+               <text color="rgb(79, 82, 178)" dominant-baseline="text-after-edge" fill="rgb(79, 82, 178)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="underline 1px solid rgba(0, 0, 0, 0)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="text"/>
+              </g>
+             </g>
+            </g>
+            <g class="ui-image a bv bt gn cb cc cd ce cf cg bl ch ci cj cl cm cn co cp ___oiyfbn0 f1ps3kmd" mask="url(#e)" aria-label="Profile picture of Eric Sauvé." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+             <mask id="e">
+              <rect x="737" y="407" width="20" height="20" rx="10" ry="10" fill="#fff"/>
+             </mask>
+            </g>
+            <title>Available</title>
+            <g class="fui-Button rlr4yyk ___jl1pfl0 f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu f11d4kpn fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 fbhxue7 fhl27e0 fly5x3f f1g0x7ka fhxju0i f1qch9an f10xn8zz" mask="url(#ih)" aria-labelledby="" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+             <mask id="ih">
+              <rect x="767" y="406" width="844" height="22" rx="4" ry="4" fill="#fff"/>
+             </mask>
+             <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+            </g>
+            <text color="rgb(91, 95, 199)" dominant-baseline="text-after-edge" fill="rgb(91, 95, 199)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="12px" font-stretch="100%" font-weight="700" text-decoration="none solid rgb(91, 95, 199)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="1148.515625" y="465.703125" lengthAdjust="spacingAndGlyphs" textLength="50.96875" xml:space="preserve">Last read</tspan></text>
+            <g data-stacking-layer="rootBackgroundAndBorders">
+             <defs>
+              <filter id="lc" filterUnits="userSpaceOnUse">
+               <feDropShadow dx="0" dy="1" flood-color="rgba(0, 0, 0, 0.26)" stdDeviation="2"/>
+              </filter>
+             </defs>
+             <rect x="719" y="478" width="910" height="365.22" rx="4" ry="4" fill="#fff" filter="url(#lc)"/>
+            </g>
+            <g class="fui-Flex ___1ius51g f22iagw f122n59 f18w1nra fvi13kb f1b1jndt f1g0x7ka fwihf70 f1qch9an ffkyht9 f1p9o1ba f1sil6mw" mask="url(#hw)" aria-owns="ui-text2 fui-Flex49 fui-Flex57" data-stacking-context="true" data-tag="div" data-z-index="auto">
+             <mask id="hw">
+              <rect x="719" y="478" width="910" height="64" fill="#fff"/>
+             </mask>
+             <g mask="url(#aq)" data-stacking-context="true" data-tag="svg" data-z-index="auto">
+              <mask id="aq">
+               <rect x="737" y="494" width="32" height="32" fill="#fff"/>
+              </mask>
+              <g class="svg-content" transform="matrix(.94118 0 0 .94118 737 493.69)" data-height="" data-view-box="0 0 34 34" data-width="100%">
+               <rect width="34px" height="34px" clip-path='url("#svg5-bot-hexagon-clip-path")' color="rgb(0, 0, 0)" fill="rgba(0, 0, 0, 0)"/>
+               <image class="ui-image a bv bt gn cb cc cd ce cf cg bl ch ci cj cl cm cn co cp cq ___oiyfbn0 f1ps3kmd" width="34px" height="34px" clip-path='url("#svg5-bot-hexagon-clip-path")' color="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" aria-label="Profile picture of ." data-src="https://res.cdn.office.net/teamsappdata/app-assets/preapproved_global/a6b63365-31a4-4f43-92ec-710b71557af9/a6b63365-31a4-4f43-92ec-710b71557af9_largeImage.png?v=1.0.3" draggable="false" xlink:href="data:image/png;base64,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"/>
+              </g>
+             </g>
+             <title>Available</title>
+             <g data-stacking-layer="rootBackgroundAndBorders">
+              <defs>
+               <filter id="lb" filterUnits="userSpaceOnUse">
+                <feDropShadow dx="0" dy="0" flood-color="rgb(255, 255, 255)" stdDeviation="0"/>
+               </filter>
+              </defs>
+              <rect x="759" y="516" width="10" height="10" rx="5" ry="5" fill="#fff" filter="url(#lb)"/>
+              <g class="svg-content" transform="translate(759 515.69)" data-height="10" data-view-box="0 0 10 10" data-width="10">
+               <path d="m5 10c2.7614 0 5-2.2386 5-5s-2.2386-5-5-5-5 2.2386-5 5 2.2386 5 5 5zm2.1036-5.8964-2.25 2.25c-0.19526 0.19527-0.51184 0.19527-0.70711 1e-5l-1-1c-0.19526-0.19527-0.19527-0.51185-1e-5 -0.70711 0.19527-0.19527 0.51185-0.19527 0.70711-1e-5l0.64646 0.64646 1.8964-1.8965c0.19527-0.19526 0.51185-0.19527 0.70711-1e-5 0.19526 0.19527 0.19527 0.51185 1e-5 0.70711z" color="rgb(0, 0, 0)" fill="#92c353"/>
+              </g>
+             </g>
+             <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="779" y="518.6875" lengthAdjust="spacingAndGlyphs" textLength="73.109375" xml:space="preserve">Power Apps</tspan></text>
+             <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="12px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="862.109375" y="517.6875" lengthAdjust="spacingAndGlyphs" textLength="42.796875" xml:space="preserve">2:25 PM</tspan></text>
+             <g data-stacking-layer="rootBackgroundAndBorders">
+              <rect x="1560" y="503" width="40.656" height="16" rx="8" ry="8" fill="#5b5fc7"/>
+             </g>
+             <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="12px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(255, 255, 255)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="1568.34375" y="517.6875" lengthAdjust="spacingAndGlyphs" textLength="24.65625" xml:space="preserve">New</tspan></text>
+            </g>
+            <g class="fui-Flex ___gpp0nw0 f22iagw f1vx9l62 f1q9h2pe fpgzoln f10kwr27 f17eu5jy f11kjbkx frxrpoy f32x088 f33mesk f1ev1wfn f16hbvrv f10cx7ro f1yq3ekw f4gzzmy f9sufv2 f1dr1xf1 f1vyg3t2 fns3mgy f16owxnm fcsiy0s f1od9mow f1llda9m f5zfpvi f1slo1yd f1biw00e fgu8x5g fa69xcc f4h0rn6 fwxnxt9 f1klrut3 fi6e2n4 f1i9i995 f14gafeo f19sjv2b f197cytj fjzyvr9 fvlf769 fidvcce f192tqmc f1g0iu95 f1iqhfzz ferw88z fq54q8l fymjoix fn7bfmd fjbpr7z f1a69jdl f1gaqtye f14xwh6o fdlwbod f1k162kl f1ac2nhu fwzjow2 fv0lott f1q30u83 fedr22k fc26dot f1kwmpht f8x5z4h fjf5x0v f1862ai6 f1it6od7 f1nof542 fnjtf92 f2ggin0 fxbwv9y fnmf5nv fnri7ct f3kcbmp f1w461sr fh6zopv f1dtpxtr f1w4ewpn f1yokhje f1yxd181 f13gpks9 f67cook f7x91ce f19ptzjt fyhlx6i fgoz3dl f1vbfobf f6e0e65 f1xd138l f1n4abl3 f1q21q71 fgr0m7j fv2gmq9 f1v20h81 fao91e0 ffw664r fyl1vau fz7q7g0 f1hmwnqj fra1emx fko5oet f1a3r5br fxl08rt fq2pv60 fgz6vhl f7kdsvq flq5vdr frfzrdx f12t19pp f1uog0w6 f1xwzr7n f5kmyl f1s4hm70 f1a82ksq fdzznqz fpge9z0 f19dfog1 f6llqrf ffesroj fw9czzq fy2yb9q fayfcv4 f8s7teq frruxth f1wjx8ee f10snkdn f2lpnfm f1wh1ikk fddp6ji f1bj7tjk f138nym3 fxtwqdx fz3jfjp fhmx3t9 f15nh289 f8ixvwx fkcs67f f1hxp115 fp1f8q5 f1knbhtw f8155xs fm2cdvl fglsp9n f65ro8h f1enp1w f129nb5a f1gwgtfk frv41kl fv8tau7 f1lgfrz8 f1en64wj fc5olwt f15ctg56 f11tt5n8 f1qe1x91 fgw5xmv f1sadco6 f1nm73ok f412xg6 f6mg92f f1g2yqhq fzrnsgv frfim4g f1j6nkvo f79di9g fl7keh6 f1w2vg2n fqkx09v f1hp9lab f1dggqj5 f1ywigw8 feb8dbj f1jo9yz5 f6ehxmw fi2zt70 f1gxrt3a f1os76ua f1js9cnw f1g87ej0 freluf8 f1yggaq6 f2i3chp f1151osp feffojt f5lkhw2 f12rx30l f1sbgw95 fxgblah f3uge2w flycg6v ffacpel fkaekyk ffmk5l2 f1lnenzq fhiq4k3 fqh12pm f11kb1dg f1rzvh6u f9ryskr fvhlfan fjp2w9i f102p0pq f1cbhep8 fxj39o5 fa9prbu fhtot8y f1phkerw f19r4pzi f1aab7c7 f19bz9aj fhhndet fu1c40c f1cn4lpc fqq0721 f1oumf8w ft7lrud fchy9kd fjhm02g f1chsoxe f1nbblvp fped4kj f1ov4xf1 fjmnotq f1oy3dpc f1sil6mw f9ijwd5 fhzvm9l f1hyqv2m f9i9he9 f1x8o288 f1lsrdcm flp1aja f9awzh f1fqzr9r f1welpc1 f2kkxp f1n9qd8b f13jlbaw f1r13a54 f1r6i70n f1ieg7a1 fbjtx37 fmgznnq fa9gob0 f1554xh9 f1yyjf7x f1rherzu f104v32j f1h87add fqee0gn f1yf7kho funb44c f19lohrl f4ow73z fuak92t f1smjcpa f1nsh78 f1c3s3zq f1h213i8 f127e7uu" mask="url(#hu)" aria-owns="fui-Primitive16" data-stacking-context="true" data-tag="div" data-z-index="auto">
+             <mask id="hu">
+              <rect x="735" y="542" width="878" height="236.22" fill="#fff"/>
+             </mask>
+             <g data-stacking-layer="rootBackgroundAndBorders">
+              <rect x="737" y="560" width="874" height="3" rx="3" ry="3" fill="#742774"/>
+              <rect x="737" y="560" width="874" height="198.22" fill="#fff"/>
+              <g stroke="#f0f0f0" stroke-linecap="square" stroke-width="2px">
+               <line x1="737" x2="1611" y1="757.91" y2="757.91"/>
+               <line x1="1611" x2="1611" y1="559.69" y2="757.91"/>
+               <line x1="737" x2="737" y1="559.69" y2="757.91"/>
+              </g>
+              <rect x="739" y="560" width="870" height="196.22" rx="4" ry="4" fill="#fff"/>
+             </g>
+             <g class="ac-horizontal-separator" mask="url(#ks)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="ks">
+               <rect x="755" y="592" width="838" height="12" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="ac-textBlock" mask="url(#ak)" aria-owns="ui-box12" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="ak">
+               <rect x="755" y="604" width="838" height="18.609" fill="#fff"/>
+              </mask>
+              <g mask="url(#bt)" data-stacking-context="true" data-tag="p" data-z-index="auto">
+               <mask id="bt">
+                <rect x="755" y="604" width="838" height="18.609" fill="#fff"/>
+               </mask>
+               <text color="rgb(31, 31, 31)" dominant-baseline="text-after-edge" fill="rgb(31, 31, 31)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(31, 31, 31)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="755" y="621.6875" lengthAdjust="spacingAndGlyphs" textLength="185.9375" xml:space="preserve">Keynote Speaker suggestions</tspan></text>
+              </g>
+             </g>
+             <g class="ac-horizontal-separator" mask="url(#kr)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="kr">
+               <rect x="755" y="622" width="838" height="12" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="ac-textBlock" mask="url(#ai)" aria-owns="ui-box13" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="ai">
+               <rect x="755" y="634" width="838" height="18.609" fill="#fff"/>
+              </mask>
+              <text color="rgb(31, 31, 31)" dominant-baseline="text-after-edge" fill="rgb(31, 31, 31)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Web", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(31, 31, 31)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="755" y="652.296875" lengthAdjust="spacingAndGlyphs" textLength="587.75" xml:space="preserve">Provide a name for a keynote speaker you would like us to invite at our upcoming offsite event.</tspan></text>
+             </g>
+             <g class="ac-horizontal-separator" mask="url(#kq)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="kq">
+               <rect x="755" y="653" width="838" height="12" fill="#fff"/>
+              </mask>
+             </g>
+             <g class="ac-horizontal-separator" mask="url(#kp)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="kp">
+               <rect x="755" y="696" width="838" height="12" fill="#fff"/>
+              </mask>
+             </g>
+             <g mask="url(#ix)" aria-owns="ac-actionSet2" data-stacking-context="true" data-tag="div" data-z-index="auto">
+              <mask id="ix">
+               <rect x="755" y="708" width="838" height="32" fill="#fff"/>
+              </mask>
+              <title>Submit Suggestion</title>
+              <g data-stacking-layer="rootBackgroundAndBorders">
+               <rect x="755" y="708" width="137.58" height="31" rx="4" ry="4" fill="#fff" stroke="#9299f7" stroke-width="1px"/>
+              </g>
+              <g mask="url(#iw)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="iw">
+                <rect x="764" y="715" width="120.58" height="18.656" fill="#fff"/>
+               </mask>
+               <text color="rgb(91, 95, 199)" dominant-baseline="text-after-edge" fill="rgb(91, 95, 199)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(91, 95, 199)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"><tspan x="764" y="732.578125" lengthAdjust="spacingAndGlyphs" textLength="120.578125" xml:space="preserve">Submit Suggestion</tspan></text>
+              </g>
+              <title>View List</title>
+              <g data-stacking-layer="rootBackgroundAndBorders">
+               <rect x="902" y="708" width="73.109" height="31" rx="4" ry="4" fill="#fff" stroke="#9299f7" stroke-width="1px"/>
+              </g>
+              <g mask="url(#iv)" data-stacking-context="true" data-tag="div" data-z-index="auto">
+               <mask id="iv">
+                <rect x="911" y="715" width="56.109" height="18.656" fill="#fff"/>
+               </mask>
+               <text color="rgb(91, 95, 199)" dominant-baseline="text-after-edge" fill="rgb(91, 95, 199)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(91, 95, 199)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"><tspan x="910.578125" y="732.578125" lengthAdjust="spacingAndGlyphs" textLength="56.109375" xml:space="preserve">View List</tspan></text>
+              </g>
+             </g>
+             <g class="ui-image a bv bw iu uv uw ux my" mask="url(#d)" aria-label="Action Items" data-stacking-context="true" data-tag="img" data-z-index="auto" role="button">
+              <mask id="d">
+               <rect x="1577" y="576" width="16" height="16" fill="#fff"/>
+              </mask>
+              <image id="ld" x="1577" y="575.69" width="16" height="16" aria-label="Action Items" data-src="blob:https://teams.microsoft.com/1cb56093-1fb7-40fc-8c10-76aec276acd0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAAQ0lEQVQ4je3Nuw0AIAxDQYs9oLD3H4hpTAuIgk9DkSufIgcI4UMkC8ly0wAgzUe2q+0qKZ+05WDHD20kKc9fd1sIv2iTNSNgsXCyPwAAAABJRU5ErkJggg=="/>
+             </g>
+             <g data-stacking-layer="rootBackgroundAndBorders">
+              <rect x="755" y="665" width="838" height="31" rx="4" ry="4" fill="#f5f5f5"/>
+              <rect x="737" y="758" width="874" height="20" fill="#fff"/>
+             </g>
+             <text color="rgb(79, 82, 178)" dominant-baseline="text-after-edge" fill="rgb(79, 82, 178)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="underline 1px solid rgba(0, 0, 0, 0)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="text"><tspan x="737" y="776.859375" lengthAdjust="spacingAndGlyphs" textLength="47.015625" xml:space="preserve">see less</tspan></text>
+            </g>
+            <g data-stacking-layer="rootBackgroundAndBorders">
+             <line x1="719" x2="1629" y1="794.91" y2="794.91" stroke="#f0f0f0" stroke-linecap="square" stroke-width="1px"/>
+            </g>
+            <g class="ui-image a bv bt gn cb cc cd ce cf cg bl ch ci cj cl cm cn co cp ___oiyfbn0 f1ps3kmd" display="none" mask="url(#c)" aria-label="Profile picture of Eric Sauvé." data-stacking-context="true" data-tag="img" data-z-index="auto" role="img">
+             <mask id="c">
+              <rect x="737" y="812" width="20" height="20" rx="10" ry="10" fill="#fff"/>
+             </mask>
+             <defs>
+              <clipPath id="kz">
+               <rect x="737" y="812" width="20" height="20" rx="9999" ry="9999" fill="rgba(0, 0, 0, 0)"/>
+              </clipPath>
+             </defs>
+             <image id="le" x="737" y="812.41" width="20" height="20" clip-path="url(#kz)" xlink:href="https://teams.microsoft.com/api/mt/part/amer-02/beta/users/8:orgid:f78f948e-133b-4067-a469-788eebb442e8/profilepicturev2?displayname=Eric%20Sauv%C3%A9&amp;size=HR64x64"/>
+            </g>
+            <title>Available</title>
+            <g display="none" data-stacking-layer="rootBackgroundAndBorders">
+             <defs>
+              <filter id="la" filterUnits="userSpaceOnUse">
+               <feDropShadow dx="0" dy="0" flood-color="rgb(255, 255, 255)" stdDeviation="0"/>
+              </filter>
+             </defs>
+             <rect x="751" y="826" width="6" height="6" rx="3" ry="3" fill="#fff" filter="url(#la)"/>
+             <g class="svg-content" transform="matrix(.6 0 0 .6 751 826.41)" data-height="6" data-view-box="0 0 10 10" data-width="6">
+              <path d="m5 10c2.7614 0 5-2.2386 5-5s-2.2386-5-5-5-5 2.2386-5 5 2.2386 5 5 5zm2.1036-5.8964-2.25 2.25c-0.19526 0.19527-0.51184 0.19527-0.70711 1e-5l-1-1c-0.19526-0.19527-0.19527-0.51185-1e-5 -0.70711 0.19527-0.19527 0.51185-0.19527 0.70711-1e-5l0.64646 0.64646 1.8964-1.8965c0.19527-0.19526 0.51185-0.19527 0.70711-1e-5 0.19526 0.19527 0.19527 0.51185 1e-5 0.70711z" color="#000000" fill="#92c353"/>
+             </g>
+            </g>
+            <g class="fui-Button rlr4yyk ___jl1pfl0 f1c21dwh f1p3nwhy f11589ue f1q5o8ev f1pdflbu f11d4kpn fjxutwb f1s2uweq fr80ssc f1ukrpxl fecsdlb f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 fwa4z56 fe5wyld ffrv2ww f1rnfj6r f9dg1pr f4xjyn1 f19ot1t3 fjaevkr f1yrt24w f1lym4af f11cxmw1 f9ddjv3 fbhxue7 fhl27e0 fly5x3f f1g0x7ka fhxju0i f1qch9an f10xn8zz" mask="url(#ig)" aria-labelledby="" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+             <mask id="ig">
+              <rect x="767" y="812" width="844" height="22" rx="4" ry="4" fill="#fff"/>
+             </mask>
+             <text color="rgb(97, 97, 97)" dominant-baseline="text-after-edge" fill="rgb(97, 97, 97)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(97, 97, 97)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"><tspan x="769" y="831.65625" lengthAdjust="spacingAndGlyphs" textLength="35" xml:space="preserve">Reply</tspan></text>
+            </g>
+           </g>
+           <g class="fui-Primitive ___u2iuyv0 f1ekcaio f1mpe4l3 fkrn0sh f179hvsh fmxx68s f1538868 f1p9o1ba f1sil6mw f1nbblvp fifp7yv f1ov4xf1 f1asdtw4 frkrog8 f1euv43f" mask="url(#gb)" aria-hidden="true" data-stacking-context="true" data-tag="div" data-z-index="auto">
+            <mask id="gb">
+             <rect x="427" y="108" width="1" height="1" fill="#fff"/>
+            </mask>
+            <text color="rgb(36, 36, 36)" dominant-baseline="text-after-edge" fill="rgb(36, 36, 36)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="400" text-decoration="none solid rgb(36, 36, 36)" text-rendering="auto" unicode-bidi="isolate" word-spacing="0px" writing-mode="horizontal-tb" user-select="auto"/>
+           </g>
+           <g data-stacking-layer="rootBackgroundAndBorders">
+            <rect x="460" y="846" width="1428" height="2" fill="#f0f0f0"/>
+           </g>
+          </g>
+         </g>
+         <g class="fui-Button rlr4yyk ___1tvbwrj ffp7eso f1p3nwhy f11589ue f1q5o8ev f1pdflbu f1phragk f15wkkf3 f1s2uweq fr80ssc f1ukrpxl fecsdlb f1rq72xc fnp9lpt f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1d6v5y2 f1rirnrt f1uu00uk fkvaka8 f1ux7til f9a0qzu f1lkg8j3 fkc42ay fq7113v ff1wgvm fiob0tu f1j6scgf f1x4h75k f4xjyn1 fbgcvur f1ks1yx8 f1o6qegi fcnxywj fmxjhhp f9ddjv3 f15my96h f8yq1e5 f1mze7uc f59w28j ftbnf46" mask="url(#ip)" aria-labelledby="" aria-owns="fui-Button__icon11" data-stacking-context="true" data-tag="button" data-z-index="auto" role="button">
+          <mask id="ip">
+           <rect x="719" y="893" width="125.12" height="32" rx="4" ry="4" fill="#fff"/>
+          </mask>
+          <text color="rgb(255, 255, 255)" dominant-baseline="text-after-edge" fill="rgb(255, 255, 255)" font-family='-apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, "Apple Color Emoji", "Segoe UI Emoji", sans-serif' font-size="14px" font-stretch="100%" font-weight="600" text-decoration="none solid rgb(255, 255, 255)" text-rendering="auto" word-spacing="0px" writing-mode="horizontal-tb" user-select="none"/>
+          <g class="cr gg gh gi gj" mask="url(#jb)" aria-owns="ui-icon__outline2 ui-icon__filled2" data-stacking-context="true" data-tag="svg" data-z-index="auto" role="presentation">
+           <mask id="jb">
+            <rect x="734" y="901" width="16" height="16" fill="#fff"/>
+           </mask>
+          </g>
+         </g>
+        </g>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+  <mask id="je">
+   <rect width="1920" height="963" fill="#fff"/>
+  </mask>
+ </g>
+ <style>@font-face {			
+font-family: "-apple-system";			
+src: local("-apple-system");			
+}
+						
+@font-face {			
+font-family: "BlinkMacSystemFont";			
+src: local("BlinkMacSystemFont");			
+}
+						
+@font-face {			
+font-family: "Segoe UI";			
+src: local("Segoe UI");			
+}
+						
+@font-face {			
+font-family: "system-ui";			
+src: local("system-ui");			
+}
+						
+@font-face {			
+font-family: "Apple Color Emoji";			
+src: local("Apple Color Emoji");			
+}
+						
+@font-face {			
+font-family: "Segoe UI Emoji";			
+src: local("Segoe UI Emoji");			
+}
+						
+@font-face {			
+font-family: "Segoe UI Web";			
+src: local("Segoe UI Web");			
+}
+						
+@font-face {			
+font-family: "sans-serif";			
+src: local("sans-serif");			
+}</style>
+</svg>

@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-sustainability-water-waste-solution
+metadata:
+  title: Set up a water and waste sustainability solution using Microsoft Sustainability Manager
+  description: Learn how to set up a water and waste sustainability solution using Microsoft Sustainability Manager.
+  ms.date: 12/22/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+title:  Set up a water and waste sustainability solution using Microsoft Sustainability Manager
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Water sustainability enables organizations to record, estimate, analyze, and report on water quantity and quality data to meet water sustainability disclosures and regulatory water quality reporting. Sustainable waste management helps organizations to unify, prepare, analyze, and report on waste quantity and quality characteristics for filing sustainability disclosures and meeting compliance requirements. 
+  
+  In this Learning Path, you’ll learn about water and waste sustainability. You'll be guided through exercises to set up a water and waste sustainability solutions using Microsoft Sustainability Manager.
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the following modules: 
+    - [Set up your training environment](/training/modules/sustainability-setup-environment/) 
+    - [Set up organization and reference data](/training/modules/sustainability-setup-organization/)
+iconUrl: /training/achievements/create-sustainability-water-waste-solution.svg
+levels:
+- intermediate
+- advanced 
+roles:
+- business-user
+- functional-consultant
+- developer
+- administrator
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.sustainability-water-waste-overview
+- learn-bizapps.sustainability-water-solution
+- learn-bizapps.sustainability-waste-solution
+trophy:
+  uid: learn.create-sustainability-water-waste-solution.trophy

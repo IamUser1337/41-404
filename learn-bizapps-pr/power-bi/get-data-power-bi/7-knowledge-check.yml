@@ -1,0 +1,60 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-data-power-bi.7-knowledge-check 
+metadata: 
+ title: Knowledge check
+ description: Knowledge check
+ ms.date: 06/03/2022
+ author: davidiseminger
+ manager: kfollis 
+ ms.author: davdi 
+ ms.topic: unit
+  
+  
+title: Check your knowledge 
+durationInMinutes: 10
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: Which tool would you use to clean your data before building reports?
+    choices:
+    - content: Navigator view
+      isCorrect: false 
+      explanation: Power Query editor allows you to search for data sources and then shape that data. For example, remove a column, change a data type, or merge tables.
+    - content: Power Query editor
+      isCorrect: true 
+      explanation: Power Query editor allows you to search for data sources and then shape that data. For example, remove a column, change a data type, or merge tables.
+    - content: New Measure 
+      isCorrect: false 
+      explanation: Power Query editor allows you to search for data sources and then shape that data. For example, remove a column, change a data type, or merge tables.
+    - content: New Parameter 
+      isCorrect: false 
+      explanation: Power Query editor allows you to search for data sources and then shape that data. For example, remove a column, change a data type, or merge tables.
+  - content: What is one method for creating a visual?
+    choices: 
+    - content: Drag a field from the Fields list onto the Visualizations pane
+      isCorrect: false 
+      explanation: Dragging any field from the Fields list onto the open white space of the canvas (in Report view) will automatically create a default visual for that data type.
+    - content: Drag a field from the Fields list onto the Model view canvas
+      isCorrect: false 
+      explanation: Dragging any field from the Fields list onto the open white space of the canvas (in Report view) will automatically create a default visual for that data type.
+    - content:  Drag a field from the Fields list onto the Report view canvas
+      isCorrect: true 
+      explanation: Dragging any field from the Fields list onto the open white space of the canvas (in Report view) will automatically create a default visual for that data type.
+    - content: Drag a field from the Fields list onto the Data view canvas
+      isCorrect: false 
+      explanation: Dragging any field from the Fields list onto the open white space of the canvas (in Report view) will automatically create a default visual for that data type.
+  - content: What is the best way to import tabular data from a website into Power BI?
+    choices: 
+    - content: Download data from the website and then import to Power BI
+      isCorrect: false 
+      explanation: With Power BI Desktop, you can use "Get Data" to import data from a web page into a report and create visualizations.
+    - content: Transfer data from the website to OneDrive and then import to Power BI
+      isCorrect: false 
+      explanation: With Power BI Desktop, you can use "Get Data" to import data from a web page into a report and create visualizations.
+    - content: Select Get Data and point to the URL 
+      isCorrect: true 
+      explanation: With Power BI Desktop, you can use "Get Data" to import data from a web page into a report and create visualizations.
+    - content: Use the Query Editor to find and edit the web-based data
+      isCorrect: false 
+      explanation: With Power BI Desktop, you can use "Get Data" to import data from a web page into a report and create visualizations.
+

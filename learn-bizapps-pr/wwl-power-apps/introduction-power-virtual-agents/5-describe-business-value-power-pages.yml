@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-virtual-agents.describe-business-value-power-pages
+title: Describe the business value of Power Pages
+metadata:
+  title: Describe the business value of Power Pages
+  description: "How can Power Pages provide value to an organization?"
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/5-describe-business-value-power-pages.md)]

@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.implementation-recommendations 
+metadata: 
+ title: Implementation recommendations for Microsoft Power Platform environments
+ description: Learn how organizations should choose to implement security and governance.
+ ms.date: 5/24/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ 
+title: Implementation recommendations for Microsoft Power Platform environments 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Do you want prescriptive recommendations for how organizations should choose to implement security and governance? This module provides recommendations based on popular use cases, including Microsoft 365 and Dynamics 365 configurations. In addition, edge cases such as custom and HTTP connectors are discussed. Tooling will also be discussed, including the DLP Editor Tool, from the Center of Excellence (COE) toolkit, which allows administrators to understand the impact of the DLP change that they are about to make.
+abstract: |  
+    In this module, you will: 
+    - Build a recommended Data Loss Prevention (DLP) policy for Office 365 scenarios.
+    - Build a recommended DLP policy for Dynamics 365 scenarios.
+    - Configure DLP policies that manage custom connectors.
+    - Configure DLP policies that manage HTTP connectors.
+prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization. Students should also understand how connectors are used within apps and flows to exchange data across source and destination systems. Participants should have environment or tenant-wide administrative access to Microsoft Power Platform Admin center and Power Automate Admin center. The Power Apps PowerShell cmdlets and Microsoft Power Platform Management Connector are also used. 
+iconUrl: /training/achievements/implementation-recommendations.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator   
+- functional-consultant
+products:   
+- power-automate 
+- power-platform
+- power-apps
+subjects:
+- data-management
+units:
+- learn-bizapps.implementation-recommendations.1-introduction 
+- learn-bizapps.implementation-recommendations.2-prerequisites 
+- learn-bizapps.implementation-recommendations.3-default 
+- learn-bizapps.implementation-recommendations.4-implement 
+- learn-bizapps.implementation-recommendations.5-customer-experience 
+- learn-bizapps.implementation-recommendations.6-directional-data 
+- learn-bizapps.implementation-recommendations.8-http 
+- learn-bizapps.implementation-recommendations.9-exercise 
+- learn-bizapps.implementation-recommendations.10-check 
+- learn-bizapps.implementation-recommendations.11-summary 
+badge: 
+  uid: learn-bizapps.implementation-recommendations.badge

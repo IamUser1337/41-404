@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-create-microsoft-power-platform-solutions.exercise-create-solutions-for-customers-using
+title: Exercise - Create solutions for customers using Power Platform
+metadata:
+  title: Exercise - Create solutions for customers using Power Platform
+  description: "Exercise - Create solutions for customers using Power Platform"
+  ms.date: 08/02/2023
+  author: wwlpublish
+  ms.author: hakimm
+  ms.topic: unit
+durationInMinutes: 180
+content: |
+  [!include[](includes/3-exercise-create-solutions-for-customers-using.md)]

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-platform-automate-client-script.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Review what you've learned about automating Business Process Flows with client script.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 1
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/summary.md)]

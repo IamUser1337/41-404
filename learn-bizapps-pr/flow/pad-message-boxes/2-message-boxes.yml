@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-message-boxes.2-message-boxes 
+title: Message box actions
+metadata: 
+  title: Message box actions
+  description: Learn about the message boxes group of actions.
+  ms.date: 10/22/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-message-boxes.md)] 

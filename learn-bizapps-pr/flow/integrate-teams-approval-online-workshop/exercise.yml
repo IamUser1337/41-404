@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-teams-approval-online-workshop.exercise
+title: Exercise - Use Microsoft Teams to get approvals
+metadata:
+  title: Exercise - Use Microsoft Teams to get approvals
+  description: Follow the steps to use Microsoft Teams to get approvals.
+  ms.date: 11/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

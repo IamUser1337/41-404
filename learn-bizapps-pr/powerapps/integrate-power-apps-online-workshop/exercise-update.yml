@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-power-apps-online-workshop.exercise-update
+title: Exercise - Update the flow
+metadata:
+  title: Exercise - Update the flow
+  description: Follow the steps to update your flow.
+  ms.date: 02/16/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-update.md)]

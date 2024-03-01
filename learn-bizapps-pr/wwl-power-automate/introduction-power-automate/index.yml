@@ -1,0 +1,54 @@
+### YamlMime:Module
+uid: learn-bizapps.wwl.introduction-power-automate
+metadata:
+  title: Describe building automation with Microsoft Power Automate
+  description: "In this module, learners will be introduced to how Microsoft Power Automate allows for the automation of repetitive business processes."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.service: power-automate
+title: Describe building automation with Microsoft Power Automate
+summary: |
+  Microsoft Power Automate is all about process automation. Power Automate allows anyone with knowledge of the business process to create repeatable flows that, when triggered, leap into action and perform the process for them.
+  [!INCLUDE [](../../includes/wwl/ai-contribution-notes.md)]
+abstract: |
+  In this module, we will:
+  - Examine the capabilities of Power Automate.
+  - Explore the different Power Automate apps.
+  - Examine the components of a cloud flow.
+  - Examine Power Automate scenarios.
+  - Examine Process mining.
+  - Build a basic Power Automate cloud flow.
+  - Explore how to build a cloud flow with Copilot.
+  - Build a basic Power Automate desktop flow.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-power-automate.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- functional-consultant
+products:
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.wwl.introduction-power-automate.introduction
+- learn-bizapps.wwl.introduction-power-automate.describe-capabilities-power-automate
+- learn-bizapps.wwl.introduction-power-automate.explore-different-power-automate-apps
+- learn-bizapps.wwl.introduction-power-automate.describe-components-cloud-flow
+- learn-bizapps.wwl.introduction-power-automate.consider-power-automate-scenarios
+- learn-bizapps.wwl.introduction-power-automate.process-mining
+- learn-bizapps.wwl.introduction-power-automate.build-basic-power-automate-cloud-flow
+- learn-bizapps.wwl.introduction-power-automate.build-cloud-flow-copilot
+- learn-bizapps.wwl.introduction-power-automate.build-desktop-flow
+- learn-bizapps.wwl.introduction-power-automate.exercise-build-basic-power-automate-flow
+- learn-bizapps.wwl.introduction-power-automate.describe-business-value-power-automate
+- learn-bizapps.wwl.introduction-power-automate.knowledge-check
+- learn-bizapps.wwl.introduction-power-automate.summary-resources
+badge:
+  uid: learn-bizapps.wwl.introduction-power-automate.badge

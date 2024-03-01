@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.financial-services-overview.4-security-compliance 
+title: Security and compliance
+metadata: 
+  title: Security and compliance
+  description: Learn about security and compliance.
+  ms.date: 01/31/2024 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-security-compliance.md)] 

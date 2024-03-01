@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.1-formula-overview
+title: Formulas overview
+metadata:
+  title: Overview of formulas
+  description: Learn about formulas.
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-formula-overview.md)]

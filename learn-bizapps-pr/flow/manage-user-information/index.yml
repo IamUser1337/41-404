@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.manage-user-information
+metadata:
+ title: Build flows to manage user information
+ description: Learn to build flow to manage user information.
+ ms.date: 11/30/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Build flows to manage user information
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Power Automate is an online workflow service that automates actions across the most common apps and services. In this module, you build more flows to manage user information.
+abstract: |
+    This module explains how to:
+    - Build a flow that uses information like locations or date
+    - Build a flow accepts user input when run
+    - Create a flow that blocks time on a calendar
+prerequisites: You must sign up for Power Automate, and have a OneDrive for Business account.
+iconUrl: /training/achievements/manage-user-information.svg
+levels:
+- beginner
+roles:
+- business-user
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.manage-user-information.1-introduction
+- learn-bizapps.manage-user-information.2-tokens
+- learn-bizapps.manage-user-information.3-user-input
+- learn-bizapps.manage-user-information.4-store-documents
+- learn-bizapps.manage-user-information.5-check
+- learn-bizapps.manage-user-information.6-summary
+badge:
+  uid: learn-bizapps.manage-user-information.badge

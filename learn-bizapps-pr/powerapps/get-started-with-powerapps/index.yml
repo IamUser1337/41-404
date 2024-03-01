@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-get-started
+metadata:
+  title: Get started with Power Apps canvas apps
+  description: Learn the basics of Power Apps and how you can use it in your organization.
+  ms.date: 01/10/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.collection: get-started
+title: Get started with Power Apps canvas apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module introduces the learner to Power Apps. It starts with an introduction video briefly describing the “why” (case for Power Apps) and the “what” for what users can do with Power Apps. The units then take users through the “how” instilling in them the confidence that they can use Power Apps to interact with their data.
+abstract: |
+  This module explains how to:
+  - Explore how Power Apps can make your business more efficient.
+  - Use different technologies to perform different tasks in Power Apps.
+  - Build an app in Power Apps in different ways.
+  - Create your first app from data in an Excel workbook.
+prerequisites: Access to Microsoft Power Apps, Excel, and OneDrive for Business.
+iconUrl: /training/achievements/get-started-with-powerapps.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.powerapps-get-started.1-powerapps-introduction
+- learn-bizapps.powerapps-get-started.2-powerapps-building-blocks
+- learn-bizapps.powerapps-get-started.5-powerapps-create-first
+- learn-bizapps.powerapps-get-started.4-powerapps-ways-to-build
+- learn-bizapps.powerapps-get-started.create-app-copilot
+- learn-bizapps.powerapps-get-started.3-powerapps-related-technologies
+- learn-bizapps.powerapps-get-started.4-5-design-app
+- learn-bizapps.powerapps-get-started.6-powerapps-quiz-get-started
+- learn-bizapps.powerapps-get-started.7-summary-cleanup
+badge:
+  uid: learn-bizapps.powerapps-get-started.badge

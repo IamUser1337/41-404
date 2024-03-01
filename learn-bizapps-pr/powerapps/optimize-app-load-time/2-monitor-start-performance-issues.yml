@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.optimize-app-load-time.2-monitor-start-performance-issues 
+title: Use Monitor to troubleshoot app start performance issues
+metadata: 
+  title: Use Monitor to troubleshoot app start performance issues
+  description: Learn how you can launch Monitor from Power Apps Studio to help troubleshoot problems and improve the quality of your apps. 
+  ms.date: 11/17/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-monitor-start-performance-issues.md)] 

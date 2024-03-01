@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.mapping-learning-to-power-bi.publishing-promoted
+title: Power BI service – publishing – promoted
+metadata:
+  title: Power BI service – publishing – promoted
+  description: "Power BI service – publishing – promoted"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 14
+content: |
+  [!include[](includes/4-publish-promoted.md)]

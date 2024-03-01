@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-app-project.identify-business-problem
+title: Identify the business problem to solve
+metadata:
+  title: Identify the business problem to solve
+  description: Learn how to identify the business problem that your app will solve.
+  ms.date: 06/27/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/identify-business-problem.md)]

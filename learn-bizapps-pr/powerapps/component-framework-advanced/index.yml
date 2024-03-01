@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.component-framework-advanced
+metadata:
+ title: Use advanced features with Power Apps component framework
+ description: Learn about Power Apps component framework advanced articles.
+ ms.date: 10/30/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ ms.service: "power-platform"
+ ms.subservice: developer
+title: Use advanced features with Power Apps component framework
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Get details on how to address more complex scenarios as it applies to a Power Apps component framework.  This module covers how to use client frameworks such as React and Angular within a component, along with how to address scenarios such as file upload, localization, and integration with Microsoft Dataverse Web API.
+abstract: |
+    In this module, you will:
+    - Use formatting API in a Power Apps component.
+    - Use Dataverse web API in a Power Apps component.
+prerequisites: Prior development work is helpful.
+iconUrl: /training/achievements/component-framework-advanced.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365
+- power-platform
+subjects:
+- cross-development
+units:
+- learn-bizapps.component-framework-advanced.introduction
+- learn-bizapps.component-framework-advanced.formatting-api
+- learn-bizapps.component-framework-advanced.web-api
+- learn-bizapps.component-framework-advanced.pop-up
+- learn-bizapps.component-framework-advanced.react
+- learn-bizapps.component-framework-advanced.check
+- learn-bizapps.component-framework-advanced.summary
+badge:
+  uid: learn-bizapps.component-framework-advanced.badge

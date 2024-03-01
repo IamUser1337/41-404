@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-get-started.flow-monitor-incoming-emails
+title: Exercise - Monitor incoming emails
+metadata: 
+  title: Exercise - Monitor incoming emails
+  description: Learn how to monitor incoming emails and save a copy of the attachments to SharePoint.
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit  
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](../includes/banner.md)]
+  [!include[](includes/flow-monitor-incoming-emails.md)] 
+

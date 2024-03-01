@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-visualize-report-data.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: "Visualizing report data"
+  questions:
+  - content: "Which of these is true about Data Visualizations?"
+    choices:
+    - content: "Variant of the Tablix"
+      isCorrect: false
+      explanation: "That's incorrect. The layout size of Data Visualizations is fixed."
+    - content: "Layout size is dynamic"
+      isCorrect: false
+      explanation: "That's incorrect. The layout size of Data Visualizations is fixed."
+    - content: "Layout size is fixed"
+      isCorrect: true
+      explanation: "That's correct. The layout size of Data Visualizations is fixed."
+  - content: "Which of these is true about Data regions?"
+    choices:
+    - content: "The Ribbon bar includes 6 templates"
+      isCorrect: false
+      explanation: "That's incorrect. Data regions are a variant of the Tablix."
+    - content: "Include: Gauge, Sparkline, and Indicator"
+      isCorrect: false
+      explanation: "That's incorrect. Data regions are a variant of the Tablix."
+    - content: "Variant of the Tablix"
+      isCorrect: true
+      explanation: "That's correct. Data regions are a variant of the Tablix."
+  - content: "Which of the following is true about Data Bar, Sparkline, and Indicator?"
+    choices:
+    - content: "Radial and linear gauge types are available."
+      isCorrect: false
+      explanation: "That's in correct. Radial and linear gauge types are not available in the Data Bar, Sparkline, and Indicator."
+    - content: "Can be used stand-alone or embedded into Tablix data regions."
+      isCorrect: true
+      explanation: "That's correct. Radial and linear gauge types are not available in the Data Bar, Sparkline, and Indicator."
+    - content: "When embedded into a Tablix, they can be based on different dataset than the one used by the Tablix."
+      isCorrect: false
+      explanation: "That's incorrect. When embedded into a Tablix, they must be based on the same dataset used by the Tablix."

@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-reach.12-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/30/2021 
+ author: wwlpublish 
+ ms.author: shlindsay 
+ ms.topic: unit
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following embed scenario allows you to easily embed interactive Power BI content in blog posts, websites, emails, or social media?
+    choices: 
+    - content: Embed in PowerApps
+      isCorrect: false
+      explanation: Embed in Microsoft Teams allows you to embed Power BI reports in Teams. SharePoint Online web parts allow you to embed interactive Power BI reports in SharePoint Online pages. Embed in PowerApps enables you to embed dashboards and reports in PowerApps.
+    - content: SharePoint Online web part
+      isCorrect: false 
+      explanation: Embed in Microsoft Teams allows you to embed Power BI reports in Teams. SharePoint Online web parts allow you to embed interactive Power BI reports in SharePoint Online pages. Embed in PowerApps enables you to embed dashboards and reports in PowerApps.
+    - content: Publish to web
+      isCorrect: true 
+      explanation: This Power BI embed scenario allows a user to embed interactive Power BI content in blog posts, websites, emails, or social media.
+    - content: Embed in Microsoft Teams
+      isCorrect: false 
+      explanation: Embed in Microsoft Teams allows you to embed Power BI reports in Teams. SharePoint Online web parts allow you to embed interactive Power BI reports in SharePoint Online pages. Embed in PowerApps enables you to embed dashboards and reports in PowerApps.
+  - content: In what resource would you find client tools that provide the ability to produce and consume .NET packages?
+    choices: 
+    - content: .NET resource library
+      isCorrect: false
+      explanation: .NET resource library, SharePoint Online gallery, and REST API directory are not resources where tools for producing and consuming .NET packages can be found.
+    - content: SharePoint Online gallery
+      isCorrect: false 
+      explanation: .NET resource library, SharePoint Online gallery, and REST API directory are not resources where tools for producing and consuming .NET packages can be found.
+    - content: REST API directory
+      isCorrect: false 
+      explanation: .NET resource library, SharePoint Online gallery, and REST API directory are not resources where tools for producing and consuming .NET packages can be found.
+    - content: NuGet gallery
+      isCorrect: true 
+      explanation: NuGet gallery is the central package repository.
+  - content: Which of the following is NOT a recognized option to create or build on top of a dataflow?
+    choices: 
+    - content: Use define new tables
+      isCorrect: false
+      explanation: Define new tables, use linked tables, and use computed tables are all recognized ways to create or build on top of a dataflow.
+    - content: Use linked tables
+      isCorrect: false 
+      explanation: Define new tables, use linked tables, and use computed tables are all recognized ways to create or build on top of a dataflow.
+    - content: Use entity tables
+      isCorrect: true 
+      explanation: Use entity tables is not a recognized way to create or build on top of a dataflow.
+    - content: Use a computed table
+      isCorrect: false 
+      explanation: Define new tables, use linked tables, and use computed tables are all recognized ways to create or build on top of a dataflow.
+  - content: Power BI Template Apps allow Power BI Pro and Power BI Premium users to gain immediate insights through prepackaged dashboards and reports that can be connected to what source?
+    choices: 
+    - content: SharePoint Online
+      isCorrect: false
+      explanation: SharePoint Online, .NET gallery, and O365 are not sources of data that allow Power BI Pro and Premium users to gain immediate insights through prepackaged dashboards and reports.
+    - content: .NET gallery
+      isCorrect: false 
+      explanation: SharePoint Online, .NET gallery, and O365 are not sources of data that allow Power BI Pro and Premium users to gain immediate insights through prepackaged dashboards and reports.
+    - content: O365
+      isCorrect: false 
+      explanation: SharePoint Online, .NET gallery, and O365 are not sources of data that allow Power BI Pro and Premium users to gain immediate insights through prepackaged dashboards and reports.
+    - content: Live data sources
+      isCorrect: true 
+      explanation: Live data sources are a source that allows Power BI Pro and Premium users to gain insights through prepackaged dashboards and reports.

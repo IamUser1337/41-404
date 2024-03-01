@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-integration-interoperability.configure-virtual-health-data-table
+title: Set up a virtual health data table
+metadata:
+  title: Set up a virtual health data table
+  description: Learn how to set up a virtual health data table.
+  ms.date: 11/22/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/configure-virtual-health-data-table.md)]

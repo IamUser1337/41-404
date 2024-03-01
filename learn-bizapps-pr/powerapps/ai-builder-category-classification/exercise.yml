@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.ai-builder-category-classification.exercise
+title: Exercise - Build a custom category classification model and use it in Power Automate
+metadata:
+  title: Exercise - Build a custom category classification model and use it in Power Automate
+  description: Follow the steps to build a custom category classification model and use it in Power Automate.
+  ms.date: 06/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

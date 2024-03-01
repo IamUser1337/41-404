@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-excel-automation.2-launching-saving-closing
+title: Launch, save, and close an Excel file 
+metadata: 
+  title: Launch, save, and close an Excel file 
+  description: Learn how to launch, save, and close an Excel file. 
+  ms.date: 12/09/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+  
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-launching-saving-closing.md)] 

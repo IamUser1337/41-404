@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-power-virtual-agent-topics.8-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/02/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You recently created a new bot that is used to help in customer support scenarios. You have several topics that were created by default that you want to disable. Which of the following topic types always have their status set to Always On?
+    choices:
+    - content: User Topics
+      isCorrect: false
+      explanation: System topics are automatically created whenever a new bot is created. These topics represent actions such as greetings, escalations and more. Because these topics are important to ensure your bot can function correctly, they can't be turned off. Their status is set to Always on. Topics that are created by users, suggested by PVA based on content, and Lesson topics created by default can all be disabled as needed.
+    - content: System Topics
+      isCorrect: true
+      explanation: System topics are automatically created whenever a new bot is created. These topics represent actions such as greetings, escalations and more. Because these topics are important to ensure your bot can function correctly, they can't be turned off. Their status is set to Always on. Topics that are created by users, suggested by PVA based on content, and Lesson topics created by default can all be disabled as needed.
+    - content: Lesson Topics
+      isCorrect: false
+      explanation: System topics are automatically created whenever a new bot is created. These topics represent actions such as greetings, escalations and more. Because these topics are important to ensure your bot can function correctly, they can't be turned off. Their status is set to Always on. Topics that are created by users, suggested by PVA based on content, and Lesson topics created by default can all be disabled as needed.
+    - content: Suggested Topics
+      isCorrect: false
+      explanation: System topics are automatically created whenever a new bot is created. These topics represent actions such as greetings, escalations and more. Because these topics are important to ensure your bot can function correctly, they can't be turned off. Their status is set to Always on. Topics that are created by users, suggested by PVA based on content, and Lesson topics created by default can all be disabled as needed.
+  - content: You're creating a topic that provides the local weather forecast to a customer. Which conversation node would you use to launch a Power Automate flow to get forecast details from a weather service?
+    choices:
+    - content: Ask a question
+      isCorrect: false
+      explanation: Conversation nodes are used by topics to help control the flow of a conversation. They're used to display messages, capture data, or if it's the call an action node, they can be used to launch a Power Automate flow that interacts with an external service.
+    - content: Go to another topic
+      isCorrect: false
+      explanation: Conversation nodes are used by topics to help control the flow of a conversation. They're used to display messages, capture data, or if it's the call an action node, they can be used to launch a Power Automate flow that interacts with an external service.
+    - content: Call an action
+      isCorrect: true
+      explanation: Conversation nodes are used by topics to help control the flow of a conversation. They're used to display messages, capture data, or if it's the call an action node, they can be used to launch a Power Automate flow that interacts with an external service.
+    - content: End the conversation
+      isCorrect: false
+      explanation: Conversation nodes are used by topics to help control the flow of a conversation. They're used to display messages, capture data, or if it's the call an action node, they can be used to launch a Power Automate flow that interacts with an external service.
+  - content: Currently, when your bot is unable to identify which topic to present to a customer, it automatically escalates the conversation to a live agent. You've been asked to configure the bot to first ask the customer a few questions to determine if a topic can help before escalating the conversation. How is this done?
+    choices:
+    - content: Enable and configure the fallback topic
+      isCorrect: true
+      explanation: Fallback topics can be enabled to defer a customer topic rather than triggering an escalation. Once you've enabled the fallback topic for your bot, you can configure the topic as you would any other topic in the system.
+    - content: Enable and configure the escalate topic
+      isCorrect: false
+      explanation: Fallback topics can be enabled to defer a customer topic rather than triggering an escalation. Once you've enabled the fallback topic for your bot, you can configure the topic as you would any other topic in the system.
+    - content: Enable and configure the routing topic
+      isCorrect: false
+      explanation: Fallback topics can be enabled to defer a customer topic rather than triggering an escalation. Once you've enabled the fallback topic for your bot, you can configure the topic as you would any other topic in the system.
+    - content: Enable and configure entities
+      isCorrect: false
+      explanation: Fallback topics can be enabled to defer a customer topic rather than triggering an escalation. Once you've enabled the fallback topic for your bot, you can configure the topic as you would any other topic in the system.

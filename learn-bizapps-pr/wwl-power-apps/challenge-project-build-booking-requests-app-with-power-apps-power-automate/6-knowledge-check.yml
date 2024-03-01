@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.knowledge-check
+title: Knowledge check
+metadata:
+  unitType: knowledge_check
+  title: Knowledge check
+  description: "Check your knowledge on building canvas apps. Check your knowledge on building flows."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+quiz:
+  questions:
+  - content: "What trigger should have been used to send an email to customers after they submitted their booking request?"
+    choices:
+    - content: "Microsoft Dataverse - When a row is added, modified deleted   "
+      isCorrect: true
+      explanation: "Correct. This trigger is the best way to start your flow."
+    - content: "Office O365 Outlook - When a new email arrives"
+      isCorrect: false
+      explanation: "Try again. Triggering the flow when an email arrives wouldn't be best for this flow."
+    - content: "SharePoint - When an item is created"
+      isCorrect: false
+      explanation: "Try again. A SharePoint trigger wouldn't be best for this flow."
+  - content: "What datatype did you need to use for the Decision column?"
+    choices:
+    - content: "Choices"
+      isCorrect: false
+      explanation: "Try again. A choices column allows the user to select multiple choices when there should only be one decision chosen in the Decision column."
+    - content: "Choice"
+      isCorrect: true
+      explanation: "Correct. Choice is the correct data type for the Decision column."
+    - content: "Lookup"
+      isCorrect: false
+      explanation: "Try again. The lookup data type wouldn't be best suited for the Decision column. "
+  - content: "When a customer submits a Booking Request, what should the Decision column be defaulted to?"
+    choices:
+    - content: "Undecided"
+      isCorrect: true
+      explanation: "Correct. The Decision should always default to Undecided on a new Booking Request."
+    - content: "Accepted"
+      isCorrect: false
+      explanation: "Try Again. The Decision shouldn't default to Accepted on a new Booking Request."
+    - content: "Declined"
+      isCorrect: false
+      explanation: "Try Again. The Decision shouldn't default to Declined on a new Booking Request."
+  - content: "Suppose Contoso Pet Boarding wants to offer dog washes as an add-on to Booking Requests. What changes would need to be made to implement this requirement?"
+    choices:
+    - content: "Create a custom table called Dog Wash and add the table to the Booking Request form"
+      isCorrect: false
+      explanation: "Try Again. A new table would not be necessary to capture a customer's add-on request for a dog wash."
+    - content: "Create a Text column in the Booking Requests table named Dog Wash and add the column to the Booking Request form"
+      isCorrect: false
+      explanation: "Try Again. A Text column would not be best suited for capturing a customer's add-on request for a dog wash."
+    - content: "Create a Yes/No column in the Booking Requests table named Dog Wash and add the column as a checkbox to the Booking Request form"
+      isCorrect: true
+      explanation: "Correct. The Yes/No column presented as a checkbox on the form would allow the customer to check if they want to add this service to their request."

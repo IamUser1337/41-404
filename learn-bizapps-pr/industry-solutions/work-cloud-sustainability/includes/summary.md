@@ -1,0 +1,1 @@
+With Microsoft Sustainability Manager, organizations can gain continuous visibility into their emissions activities and reliably report impact in near real-time. Additionally, it allows organizations to access the intelligence that’s required to collaborate with others to refine and scale sustainability initiatives and transform their business end to end. 

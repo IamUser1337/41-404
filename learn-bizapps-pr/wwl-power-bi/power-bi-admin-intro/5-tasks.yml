@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-intro.5-tasks 
+title: Typical administrative tasks
+metadata: 
+  title: Typical administrative tasks
+  description: Learn tasks that administrators perform.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-tasks.md)] 

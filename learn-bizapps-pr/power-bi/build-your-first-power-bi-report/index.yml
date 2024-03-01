@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.build-your-first-report
+metadata:
+  title: Create and share your first Power BI report
+  description: With Power BI, you can create compelling visuals and reports. In this module, you learn how to use Power BI Desktop to connect to data, build visuals, and create a report that you can share with others in your organization. You then learn how to publish the report to the Power BI service, so that others can see your insights and benefit from your work.
+  ms.date: 05/04/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi
+  ms.topic: module
+  ms.service: powerbi
+  #ms.learn-contact: davdi
+title: Create and share your first Power BI report
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  With Power BI you can create compelling visuals and reports. In this module you learn how to use Power BI Desktop to connect to data, build visuals, and create a report that you can share with others in your organization. Then you learn how to publish the report to the Power BI service, and let others see your insights and benefit from your work.
+abstract: |
+    In this module, you will:
+    - Create a report in Power BI
+    - Share Power BI reports
+prerequisites: None
+iconUrl: /training/achievements/build-your-first-power-bi-report.svg
+levels:
+- beginner
+roles:
+- business-user
+- business-analyst
+- functional-consultant
+products:
+- power-platform
+- power-bi
+subjects:
+- data-visualization
+units:
+- learn-bizapps.build-your-first-report.1-introduction
+- learn-bizapps.build-your-first-report.2-connect-to-data-sources-in-power-bi-desktop
+- learn-bizapps.build-your-first-report.3-clean-and-transform-data-with-power-query-editor
+- learn-bizapps.build-your-first-report.4-exercise-create-visuals-in-power-bi
+- learn-bizapps.build-your-first-report.5-exercise-share-a-power-bi-report
+- learn-bizapps.build-your-first-report.6-summary-cleanup
+- learn-bizapps.power-bi.7-build-your-first-power-bi-report-quiz
+badge:
+  uid: learn-bizapps.build-your-first-report.badge

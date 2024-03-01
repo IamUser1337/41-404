@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-foundational-components-microsoft-power-platform.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction to the module on the foundational components of Microsoft Power Platform."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/1-introduction.md)]

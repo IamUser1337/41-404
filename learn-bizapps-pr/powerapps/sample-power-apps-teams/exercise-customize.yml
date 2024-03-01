@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sample-power-apps-teams.exercise-customize
+title: Exercise - Customize the sample app
+metadata:
+  title: Exercise - Customize the sample app
+  description: Follow the steps to customize the Manage issues sample app.
+  ms.date: 10/09/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-customize.md)]

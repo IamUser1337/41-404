@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.how-to-build-basic-chatbot.test-chatbot
+title: Test a chatbot
+metadata:
+  title: Test a chatbot
+  description: "Test a chatbot"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 5
+content: |
+  [!include[](includes/4-test-chatbot.md)]

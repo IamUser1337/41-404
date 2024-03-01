@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.5-call-action-pull-data 
+title: Call an action to pull in Dataverse for Teams data
+metadata: 
+  title: Call an action to pull in Dataverse for Teams data 
+  description: Learn how to call an action to pull in Dataverse for Teams data. 
+  ms.date: 01/05/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 9
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-call-action-pull-data.md)] 

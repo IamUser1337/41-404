@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-teams 
+metadata: 
+ title: Use a Power BI report for Contoso Coffee - Online Workshop
+ description: In this lab, you'll use Power BI to connect to your Microsoft Dataverse tables to build a report about the swag requests.
+ ms.date: 10/06/2022  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Use a Power BI report for Contoso Coffee - Online Workshop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  In this lab, you'll use Power BI to connect to your Microsoft Dataverse tables to build a report about the swag requests. With Power BI, you can get insights from your data by building interactive reports and dashboards. The Power BI app in Microsoft Teams allows team members to view and collaborate on reports and dashboards from within the Teams interface. The Power BI app includes the same features as Power BI Service, which contains a basic range of tools for building and editing reports. For the full range of editing features, you can build the report by using Power BI Desktop before publishing to Teams.
+abstract: |  
+    In this module, you'll: 
+    - Connect to Dataverse and transform the data.
+    - Build a report in Teams.
+    - Use the report that you built.
+prerequisites: |  
+    - Completion of the prior module. If you didn't complete the prior exercises, download [Dataverse exercises](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/in-a-day/dataverse/dataverse-teams-exercise-files.zip) to import the needed components before you start these exercises.
+    - An environment with a licensed user to complete these exercises. Follow the sign-up [process](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5) if you need a training environment. We don’t recommend that you use your production (live environment for work or school) user/tenant for completing these exercises.
+    - If you can't install Power BI Desktop, you won't be able to complete this lab.
+    - Access to Microsoft Power BI Desktop on your device. If you don't already have Power BI Desktop installed, you'll need to download and install it. If you have Windows 10 or 11, use Microsoft App Store to download and install the Power BI Desktop app, or you can download and install by going to [Microsoft Power BI Desktop](https://www.microsoft.com/download/details.aspx?id=45331).
+iconUrl: /learn/achievements/power-bi-teams.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- business-user  
+products: 
+- power-platform
+- power-apps
+- dataverse
+subjects: 
+- productivity 
+units: 
+- learn-bizapps.power-bi-teams.introduction 
+- learn-bizapps.power-bi-teams.exercise-connect-dataverse 
+- learn-bizapps.power-bi-teams.exercise-build-reports 
+- learn-bizapps.power-bi-teams.exercise-use-report 
+- learn-bizapps.power-bi-teams.check 
+- learn-bizapps.power-bi-teams.summary 
+badge: 
+  uid: learn-bizapps.power-bi-teams.badge 

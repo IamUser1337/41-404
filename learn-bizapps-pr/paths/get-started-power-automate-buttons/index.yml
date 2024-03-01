@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-power-automate-buttons
+metadata:
+  title: Start using buttons in Power Automate
+  description: Do you want to create button flows to solve business problems? Then, take this learning path, which introduces you to Power Automate buttons and demonstrates how to create button flows. 
+  ms.date: 01/03/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Start using buttons in Power Automate
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+
+  Do you want to create button flows to solve business problems? Then, take this learning path, which introduces you to Power Automate buttons and demonstrates how to create button flows.
+prerequisites: |
+  - A basic understanding of Microsoft Power Automate, understanding how to create an event-driven flow and a working mobile device with a Power Automate license.
+iconUrl: /training/achievements/get-started-power-automate-buttons.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+modules:
+- learn-bizapps.intro-power-automate-buttons 
+- learn-bizapps.button-without-user-input 
+- learn-bizapps.button-user-input 
+- learn-bizapps.physical-input-button
+- learn-bizapps.share-buttons 
+trophy:
+  uid: learn.get-started-power-automate-buttons.trophy

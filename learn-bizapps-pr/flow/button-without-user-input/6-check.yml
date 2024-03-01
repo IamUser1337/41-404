@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.button-without-user-input.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/01/2021 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What input is required by the user to trigger the flows described in this learning module?
+    choices: 
+    - content: Select the button. No other input is required.
+      isCorrect: true
+      explanation: Once the button is selected, your current location, the time stamp, and your email address are automatically provided by Power Automate and necessary actions such as email notifications can be performed. 
+    - content: Select the button and type your email address.
+      isCorrect: false
+      explanation: Once the button is selected, your current location, the time stamp, and your email address are automatically provided by Power Automate and necessary actions such as email notifications can be performed. 
+    - content: Select your button and provide your current address.
+      isCorrect: false 
+      explanation: Once the button is selected, your current location, the time stamp, and your email address are automatically provided by Power Automate and necessary actions such as email notifications can be performed. 
+    - content: Select your button and provide your phone number.
+      isCorrect: false 
+      explanation: Once the button is selected, your current location, the time stamp, and your email address are automatically provided by Power Automate and necessary actions such as email notifications can be performed. 
+  - content: Which user information can the Power Automate mobile app automatically provide?
+    choices: 
+    - content: Your name and email address only.
+      isCorrect: false
+      explanation: The Power Automate button provides the full address of your current location, the time stamp, user email, and username. Office 365 users provides your manager’s information.
+    - content: Your name, email address, and phone number.
+      isCorrect: false 
+      explanation: Your full name, email address, manager’s contact information, and current location.
+    - content: The Power Automate button provides the full address of your current location, the time stamp, user email, and username. Office 365 users provides your manager’s information.
+      isCorrect: true 
+      explanation: The Power Automate button provides the full address of your current location, the time stamp, user email, and username. Office 365 users provides your manager’s information.
+    - content: Your full name only.
+      isCorrect: false
+      explanation: The Power Automate button provides the full address of your current location, the time stamp, user email, and username. Office 365 users provides your manager’s information.
+  - content: What are the benefits of using a Power Automate mobile app?
+    choices: 
+    - content: You can create, trigger, add input, and receive notifications from Power Automate flows.
+      isCorrect: true 
+      explanation: Power Automate mobile app is a powerful service offered by Microsoft. Not only can you use the app to manage and track workflows but also to create lightweight flows. You can trigger, add input, and receive notifications from Power Automate flows. 
+    - content: You can trigger and receive notifications from Power Automate flows.
+      isCorrect: false 
+      explanation: Power Automate mobile app is a powerful service offered by Microsoft. Not only can you use the app to manage and track workflows but also to create lightweight flows. You can trigger, add input, and receive notifications from Power Automate flows. 
+    - content: You can receive notifications from Power Automate flows.
+      isCorrect: false 
+      explanation: Power Automate mobile app is a powerful service offered by Microsoft. Not only can you use the app to manage and track workflows but also to create lightweight flows. You can trigger, add input, and receive notifications from Power Automate flows. 
+    - content: You can only read and receive notifications.
+      isCorrect: false 
+      explanation: Power Automate mobile app is a powerful service offered by Microsoft. Not only can you use the app to manage and track workflows but also to create lightweight flows. You can trigger, add input, and receive notifications from Power Automate flows. 

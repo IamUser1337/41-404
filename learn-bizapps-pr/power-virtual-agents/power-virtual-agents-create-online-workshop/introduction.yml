@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agents-create-online-workshop.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to creating your first chatbot in Microsoft Copilot Studio - Online workshop
+  ms.date: 12/05/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

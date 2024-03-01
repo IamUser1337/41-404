@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Use advanced data options and connectors in PowerApps/work-with-data-source-limits-delegation-limits-in-a-canvas-app-in-powerapps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-7.0%" y="-8.3%" width="114.0%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0982223732 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-19.1%" y="-14.3%" width="138.4%" height="128.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <circle id="path-5" cx="12.5" cy="12.5" r="10.5"></circle>
+        <filter x="-4.8%" y="-4.8%" width="109.5%" height="119.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-4.8%" y="-4.8%" width="109.5%" height="119.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="-2" dy="-2" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Use-advanced-data-options-and-connectors-in-PowerApps" transform="translate(-50.000000, -660.000000)">
+            <g id="Use-advanced-data-options-and-connectors-in-PowerApps/work-with-data-source-limits-delegation-limits-in-a-canvas-app-in-powerapps" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#965596" xlink:href="#path-1"></use>
+                    <g id="Browser" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(18.000000, 24.000000)">
+                            <path d="M3.54381498,47.7988247 C1.59471674,47.7988247 0,46.2055306 0,44.258171 L0,3.54065368 C0,1.59329416 1.59471674,0 3.54381498,0 L53.1572247,0 C55.1063229,0 56.7010397,1.59329416 56.7010397,3.54065368 L56.7010397,44.258171 C56.7010397,46.2055306 55.1063229,47.7988247 53.1572247,47.7988247 L3.54381498,47.7988247" id="Fill-1485" fill="#30404D"></path>
+                            <path d="M4.42976872,45.1433344 C3.45521961,45.1433344 2.65786123,44.3466874 2.65786123,43.3730076 L2.65786123,9.73679763 C2.65786123,8.76311786 3.45521961,7.96647078 4.42976872,7.96647078 L52.271271,7.96647078 C53.2458201,7.96647078 54.0431784,8.76311786 54.0431784,9.73679763 L54.0431784,43.3730076 C54.0431784,44.3466874 53.2458201,45.1433344 52.271271,45.1433344 L4.42976872,45.1433344" id="Fill-1486" fill="#E1E4E1"></path>
+                            <path d="M3.54381498,3.98323539 C3.54381498,3.24943492 4.1391759,2.65549026 4.8727456,2.65549026 C5.60720125,2.65549026 6.20167621,3.24943492 6.20167621,3.98323539 C6.20167621,4.7161507 5.60720125,5.31098052 4.8727456,5.31098052 C4.1391759,5.31098052 3.54381498,4.7161507 3.54381498,3.98323539" id="Fill-1487" fill="#DF5142"></path>
+                            <path d="M8.85953745,3.98323539 C8.85953745,3.24943492 9.45489837,2.65549026 10.1884681,2.65549026 C10.9229237,2.65549026 11.5173987,3.24943492 11.5173987,3.98323539 C11.5173987,4.7161507 10.9229237,5.31098052 10.1884681,5.31098052 C9.45489837,5.31098052 8.85953745,4.7161507 8.85953745,3.98323539" id="Fill-1488" fill="#EFB252"></path>
+                            <path d="M14.1752599,3.98323539 C14.1752599,3.24943492 14.7706208,2.65549026 15.5041905,2.65549026 C16.2386462,2.65549026 16.8331212,3.24943492 16.8331212,3.98323539 C16.8331212,4.7161507 16.2386462,5.31098052 15.5041905,5.31098052 C14.7706208,5.31098052 14.1752599,4.7161507 14.1752599,3.98323539" id="Fill-1489" fill="#7CB65A"></path>
+                            <path d="M52.7142478,5.31098052 L22.5918205,5.31098052 C21.8582508,5.31098052 21.2628899,4.7161507 21.2628899,3.98323539 C21.2628899,3.25032008 21.8582508,2.65549026 22.5918205,2.65549026 L52.7142478,2.65549026 C53.4478175,2.65549026 54.0431784,3.25032008 54.0431784,3.98323539 C54.0431784,4.7161507 53.4478175,5.31098052 52.7142478,5.31098052" id="Fill-1490" fill="#697D85"></path>
+                        </g>
+                    </g>
+                    <g id="Data" mask="url(#mask-2)">
+                        <g transform="translate(26.000000, 36.000000)">
+                            <rect id="Rectangle" fill="#697D85" fill-rule="nonzero" x="25.5111111" y="2" width="15.4888889" height="1.80645161" rx="0.903225806"></rect>
+                            <rect id="Rectangle" fill="#697D85" fill-rule="nonzero" x="25.5111111" y="6.51612903" width="12.7555556" height="1.80645161" rx="0.903225806"></rect>
+                            <rect id="Rectangle" fill="#697D85" fill-rule="nonzero" x="25.5111111" y="11.0322581" width="7.28888889" height="1.80645161" rx="0.903225806"></rect>
+                            <g id="Bar-Graphs" filter="url(#filter-4)" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <path d="M15.4888889,6.32258065 L15.4888889,27.1329032 C15.4888889,27.6115406 16.7110794,28 18.2222222,28 C19.7333651,28 20.9555556,27.6115406 20.9555556,27.1329032 L20.9555556,6.32258065 L15.4888889,6.32258065" id="Fill-878" fill="#69994E"></path>
+                                <path d="M7.28888889,10.8387097 L7.28888889,27.0967742 C7.28888889,27.5953548 8.51303175,28 10.0222222,28 C11.5321937,28 12.7555556,27.5953548 12.7555556,27.0967742 L12.7555556,10.8387097 L7.28888889,10.8387097" id="Fill-879" fill="#C2423D"></path>
+                                <path d="M0,0.903225806 L0,27.1259105 C0,27.6084079 1.22414286,28 2.73333333,28 C4.24252381,28 5.46666667,27.6084079 5.46666667,27.1259105 L5.46666667,0.903225806 L0,0.903225806" id="Fill-880" fill="#33A7CB"></path>
+                                <path d="M2.73333333,0.903225806 L2.73333333,28 C4.24252381,28 5.46666667,27.6084079 5.46666667,27.1259105 L5.46666667,0.903225806 L2.73333333,0.903225806" id="Fill-881" fill="#0095B2"></path>
+                                <path d="M10.0222222,10.8387097 L10.0222222,28 C11.5314127,28 12.7555556,27.5953548 12.7555556,27.0967742 L12.7555556,10.8387097 L10.0222222,10.8387097" id="Fill-882" fill="#AB3B37"></path>
+                                <path d="M18.2222222,6.32258065 L18.2222222,28 C19.7333651,28 20.9555556,27.6115406 20.9555556,27.1329032 L20.9555556,6.32258065 L18.2222222,6.32258065" id="Fill-883" fill="#598844"></path>
+                                <path d="M20.9555556,6.32258065 C20.9555556,6.82116129 19.7333651,7.22580645 18.2222222,7.22580645 C16.7110794,7.22580645 15.4888889,6.82116129 15.4888889,6.32258065 C15.4888889,5.82354839 16.7110794,5.41935484 18.2222222,5.41935484 C19.7333651,5.41935484 20.9555556,5.82354839 20.9555556,6.32258065" id="Fill-884" fill="#7CB65A"></path>
+                                <path d="M12.7555556,10.8387097 C12.7555556,11.3372903 11.5321937,11.7419355 10.0222222,11.7419355 C8.51303175,11.7419355 7.28888889,11.3372903 7.28888889,10.8387097 C7.28888889,10.3396774 8.51303175,9.93548387 10.0222222,9.93548387 C11.5321937,9.93548387 12.7555556,10.3396774 12.7555556,10.8387097" id="Fill-885" fill="#DF5142"></path>
+                                <path d="M5.46666667,0.903225806 C5.46666667,1.40180645 4.24252381,1.80645161 2.73333333,1.80645161 C1.22414286,1.80645161 0,1.40180645 0,0.903225806 C0,0.404193548 1.22414286,0 2.73333333,0 C4.24252381,0 5.46666667,0.404193548 5.46666667,0.903225806" id="Fill-886" fill="#55B7D9"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Limit-Icon" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(56.000000, 51.000000)">
+                            <circle id="Oval" stroke="none" fill="#965596" cx="12.5" cy="12.5" r="12.5"></circle>
+                            <g id="Oval" stroke="none" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#EFB252" xlink:href="#path-5"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-5"></use>
+                            </g>
+                            <polygon id="Path-118" stroke="none" fill="#FFFFFF" points="8.00096491 10 10.7542193 12.4842543 8.00977892 14.8789859 7.99906385 13.4794596 6 13.4606274 6.01206539 11.5027885 7.99396555 11.4791117"></polygon>
+                            <polygon id="Path-118" stroke="none" fill="#FFFFFF" transform="translate(16.377110, 12.439493) rotate(-180.000000) translate(-16.377110, -12.439493) " points="16.0009649 10 18.7542193 12.4842543 16.0097789 14.8789859 15.9990638 13.4794596 14 13.4606274 14.0120654 11.5027885 15.9939655 11.4791117"></polygon>
+                            <path d="M12.5,16.3061677 L12.5,8.5" id="Path-119" stroke="#FFFFFF" stroke-width="1" fill="none"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="PowerApps-Border" stroke="#742774" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.button-user-input 
+metadata: 
+ title: Create a Power Automate button with user input 
+ description: Some Power Automate button flows will allow for user input and will run a predefined series of actions. This type of flow button provides the input that is necessary to run the predefined actions in the flow. It will show users how they can create a flow button that runs different logic based on the provided inputs.
+ ms.date: 11/01/2021 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ 
+title: Create a Power Automate button with user input  
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+
+  Some Power Automate button flows will allow for user input and will run a predefined series of actions. This type of flow button provides the input that is necessary to run the predefined actions in the flow. It will show users how they can create a flow button that runs different logic based on the provided inputs.
+abstract: |  
+    In this module, you'll: 
+    - Create a flow that is triggered by a button tap.
+    - Build out the actions to implement a button flow.
+    - Learn how to allow user input in your button flows.
+    - Discover how to use trigger tokens.
+    - Run a flow button from the mobile Power Automate app.
+prerequisites: A basic understanding of Microsoft Power Automate and how to create an event-driven flow and a working mobile device with a Power Automate license. It's also beneficial if the learner has completed the Introduction to using Power Automate buttons module. 
+iconUrl: /training/achievements/button-user-input.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant
+- maker
+- business-user  
+products:  
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.button-user-input.1-introduction-design 
+- learn-bizapps.button-user-input.1-user-inputs
+- learn-bizapps.button-user-input.2-input-types 
+- learn-bizapps.button-user-input.3-email-photo
+- learn-bizapps.button-user-input.5-exercise 
+- learn-bizapps.button-user-input.6-check 
+- learn-bizapps.button-user-input.7-summary 
+badge: 
+  uid: learn-bizapps.button-user-input.badge

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-data-modeling.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/13/2021 
+ author: minewiskan 
+ manager: kfollis 
+ ms.author: owend 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What data model concept is used to replace VLOOKUP? 
+    choices: 
+    - content: Data tables
+      isCorrect: false 
+      explanation: Relationships
+    - content: Calendar tables
+      isCorrect: false 
+      explanation: Relationships
+    - content: Relationships
+      isCorrect: true 
+      explanation: Relationships
+    - content: Lookup tables
+      isCorrect: false 
+      explanation: Relationships
+  - content: What data model object must contain a unique column. 
+    choices: 
+    - content: Data tables
+      isCorrect: false 
+      explanation: Lookup tables
+    - content: VLOOKUP
+      isCorrect: false 
+      explanation: Lookup tables
+    - content: Relationships
+      isCorrect: false 
+      explanation: Lookup tables
+    - content: Lookup tables
+      isCorrect: true 
+      explanation: Lookup tables
+  - content: What is the preferred relationship type between a lookup table and a data table. 
+    choices: 
+    - content: Many-to-many
+      isCorrect: false 
+      explanation: One-to-many
+    - content: One-to-many
+      isCorrect: true
+      explanation: One-to-many
+    - content: One-to-one
+      isCorrect: false 
+      explanation: One-to-many
+    - content: Bidirectional
+      isCorrect: false
+      explanation: One-to-many

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.financial-services-overview.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to Microsoft Cloud for Financial Services capabilities
+  ms.date: 01/31/2024 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

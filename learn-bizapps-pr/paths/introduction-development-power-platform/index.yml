@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.introduction-development-power-platform
+metadata:
+  title: Introduction to developing with Power Platform
+  description: This learning path is the first step in learning about the platform, tools, and the ecosystem of Power Platform. 
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+title: Introduction to developing with Microsoft Power Platform
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  So, you want to be a Power Platform developer! This learning path is the first step in learning about platform, tools, and the ecosystem of Power Platform. 
+prerequisites: |
+  - Basic understanding of Power Platform.
+  - Experience in software development against the Microsoft stack and Visual Studio.
+  - Experience in administering solutions in Azure is preferred.
+iconUrl: /training/achievements/introduction-development-power-platform.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365  
+- power-platform
+- power-apps
+subjects:
+- cloud-computing
+- custom-app-development
+modules:
+- learn-bizapps.introduction-power-platform-developer-resources
+- learn-bizapps.developer-tools-extend 
+- learn-bizapps.introduction-power-platform-extend
+trophy: 
+  uid: learn-bizapps.introduction-development-power-platform.trophy

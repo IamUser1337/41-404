@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-platform-automate-client-script.introduction
+title: Introduction to conducting global operations with the client API Xrm object
+metadata:
+  title: Introduction to conducting global operations with the client API Xrm object
+  description: Learn how to conduct global operations with the client API Xrm object.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/introduction.md)]

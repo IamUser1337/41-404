@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.share-buttons.7-list 
+title: View a list of button flow users
+metadata: 
+  title: View a list of button flow users 
+  description: Learn how to view a list of button flow users.  
+  ms.date: 06/21/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-list.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-customize.create-edit
+title: Create or edit modern commands
+metadata:
+  title: Create or edit modern commands
+  description: Learn to create and edit modern commands in Power Apps.
+  ms.date: 12/29/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-edit.md)]

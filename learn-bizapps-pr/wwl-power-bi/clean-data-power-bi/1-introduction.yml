@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: "Introduction to clean, transform, and load data."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]

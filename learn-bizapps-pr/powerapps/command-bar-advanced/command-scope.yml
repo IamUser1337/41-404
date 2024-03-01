@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.command-bar-advanced.command-scope 
+title: Command scope
+metadata: 
+  title: Command scope
+  description: Learn about command scope.
+  ms.date: 12/29/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/command-scope.md)] 

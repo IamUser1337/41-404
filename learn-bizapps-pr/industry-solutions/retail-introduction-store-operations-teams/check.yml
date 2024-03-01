@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-introduction-store-operations-teams.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/04/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: interactive-tutorial
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which role does Oscar assume for setting up Store Operations Assist Teams?
+    choices:
+    - content: Microsoft Teams admin
+      isCorrect: false
+      explanation: Incorrect. Oscar isn't only the Microsoft Teams admin.
+    - content: Retail store manager
+      isCorrect: false
+      explanation: Incorrect. Monica is the store manager.
+    - content: Microsoft Power Platform admin
+      isCorrect: false
+      explanation: Incorrect. Oscar isn't only the Microsoft Power Platform admin.
+    - content: Microsoft Teams and Microsoft Power Platform admin
+      isCorrect: true
+      explanation: Correct. Oscar is the Microsoft Teams admin and Microsoft Power Platform admin.
+  - content: What isn't a prerequisite for setting up Store Operations Assist Microsoft Teams?
+    choices:
+    - content: Setting up environment variables for Store Operations Assist Teams
+      isCorrect: false
+      explanation: Incorrect. Setting up environment variables is a prerequisite for setting up Store Operations Assist Teams.
+    - content: Setting up app policies in Microsoft Teams
+      isCorrect: false
+      explanation: Incorrect. Setting up app policies is a prerequisite for setting up Store Operations Assist Teams.
+    - content: Being a store associate at Contoso Retail
+      isCorrect: true
+      explanation: Correct. Being a store associate isn't a prerequisite for setting up Store Operations Assist Teams.
+    - content: Holding a Microsoft 365 license for frontline workers
+      isCorrect: false
+      explanation: Incorrect. Holding a Microsoft 365 license for frontline workers is a prerequisite for setting up Store Operations Assist Teams.
+  - content: What is the main objective of integrating Store Operations Assist with Microsoft Teams at Contoso Retail?
+    choices:
+    - content: To automate manual staff scheduling related tasks. 
+      isCorrect: false
+      explanation: Incorrect. Integration of Store Operations Assist with Microsoft Teams at Contoso Retail is aimed at making the adoption of Store Operations Assist Teams seamless among store managers and associates.
+    - content: To provide a platform for store managers to review and respond to requests made by store associates. 
+      isCorrect: true
+      explanation: Correct. Integration of Store Operations Assist with Microsoft Teams at Contoso Retail is aimed at making the adoption of Store Operations Assist Teams seamless among store managers and associates.
+    - content: To establish Store Operations Assist Teams seamlessly and facilitate its adoption among store managers and associates.
+      isCorrect: false
+      explanation: Incorrect. Integration of Store Operations Assist with Microsoft Teams at Contoso Retail is aimed at making the adoption of Store Operations Assist Teams seamless among store managers and associates.
+    - content: To provide a holistic view of the store's schedule to store managers.
+      isCorrect: false
+      explanation: Incorrect. Integration of Store Operations Assist with Microsoft Teams at Contoso Retail is aimed at making the adoption of Store Operations Assist Teams seamless among store managers and associates.

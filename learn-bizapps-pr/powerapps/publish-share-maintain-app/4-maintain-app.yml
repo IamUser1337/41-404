@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-maintain-app.4-maintain-app 
+title: Exercise - Maintain your app
+metadata: 
+  title: Exercise - Maintain your app
+  description: Learn how to undo a premature release of your app or revert to a previous version if bugs occur.
+  ms.date: 01/13/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-maintain-app.md)] 

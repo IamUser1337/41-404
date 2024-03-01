@@ -1,0 +1,67 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/27/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the capabilities of AI Builder Text Recognition?
+    choices: 
+    - content: Recognize printed characters on a picture
+      isCorrect: false
+      explanation: AI Builder can recognize printed and handwritten characters on a picture.
+    - content: Recognize printed and handwritten characters on a picture
+      isCorrect: true
+      explanation: AI Builder can recognize printed and handwritten characters on a picture.
+    - content: Recognize symbols, printed and handwritten characters on a picture
+      isCorrect: false 
+      explanation: AI Builder can recognize printed and handwritten characters on a picture.
+  - content: Which Azure service is powering this technology?
+    choices: 
+    - content: Azure Table Recognition
+      isCorrect: false
+      explanation: This technology is powered by Azure OCR.
+    - content: Azure Image Analysis
+      isCorrect: false 
+      explanation: This technology is powered by Azure OCR.
+    - content: Azure OCR
+      isCorrect: true
+      explanation: This technology is powered by Azure OCR.
+  - content: How can you retrieve the text recognized in Power Apps Canvas?
+    choices: 
+    - content: extRecognizerX.SelectedText
+      isCorrect: false
+      explanation: You can retrieve the text recognized in Power Apps Canvas using both TextRecognizerX.SelectedText and TextRecognizerX.OcrObjects.
+    - content: TextRecognizerX.OcrObjects
+      isCorrect: false 
+      explanation: You can retrieve the text recognized in Power Apps Canvas using both TextRecognizerX.SelectedText and TextRecognizerX.OcrObjects.
+    - content: Both of the above
+      isCorrect: true
+      explanation: You can retrieve the text recognized in Power Apps Canvas using both TextRecognizerX.SelectedText and TextRecognizerX.OcrObjects.
+  - content: How can Text Recognizer component get the image to be analyzed in Power Apps Canvas?
+    choices: 
+    - content: From OneDrive 
+      isCorrect: false
+      explanation: Text Recognizer component can get the image to be analyzed by taking a picture or uploading from a local disk.
+    - content: Taking a picture or uploading from a local disk
+      isCorrect: true
+      explanation: Text Recognizer component can get the image to be analyzed by taking a picture or uploading from a local disk.
+    - content: From Microsoft Dataverse
+      isCorrect: false 
+      explanation: Text Recognizer component can get the image to be analyzed by taking a picture or uploading from a local disk.
+  - content: Is AI Builder Text Recognizer component available from a model driven Power App?
+    choices: 
+    - content: Yes
+      isCorrect: false
+      explanation: The AI Builder Text Recognizer component is not available from a model driven Power App.
+    - content: No
+      isCorrect: true
+      explanation: The AI Builder Text Recognizer component is not available from a model driven Power App.

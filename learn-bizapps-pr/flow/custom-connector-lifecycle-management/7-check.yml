@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connector-lifecycle-management.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/12/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which type of solution is recommended for deployment to non-production environments? 
+    choices: 
+    - content: Unmanaged
+      isCorrect: false
+      explanation: Managed solutions are recommended.
+    - content: Managed
+      isCorrect: true 
+      explanation: Managed solutions are recommended.
+    - content: Unpacked
+      isCorrect: false 
+      explanation: Solutions can be either unmanaged or managed. 
+  - content: After you export a solution from a development environment, what build task or GitHub Action would you use to prepare it for source control? 
+    choices: 
+    - content: Unpack
+      isCorrect: true 
+      explanation: Unpack would prepare the solution files for source control.
+    - content: Pack
+      isCorrect: false 
+      explanation: You would use the Unpack task/action.
+    - content: Import
+      isCorrect: false 
+      explanation: You would use the Unpack task/action. 
+  - content: To prepare a custom connector for becoming an open source and/or certification, which should you do to get the files? 
+    choices: 
+    - content: Import the custom connector from GitHub. 
+      isCorrect: false
+      explanation: You would use Microsoft Power Platform Connector CLI.
+    - content: Export the solution from the development environment. 
+      isCorrect: false 
+      explanation: You would use Microsoft Power Platform Connector CLI. 
+    - content: Download the files with Microsoft Power Platform Connector CLI. 
+      isCorrect: true 
+      explanation: Microsoft Power Platform Connector CLI downloads the files from your development environment.
+  - content: When you are updating a custom connector definition, which of the following would not be a breaking change? 
+    choices: 
+    - content: Removing an input parameter. 
+      isCorrect: false
+      explanation: This option would be a breaking change to existing users.
+    - content: Adding a new action to the connector. 
+      isCorrect: true 
+      explanation: This option would not be a breaking change.
+    - content: Changing the purpose of an input parameter or result value. 
+      isCorrect: false 
+      explanation: This option would be a breaking change because existing users had a different expectation when they created their automation. 
+    - content: Renaming one of the operation IDs by adding V2 at the end. 
+      isCorrect: false 
+      explanation: This option would be a breaking change because that effectively will remove the old operation, breaking any deployments that use that action.

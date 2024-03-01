@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data-source.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to writing to a data source in an expense report app
+  ms.date: 01/13/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

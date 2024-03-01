@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.sustainability-emissions-impact-dashboards 
+metadata: 
+ title: Work with Emissions Impact dashboards 
+ description: Learn about Emissions Impact dashboards in Microsoft Cloud for Sustainability.
+ ms.date: 02/08/2023  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Work with Emissions Impact dashboards 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  The Emissions Impact dashboards promotes transparency of information and provides insights that empower organizations to make effective decisions to reach their sustainability goals. Emissions Impact dashboards provide transparent and quantitative insights of the carbon emissions associated with your organization's use of Microsoft Cloud services for Microsoft Azure and Microsoft 365.
+abstract: |  
+    In this module, you'll: 
+    - Learn about Emissions Impact dashboards for Azure and Microsoft 365.
+    - Install Emissions Impact dashboards from the Microsoft Cloud Solution Center.
+    - Explore Emissions Impact dashboards to measure carbon emissions of an organization's use of Microsoft Cloud services.
+    - Connect Microsoft Sustainability Manager with the Emissions Impact Dashboard for Azure.
+prerequisites: | 
+    - Microsoft Power BI Pro license to deploy the Emissions Impact dashboards for Azure and Microsoft 365
+    - A Sustainability Manager environment with admin user credentials to connect to the Emissions Impact Dashboard for Azure data
+iconUrl: /learn/achievements/sustainability-emissions-impact-dashboards.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant
+- solution-architect 
+products: 
+- mscloud-sustainability 
+- industry-solutions
+subjects: 
+- business-applications 
+units: 
+- learn-bizapps.sustainability-emissions-impact-dashboards.introduction 
+- learn-bizapps.sustainability-emissions-impact-dashboards.explore-emissions-impact-dashboards 
+- learn-bizapps.sustainability-emissions-impact-dashboards.install-dashboard-connect-data 
+- learn-bizapps.sustainability-emissions-impact-dashboards.ingest-emissions-impact-dashboard-data 
+- learn-bizapps.sustainability-emissions-impact-dashboards.check 
+- learn-bizapps.sustainability-emissions-impact-dashboards.summary 
+badge: 
+  uid: learn-bizapps.sustainability-emissions-impact-dashboards.badge 

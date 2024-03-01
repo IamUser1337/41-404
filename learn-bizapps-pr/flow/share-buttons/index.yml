@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.share-buttons 
+metadata: 
+ title: Share Power Automate buttons 
+ description: Do you want to share Power Automate button flows with others? In this module, you will learn how to share buttons and will discover some security basics.
+ ms.date: 01/03/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ 
+title: Share Power Automate buttons  
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+
+  Power Automate Buttons are the way flow can be executed on demand and represent one of two ways that Power Automates can be constructed. Most people starting with Power Automate work with event driven flows. This module will get people acquainted with the connection, monitoring and security capabilities of a Power Automate Button. It sets up the learning process for the other modules.
+abstract: |  
+    In this module, you will: 
+    - Discover the sharing process of Power Automate flow buttons.
+    - Learn about flow button connection security.
+    - Monitor the run history of a button flow.
+prerequisites: The Target Audience should have a basic understanding of Microsoft Power Automate and how to create an event driven Power Automate.
+iconUrl: /training/achievements/share-buttons.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant
+- maker
+- business-user  
+products:   
+- power-automate
+- power-platform 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.share-buttons.1-introduction 
+- learn-bizapps.share-buttons.2-link 
+- learn-bizapps.share-buttons.3-reshare 
+- learn-bizapps.share-buttons.4-stop 
+- learn-bizapps.share-buttons.5-remove 
+- learn-bizapps.share-buttons.6-security 
+- learn-bizapps.share-buttons.7-list 
+- learn-bizapps.share-buttons.8-history 
+- learn-bizapps.share-buttons.8b-exercise
+- learn-bizapps.share-buttons.9-check 
+- learn-bizapps.share-buttons.10-summary 
+badge: 
+  uid: learn-bizapps.share-buttons.badge

@@ -1,0 +1,44 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.solution-architect-design
+metadata:
+  title: "Solution Architect: Design Microsoft Power Platform solutions"
+  description: Learn how a solution architect designs solutions.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: "Solution Architect: Design Microsoft Power Platform solutions"
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  A Solution Architect should have functional and technical knowledge of Microsoft Power Platform, Dynamics 365 apps, related Microsoft cloud solutions, and other third-party technologies. This Learning Path looks at architecture, data modeling, security, and related tasks for a solution architect. 
+prerequisites: |
+  - Experience with Microsoft Power Platform as a developer or functional consultant
+  - Experience with Dynamics 365 as a developer or functional consultant
+iconUrl: /training/achievements/solution-architect-design.svg
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- power-platform
+- dynamics-365
+- power-apps
+- power-automate
+- ms-copilot
+subjects:
+- business-applications
+modules:
+- learn-bizapps.project-governance
+- learn-bizapps.power-platform-architecture
+- learn-bizapps.power-apps-architecture
+- learn-bizapps.power-automate-architecture
+- learn-bizapps.architect-power-virtual-agents
+- learn-bizapps.robotic-process-automation
+- learn-bizapps.data-modeling
+- learn-bizapps.model-security
+- learn-bizapps.architect-analytics
+- learn-bizapps.integrations
+- learn-bizapps.application-lifecycle-management-architect
+- learn-bizapps.project-test-process
+trophy:
+  uid: learn.solution-architect-design.trophy

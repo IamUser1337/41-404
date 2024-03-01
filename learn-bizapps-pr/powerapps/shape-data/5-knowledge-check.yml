@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.5-knowledge-check
+metadata:
+  title: Shape data in a Power Apps canvas app knowledge check
+  description: Shape data in a Power Apps canvas app knowledge check
+  ms.date: 12/01/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Shape data in a Power Apps canvas app knowledge check
+  questions:
+  - content: What is the correct syntax for a function in Power Apps where you would like to match rows if either formula is true?
+    choices:
+    - content: Country = "Germany" or Country = "France"
+      isCorrect: false
+      explanation: The correct syntax is Country = "Germany" Or Country = "France".
+    - content: Country = "Germany" Or Country = "France"
+      isCorrect: true
+      explanation: The correct syntax is Country = "Germany" Or Country = "France".
+    - content: Country = "Germany" or "France"
+      isCorrect: false
+      explanation: The correct syntax is Country = "Germany" Or Country = "France".
+    - content: Country = "Germany" Or "France"
+      isCorrect: false
+      explanation: The correct syntax is Country = "Germany" Or Country = "France".
+  - content: Which of the following column functions allow you to modify the columns of your table only within Power Apps?
+    choices:
+    - content: AddColumns
+      isCorrect: true
+      explanation: AddColumns is the function that can be used.
+    - content: NameColumns
+      isCorrect: false
+      explanation: AddColumns is the function that can be used.
+    - content: ReduceColumns
+      isCorrect: false
+      explanation: AddColumns is the function that can be used.
+    - content: CalculateColumns
+      isCorrect: false
+      explanation: AddColumns is the function that can be used.
+  - content: If the search string is blank, what rows are returned?
+    choices:
+    - content: No rows are returned.
+      isCorrect: false
+      explanation: All rows are returned.
+    - content: The last user's search rows are returned.
+      isCorrect: false
+      explanation: All rows are returned.
+    - content: All rows are returned.
+      isCorrect: true
+      explanation: All rows are returned.
+    - content: The app creator must specify in the formula what rows to return if the search string is blank.
+      isCorrect: false
+      explanation: All rows are returned.

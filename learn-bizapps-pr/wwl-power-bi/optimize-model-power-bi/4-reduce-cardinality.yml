@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.optimize-model-power-bi.4-reduce-cardinality
+title: Reduce cardinality
+metadata:
+  title: Reduce cardinality
+  description: "Reduce cardinality"
+  ms.date: 10/26/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 7
+content: |
+  [!include[](includes/4-reduce-cardinality.md)]

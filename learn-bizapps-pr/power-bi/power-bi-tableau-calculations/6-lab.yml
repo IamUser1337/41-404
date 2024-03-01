@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-calculations.6-lab 
+title: Lab for understanding Power BI calculations
+metadata: 
+  title: Lab for understanding Power BI calculations
+  description: Perform steps in a lab to understand Power BI calculations.
+  ms.date: 03/31/2021 
+  author: minewiskan 
+  manager: kfollis 
+  ms.author: owend 
+  ms.topic: unit
+durationInMinutes: 20
+labId: 92050
+labModal: true
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-lab.md)] 

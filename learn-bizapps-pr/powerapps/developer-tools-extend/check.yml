@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.developer-tools-extend.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/27/2023 
+ author: davebeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ ms.service: powerapps 
+ ms.subservice: dataverse-developer
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What tool would you use to maintain application customizations as separate XML files and other files that can be stored in a source control system?
+    choices: 
+    - content: Package Deployer 
+      isCorrect: false 
+      explanation: Package Deployer enables administrators to deploy packages on a Microsoft Dataverse instance. 
+    - content: Plugin Registration Tool 
+      isCorrect: false 
+      explanation: Plugin Registration Tool is used to register plug-ins against a Dataverse instance. 
+    - content: Solution Packager 
+      isCorrect: true 
+      explanation: Solution Packager is a tool that reversibly decomposes Dataverse solutions into multiple XML files and other files to be managed by a source control system. 
+  - content: What language framework do you use for plug-in development?   
+    choices: 
+    - content: .NET
+      isCorrect: true 
+      explanation: .NET is the language framework used for plug-in development. 
+    - content: Node.js 
+      isCorrect: false 
+      explanation: Plug-ins are .NET assemblies and node.js can't be used to create .NET assemblies. 
+    - content: Python 
+      isCorrect: false 
+      explanation: Plug-ins are .NET assemblies and Python can't be used to create .NET assemblies. 
+  - content: When would you use the Package Deployer?   
+    choices: 
+    - content: To install Dataverse solution as a mobile application.  
+      isCorrect: false 
+      explanation: Dataverse solutions aren't installed as mobile applications, they need to be imported into a target Dataverse environment. 
+    - content: To install one or more solutions with configuration data into a Dataverse environment.
+      isCorrect: true 
+      explanation: Package Deployer helps facilitate installing one or more solutions along with configuration data and custom installation logic, into a Dataverse environment.
+    - content: To add configuration data into a desktop application.  
+      isCorrect: false 
+      explanation: Dataverse solutions and data aren't installed as desktop applications, they need to be imported into a target Dataverse environment. 

@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-authentication-user-management.check 
+title: Check your knowledge 
+metadata: 
+  title: Check your knowledge 
+  description: Answer the following questions to see what you've learned. 
+  ms.date: 06/27/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which authentication method allows website users to sign in with a username and password that is stored in Microsoft Dataverse?
+    choices: 
+    - content: Windows Authentication
+      isCorrect: false 
+      explanation: Website users can authenticate with local authentication and external authentication. Local authentication is a common forms-based authentication with usernames and password hashes that are stored in the Dataverse contact record.
+    - content: Local Authentication
+      isCorrect: true 
+      explanation: Website users can authenticate with local authentication and external authentication. Local authentication is a common forms-based authentication with usernames and password hashes that are stored in the Dataverse contact record.
+    - content: Form Authentication
+      isCorrect: false 
+      explanation: Website users can authenticate with local authentication and external authentication. Local authentication is a common forms-based authentication with usernames and password hashes that are stored in the Dataverse contact record.
+    - content: External Authentication
+      isCorrect: false 
+      explanation: Website users can authenticate with local authentication and external authentication. Local authentication is a common forms-based authentication with usernames and password hashes that are stored in the Dataverse contact record.
+  - content: A website user hasn't confirmed their email. What will they not be able to do?
+    choices: 
+    - content: Sign in to the website
+      isCorrect: false 
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+    - content: Use two-factor authentication
+      isCorrect: true 
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+    - content: Change their email
+      isCorrect: false 
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+    - content: Register for Forums notifications
+      isCorrect: false 
+      explanation: Unless the user's email is confirmed, it can't be used for password resets or two-factor authentication. None of the other tasks require the email to be confirmed.
+  - content: You want to invite a group of 50 contacts from the same company to register on your website. Which registration method would you use?
+    choices: 
+    - content: Closed Registration
+      isCorrect: false 
+      explanation: Power Pages support two types of registrations - Open Registrations and Invitation-based Registrations. Only Invitation-based Registration supports invitations that can be sent to a group of contacts.
+    - content: Open Registration
+      isCorrect: false 
+      explanation: Power Pages support two types of registrations - Open Registrations and Invitation-based Registrations. Only Invitation-based Registration supports invitations that can be sent to a group of contacts.
+    - content: Invitation-based Registration
+      isCorrect: true 
+      explanation: Power Pages support two types of registrations - Open Registrations and Invitation-based Registrations. Only Invitation-based Registration supports invitations that can be sent to a group of contacts.
+    - content: Email Registration
+      isCorrect: false 
+      explanation: Power Pages support two types of registrations - Open Registrations and Invitation-based Registrations. Only Invitation-based Registration supports invitations that can be sent to a group of contacts.
+  - content: Which authentication provider is recommended?
+    choices: 
+    - content: Local authentication
+      isCorrect: false 
+      explanation: Microsoft Entra ID B2C identity provider is the recommended provider for authentication. If external provider support like Facebook is required, then it can be configured in Microsoft Entra ID B2C instead of the website.
+    - content: Microsoft account
+      isCorrect: false 
+      explanation: Microsoft Entra ID B2C identity provider is the recommended provider for authentication. If external provider support like Facebook is required, then it can be configured in Microsoft Entra ID B2C instead of the website.
+    - content: Microsoft Entra ID
+      isCorrect: false 
+      explanation: Microsoft Entra ID B2C identity provider is the recommended provider for authentication. If external provider support like Facebook is required, then it can be configured in Microsoft Entra ID B2C instead of the website.
+    - content: Microsoft Entra ID B2C
+      isCorrect: true 
+      explanation: Microsoft Entra ID B2C identity provider is the recommended provider for authentication. If external provider support like Facebook is required, then it can be configured in Microsoft Entra ID B2C instead of the website.

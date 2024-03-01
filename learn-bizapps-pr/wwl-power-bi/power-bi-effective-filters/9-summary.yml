@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-filters.9-summary
+title: Summary
+metadata:
+  title: Summary
+  description: "Summary of configuring Power BI report filters."
+  ms.date: 05/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+  [!include[](includes/9-summary.md)]

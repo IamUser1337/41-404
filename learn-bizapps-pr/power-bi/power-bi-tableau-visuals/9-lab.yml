@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-visuals.9-lab 
+title: Lab - Creating visualizations
+metadata: 
+  title: Lab - Creating visualizations 
+  description: In this lab, you will create a dashboard and add interactivity. 
+  ms.date: 3/31/2021 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 35 
+labId: 92052
+labModal: true
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/9-lab.md)] 

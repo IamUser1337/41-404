@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-scenarios.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 12/22/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You're adding a command to the Product table main form. In your logic, you want to use the Reservations table also. Which of the following steps is required before you can use the Reservations table in your logic?
+    choices:
+    - content: Nothing extra is required to use the Reservations table in your logic.
+      isCorrect: false
+      explanation: Incorrect. You must open the component library and manually associate the Reservations table as a  data source.
+    - content: You must open the component library and manually associate the Reservations table as a data source.
+      isCorrect: true
+      explanation: Correct. It will allow you to use Reservations as a data source in your logic.
+    - content: You can only use Products in your logic because that is the table you added the command for.
+      isCorrect: false
+      explanation: Incorrect. You can enable Reservations also. You must open the component library and manually associate the Reservations table as a data source.
+  - content: If you only wanted to show the command if the user had permissions to create a row, which of the following functions would you use in your Visibility function?
+    choices:
+    - content: DataSourceInfo function
+      isCorrect: true
+      explanation: Correct. DataSourceInfo can check if the user has permission for the table.
+    - content: RecordInfo function
+      isCorrect: false
+      explanation: Incorrect. RecordInfo requires an existing row to check permissions. Since you're creating a new row, you don't have that. You should use DataSourceInfo, which can check if the user has permission for the table and doesn't require an existing data row.
+    - content: The command won't show automatically if the user doesn't have permission
+      isCorrect: false
+      explanation: Incorrect. The command shows all the time unless you implement custom Visibility logic. In your logic, you can use the DataSourceInfo function to check if the user has permission for the table.
+  - content: If you wanted to copy the current Products table data row shown on the main form, and include only the name column, which of the following expressions would you use?
+    choices:
+    - content: Patch(Products,Defaults(Products),{Name:Self.Selected.Item.Name})
+      isCorrect: true
+      explanation: Correct. Self.Selected.Item gives you access to the table row being shown on the form and its column and this expression would create a copy of only the name column.
+    - content: Patch(Products,Defaults(Products),Self.Selected.Item)
+      isCorrect: false
+      explanation: Incorrect. You can't use only Self.Selected.Item to specify the columns to copy.
+    - content: Patch(Products,Self.Selected.Item,{Name:Self.Selected.Item.Name})
+      isCorrect: false
+      explanation: Incorrect. It would attempt to update the name on the current row and wouldn't create a new row.

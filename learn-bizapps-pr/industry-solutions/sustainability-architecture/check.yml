@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-architecture.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/14/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the three types of data that are present in Microsoft Cloud for Sustainability?
+    choices: 
+    - content: Master data, transactional data, and analytical data 
+      isCorrect: true 
+      explanation: Master data, transaction data, and analytical data are the three types of data that are present in Microsoft Sustainability Manager.
+    - content: IoT data, transactional data, and analytical data 
+      isCorrect: false 
+      explanation: Master data, transaction data, and analytical data are the three types of data that are present in Microsoft Sustainability Manager.
+    - content: Master data, big data, and analytical data 
+      isCorrect: false 
+      explanation: Master data, transaction data, and analytical data are the three types of data that are present in Microsoft Sustainability Manager.
+    - content: Master data, reporting data, and transactional data 
+      isCorrect: false 
+      explanation: Master data, transaction data, and analytical data are the three types of data that are present in Microsoft Sustainability Manager.
+  - content: Which type of data is reference data?  
+    choices: 
+    - content: Transactional data 
+      isCorrect: false
+      explanation: Reference data isn't a type of transactional data. 
+    - content: Big data
+      isCorrect: false  
+      explanation: Reference data isn't a type of big data.
+    - content: Analytical data
+      isCorrect: false 
+      explanation: Reference data isn't a type of analytical data.
+    - content: Master data
+      isCorrect: true 
+      explanation: Reference data is a type of master data. 
+  - content: What do Libraries in the master data contain? 
+    choices: 
+    - content: Libraries contain emission factors and factor mappings. 
+      isCorrect: true 
+      explanation: Libraries contain emission factors and factor mappings. Factor mappings are unique to Microsoft Sustainability Manager.
+    - content: Libraries contain activity and calculated emissions data.
+      isCorrect: false 
+      explanation: Libraries contain emission factors and factor mappings. Factor mappings are unique to Microsoft Sustainability Manager.
+    - content: Libraries contain reusable calculation models.
+      isCorrect: false 
+      explanation: Libraries contain emission factors and factor mappings. Factor mappings are unique to Microsoft Sustainability Manager.
+    - content: Libraries contain reporting templates
+      isCorrect: false 
+      explanation: Libraries contain emission factors and factor mappings. Factor mappings are unique to Microsoft Sustainability Manager.    

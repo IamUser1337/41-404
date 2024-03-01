@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connectors.3-use-postman 
+title: Use postman for your custom connector
+metadata: 
+  title: Use postman for your custom connector 
+  description: Use postman for your custom connector 
+  ms.date: 05/13/2020 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-use-postman.md)] 
+

@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.specialized-components-model-form.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/21/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What are two components of a business process flow?
+    choices:
+    - content: Stage and group
+      isCorrect: false
+      explanation: Incorrect. A business process flow doesn't have a group component.
+    - content: Stage and step
+      isCorrect: true
+      explanation: Correct. Stage and step are components of a business process flow, which is the first design block for a business process flow.
+    - content: Step and sort
+      isCorrect: false
+      explanation: Incorrect. A business process flow doesn't require sorting.
+    - content: Sort and group
+      isCorrect: false
+      explanation: Incorrect. A business process flow doesn't have a group component and doesn't require sorting.
+  - content: What are the three record types that are supported by the timeline control?
+    choices:
+    - content: Task, note, and post
+      isCorrect: false
+      explanation: Incorrect. Tasks are defined under activities.
+    - content: Activity, note, and email
+      isCorrect: false
+      explanation: Incorrect. Email is a type of sub activity.
+    - content: Activity, note, and post
+      isCorrect: true
+      explanation: Correct. Activity, note, and post are the record types that are supported by the timeline control.
+    - content: Task, email, and post
+      isCorrect: false
+      explanation: Incorrect. Tasks are defined under activities, and email is a type of sub activity.
+  - content: Which chart type is supported by the model-driven app reporting tool?
+    choices:
+    - content: Vertical bar chart
+      isCorrect: true
+      explanation: Correct. You can design a vertical bar chart by using the model-driven app reporting tool.
+    - content: Clustered bar chart
+      isCorrect: false
+      explanation: Incorrect. A clustered bar chart isn't supported by the model-driven app reporting tool. For this report, you'll need to use the Microsoft Power BI reporting tool.
+    - content: Scatter chart
+      isCorrect: false
+      explanation: Incorrect. Scatter chart isn't supported by the model-driven app reporting tool. For this report, you'll need to use the Power BI reporting tool.

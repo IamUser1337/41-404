@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.transform-business-process.2-canvas-app 
+title: Introduction to the complete canvas app solution
+metadata: 
+  title: Introduction to the complete canvas app solution
+  description: Learn about the complete canvas app solution.
+  ms.date: 01/12/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-canvas-app.md)] 

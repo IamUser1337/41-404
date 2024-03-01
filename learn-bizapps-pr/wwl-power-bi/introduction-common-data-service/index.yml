@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.wwl.introduction-common-data-service
+metadata:
+  title: Identify foundational components of Microsoft Power Platform
+  description: "This module introduces learners to the foundational elements of Microsoft Power Platform."
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module-standard-task-based
+  ms.service: powerapps
+  ms.subservice: dataverse-maker
+title: Identify foundational components of Microsoft Power Platform
+summary: Learn about some of the key foundational elements involved in creating Microsoft Power Platform solutions.
+abstract: |
+  In this module, we will:
+  - Examine the different Power Platform administrative options available.
+  - Describe security and governance in Power Platform.
+  - Explore Microsoft Dataverse and how to use it to build business solutions.
+  - Examine Power Platform connectors.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-common-data-services.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+products:
+- power-platform
+subjects:
+- data-modeling
+units:
+- learn-bizapps.wwl.introduction-common-data-service.introduction
+- learn-bizapps.wwl.introduction-common-data-service.administer
+- learn-bizapps.wwl.introduction-common-data-service.describe-power-platform-security-governance
+- learn-bizapps.wwl.introduction-common-data-service.overview-common-data-service
+- learn-bizapps.wwl.introduction-common-data-service.examine-power-platform-connectors
+- learn-bizapps.wwl.introduction-common-data-service.exercise-build-basic-dataverse-data-model
+- learn-bizapps.wwl.introduction-common-data-service.knowledge-check
+- learn-bizapps.wwl.introduction-common-data-service.summary-resources
+badge:
+  uid: learn-bizapps.wwl.introduction-common-data-service.badge

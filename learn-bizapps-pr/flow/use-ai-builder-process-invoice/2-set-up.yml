@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-ai-builder-process-invoice.2-set-up 
+title: Solution setup in Power Automate
+metadata: 
+  title: Solution setup in Power Automate
+  description: Learn how the solution is set up in Power Automate.
+  ms.date: 08/01/2023  
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+  
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-set-up.md)] 

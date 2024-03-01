@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.connect-filter-data.4-populate-filter
+title: Exercise - Populate and filter your gallery
+metadata:
+  title: Exercise - Populate and filter your gallery
+  description: Practice populating and filtering your gallery.
+  ms.date: 01/31/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 25
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-populate-filter.md)]

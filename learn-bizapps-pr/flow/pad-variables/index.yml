@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-variables 
+metadata: 
+ title: Handle variables in Power Automate for desktop
+ description: In this module, we'll discuss how to create, access, edit and manipulate variables in Power Automate for desktop.
+ ms.date: 10/01/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Handle variables in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  In flow development, you may need to reuse information in various actions. Variables act like storage bins that save valuable information for later use when a flow is running.  
+abstract: |  
+    In this module, you will: 
+    - Create, edit, and manipulate variables.
+    - Examine the variables pane.
+    - Become familiar with various variable data types and their properties.
+    - Configure input and output variables.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
+iconUrl: /training/achievements/pad-variables.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant  
+products:  
+- power-platform 
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-variables.1-introduce-variables 
+- learn-bizapps.pad-variables.2-create-edit-use-variables 
+- learn-bizapps.pad-variables.3-variable-data-types 
+- learn-bizapps.pad-variables.4-advanced-data-types 
+- learn-bizapps.pad-variables.5-input-output-variables 
+- learn-bizapps.pad-variables.6-variable-manipulation 
+- learn-bizapps.pad-variables.7-sensitive-variables
+- learn-bizapps.pad-variables.8-exercise-create-manipulate-variables 
+- learn-bizapps.pad-variables.9-check-knowledge 
+- learn-bizapps.pad-variables.10-summary 
+badge: 
+  uid: learn-bizapps.pad-variables.badge

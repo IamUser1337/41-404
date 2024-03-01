@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-app-dataverse-teams.05-template 
+title: Install template apps
+metadata: 
+  title: Install template apps
+  description: Learn how to install template apps.
+  ms.date: 04/28/2023
+  author: jadaphillips 
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/05-template.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-environmental-changes.1-intro-best-practices 
+title: Introduction and best practices for building DLP change management plans 
+metadata: 
+  title: Introduction and best practices for building DLP change management plans 
+  description: Learn how administrators can prepare for making governance changes through proactive change management.
+  ms.date: 10/02/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-intro-best-practices.md)] 

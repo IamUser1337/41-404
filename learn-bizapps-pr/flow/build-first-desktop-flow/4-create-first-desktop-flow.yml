@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-first-desktop-flow.4-create-first-desktop-flow 
+title: Create your first Power Automate for desktop flow
+metadata: 
+  title: Create your first Power Automate for desktop flow 
+  description: Learn how to create your first Power Automate for desktop flow. 
+  ms.date: 12/26/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-create-first-desktop-flow.md)] 

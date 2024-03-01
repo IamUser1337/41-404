@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.ai-builder-prediction
+metadata: 
+ title: Get started with AI Builder prediction
+ description: Learn how to get started with AI Builder prediction.
+ ms.date: 06/30/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Get started with AI Builder prediction
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Explore how you can use a prediction model to establish the probability of an event to occur based on historical behavior. 
+abstract: |  
+    In this module, you'll: 
+    - Learn about the AI Builder prediction model.
+    - Discover the different outcome patterns.
+    - Learn about historical data selection.
+    - Create a prediction model.
+    - Use the prediction model in a model-driven app.
+prerequisites: |
+    - A Microsoft Power Apps license 
+    - Access to Microsoft Dataverse 
+    - An AI Builder add-on or trial
+iconUrl: /training/achievements/ai-builder-prediction.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.ai-builder-prediction.introduction 
+- learn-bizapps.ai-builder-prediction.prediction-models 
+- learn-bizapps.ai-builder-prediction.exercise 
+- learn-bizapps.ai-builder-prediction.check 
+- learn-bizapps.ai-builder-prediction.summary 
+badge: 
+  uid: learn-bizapps.ai-builder-prediction.badge 

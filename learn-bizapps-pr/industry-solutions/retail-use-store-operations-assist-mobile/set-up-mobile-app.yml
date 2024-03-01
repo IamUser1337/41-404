@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist-mobile.set-up-mobile-app
+title: Exercise - Set up Store Operations Assist Mobile
+metadata:
+  title: Exercise - Set up Store Operations Assist Mobile
+  description: Follow the steps to set up Store Operations Assist Mobile.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/set-up-mobile-app.md)]

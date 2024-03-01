@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.canvas-app-source-code.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/12/2021 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What file format is used to store Power Fx formulas in a canvas app's source files? 
+    choices: 
+    - content: XML
+      isCorrect: false
+      explanation: XML format isn't used to store Power Fx formulas in the source files.
+    - content: YAML
+      isCorrect: true 
+      explanation: A subset of YAML is used as the format for storing Power Fx formulas.
+    - content: JSON 
+      isCorrect: false 
+      explanation: JSON format is used to store configuration details but not Power Fx formulas. 
+    - content: Proprietary binary format 
+      isCorrect: false 
+      explanation: Power Fx formulas are stored by using text, not binary representation. 
+  - content: What is not a valid method of obtaining a copy of a canvas msapp file on your computer? 
+    choices: 
+    - content: Use the File > Save As > This computer command in Power Apps Studio. 
+      isCorrect: false
+      explanation: You can download the app and save it locally as a canvas msapp file by using Power Apps Studio.
+    - content: Export a solution that contains the canvas app from Dataverse and then use the pac solution unpack command to unpack the solution and access individual msapp files.
+      isCorrect: false 
+      explanation: You can use Dataverse solutions to transport canvas apps as msapp files.
+    - content: Run the pac canvas get command to download an individual canvas app to your computer.
+      isCorrect: true 
+      explanation: Power Platform CLI doesn't contain a command to download an individual canvas app.
+    - content: Use the pac canvas pack command to rebuild the msapp file from the individual source files.
+      isCorrect: false 
+      explanation: The canvas msapp file can be packed from the source files by using CLI tools.
+  - content: All Power Fx formula expressions in YAML source files must begin with what character? 
+    choices: 
+    - content: Equal sign
+      isCorrect: true 
+      explanation: All Power Fx expressions in YAML source files must begin with a leading equal sign.
+    - content: Semicolon
+      isCorrect: false 
+      explanation: A semicolon is used in YAML to separate key and value but not to start a formula.
+    - content: Prefix Fx
+      isCorrect: false 
+      explanation: Power Fx YAML doesn't use a special prefix to start a formula.
+    - content: Number sign
+      isCorrect: false 
+      explanation: Using a number sign in a YAML file denotes a comment line and doesn't start a formula.

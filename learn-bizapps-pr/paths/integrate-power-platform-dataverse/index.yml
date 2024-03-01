@@ -1,0 +1,30 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.integrate-power-platform-dataverse
+metadata:
+  title: Integrate with Power Platform and Dataverse
+  description: Learn how to integrate Power Platform and Dataverse.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+title: Integrate with Power Platform and Dataverse
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Integrate with Dataverse using code and learn about the Dataverse API. Get an in-depth overview of options available with Dataverse to integrate data and events into Azure.
+prerequisites: Experience developing with Microsoft Power Platform and Dataverse
+iconUrl: /learn/achievements/integrate-power-platform-dataverse.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+modules:
+- learn-bizapps.dataverse-web-api
+- learn-bizapps.integrate-dataverse-azure-solutions
+- learn-bizapps.dataverse-organization-service
+trophy:
+  uid: learn-bizapps.integrate-power-platform-dataverse.trophy

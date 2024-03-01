@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.customize-view-forms.2-exercise-modify-table-views
+title: Exercise - Modify table views
+metadata:
+  title: Exercise - Modify table views
+  description: Modify table views and add columns of data that are most relevant to the app user into one list.
+  ms.date: 01/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-exercise-modify-table-views.md)]

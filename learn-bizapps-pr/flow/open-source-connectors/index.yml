@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.open-source-connectors 
+metadata: 
+ title: Certify and create an open-source Microsoft Power Platform custom connector
+ description: Learn how to make your custom connector available to all users in Microsoft Power Platform GitHub repository.
+ ms.date: 05/12/2023  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ 
+title: Certify and create an open-source Microsoft Power Platform custom connector
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn how to make your custom connector available to all users in Microsoft Power Platform GitHub repository.
+abstract: |  
+    In this module, you will: 
+    - Learn when to create an open-source custom connector.
+    - Certify a custom connector.
+    - Download a connector by using CLI.
+    - Use version control.
+prerequisites: Experience with Microsoft Power Automate
+iconUrl: /training/achievements/open-source-connectors.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products:  
+- power-automate
+- power-platform 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.open-source-connectors.1-introduction 
+- learn-bizapps.open-source-connectors.2-certify 
+- learn-bizapps.open-source-connectors.3-download-connector 
+- learn-bizapps.open-source-connectors.4-updates 
+- learn-bizapps.open-source-connectors.5-check 
+- learn-bizapps.open-source-connectors.6-summary 
+badge: 
+  uid: learn-bizapps.open-source-connectors.badge

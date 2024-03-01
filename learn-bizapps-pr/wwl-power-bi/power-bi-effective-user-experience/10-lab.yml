@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-user-experience.lab
+title: Exercise - Enhance Power BI reports
+metadata:
+  title: Lab - Enhance Power BI reports
+  description: "In this lab, you'll create a three-page report named Sales Report. You'll then publish it to Power BI, whereupon you'll open and interact with the report."
+  ms.date: 01/18/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labId: 72677
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/10-lab.md)]

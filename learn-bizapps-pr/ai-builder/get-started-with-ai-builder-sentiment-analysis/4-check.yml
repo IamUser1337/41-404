@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-sentiment-analysis.4-check
+title: Check your knowledge
+metadata: 
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 04/10/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the possible outputs of Sentiment analysis models? 
+    choices: 
+    - content: Positive/negative 
+      isCorrect: false
+      explanation: The possible outputs of Sentiment analysis models are positive, negative, and neutral.
+    - content: Positive/negative/neutral 
+      isCorrect: true
+      explanation: The possible outputs of Sentiment analysis models are positive, negative, and neutral.
+    - content: Positive/negative/neutral/mixed 
+      isCorrect: false
+      explanation: The possible outputs of Sentiment analysis models are positive, negative, and neutral.
+    - content: Positive/negative/mixed 
+      isCorrect: false
+      explanation: The possible outputs of Sentiment analysis models are positive, negative, and neutral.
+  - content: Which of the following business scenarios can be supported by Sentiment analysis?
+    choices: 
+    - content: Analyzing customer feedback and surveys 
+      isCorrect: false
+      explanation: Sentiment analysis supports customer feedback and surveys, social media, employee sentiment, email, and other unstructured text.
+    - content: Analyzing social media  
+      isCorrect: false
+      explanation: Sentiment analysis supports customer feedback and surveys, social media, employee sentiment, email, and other unstructured text.
+    - content: Analyzing emails and other unstructured text 
+      isCorrect: false
+      explanation: Sentiment analysis supports customer feedback and surveys, social media, employee sentiment, email, and other unstructured text.
+    - content: Analyzing employee sentiments 
+      isCorrect: false
+      explanation: Sentiment analysis supports customer feedback and surveys, social media, employee sentiment, email, and other unstructured text.
+    - content: All of the above 
+      isCorrect: true
+      explanation: Sentiment analysis supports customer feedback and surveys, social media, employee sentiment, email, and other unstructured text.
+  - content: Where can you use sentiment analysis?
+    choices:
+    - content: Power Automate only 
+      isCorrect: false
+      explanation: You can use sentiment analysis with both Power Automate and Power Apps.
+    - content: Power Apps only 
+      isCorrect: false
+      explanation: You can use sentiment analysis with both Power Automate and Power Apps.
+    - content: Both Power Automate and Power Apps 
+      isCorrect: true
+      explanation: You can use sentiment analysis with both Power Automate and Power Apps.

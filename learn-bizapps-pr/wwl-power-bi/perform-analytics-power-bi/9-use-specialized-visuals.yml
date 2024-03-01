@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-analytics-power-bi.use-specialized-visuals 
+title: Use specialized visuals 
+metadata: 
+  title: Use specialized visuals
+  description: Specialized visuals or AI visuals use machine learning to discover and display insights from data. 
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 13 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/9-use-specialized-visuals.md)] 

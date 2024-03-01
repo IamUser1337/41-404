@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.create-manage-automated-processes-with-power-automate.exercise-build-flow-to-send-automated-emails
+title: Exercise - Build a Power Automate flow to send automated emails
+metadata:
+  title: Exercise - Build a Power Automate flow to send automated emails
+  description: "Test your ability to build a Power Automate flow."
+  ms.date: 10/19/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: interactive-tutorial
+  ms.service: power-automate
+durationInMinutes: 30
+content: |
+  [!include[](includes/3-exercise-build-flow-to-send-automated-emails.md)]

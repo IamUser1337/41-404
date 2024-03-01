@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.training-environment-preparation-healthcare.4a-azure-trial
+title: Configure environment
+metadata:
+  title: Configure environment
+  description: Learn about how to configure your environment.
+  ms.date: 10/27/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: interactive-tutorial
+  ms.service: microsoft-cloud-healthcare
+durationInMinutes: 19
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4a-azure-trial.md)]
+

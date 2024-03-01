@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-architecture.8-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+  
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which component of Power Platform can developers create with TypeScript for enhanced visualization of data?
+    choices: 
+    - content: Component libraries
+      isCorrect: false
+      explanation: Component libraries can only contain canvas app components that are built with the controls that are available to canvas apps. They can't use TypeScript.
+    - content: Power Apps component framework
+      isCorrect: true
+      explanation: Developers can create code components by using the Power Apps component framework with HTML and Typescript. These components can be used in canvas and model-driven apps to help you visualize data.
+    - content: Web Forms
+      isCorrect: false
+      explanation: Web Forms are used in portal apps only and are used to display data from Dataverse.
+    - content: Application Insights
+      isCorrect: false
+      explanation: Application Insights is an Azure service that allows telemetry on how your app is being used. 
+  - content: Which tool should you use to perform regression testing of canvas apps?
+    choices: 
+    - content: Application Insights
+      isCorrect: false
+      explanation: Application Insights is an Azure service that allows telemetry on how your app is being used. It is not used for testing.
+    - content: Monitor
+      isCorrect: false
+      explanation: Monitor allows a maker to see the events that are triggered with an app. It is not used for testing.
+    - content: Easy Repro
+      isCorrect: false
+      explanation: Easy Repro is a regression tool for testing model-driven apps, not canvas apps.
+    - content: Test Studio
+      isCorrect: true
+      explanation: Test Studio is a tool for testing, including performing regression testing on canvas apps.
+  - content: Your canvas apps contain many formulas and are performing poorly. You want to offload processing to speed up performance. What should you do?
+    choices: 
+    - content: Create a Power Automate flow and then run the flow by using an expression.
+      isCorrect: true
+      explanation: A common method is to offload logic into a Power Automate cloud flow that uses the Power Apps trigger.
+    - content: Create a Business process flow.
+      isCorrect: false
+      explanation: Business process flows are used in model-driven apps, not canvas apps.
+    - content: Use the Concurrent function.
+      isCorrect: false
+      explanation: The Concurrent function is used to run processing in parallel; it does not offload processing to another tool.
+    - content: Move the logic into a Component library.
+      isCorrect: false
+      explanation: Moving the formulas into a canvas component will not speed up the processing or offload the work. The formula processing will still be performed by the canvas app.

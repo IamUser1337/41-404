@@ -1,0 +1,51 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-virtual-agents-teams 
+metadata: 
+ title: Create a copilot for Contoso Coffee - Online Workshop
+ description: Learn how you can call flows from your copilot topics, connecting your copilot to other data sources so that it can act on behalf of the user.
+ ms.date: 10/06/2022  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: copilot-studio
+title: Create a copilot for Contoso Coffee - Online Workshop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Power Virtual Agents empowers subject matter experts to build intelligent conversational bots by using a guided, no-code graphical interface. By using Power Automate, you can call flows from your copilot topics, connecting your copilot to other data sources so that it can act on behalf of the user.
+  
+  Power Virtual Agents is available as an app in Microsoft Teams, enabling you to create an internal copilot. This solution is ideal if you want to create a copilot to answer common internal questions that are posed by employees, particularly for areas such as IT and human resources, which handle multiple frequently asked questions.
+  > [!NOTE]
+  > If you want to create a copilot for customers to deploy on your website or other channels, you can use the full version of Microsoft Copilot Studio.
+abstract: |  
+    In this module, you'll: 
+    - Create a copilot in Microsoft Teams.
+    - Personalize the greeting.
+    - Create a topic.
+    - Automate with a flow.
+    - Publish and share the copilot.
+prerequisites: |
+  - Completion of the prior module. If you didn't complete the previous exercises, follow the steps in this module to import the needed components before you start these exercises.
+  - You'll need an environment with a licensed user to complete these exercises. Follow the sign-up process at [Office 365](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5/?azure-portal=true) if you need a training environment. We don’t recommend that you use your production (live environment for work or school) user/tenant for completing these exercises.
+iconUrl: /learn/achievements/power-virtual-agents-teams.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+- business-user 
+products: 
+- power-platform
+- power-apps
+- dataverse
+subjects: 
+- productivity 
+units: 
+- learn-bizapps.power-virtual-agents-teams.introduction 
+- learn-bizapps.power-virtual-agents-teams.create-chatbot 
+- learn-bizapps.power-virtual-agents-teams.personalize-greeting 
+- learn-bizapps.power-virtual-agents-teams.create-topic 
+- learn-bizapps.power-virtual-agents-teams.create-flow 
+- learn-bizapps.power-virtual-agents-teams.publish-share-chatbot 
+- learn-bizapps.power-virtual-agents-teams.check 
+- learn-bizapps.power-virtual-agents-teams.summary 
+badge: 
+  uid: learn-bizapps.power-virtual-agents-teams.badge 

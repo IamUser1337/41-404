@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.error-handling 
+metadata: 
+ title: Best practices for error handling in Power Automate flows
+ description: Learn about error handling in Microsoft Power Automate flows.
+ ms.date: 11/02/2023  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module 
+title: Best practices for error handling in Power Automate flows
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Getting notifications when your flow has failed because of an error is critical to maintaining business continuity. Also, the notification should provide the cause of the error to help you resolve it quickly. This module will focus on how you can use Configure run after, an option that is available for flow actions, to help isolate errors. It also overviews the built-in error reports.
+abstract: |  
+    In this module, you will: 
+    - Gain insight into the settings options for flow actions.
+    - Learn about the Configure run after option.
+    - Use the Configure run after option to handle errors.
+    - Discover Microsoft Power Automate analytics.
+prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
+iconUrl: /training/achievements/error-handling.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- business-user
+products: 
+- power-platform 
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.error-handling.1-introduction 
+- learn-bizapps.error-handling.2-configure-run-after 
+- learn-bizapps.error-handling.3-analytics 
+- learn-bizapps.error-handling.4-check 
+- learn-bizapps.error-handling.5-summary 
+badge: 
+  uid: learn-bizapps.error-handling.badge

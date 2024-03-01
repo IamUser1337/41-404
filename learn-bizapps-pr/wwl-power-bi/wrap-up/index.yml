@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn.wwl.wrap-up
+metadata:
+  title: 'Prepare to teach the module: Questions and Wrap-up'
+  description: "Prepare to teach the module: Questions and Wrap-up"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Questions and Wrap-up'
+summary: Deliver the wrap-up module of instructor-led course “Modern Excel Analyst in a day” and help your Data Analyst customers select the right tool, or combination of tools, for each job and the future.
+abstract: |
+  After the completion of this module, you will be able to explain and demonstrate:
+  - When to use Excel, Power BI, or both for data analytics
+  - The trends in the data analysis industry
+prerequisites: |
+  - Basic familiarity with data analysis and reporting tools.
+  - Experience with Excel and Power BI.
+iconUrl: /training/achievements/wrap-up.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- office-excel
+- power-bi
+subjects:
+- productivity
+units:
+- learn.wwl.wrap-up.introduction
+- learn.wwl.wrap-up.excel-power-bi
+- learn.wwl.wrap-up.is-better-than-or
+- learn.wwl.wrap-up.future-of-industry
+- learn.wwl.wrap-up.knowledge-check
+- learn.wwl.wrap-up.summary
+badge:
+  uid: learn.wwl.wrap-up.badge

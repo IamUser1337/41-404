@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-cloud-financial-services.3-onboarding 
+title: Customer onboarding
+metadata: 
+  title: Customer onboarding
+  description: Learn about customer onboarding.
+  ms.date: 12/01/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-onboarding.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.onboard-approve-volunteer-management.6-exercise 
+title: Exercise - Add and manage participants for an engagement opportunity
+metadata: 
+  title: Exercise - Add and manage participants for an engagement opportunity
+  description: Walk through the steps to add and manage participants for an engagement opportunity.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-exercise.md)] 

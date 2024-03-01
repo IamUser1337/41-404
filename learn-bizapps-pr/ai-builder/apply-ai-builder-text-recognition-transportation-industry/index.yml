@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry 
+metadata: 
+ title: Apply AI Builder Text Recognition in the transportation industry
+ description: Learn how to use Ai Builder Text Recognition to automate the tracking of shipments.
+ ms.date: 04/27/2020 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Apply AI Builder Text Recognition in the transportation industry
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn how to use Ai Builder Text Recognition to automate the tracking of shipments.
+abstract: |  
+    In this module, you will: 
+    - Learn how to prepare the storage for container information
+    - Learn how to build an application to track container shipments
+    - Learn how to build an applications for front-line workers to streamline updates of the container state
+    - Learn how to run the business once AI Builder Text Recognition is in place
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+    - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
+iconUrl: /training/achievements/apply-ai-builder-text-recognition-transportation-industry.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+- business-user
+products:  
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+- business-applications
+units:
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.1-introduction 
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.2-prepare-storage
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.3-track-shipment-requests 
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.4-streamline
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.5-run-business 
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.6-check 
+- learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.7-summary 
+badge: 
+  uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.badge

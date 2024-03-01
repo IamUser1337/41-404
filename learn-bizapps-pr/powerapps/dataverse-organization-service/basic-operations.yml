@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-organization-service.basic-operations
+title: Basic operations using the organization service
+metadata:
+  title: Basic operations using the organization service
+  description: Learn to perform basic operations using the organization service.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/basic-operations.md)]

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.transform-business-process.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/12/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: For this solution, you've decided to use multiple tables and then relate them. What is your primary reason for doing this process?
+    choices: 
+    - content: To implement data validation
+      isCorrect: false
+      explanation: Parent-child relationships don't inherently help with data validation.
+    - content: To allow you to restrict what information is visible or accessible to users
+      isCorrect: false 
+      explanation: While parent-child relationships could help restrict certain security groups from viewing specific types of data, it's not of concern in this case. 
+    - content: To make data entry easier
+      isCorrect: false 
+      explanation: Parent-child relationships don't make data entry easier. In fact, editing directly in the data source makes data entry more difficult.
+    - content: To limit having duplicate information in every line
+      isCorrect: true 
+      explanation: Parent-child relationships help prevent the occurrence of repetitive fields in a table.
+  - content: Which of the following options is not a reason for using canvas apps in this solution?
+    choices: 
+    - content: Canvas apps are quickly and easily activated.
+      isCorrect: true 
+      explanation: While Canvas apps are quicker to activate than more traditionally coded apps, they can still take time, depending on the complexity of the problem. Model-driven apps are less customizable and thus quicker to activate.
+    - content: Canvas apps are highly customizable.
+      isCorrect: false 
+      explanation: You want to use canvas apps in this case because they're highly customizable and will allow you to tailor the solutions to your specific needs.
+    - content: Canvas apps can access numerous data sources, including Dataverse, which will allow you to use already existing user information.
+      isCorrect: false 
+      explanation: You want to use Outlook and Dataverse in this solution. Later, you might be interested in bringing in more data sources. Canvas apps are an important part of your solution.
+    - content: Canvas apps are simple to learn.
+      isCorrect: false 
+      explanation: If you have used Excel formulas, you have the necessary foundational knowledge to learn Power Apps. Many functions are similar, and the drag-and-drop functionality of Power Apps Studio helps make it easier to start.
+  - content: What kind of data should be in the parent table of a parent-child relationship? 
+    choices: 
+    - content: Data that will be accessed the most
+      isCorrect: false
+      explanation: The parent table should contain information that is relevant to all child records.  
+    - content: Data that needs to be access-restricted based on security permissions
+      isCorrect: false 
+      explanation: The parent table should contain information that is relevant to all child records.
+    - content: Data that relates to some, but not all, child records
+      isCorrect: false 
+      explanation: The information from a parent record must apply to all child records to have a proper parent-child relationship.
+    - content: Data that stays the same across all child records
+      isCorrect: true 
+      explanation: Parent-child relationships allow you to eliminate duplicate information from being stored.

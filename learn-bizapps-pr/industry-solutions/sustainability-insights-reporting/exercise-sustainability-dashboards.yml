@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-insights-reporting.exercise-sustainability-dashboards
+title: Exercise - Gain insights using Sustainability dashboards
+metadata:
+  title: Exercise - Sustainability dashboards
+  description: Learn how to use the various Sustainability dashboards to gain insights into the organization.
+  ms.date: 11/10/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-sustainability-dashboards.md)]

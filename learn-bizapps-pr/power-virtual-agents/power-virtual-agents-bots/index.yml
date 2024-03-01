@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.power-virtual-agent-bots
+metadata:
+ title: Get started with Microsoft Copilot Studio
+ description: In this module, you're introduced to key concepts to build a basic Microsoft Copilot Studio copilot.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: copilot-studio
+ ms.collection: get-started
+title: Get started with Microsoft Copilot Studio
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Copilot Studio allows organizations to quickly create copilots based on business scenarios their customers and employees can easily interact with as needed. In this module, you're introduced to key concepts for copilots.
+abstract: |
+    This module explains how to:
+    - Create copilots.
+    - Test copilots.
+    - Analyze performance.
+prerequisites: None
+iconUrl: /training/achievements/power-virtual-agent-bots.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+ 
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn-bizapps.power-virtual-agent-bots.1-introduction
+- learn-bizapps.power-virtual-agent-bots.2-get-started
+- learn-bizapps.power-virtual-agent-bots.3-create-bots
+- learn-bizapps.power-virtual-agent-bots.4-topics
+- learn-bizapps.power-virtual-agent-bots.5-test-bots
+- learn-bizapps.power-virtual-agent-bots.6-performance-analysis
+- learn-bizapps.power-virtual-agent-bots.6b-exercise
+- learn-bizapps.power-virtual-agent-bots.7-check
+- learn-bizapps.power-virtual-agent-bots.8-summary
+badge:
+  uid: learn-bizapps.power-virtual-agent-bots.badge

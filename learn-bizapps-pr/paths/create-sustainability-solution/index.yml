@@ -1,0 +1,44 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-sustainability-solution
+metadata:
+  title: Set up a sustainability solution using Microsoft Sustainability Manager
+  description: Learn how to set up a sustainability solution using Microsoft Sustainability Manager.
+  ms.date: 03/28/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: learning-path
+title:  Set up a sustainability solution using Microsoft Sustainability Manager
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Sustainability Manager unifies data intelligence to help organizations monitor and manage their sustainability performance. Sustainability Manager delivers insights to help you accelerate every stage of your sustainability journey. 
+  
+  In this Learning Path, you’ll be guided through hands-on exercises to set up a sustainability solution using Microsoft Sustainability Manager. In these exercises you'll create your training environment, set up organization and reference data, ingest data, design calculations, build reports and review insights, and define carbon reduction goals and scorecards.     
+prerequisites: |
+  - To complete the exercises in this Learning Path, complete the learning path on [Get Started with Microsoft Sustainability Manager](/training/paths/get-started-sustainability-manager/) 
+iconUrl: /training/achievements/create-sustainability-solution.svg
+levels:
+- intermediate
+- beginner
+- advanced 
+roles:
+- business-user
+- functional-consultant
+- developer
+- administrator
+- solution-architect
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- modern-work
+- business-applications
+modules:
+- learn-bizapps.sustainability-architecture
+- learn-bizapps.sustainability-setup-environment
+- learn-bizapps.sustainability-setup-organization 
+- learn-bizapps.sustainability-data-ingestion
+- learn-bizapps.sustainability-emissions-calculation
+- learn-bizapps.sustainability-insights-reporting 
+- learn-bizapps.sustainability-goals-scorecard
+trophy:
+  uid: learn.create-sustainability-solution.trophy

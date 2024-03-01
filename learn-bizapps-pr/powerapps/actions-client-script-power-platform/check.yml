@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.actions-client-script-power-platform.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/30/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ ms.service: "power-platform"
+ ms.subservice: developer
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You need to retrieve the value of the firstname column of the contact record. What method would you use?
+    choices:
+    - content: formContext.getAttributeValue("firstname")
+      isCorrect: false
+      explanation: getAttributeValue method isn't a valid method of the form context object.
+    - content: formContext.getControl("fullname").getValue()
+      isCorrect: false
+      explanation: getControl method of the form context object returns control object. Control object corresponds to an attribute but doesn't provide getValue method. You can access the underlying attribute using getAttribute method.
+    - content: formContext.getAttribute("firstname").getValue()
+      isCorrect: true
+      explanation:  getAttribute method of the form context returns the attribute object for the column firstname and getValue method returns the column's current value.
+  - content: Your client script for the main form for the account table references column accountclassificationcode. How to ensure that the script doesn't break and works correctly when the other makers edit the form and potentially remove the column.
+    choices:
+    - content: At the start of your script, add the following call require('accountclassificationcode').
+      isCorrect: false
+      explanation: There's no global method 'require' in the client scripting libraries. In addition, content of the script libraries isn't checked or validated when controls are removed from the form.
+    - content: Add the accountclassificationcode column to the script dependencies.
+      isCorrect: true
+      explanation: Web resources in Dataverse contain the list of dependent fields (columns). Adding a column to that list ensure that it can't be removed from the form and is always available for the script.
+    - content: Mark accountclassificationcode column as read only.
+      isCorrect: false
+      explanation: Marking a column as read only ensures that the control is read-only when the form is opened in the app. It doesn't stop other makers from removing the column from the form and breaking the script.
+  - content: You've been asked to hide a tab section on a model-driven app form when a record’s Status Reason column changes to a given value. Which events would you need to handle for this scenario?
+    choices:
+    - content: Form OnLoad, Attribute OnChange
+      isCorrect: true
+      explanation: Handling Form OnLoad ensures that the tab section is shown or hidden when data row is loaded. Attaching a handler to the OnChange event of the Status Reason column shows or hides the section as the column value is changed.
+    - content: Form OnLoad, Form OnSave
+      isCorrect: false
+      explanation: If attribute changes aren't handled, tab section isn't correctly shown or hidden when the column value changes. In addition, handling Form OnSave isn't required in this scenario.
+    - content: Attribute OnChange, Form OnSave
+      isCorrect: false
+      explanation: If Form OnLoad event isn't handled, tab section may not be shown or hidden depending on the column value of the row being loaded. In addition, handling Form OnSave isn't required in this scenario.

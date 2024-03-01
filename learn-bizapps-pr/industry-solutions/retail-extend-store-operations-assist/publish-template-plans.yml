@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.publish-template-plans
+title: Exercise - Publish and implement the template plans
+metadata:
+  title: Exercise - Publish and implement the template plans
+  description: Follow the steps to publish and implement the template plans.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/publish-template-plans.md)]

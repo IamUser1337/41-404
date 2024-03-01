@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.process-gifts 
+metadata: 
+ title: Process gifts in Fundraising and Engagement
+ description: Fundraising and Engagement lets you record and process gifts, provide a central source of truth for fundraising, and provide a complete history of giving for each constituent as part of their profile using Microsoft Cloud for Nonprofit.
+ ms.date: 11/1/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok  
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-nonprofit
+title: Process gifts in Fundraising and Engagement
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Fundraising and Engagement lets you record and process gifts, provide a central source of truth for fundraising, and provide a complete history of giving for each constituent as part of their profile.
+abstract: |  
+    In this module, you will: 
+    - Understand how transactions work in Fundraising and Engagement
+    - Process a transaction and view the results
+    - Create donor commitments and convert them to donations
+    - Understand and work with recurring donations and pledge schedules
+prerequisites: none
+iconUrl: /training/achievements/process-gifts.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.process-gifts.1-introduction 
+- learn-bizapps.process-gifts.2-transactions 
+- learn-bizapps.process-gifts.3-donor-commitments 
+- learn-bizapps.process-gifts.4-payment-schedules 
+- learn-bizapps.process-gifts.5-lab 
+- learn-bizapps.process-gifts.6-check 
+- learn-bizapps.process-gifts.7-summary 
+badge: 
+  uid: learn-bizapps.process-gifts.badge

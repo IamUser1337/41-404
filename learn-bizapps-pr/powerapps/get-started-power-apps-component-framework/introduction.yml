@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-component-framework.introduction
+title: Introduction to Power Apps component framework
+metadata:
+  title: Introduction to Power Apps component framework
+  description: Learn about Power Apps component framework.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: powerapps
+  ms.subservice: pcf
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

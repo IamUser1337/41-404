@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.command-bar-customize.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 12/29/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You want to add a command to perform an action when a user views a single Microsoft Dataverse table row in a Power Apps model-driven app. Which of the following command bars would you edit?
+    choices:
+    - content: Main Grid
+      isCorrect: false
+      explanation: Incorrect. The Main grid presents a list of multiple table rows.
+    - content: Main Form
+      isCorrect: true
+      explanation: Correct. The Main form displays a single table row detail.
+    - content: Subgrid View
+      isCorrect: false
+      explanation: Incorrect. A subgrid view presents a list of multiple rows of a related table on a tables row detail form.
+    - content: Associated View
+      isCorrect: false
+      explanation: Incorrect. An Associated View only shows from the Main Form related tab. The user can display this view by selecting the related table on the main form for a row and choosing a specific table to display. This view displays multiple table rows.
+  - content: Which of the following options is a supported way to use Power Fx with a command?
+    choices:
+    - content: OnSelect custom logic
+      isCorrect: true
+      explanation: Correct. Power Fx can be used to implement custom logic on a command OnSelect.
+    - content: Customize Command size
+      isCorrect: false
+      explanation: Incorrect. Power Fx can't be used to implement custom logic to determine the size of the command.
+    - content: Display labels custom logic
+      isCorrect: false
+      explanation: Incorrect. Power Fx can't be used to determine the display label for a command. The display label is configured by the maker and isn't dynamic.
+  - content: In your command OnSelect Power Fx formula if you wanted to reference data for the single table row being displayed on a Main Form which formula would you use?
+    choices:
+    - content: Self.Selected.Item
+      isCorrect: true
+      explanation: Correct. Self.Selected.Item gives you access to the table row being shown on the form and its columns.
+    - content: Nothing, you have no way of accessing the current table row data.
+      isCorrect: false
+      explanation: Incorrect. You can use Self.Selected.Item to reference the data.
+    - content: Self.Selected.State
+      isCorrect: false
+      explanation: Incorrect. Self.Selected.State only gives you the state of the control and not the data, use Self.Selected.Item.
+    - content: Self.Selected.AllItems
+      isCorrect: false
+      explanation: Incorrect. Self.Selected.AllItems gives you a table of all selected table rows not just a single one like Self.Selected.Item.

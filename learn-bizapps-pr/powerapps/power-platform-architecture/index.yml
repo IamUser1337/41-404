@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-platform-architecture
+metadata: 
+ title: "Solution Architect series: Power Platform architecture"
+ description: Learn about Microsoft Power Platform architecture.
+ ms.date: 03/09/2023
+ author: DaveBeasley  
+ ms.author: dbeasley   
+ ms.topic: module
+title: "Solution Architect series: Power Platform architecture"
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Solution architects are responsible for overall design of the solution. Understanding the architecture of Microsoft Power Platform control is imperative when designing solutions based on Power Platform. This module describes the components and capabilities of Power Platform and how they control the design of your solutions.
+abstract: |  
+    In this module, you will: 
+    - Review the key Power Platform architecture components.
+    - Explore how the platform's design and limits can influence solution architectures.
+    - Review how to communicate with the customer on how the platform can meet their needs.
+prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer
+iconUrl: /training/achievements/power-platform-architecture.svg  
+levels:  
+- advanced
+roles:  
+- solution-architect
+products:    
+- power-apps 
+- power-automate
+- power-platform
+- ms-copilot
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-platform-architecture.1-introduction
+- learn-bizapps.power-platform-architecture.2-environments
+- learn-bizapps.power-platform-architecture.3-location
+- learn-bizapps.power-platform-architecture.4-data
+- learn-bizapps.power-platform-architecture.5-logic
+- learn-bizapps.power-platform-architecture.6-limits
+- learn-bizapps.power-platform-architecture.7-availability
+- learn-bizapps.power-platform-architecture.8-check
+- learn-bizapps.power-platform-architecture.9-summary
+badge: 
+  uid: learn-bizapps.power-platform-architecture.badge

@@ -1,0 +1,53 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-complex-calculations
+metadata:
+ title: Extend Sustainability Manager for building complex Scope 3 calculations
+ description: Learn how to build complex Scope 3 calculations by extending Microsoft Sustainability Manager in Microsoft Cloud for Sustainability.
+ ms.date: 03/29/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Extend Sustainability Manager for building complex Scope 3 calculations
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn about the challenges that are associated with complex Scope 3 calculations and the different methodologies to account for Scope 3 emissions in Sustainability Manager. Additionally, you'll learn how to extend and use the dynamic calculation capabilities in Sustainability Manager.
+abstract: |
+    In this module, you'll:
+    - Learn about the common challenges that organizations face in calculating and reporting Scope 3 emissions.
+    - Review the methodologies and procedures for calculating Scope 3 emissions.
+    - Use Sustainability Manager to calculate Scope 3 Category 1, Category 2, and Category 4 calculations based on a set of fictional use cases and scenarios.
+prerequisites: |
+  - A Sustainability Manager environment with sample data. You'll need to provision a new trial environment. For more information, see [Set up your training environment](/training/modules/sustainability-setup-environment). 
+  - Knowledge of Sustainability Manager. If you're new to Sustainability Manager, see [Set up a sustainability solution using Microsoft Sustainability Manager](/training/paths/create-sustainability-solution/).
+iconUrl: /training/achievements/sustainability-complex-calculations.svg
+levels:
+- advanced
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-sustainability
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-complex-calculations.introduction
+- learn-bizapps.sustainability-complex-calculations.check-introduction
+- learn-bizapps.sustainability-complex-calculations.scope-scenario
+- learn-bizapps.sustainability-complex-calculations.reference-data
+- learn-bizapps.sustainability-complex-calculations.exercise-reference
+- learn-bizapps.sustainability-complex-calculations.average-spend
+- learn-bizapps.sustainability-complex-calculations.exercise-average
+- learn-bizapps.sustainability-complex-calculations.check-average
+- learn-bizapps.sustainability-complex-calculations.distance-based
+- learn-bizapps.sustainability-complex-calculations.exercise-distance
+- learn-bizapps.sustainability-complex-calculations.check-distance
+- learn-bizapps.sustainability-complex-calculations.hybrid-method
+- learn-bizapps.sustainability-complex-calculations.exercise-hybrid
+- learn-bizapps.sustainability-complex-calculations.check-hybrid
+- learn-bizapps.sustainability-complex-calculations.review-insights
+- learn-bizapps.sustainability-complex-calculations.check
+- learn-bizapps.sustainability-complex-calculations.summary
+badge:
+  uid: learn-bizapps.sustainability-complex-calculations.badge

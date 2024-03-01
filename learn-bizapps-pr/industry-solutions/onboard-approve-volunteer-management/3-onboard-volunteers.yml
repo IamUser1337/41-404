@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.onboard-approve-volunteer-management.3-onboard-volunteers 
+title: Onboard volunteers
+metadata: 
+  title: Onboard volunteers
+  description: Learn to add qualifications and activities to onboard volunteers.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-onboard-volunteers.md)] 

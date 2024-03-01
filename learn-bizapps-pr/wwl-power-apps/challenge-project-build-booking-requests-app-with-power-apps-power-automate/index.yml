@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate
+metadata:
+  moduleType: challenge-project
+  title: Challenge Project - Build a booking requests app with Power Apps and Power Automate
+  description: Create your own data model, app, and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: module
+  ms.service: powerapps
+  ms.subservice: canvas-maker
+title: Challenge Project - Build a booking requests app with Power Apps and Power Automate
+summary: |
+  Create your own data model, app, and flow to support a scenario for a fictional company. You'll be provided with high-level specifications on the custom tables, columns, canvas app, and flows needed to complete this project.
+  > [!NOTE]
+  > This is a **_Challenge Project_** module where you complete an end-to-end project using high-level guidance; there are no step-by-step instructions.
+abstract: |
+  In this module, you'll demonstrate your ability to:
+    - Customize a Dataverse database to meet business requirements
+    - Create a Power Apps canvas app based on provided specifications
+    - Create a Power Automate flow based on provided specifications
+prerequisites: |
+  - Experience creating custom tables and columns in Dataverse
+  - Experience building Power Apps canvas apps
+  - Experience building Power Automate cloud flows
+iconUrl: /training/achievements/challenge-project-build-booking-requests-app-with-power-apps-power-automate.svg
+levels: 
+  - intermediate
+roles: 
+  - maker
+products:  
+- power-platform
+- power-apps
+- power-automate
+subjects: 
+  - cloud-computing
+units:
+- learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.introduction
+- learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.prepare
+- learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.exercise-create-canvas-app
+- learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.exercise-build-a-flow
+- learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.knowledge-check
+- learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.summary
+badge:
+  uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.badge

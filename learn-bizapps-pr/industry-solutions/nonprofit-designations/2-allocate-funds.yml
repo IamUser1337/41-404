@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.nonprofit-designations.2-allocate-funds 
+title: Allocate funds using designations
+metadata: 
+  title: Allocate funds using designations
+  description: Learn about designation plans and designated credits.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-allocate-funds.md)] 

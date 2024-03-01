@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrations.3-inbound
+title: Inbound data integration
+metadata:
+  title: Inbound data integration
+  description: Learn how to integrate other systems into Microsoft Dataverse.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-inbound.md)]

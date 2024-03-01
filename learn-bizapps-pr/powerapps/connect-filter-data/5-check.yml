@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.connect-filter-data.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/28/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you fix the issue where Power Apps makes the DateTimeFormat part of your code invisible?
+    choices:
+    - content: Enter that part of the code again.
+      isCorrect: false
+      explanation: The DateTimeFormat part of the code still exists. Power Apps shortens the code to make it more readable.
+    - content: Select the formula bar again.
+      isCorrect: false
+      explanation: The DateTimeFormat part of the code still exists. Power Apps shortens the code to make it more readable.
+    - content: No action is necessary.
+      isCorrect: true
+      explanation: The DateTimeFormat part of the code still exists. Power Apps shortens the code to make it more readable.
+    - content: Go to Settings and clear the Code autocompletion option.
+      isCorrect: false
+      explanation: The DateTimeFormat part of the code still exists. Power Apps shortens the code to make it more readable.
+  - content: Which properties determine the location of a control?
+    choices:
+    - content: Height and Width
+      isCorrect: false
+      explanation: The X and Y properties determine the location. Height and Width determine the size.
+    - content: X and Y
+      isCorrect: true
+      explanation: X and Y properties determine the location of a control. For some reason, if a property needs to be placed off screen, you can use the X and Y properties to do so because you can't drag controls off screen.
+    - content: Location
+      isCorrect: false
+      explanation: The X and Y properties determine the location. The Location property doesn't exist.
+    - content: Horizontal and Vertical
+      isCorrect: false
+      explanation: The X and Y properties determine the location. The Horizontal and Vertical properties don't exist.
+  - content: True or False. The difference between the Navigate() function and the Back() function is that Navigate() allows you to specify which screen to go to, whereas Back() takes you to the previous page.
+    choices:
+    - content: True.
+      isCorrect: true
+      explanation: Navigate() requires you to specify a screen. Back() will take you to the screen that you navigated from.
+    - content: False.
+      isCorrect: false
+      explanation: Navigate() requires you to specify a screen. Back() will take you to the screen that you navigated from.

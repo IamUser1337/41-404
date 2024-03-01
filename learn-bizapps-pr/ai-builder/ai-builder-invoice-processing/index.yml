@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.ai-builder-invoice-processing 
+metadata: 
+ title: Extract invoice data with AI Builder’s prebuilt model 
+ description: Learn the basics of invoice processing in AI Builder and how it can benefit your organization.
+ ms.date: 12/09/2020  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Extract invoice data with AI Builder’s prebuilt model 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn the basics of invoice processing in AI Builder and how it can benefit your organization.
+abstract: |  
+    In this module, you will: 
+    - Learn about AI Builder invoice processing.
+    - Build a simple flow by using invoice processing with Microsoft Power Automate.
+prerequisites: A Power Automate or Power Apps license, access to Microsoft Dataverse, and an AI Builder add-on or trial.
+iconUrl: /training/achievements/ai-builder-invoice-processing.svg
+levels:  
+- beginner
+roles:  
+- maker
+- business-user
+products:  
+- power-automate 
+- ai-builder
+- power-platform
+subjects:
+- artificial-intelligence
+- business-applications
+units:
+- learn-bizapps.ai-builder-invoice-processing.1-introduction 
+- learn-bizapps.ai-builder-invoice-processing.2-automate-workflow 
+- learn-bizapps.ai-builder-invoice-processing.3-check 
+- learn-bizapps.ai-builder-invoice-processing.4-summary 
+badge: 
+  uid: learn-bizapps.ai-builder-invoice-processing.badge

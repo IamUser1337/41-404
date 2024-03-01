@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-calculated-tables.4-technique 
+title: Choose a technique to add a column
+metadata: 
+  title: Choose a technique to add a column 
+  description: Learn how to choose a technique to add a column.  
+  ms.date: 06/15/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-technique.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-modify-filter.3-filter-modifier-functions 
+title: Use filter modifier functions
+metadata: 
+  title: Use filter modifier functions 
+  description: Learn how to use filter modifier functions.  
+  ms.date: 07/18/2022
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 9 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-filter-modifier-functions.md)] 

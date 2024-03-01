@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-intro.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/30/2021 
+ author: wwlpublish 
+ ms.author: shlindsay 
+ ms.topic: unit
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which Power BI tool allows users to reuse transformative logic that can be shared by many datasets and reports?
+    choices: 
+    - content: Data modeling
+      isCorrect: false 
+      explanation: Data modeling is the process of creating a visual representation of a whole information system or parts of it to delineate connections between data points and structures.
+    - content: Workspaces (v1 and v2)
+      isCorrect: false 
+      explanation: Workspaces (v1 and v2) are containers for dashboards, reports, workbooks, datasets, and dataflows.
+    - content: Datasets
+      isCorrect: false 
+      explanation: Datasets are a source of data ready for reporting and visualization.
+    - content: Dataflows
+      isCorrect: true 
+      explanation: Dataflows are reusable transformation logic that can be shared by many datasets and reports.
+  - content: Which Power BI administrator role has access to audit logs?
+    choices: 
+    - content: Power BI service administrator
+      isCorrect: false 
+      explanation: The Power BI service administrator is a service administrator and doesn't have access to items such as licensing, subscription, or audit logs.
+    - content: Office 365 global administrator
+      isCorrect: true
+      explanation: Office 365 global administrator has authority to access audit logs.
+    - content: Power BI capacity administrator
+      isCorrect: false 
+      explanation: The Power BI capacity administrator isn't part of Azure and is configured in Power BI. This admin role is responsible for enabling and managing Power BI capacities.
+    - content: Microsoft Power Platform service administrator
+      isCorrect: false 
+      explanation: Microsoft Power Platform service administrator uses Microsoft Power Platform admin center to manage environments and settings for Power Apps, Power Automate, and customer engagement apps.
+  - content: Which Power BI administrator role is responsible for managing gateways?
+    choices: 
+    - content: Power BI capacity administrator
+      isCorrect: false 
+      explanation: The Power BI capacity administrator is responsible for enabling and managing Power BI capacities.
+    - content: Microsoft Power Platform service administrator
+      isCorrect: true 
+      explanation: Microsoft Power Platform service administrator is responsible for managing data gateways.
+    - content: Power BI billing administrator
+      isCorrect: false 
+      explanation: The Power BI billing administrator may be responsible for assigning licenses in addition to billing.
+    - content: Power BI service administrator
+      isCorrect: false 
+      explanation: The Power BI service administrator is a role in Azure AD and manages the Power BI service environment.
+  - content: In which admin portal would you set up and configure governance policies?
+    choices: 
+    - content: Microsoft 365 admin center
+      isCorrect: false 
+      explanation: The Microsoft 365 admin center is used to manage users and their license assignment. Admins can also launch into other individual admin centers from here.
+    - content: Security and compliance center
+      isCorrect: false 
+      explanation: In addition to the general compliance tasks, administrators can use the security ad compliance center to search the Audit log to see Power Automate audit events.
+    - content: Power BI admin portal
+      isCorrect: true 
+      explanation: The Power BI admin portal is used to manage a Power BI tenant, including the configuration of governance policies, usage monitoring, and provisioning of licenses, capacities, and organizational resources.
+    - content: Azure active directory portal
+      isCorrect: false 
+      explanation: Azure active directory portal allows tasks like conditional access and developer application registration. This is also where you start setup of your on-premises gateways.

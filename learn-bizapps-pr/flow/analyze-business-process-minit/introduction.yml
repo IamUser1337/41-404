@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.analyze-business-process-minit.introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to analyzing your business process in Microsoft Power Automate Process Mining
+  ms.date: 04/02/2023  
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

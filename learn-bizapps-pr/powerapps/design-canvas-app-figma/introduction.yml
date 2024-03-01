@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-canvas-app-figma.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to designing a Power Apps canvas app by using Figma 
+  ms.date: 07/24/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 5
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

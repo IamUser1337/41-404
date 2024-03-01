@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-data-model.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/02/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: The Microsoft Cloud for Healthcare data model doesn't use which one of the following apps?
+    choices:
+    - content: Dynamics 365 Project Operations
+      isCorrect: true
+      explanation: The Microsoft Cloud for Healthcare data model doesn't use Dynamics 365 Project Operations.
+    - content: Dynamics 365 Field Service
+      isCorrect: false
+      explanation: The Microsoft Cloud for Healthcare data model doesn't use Dynamics 365 Project Operations.
+    - content: Dynamics 365 Customer Insights - Journeys
+      isCorrect: false
+      explanation: The Microsoft Cloud for Healthcare data model doesn't use Dynamics 365 Project Operations.
+    - content: Dynamics 365 Customer Service
+      isCorrect: false
+      explanation: The Microsoft Cloud for Healthcare data model doesn't use Dynamics 365 Project Operations.
+  - content: The healthcare data model for Dynamics 365 is based on which one of the following entities?
+    choices:
+    - content: Common Data Model
+      isCorrect: false
+      explanation: The healthcare data model for Dynamics 365 is based on the Fast Healthcare Interoperability Resources (FHIR) standards framework.
+    - content: Fast Healthcare Interoperability Resources (FHIR) standards framework
+      isCorrect: true
+      explanation: The healthcare data model for Dynamics 365 is based on the Fast Healthcare Interoperability Resources (FHIR) standards framework.
+    - content: Dynamics 365 Customer Service
+      isCorrect: false
+      explanation: The healthcare data model for Dynamics 365 is based on the Fast Healthcare Interoperability Resources (FHIR) standards framework.
+    - content: Azure Synapse
+      isCorrect: false
+      explanation: The healthcare data model for Dynamics 365 is based on the Fast Healthcare Interoperability Resources (FHIR) standards framework.
+  - content: Which of the following services can use Common Data Model?
+    choices:
+    - content: Microsoft Dataverse
+      isCorrect: false
+      explanation: Microsoft Dataverse, Dynamics 365, Microsoft Power Platform, and Azure can use Common Data Model.
+    - content: Microsoft Dynamics 365 and Microsoft Power Platform
+      isCorrect: false
+      explanation: Microsoft Dataverse, Dynamics 365, Microsoft Power Platform, and Azure can use Common Data Model.
+    - content: Microsoft Azure
+      isCorrect: false
+      explanation: Microsoft Dataverse, Dynamics 365, Microsoft Power Platform, and Azure can use Common Data Model.
+    - content: All the above
+      isCorrect: true
+      explanation: Microsoft Dataverse, Dynamics 365, Microsoft Power Platform, and Azure can use Common Data Model.

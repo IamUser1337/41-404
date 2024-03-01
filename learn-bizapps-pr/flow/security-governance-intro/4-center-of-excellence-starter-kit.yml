@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.security-governance-intro.4-center-of-excellence-starter-kit
+title: Microsoft Power Platform Center of Excellence Starter Kit
+metadata:
+  title: Intro to Excellence Starter Kit
+  description: Learn about Microsoft Power Platform Center of Excellence (COE) Starter Kit.
+  ms.date: 10/02/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-center-of-excellence-starter-kit.md)]

@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.connect-filter-data
+metadata:
+ title: Connect to and filter expense report data in a canvas app
+ description: Learn how data connects to your app and how to pull in, display, and filter data to fulfill user requirements.
+ ms.date: 01/31/2024
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Connect to and filter expense report data in a canvas app
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how data connects to your app and how to pull in, display, and filter data to fulfill user requirements.
+abstract: |
+    In this module, you will:
+    - Learn how to connect to data in a canvas app.
+    - Discover how to display and filter data.
+    - Learn about galleries and the Filter function.
+prerequisites: Basic understanding of canvas apps from Microsoft Power Apps and Microsoft Dataverse
+iconUrl: /training/achievements/connect-filter-data.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.connect-filter-data.1-introduction
+- learn-bizapps.connect-filter-data.2-add-controls
+- learn-bizapps.connect-filter-data.3-add-data
+- learn-bizapps.connect-filter-data.4-populate-filter
+- learn-bizapps.connect-filter-data.5-check
+- learn-bizapps.connect-filter-data.6-summary
+badge:
+  uid: learn-bizapps.connect-filter-data.badge

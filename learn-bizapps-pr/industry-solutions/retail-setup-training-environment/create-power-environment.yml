@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.create-power-environment
+title: Exercise - Create a Microsoft Power Platform environment
+metadata:
+  title: Exercise - Create a Microsoft Power Platform environment
+  description: Follow the steps to create a Microsoft Power Platform environment.
+  ms.date: 06/05/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-power-environment.md)]

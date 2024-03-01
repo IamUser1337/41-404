@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visualize-data.create-edit-views
+title: Create and edit views in Power Apps maker portal
+metadata:
+  title: Create and edit views in Power Apps maker portal
+  description: Learn how to use Power Apps maker portal to create and edit views.
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-edit-views.md)]

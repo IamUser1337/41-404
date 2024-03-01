@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-organize-fields 
+metadata: 
+ title: Organize and simplify Power BI fields for Tableau users
+ description: Learn how to organize and simplify Power BI fields for Tableau users.
+ ms.date: 10/13/2023  
+ author: ajburnle 
+ manager: kfollis  
+ ms.author: ajburnle  
+ ms.topic: module
+ ms.service: powerbi  
+title: Organize and simplify Power BI fields for Tableau users
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module provides guidance on how to organize your data in a way that optimizes performance, enables faster development, and eases the process of scaling.
+abstract: |  
+    In this module, you will: 
+    - Identify basic organization concepts in Microsoft Power BI.
+    - Prepare simplified and ready-to-go datasets for future developers and analysts.
+    - Organize your fields with groups and bins.
+    - Edit the default properties of your fields.
+    - Identify differences and similarities between Tableau and Power BI concepts.
+prerequisites: Access to Power BI service, familiarity with Tableau, and an understanding of Tableau concepts like grouping fields in folders, editing default settings and field properties, and adding comments to fields.
+iconUrl: /training/achievements/power-bi-tableau-organize-fields.svg  
+levels:  
+- beginner   
+roles:  
+- business-user
+- maker
+products:  
+- power-platform  
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.power-bi-tableau-organize-fields.1-introduction 
+- learn-bizapps.power-bi-tableau-organize-fields.2-field-properties 
+- learn-bizapps.power-bi-tableau-organize-fields.3-organize 
+- learn-bizapps.power-bi-tableau-organize-fields.4-lab 
+- learn-bizapps.power-bi-tableau-organize-fields.5-check 
+- learn-bizapps.power-bi-tableau-organize-fields.6-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-organize-fields.badge

@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.visualize-import-export-data 
+metadata:
+  title: Visualize, import, and export Microsoft Dataverse data 
+  description:   This learning path will show you how to use various Dataverse views, explore how Power Query can load data into Dataverse tables, and how to use Dataverse with third-party tools.
+
+  ms.date: 12/15/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: learning-path
+title: Visualize, import, and export Microsoft Dataverse data 
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  This learning path will show you how to use various Dataverse views, explore how Power Query can load data into Dataverse tables, and how to use Dataverse with third-party tools.
+prerequisites: |
+  - Power Apps license
+  - Access to Dataverse
+iconUrl: /training/achievements/visualize-import-dataverse.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+products:
+- power-platform
+- dataverse
+- azure-synapse-analytics
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.visualize-data
+- learn-bizapps.use-power-query
+- learn-bizapps.use-word-excel-dataverse
+- learn-bizapps.export-dataverse-excel
+- learn-bizapps.understand-azure-dataverse 
+trophy:
+  uid: learn.visualize-import-dataverse.trophy

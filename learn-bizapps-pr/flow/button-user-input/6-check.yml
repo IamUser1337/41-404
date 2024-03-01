@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.button-user-input.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following user input options are available?
+    choices: 
+    - content: Text, Yes/No, File, and Email
+      isCorrect: false
+      explanation: There are six user input options available. Text input is best used for adding text. Yes/No input type is best used to select yes or no options. File content input type can be used to upload files and images. Email input type is where you would enter an email address. Number input type is best used to add a numerical value. For the trigger Date input type, you can either enter or select a date.
+    - content: Text, Yes/No, File, Email, Number, and Date
+      isCorrect: true
+      explanation: There are six user input options available. Text input is best used for adding text. Yes/No input type is best used to select yes or no options. File content input type can be used to upload files and images. Email input type is where you would enter an email address. Number input type is best used to add a numerical value. For the trigger Date input type, you can either enter or select a date.
+    - content: Text, Yes/No, File, Email, Number, Date, and Image
+      isCorrect: false 
+      explanation: There are six user input options available. Text input is best used for adding text. Yes/No input type is best used to select yes or no options. File content input type can be used to upload files and images. Email input type is where you would enter an email address. Number input type is best used to add a numerical value. For the trigger Date input type, you can either enter or select a date.
+    - content: Text, Yes/No, File, and Email
+      isCorrect: false 
+      explanation: There are six user input options available. Text input is best used for adding text. Yes/No input type is best used to select yes or no options. File content input type can be used to upload files and images. Email input type is where you would enter an email address. Number input type is best used to add a numerical value. For the trigger Date input type, you can either enter or select a date.
+  - content: Which connector is used to get manager information?
+    choices: 
+    - content: Office 365 Users User Profile (V2)
+      isCorrect: false
+      explanation: The Office 365 Users Get Manager (V2) connector is used to find the manager of the existing user who has triggered the flow.
+    - content: Office 365 Users User Properties (V2)
+      isCorrect: false 
+      explanation: The Office 365 Users Get Manager (V2) connector is used to find the manager of the existing user who has triggered the flow.
+    - content: Office 365 Users Get Manager (V2)
+      isCorrect: true
+      explanation: The Office 365 Users Get Manager (V2) connector is used to find the manager of the existing user who has triggered the flow.
+    - content: Get Manager
+      isCorrect: false 
+      explanation: The Office 365 Users Get Manager (V2) connector is used to find the manager of the existing user who has triggered the flow.
+  - content: How many connections are used to save the data for the Report Property Damage button flow?
+    choices: 
+    - content: Three. Office 365 Outlook, Notification, and Office 365 Users.
+      isCorrect: false 
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
+    - content: One. Office 365 Users.
+      isCorrect: false 
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
+    - content: One. Office 365 Outlook.
+      isCorrect: false 
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
+    - content: One. SharePoint.
+      isCorrect: true 
+      explanation: The SharePoint connector is used to save the report as items to Microsoft Lists.
+  - content: Which trigger action provides the full address?
+    choices:
+    - content: The Get User Profile (V2)
+      isCorrect: false
+      explanation: The Manually Trigger a flow action also provides the current location of the user from where the button was selected to trigger the flow.
+    - content: The Manually Trigger a flow
+      isCorrect: true
+      explanation: The Manually Trigger a flow action also provides the current location of the user from where the button was selected to trigger the flow.
+    - content: The SharePoint
+      isCorrect: false
+      explanation: The Manually Trigger a flow action also provides the current location of the user from where the button was selected to trigger the flow.
+    - content: The Office 365 Users
+      isCorrect: false
+      explanation: The Manually Trigger a flow action also provides the current location of the user from where the button was selected to trigger the flow.
+  - content: Which actions are needed to attach an image to a new Microsoft Lists item?
+    choices:
+    - content: Create item first, then add attachment.
+      isCorrect: true
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.
+    - content: Create item.
+      isCorrect: false
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.
+    - content: Add attachment.
+      isCorrect: false
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.
+    - content: Add attachment first, then create an item.
+      isCorrect: false
+      explanation: Two actions are needed. The first is to create the item and the second is to update it with the attachment. The ID of the list item created using the first action is required for the second action.

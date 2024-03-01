@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.tables-and-records.7a-exercise 
+title: Exercise - Use collections and manipulate tables
+metadata: 
+  title: Exercise - Use collections and manipulate tables
+  description: Work with collections and table manipulation.
+  ms.date: 10/15/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/7a-exercise.md)] 

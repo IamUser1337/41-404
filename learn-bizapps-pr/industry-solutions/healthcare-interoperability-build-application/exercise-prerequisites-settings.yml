@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-build-application.exercise-prerequisites-settings 
+title: Exercise – Set up virtual health data table dependencies
+metadata: 
+  title: Exercise – Set up virtual health data table dependencies
+  description: Follow the steps to practice setting up virtual health data table dependencies.
+  ms.date: 11/23/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit 
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-prerequisites-settings.md)] 

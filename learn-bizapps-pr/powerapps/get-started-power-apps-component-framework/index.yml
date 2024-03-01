@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.get-started-power-apps-component-framework
+metadata:
+ title: Get started with Power Apps component framework
+ description: Learn how to get started with Microsoft Power Apps component framework.
+ ms.date: 10/30/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: powerapps
+ ms.subservice: pcf
+ ms.collection: get-started
+title: Get started with Power Apps component framework
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to get started with Microsoft Power Apps component framework.
+abstract: |
+    This module explains the following concepts:
+    - Power Apps component framework architecture
+    - Power Apps component tooling
+prerequisites: None
+iconUrl: /training/achievements/get-started-power-apps-component-framework.svg
+levels:
+- intermediate
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.get-started-power-apps-component-framework.introduction
+- learn-bizapps.get-started-power-apps-component-framework.architecture
+- learn-bizapps.get-started-power-apps-component-framework.tooling
+- learn-bizapps.get-started-power-apps-component-framework.manifest
+- learn-bizapps.get-started-power-apps-component-framework.demo
+- learn-bizapps.get-started-power-apps-component-framework.check
+- learn-bizapps.get-started-power-apps-component-framework.summary
+badge:
+  uid: learn-bizapps.get-started-power-apps-component-framework.badge

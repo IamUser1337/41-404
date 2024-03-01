@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.troubleshoot-slow-flows.2-compose-variables 
+title: Use the Compose and Variable actions to view data
+metadata: 
+  title: Use the Compose and Variable actions to view data
+  description: Use the Compose action to view action data and the Variable action to view appended data.
+  ms.date: 04/23/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-compose-variables.md)] 

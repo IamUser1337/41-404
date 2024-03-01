@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.manage-events-fundraising-engagement 
+metadata: 
+ title: Manage events in Fundraising and Engagement
+ description: Learn how to create an event, set up event components, register attendees, and assign attendees to event tables in Microsoft Cloud for Nonprofit. 
+ ms.date: 11/01/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok  
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-nonprofit
+title: Manage events in Fundraising and Engagement
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  In this module you will learn how to set up and manage an event in Fundraising and Engagement. You will see how to create an event, set up event components, register attendees, and assign attendees to event tables.  
+abstract: |  
+    In this module, you will: 
+    - Set up events in Fundraising and Engagement
+    - Set up event components (tickets, donations, sponsorships, preferences, products, and disclaimers)
+    - Use registration packages to register event attendees
+    - Set up tables for gala events and allocate registrations to tables
+prerequisites: None
+iconUrl: /training/achievements/manage-events-fundraising-engagement.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.manage-events-fundraising-engagement.1-introduction 
+- learn-bizapps.manage-events-fundraising-engagement.2-event-management 
+- learn-bizapps.manage-events-fundraising-engagement.3-event-setup 
+- learn-bizapps.manage-events-fundraising-engagement.4-registration-packages 
+- learn-bizapps.manage-events-fundraising-engagement.5-tickets-tables 
+- learn-bizapps.manage-events-fundraising-engagement.6-exercise 
+- learn-bizapps.manage-events-fundraising-engagement.7-check 
+- learn-bizapps.manage-events-fundraising-engagement.8-summary 
+badge: 
+  uid: learn-bizapps.manage-events-fundraising-engagement.badge

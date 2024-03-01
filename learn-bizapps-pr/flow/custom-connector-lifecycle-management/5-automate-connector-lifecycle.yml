@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connector-lifecycle-management.5-automate-connector-lifecycle 
+title: Automate the connector life cycle
+metadata: 
+  title: Automate the connector life cycle 
+  description: Learn about automating the connector life cycle.  
+  ms.date: 05/12/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-automate-connector-lifecycle.md)] 

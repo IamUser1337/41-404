@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.use-documentation
+metadata:
+  title: Document and test your Power Apps application
+  description: Learn how to document and test a Power Apps application.
+  ms.date: 11/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: module
+title: Document and test your Power Apps application
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you'll learn best practices around testing and documenting your Power Apps application.
+abstract: |
+    In this module, you will:
+    - Learn about the different types of test plans and components of a good test plan
+    - Identify and discuss optimization tools and performance tuning
+    - Learn about the benefits of documenting your application
+prerequisites: None
+iconUrl: /training/achievements/use-documentation-power-platform.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- maker
+products:
+- dynamics-365
+- power-platform
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.use-documentation.01-create-test-plans
+- learn-bizapps.use-documentation.02-user-interface-testing
+- learn-bizapps.use-documentation.03-optimize-performance
+- learn-bizapps.use-documentation.03a-analytics
+- learn-bizapps.use-documentation.04-engage-customer
+- learn-bizapps.use-documentation.05-knowledge-check
+- learn-bizapps.use-documentation.06-summary
+badge:
+  uid: learn.use-documentation-power-platform.badge

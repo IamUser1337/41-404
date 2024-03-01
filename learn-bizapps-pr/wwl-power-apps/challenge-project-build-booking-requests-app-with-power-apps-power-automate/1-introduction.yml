@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.introduction
+title: Introduction
+metadata:
+  unitType: introduction
+  title: introduction this challenge project to create a canvas app and Power Automate flow, and practice your app maker skills
+  description: "Create a canvas app and Power Automate flow. Practice your app maker skills."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+  [!include[](includes/1-introduction.md)]
+

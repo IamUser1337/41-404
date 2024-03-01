@@ -1,0 +1,32 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-virtual-agents-enhance
+metadata:
+  title: Extend and manage Microsoft Copilot Studio copilots
+  description: Learn how to create and manage copilots with Power Virtual Agents.
+  ms.date: 12/30/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.collection: bap-ai-copilot
+  ms.service: copilot-studio
+title: Extend and manage Microsoft Copilot Studio copilots 
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Once you've mastered to basics of building bot in Microsoft Copilot Studio, you're ready to start enhancing your bots. This learning path focuses on bot enhancements and management. Topics include managing permissions, working with environments, and importing and exporting bots. Additionally, you can further enhance your bots with voice recognition and by using Azure Cognitive Service for Language to help extract information from unstructured text.
+prerequisites: Access to Microsoft Copilot Studio.
+iconUrl: /training/achievements/power-virtual-agents-enhance.svg
+levels:
+- intermediate
+roles: 
+- maker
+- administrator
+products:
+- ms-copilot
+subjects:
+- chatbot 
+modules:
+- learn-bizapps.implement-power-virtual-agents 
+- learn-bizapps.pva-voice
+- learn-bizapps.cognitive-service-power-virtual-agents
+trophy: 
+  uid: learn-bizapps.power-virtual-agents-enhance.trophy

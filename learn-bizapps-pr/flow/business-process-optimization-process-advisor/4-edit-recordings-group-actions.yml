@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.business-process-optimization-process-advisor.4-edit-recordings-group-actions 
+title: Edit recordings and group actions
+metadata: 
+  title: Edit recordings and group actions 
+  description: Learn how to edit recordings and group actions. 
+  ms.date: 11/30/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-edit-recordings-group-actions.md)] 

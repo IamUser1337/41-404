@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-canvas-app.4-make-screen-functional
+title: Exercise - Make your first screen functional
+metadata:
+  title: Exercise - Make your first screen functional
+  description: Follow the steps to add blank screens with navigation buttons.
+  ms.date: 01/12/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-make-screen-functional.md)]

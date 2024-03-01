@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-active-directory.2-active-directory-actions 
+title: Active Directory actions
+metadata: 
+  title: Active Directory actions
+  description: Learn about the various Active Directory actions in Power Automate for desktop.
+  ms.date: 08/01/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+  
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-active-directory-actions.md)] 

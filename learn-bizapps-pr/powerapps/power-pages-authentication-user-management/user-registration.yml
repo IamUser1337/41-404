@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-authentication-user-management.user-registration 
+title: User registration in Power Pages
+metadata: 
+  title: User registration in Power Pages
+  description: Learn how to register users through invitation-based and open registrations.
+  ms.date: 05/08/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/user-registration.md)] 

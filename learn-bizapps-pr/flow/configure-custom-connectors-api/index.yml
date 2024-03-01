@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.configure-custom-connectors-api 
+metadata: 
+ title: Configure custom connectors with authenticated APIs in Microsoft Power Platform
+ description: Learn how to configure custom connectors with authenticated APIs.
+ ms.date: 05/12/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ 
+title: Configure custom connectors with authenticated APIs in Microsoft Power Platform
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Custom connectors can provide access to custom or third-party APIs that are accessible via public endpoints. In this module, learn how to configure custom connectors with authenticated APIs in Microsoft Power Platform. 
+abstract: |  
+    In this module, you will: 
+    - Learn about authentication options.
+    - Learn how to use APIs with Microsoft Entra ID.
+    - Use a graph API from a custom connector.
+    - Share and move between environments.
+prerequisites: Experience with Microsoft Power Platform and Power Automate. 
+iconUrl: /training/achievements/configure-custom-connectors-api.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- developer
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.configure-custom-connectors-api.1-introduction 
+- learn-bizapps.configure-custom-connectors-api.2-authentication 
+- learn-bizapps.configure-custom-connectors-api.3-use-api 
+- learn-bizapps.configure-custom-connectors-api.4-azure-active-directory 
+- learn-bizapps.configure-custom-connectors-api.5-exercise 
+- learn-bizapps.configure-custom-connectors-api.6-environments 
+- learn-bizapps.configure-custom-connectors-api.7-check 
+- learn-bizapps.configure-custom-connectors-api.8-summary 
+badge: 
+  uid: learn-bizapps.configure-custom-connectors-api.badge

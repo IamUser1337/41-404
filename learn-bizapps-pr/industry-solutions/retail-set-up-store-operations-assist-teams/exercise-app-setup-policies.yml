@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-app-setup-policies 
+title: Exercise – Create and assign app setup policies
+metadata: 
+  title: Exercise – Create and assign app setup policies
+  description: Follow the steps to create and assign app setup policies.
+  ms.date: 10/04/2023 
+  author: lavanyapg 
+  ms.author: lsuresh 
+  ms.topic: interactive-tutorial 
+  ms.service: microsoft-cloud-retail
+durationInMinutes: 20 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-app-setup-policies.md)] 

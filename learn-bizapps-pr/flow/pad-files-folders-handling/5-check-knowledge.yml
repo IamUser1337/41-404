@@ -1,0 +1,73 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-files-folders-handling.5-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/01/2023
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: With which action is it possible to extract the root path, directory, file name, or extension of a file?
+    choices: 
+    - content: Get Special Folder action
+      isCorrect: false 
+      explanation: The Get Special Folder action retrieves the path of a Microsoft Windows special folder.
+    - content: Get Files in Folder action
+      isCorrect: false 
+      explanation: The Get Files in Folder action retrieves the list of files in a folder.
+    - content: Get filepath part action	
+      isCorrect: true 
+      explanation: The Get filepath part action retrieves one or more parts from a file path.
+    - content: If File(s) Exists action
+      isCorrect: false 
+      explanation: The If File(s) Exists action marks the beginning of a conditional block of actions, depending on whether a file exists or not.
+  - content: Which one of the following statements is true about the Get Files in Folder action?
+    choices: 
+    - content: "It can retrieve the files that a specified folder and its subfolders contain."
+      isCorrect: true 
+      explanation: That is correct!
+    - content: "It can retrieve only the files that a specified folder contains."
+      isCorrect: false 
+      explanation: The Get Files in Folder action contains the option to retrieve files from subfolders as well.
+  - content: Which one of the following actions can you use to get the desktop directory of the current user?
+    choices: 
+    - content: Create Folder
+      isCorrect: false 
+      explanation: The Create Folder action will help you create a new folder.
+    - content: Get Subfolders in Folder
+      isCorrect: false 
+      explanation: The Get Subfolders in Folder action will help you retrieve the list of subfolders in a folder.
+    - content: Get Files in Folder	
+      isCorrect: false 
+      explanation: The Get Files in Folder action will help you retrieve the list of files in a folder.
+    - content: Get Special Folder
+      isCorrect: true 
+      explanation: The Get Special Folder action can return the path of the current user's desktop folder.
+  - content: Which one of the following statements is true about the Copy File(s) action?
+    choices: 
+    - content: "It copies the files, and then it removes them from their original location."
+      isCorrect: false 
+      explanation: The Copy File(s) action keeps the files in their original location.
+    - content: "It copies the files without removing them from their original location."
+      isCorrect: true 
+      explanation: The Copy File(s) action keeps the files in their original location.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+

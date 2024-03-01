@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-fundraising-engagement.2-terminology 
+title: Explain key fundraising terminology
+metadata: 
+  title: Explain key fundraising terminology
+  description: Learn about key fundraising terminology.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-terminology.md)] 

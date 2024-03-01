@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-health-text-analytics.use-containers
+title: Use containers
+metadata:
+  title: Use containers for Text Analytics
+  description: Learn how to use containers and then watch a video about container provisioning in Microsoft Cloud for Healthcare.
+  ms.date: 02/28/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/use-containers.md)]

@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.command-bar-advanced.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/29/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You want to make sure your Power Fx formulas for a command bar button can’t be modified after you import the solution containing them into another environment. What should you do?
+    choices: 
+    - content: Nothing extra is required just export and import into another environment.
+      isCorrect: false 
+      explanation: Incorrect. You must change managed properties on the component library to not allow customization and then export as managed and import into another environment.
+    - content: You must change managed properties on the component library to not allow customization and then export the solution as managed and import into another environment.
+      isCorrect: true 
+      explanation: Correct. This will prevent changes to your Power Fx formulas in the other environment.
+    - content: You must change managed properties on the component library to not allow customization and then export the solution as unmanaged and import into another environment.
+      isCorrect: false 
+      explanation: Incorrect. You must export the solution as managed to activate the managed property. 
+  - content: If you want to change the scope on a command bar command to table or global the action for your command must use which of the following? 
+    choices: 
+    - content: JavaScript 
+      isCorrect: true 
+      explanation: Correct. Only JavaScript logic can be used if you're going to change scope to table or global.
+    - content: Power Fx
+      isCorrect: false 
+      explanation: Incorrect. Power Fx is stored in a component library associated with a single model-driven app. Only JavaScript logic can be used if you're going to change scope to table or global.
+    - content: C#
+      isCorrect: false 
+      explanation: Incorrect. C# isn't a supported way to implement a command bar command action.	
+  - content: You've implemented a command bar command that performs some custom Power Fx logic for the action and you want the command always visible. A user starts creating a new data row but before saving the row, selects your command. When the command is initiated how do you ensure the new data row has been created? 
+    choices: 
+    - content: Data row will be saved prior to initiation of your Power Fx logic.
+      isCorrect: true 
+      explanation: Correct. The form will save the row, resolving any errors and then invoke your Power Fx logic.
+    - content: You must do a Patch to save the new row before any of your other formulas.
+      isCorrect: false 
+      explanation: Incorrect. You don’t need to do a Patch function call. The form will save the row, resolving any errors and then invoke your Power Fx logic.
+    - content: You should check Self.Selected.State to see if a new row is being created.
+      isCorrect: false 
+      explanation: Incorrect. The form will save the row before initiation of your logic. You could hide the command using a Visibility formula that checks Self.Selected.State, but then the command wouldn’t always be available.

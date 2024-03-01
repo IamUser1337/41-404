@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-teams.3-sharepoint 
+title: Power BI together with SharePoint Online
+metadata: 
+  title: Power BI together with SharePoint Online
+  description: Learn about Power BI together with SharePoint Online.
+  ms.date: 09/28/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-sharepoint.md)] 

@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.deploy-refine-app
+metadata:
+ title: Deploy and refine your app like a pro
+ description: Learn how to deploy your app from Power Apps and then use feedback to refine it.
+ ms.date: 06/30/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ 
+title: Deploy and refine your app like a pro
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Your app has been tested and is ready to go. Now, it's time to deploy and share it with your users. After apps have been deployed, it's common for them to evolve and improve over time. As people begin using the app, you can expect them to request new features, fixes, or that you accommodate a business process that has changed.
+abstract: |
+    In this module, you'll:
+    - Deploy your app and help users discover it.
+    - Get feedback and usage information to help refine your app.
+prerequisites: Basic Power Apps experience
+iconUrl: /training/achievements/deploy-refine-app.svg
+levels:
+- intermediate
+roles:
+- maker
+- developer
+products:
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.deploy-refine-app.introduction
+- learn-bizapps.deploy-refine-app.publish-app
+- learn-bizapps.deploy-refine-app.share-app
+- learn-bizapps.deploy-refine-app.qr-codes
+- learn-bizapps.deploy-refine-app.exercise
+- learn-bizapps.deploy-refine-app.collect-feedback
+- learn-bizapps.deploy-refine-app.check
+- learn-bizapps.deploy-refine-app.summary
+badge:
+  uid: learn-bizapps.deploy-refine-app.badge

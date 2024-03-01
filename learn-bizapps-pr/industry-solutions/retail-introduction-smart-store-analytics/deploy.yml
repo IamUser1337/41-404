@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.introduction-smart-store-analytics.deploy
+title: Deploy Smart Store Analytics
+metadata:
+  title: Deploy Smart Store Analytics
+  description: Learn where to find information on the steps to deploy Smart Store Analytics.
+  ms.date: 12/18/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/deploy.md)]

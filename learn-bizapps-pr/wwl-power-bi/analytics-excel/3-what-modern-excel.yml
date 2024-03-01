@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.analytics-excel.what-is-modern-excel
+title: What is Modern Excel
+metadata:
+  title: What is Modern Excel
+  description: "What is Modern Excel"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 20
+content: |
+  [!include[](includes/3-what-modern-excel.md)]

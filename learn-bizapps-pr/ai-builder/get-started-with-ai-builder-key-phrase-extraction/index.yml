@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-with-ai-builder-key-phrase-extraction 
+metadata: 
+ title: Identify key phrases with AI Builder
+ description: Explore the AI Builder Key phrase extraction model and learn how to use it with other Microsoft Power Platform products.
+ ms.date: 04/02/2020   
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Identify key phrases with AI Builder 
+summary: |  
+  [!include[](../includes/module-banner.md)]
+  Explore the AI Builder Key phrase extraction model and learn how to use it with other Microsoft Power Platform products.
+abstract: |  
+    In this module, you will: 
+    - Learn about the AI Builder Key phrase extraction prebuilt AI model.
+    - Discover how to use AI Builder Key phrase extraction within Microsoft Power Platform.
+    - Explore business problems that can be solved with AI Builder Key phrase extraction.
+    - Develop a simple flow with Power Automate that uses AI Builder Key phrase extraction.
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+iconUrl: /training/achievements/get-started-with-key-phrase-extraction.svg  
+levels:  
+- beginner   
+roles:
+- business-user
+- maker
+products:    
+- ai-builder
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+units:
+- learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.1-intro-key-phrase-extraction 
+- learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.2-business-problems-solved 
+- learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.3-exercise 
+- learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.3a-check
+- learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.4-summary 
+badge: 
+  uid: learn-bizapps.get-started-with-key-phrase-extraction.badge

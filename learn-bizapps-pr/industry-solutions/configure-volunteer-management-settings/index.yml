@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.configure-volunteer-management-settings 
+metadata: 
+ title: Configure settings for Volunteer Management
+ description: Configure preferences, qualifications, and onboarding templates to use in the Volunteer Management app of in Microsoft Cloud for Nonprofit. 
+ ms.date: 11/1/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok 
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-nonprofit
+title: Configure settings for Volunteer Management
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Configure preferences, qualifications, and onboarding templates to use in the Volunteer Management app.  
+abstract: |  
+    In this module, you will: 
+    - Set up qualification types
+    - Set up onboarding templates
+    - Set up preference types
+prerequisites: None
+iconUrl: /training/achievements/configure-volunteer-management-settings.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.configure-volunteer-management-settings.1-introduction 
+- learn-bizapps.configure-volunteer-management-settings.2-qualifications 
+- learn-bizapps.configure-volunteer-management-settings.3-onboard-templates 
+- learn-bizapps.configure-volunteer-management-settings.4-preferences 
+- learn-bizapps.configure-volunteer-management-settings.5-exercise 
+- learn-bizapps.configure-volunteer-management-settings.6-check 
+- learn-bizapps.configure-volunteer-management-settings.7-summary 
+badge: 
+  uid: learn-bizapps.configure-volunteer-management-settings.badge

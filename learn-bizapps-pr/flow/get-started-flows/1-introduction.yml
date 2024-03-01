@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-get-started.1-flow-introduction
+title: Introducing Power Automate
+metadata: 
+  title: Introducing Power Automate
+  description: Learn the basics of Power Automate. 
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit  
+durationInMinutes: 10 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](../includes/banner.md)]
+  [!include[](includes/1-flow-introduction.md)] 
+

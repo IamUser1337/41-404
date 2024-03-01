@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-document-automation.3-configure 
+title: Configure the document automation base kit
+metadata: 
+  title: Configure the document automation base kit
+  description: Learn about included personas and features, and how to configure roles, create a forms processing model, and prepare a pipeline to process your documents. 
+  ms.date: 01/31/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-configure.md)] 

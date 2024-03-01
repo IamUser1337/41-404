@@ -1,0 +1,17 @@
+﻿### YamlMime:ModuleUnit 
+uid: learn-bizapps.developer-tools-extend.introduction 
+title: Introduction to developer Power Platform tooling
+metadata: 
+  title: Introduction to developer Power Platform tooling 
+  description: This unit introduces the available developer tools on Power Platform.
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: interactive-tutorial 
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 3 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/introduction.md)] 
+

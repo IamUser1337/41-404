@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-intro
+metadata:
+ title: Core components of Power Pages
+ description: Use Power Pages to create modern data-driven external-facing business websites. Extend Dataverse data to external and internal audiences such as customers, partners, and employees. Empower anyone inside or outside your organization to interact with the business by using Power Pages sites.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.collection: get-started
+ ms.service: power-pages 
+title: Core components of Power Pages
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Use Power Pages to create modern data-driven external-facing business websites. Extend Dataverse data to external and internal audiences such as customers, partners, and employees. Empower anyone inside or outside your organization to interact with the business by using Power Pages sites.
+abstract: |
+    In this module, you will:
+    - Identify the capabilities of Power Pages.
+    - Review the Power Pages site provisioning process.
+    - Learn about Power Pages core components and tools.
+    - Discover how to control user access to site content and Dataverse data.
+prerequisites: None
+iconUrl: /learn/achievements/power-pages-intro.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-intro.introduction
+- learn-bizapps.power-pages-intro.get-started
+- learn-bizapps.power-pages-intro.core-components
+- learn-bizapps.power-pages-intro.security
+- learn-bizapps.power-pages-intro.extensibility-overview
+- learn-bizapps.power-pages-intro.check
+- learn-bizapps.power-pages-intro.summary
+badge:
+  uid: learn-bizapps.power-pages-intro.badge

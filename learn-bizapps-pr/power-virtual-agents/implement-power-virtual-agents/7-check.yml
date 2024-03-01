@@ -1,0 +1,112 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.implement-power-virtual-agents.7-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/02/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 10
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you migrate topics from one environment to another?
+    choices:
+    - content: Export the topic as a zipped file from one chatbot and then import it to another chatbot in the other environment.
+      isCorrect: false
+      explanation: Currently, no option exists for migrating only topics from one environment to another. You need to create a solution and then add the chatbot to that solution. Then, you can export and import the chatbot.
+    - content: Export the entire chatbot as a zipped file from the source environment and then import it to the destination environment.
+      isCorrect: false
+      explanation: Currently, no option exists for migrating only topics from one environment to another. You need to create a solution and then add the chatbot to that solution. Then, you can export and import the chatbot.
+    - content: You can't migrate only topics. You must migrate the entire chatbot by using a solution.
+      isCorrect: true
+      explanation: Currently, no option exists for migrating only topics from one environment to another. You need to create a solution and then add the chatbot to that solution. Then, you can export and import the chatbot.
+    - content: You would use the Power Automate template to copy and paste the chatbot topics.
+      isCorrect: false
+      explanation: Currently, no option exists for migrating only topics from one environment to another. You need to create a solution and then add the chatbot to that solution. Then, you can export and import the chatbot.
+  - content: How do chatbots use the existing tables in Power Apps or Power Automate?
+    choices:
+    - content: The existing tables in Power Apps or Power Automate are already available in the chatbot entities.
+      isCorrect: false
+      explanation: Currently, the only option to connect with tables is by using Power Automate flow. To trigger the flow, you would use the Call an action feature in the chatbot authoring canvas.
+    - content: You need to use the Call an action feature in the chatbot authoring canvas.
+      isCorrect: true
+      explanation: Currently, the only option to connect with tables is by using Power Automate flow. To trigger the flow, you would use the Call an action feature in the chatbot authoring canvas.
+    - content: You do a one-time synchronization configuration that is available in the chatbot manager.
+      isCorrect: false
+      explanation: Currently, the only option to connect with tables is by using Power Automate flow. To trigger the flow, you would use the Call an action feature in the chatbot authoring canvas.
+    - content: You do a one-time synchronization configuration by using the Bot Framework.
+      isCorrect: false
+      explanation: Currently, the only option to connect with tables is by using Power Automate flow. To trigger the flow, you would use the Call an action feature in the chatbot authoring canvas.
+  - content: What authentication options are currently available?
+    choices:
+    - content: No authentication, Only for Teams, and Manual (For any channel including Teams)
+      isCorrect: true
+      explanation: The three authentication options that you can choose from are No authentication, Only for Teams, and Manual using Microsoft Entra ID.
+    - content: Microsoft Entra ID and Microsoft 365 Groups
+      isCorrect: false
+      explanation: The three authentication options that you can choose from are No authentication, Only for Teams, and Manual using Microsoft Entra ID.
+    - content: Microsoft Entra ID and Teams
+      isCorrect: false
+      explanation: The three authentication options that you can choose from are No authentication, Only for Teams, and Manual using Microsoft Entra ID.
+    - content: Microsoft Entra ID and Power Automate flow
+      isCorrect: false
+      explanation: The three authentication options that you can choose from are No authentication, Only for Teams, and Manual using Microsoft Entra ID.
+  - content: What information does the Analytics section provide?
+    choices:
+    - content: Summary and Customer Satisfaction
+      isCorrect: false
+      explanation: Microsoft Copilot Studio has a comprehensive set of analytics that show you the key performance indicators for your bot. This feature helps you analyze your bot performance and usage, customer satisfaction, topic usage, session information, and billed session information.
+    - content: Summary, Customer Satisfaction, and Sessions
+      isCorrect: false
+      explanation: Microsoft Copilot Studio has a comprehensive set of analytics that show you the key performance indicators for your bot. This feature helps you analyze your bot performance and usage, customer satisfaction, topic usage, session information, and billed session information.
+    - content: Summary, Customer Satisfaction, Sessions, and error log
+      isCorrect: false
+      explanation: Microsoft Copilot Studio has a comprehensive set of analytics that show you the key performance indicators for your bot. This feature helps you analyze your bot performance and usage, customer satisfaction, topic usage, session information, and billed session information.
+    - content: Summary, Customer Satisfaction, Sessions, and Billing
+      isCorrect: true
+      explanation: Microsoft Copilot Studio has a comprehensive set of analytics that show you the key performance indicators for your bot. This feature helps you analyze your bot performance and usage, customer satisfaction, topic usage, session information, and billed session information.
+  - content: Which of the following variables are automatically stored by the bot once a user is authenticated?
+    choices:
+    - content: User email, user display name, user organization name, user ID.
+      isCorrect: false
+      explanation: Incorrect. User email and user organization name are not variables automatically stored once a user is authenticated.
+    - content: User email, user ID, user location.
+      isCorrect: false
+      explanation: Incorrect. User email and user location are not variables automatically stored once a user is authenticated.
+    - content: If the user is logged in, user display name, user ID.
+      isCorrect: true
+      explanation: Correct. If the user is logged in, user display name, and user ID include the variables stored.
+    - content: If the user is logged in, user email, user ID.
+      isCorrect: false
+      explanation: Incorrect. User email isn't a variable automatically stored once a user is authenticated.
+  - content: What happens if you select **Require users to sign in** when setting up authentication?
+    choices:
+    - content: A new user topic called Require users to sign in is created and users will be prompted to sign in before talking to the bot. The topic can be turned off from the Topics area.
+      isCorrect: false
+      explanation: Incorrect. The topic created can't be turned off from the Topics area.
+    - content: A new system topic called Require users to sign in is created and users will be prompted to sign in before talking to the bot.
+      isCorrect: true
+      explanation: Correct. This topic is automatically triggered for any user who talks to the bot without being authenticated.
+    - content: You can use the Authenticate action in the bot's Greeting topic.
+      isCorrect: false
+      explanation: Incorrect. Users will be prompted to sign in before talking to the bot.
+    - content: You can use the Authenticate action throughout any point in the conversation.
+      isCorrect: false
+      explanation: Incorrect. Users will be prompted to sign in before talking to the bot.
+  - content: You've created a new topic and want to add it to a chatbot. The chatbot is already in a solution. How can you add the new topic in the solution?
+    choices:
+    - content: No action required as the new topic will automatically be added to the solution.
+      isCorrect: false
+      explanation: Incorrect. The new topic won't be automatically added to the solution.
+    - content: Open the solution and select Add existing > Topic.
+      isCorrect: false
+      explanation: Incorrect. It's not possible to manually add topics to add to a solution.
+    - content: Open the solution and select New > Topic.
+      isCorrect: false
+      explanation: Incorrect. It's not possible to manually add topics to add to a solution.
+    - content: Open the solution, go to the chatbot component, and select Add required components.
+      isCorrect: true
+      explanation: Correct. This will add new bot content into the solution.

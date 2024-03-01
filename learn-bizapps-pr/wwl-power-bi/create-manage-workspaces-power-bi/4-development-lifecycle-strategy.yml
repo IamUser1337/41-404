@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-manage-workspaces-power-bi.4-development-lifecycle-strategy
+title: Recommend a development life cycle strategy
+metadata:
+  title: Recommend a development life cycle strategy
+  description: "Recommend a development life cycle strategy"
+  ms.date: 03/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 7
+content: |
+  [!include[](includes/4-development-lifecycle-strategy.md)]

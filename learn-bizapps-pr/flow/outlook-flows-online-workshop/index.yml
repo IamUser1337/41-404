@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.outlook-flows-online-workshop
+metadata:
+ title: Use Outlook email to trigger desktop flows and pass inputs - Online workshop
+ description: Learn how to use Outlook email to trigger desktop flows and pass inputs.
+ ms.date: 02/07/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+title: Use Outlook email to trigger desktop flows and pass inputs - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module covers how to build a new cloud flow that automatically triggers whenever an email arrives to your inbox through an Outlook connector in the cloud flow.
+abstract: |
+    In this module, you'll:
+    - Create a new solution to package the end-to-end invoice processing solution.
+    - Create a new cloud flow that initiates the invoicing process through the receipt of an email.
+    - Integrate the desktop flow from Lab 2 into the cloud flow.
+    - Perform a test run of the new cloud flow.
+prerequisites: |
+   Make sure that you've completed exercises from the previous modules in this learning path.
+
+   This module is designed for use with the Power Automate: Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+iconUrl: /learn/achievements/outlook-flows-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.outlook-flows-online-workshop.introduction
+- learn-bizapps.outlook-flows-online-workshop.import-solution
+- learn-bizapps.outlook-flows-online-workshop.exercise-outlook-trigger-flow
+- learn-bizapps.outlook-flows-online-workshop.check
+- learn-bizapps.outlook-flows-online-workshop.summary
+badge:
+  uid: learn-bizapps.outlook-flows-online-workshop.badge

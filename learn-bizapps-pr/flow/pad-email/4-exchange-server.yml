@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-email.4-exchange-server 
+title: Automate Exchange servers
+metadata: 
+  title: Automate Exchange servers
+  description: Automate Exchange servers
+  ms.date: 10/29/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exchange-server.md)] 

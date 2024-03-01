@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-transition.4-exercise
+title: Exercise - Import to Power BI Desktop
+metadata: 
+  title: Exercise - Import to Power BI Desktop
+  description: Steps to import to Power BI Desktop.
+  ms.date: 06/30/2023 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 20 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise.md)] 

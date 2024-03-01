@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-configure-security.exercise
+title: Exercise - Apply table permissions
+metadata:
+  title: Exercise - Apply table permissions
+  description: Practice applying table permissions.
+  ms.date: 06/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

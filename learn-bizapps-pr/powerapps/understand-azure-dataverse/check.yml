@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.understand-azure-dataverse.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/15/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You're responsible for the Dataverse environments for your organization, which is an online retailer. You set up an Azure Synapse Link for the data analysts. One analyst observes that the product category table isn't part of the available tables in a Power BI report that’s connected to Azure Synapse. How should you solve this issue?
+    choices: 
+    - content: Ask the analyst to refresh the data sources in Power BI.
+      isCorrect: false 
+      explanation: Incorrect. The data source remains the same, even if a refresh is requested in Power BI. Only the data will be updated, not the list of available tables.
+    - content: Modify the Azure Synapse table list in the Azure portal to add the product category table.
+      isCorrect: false 
+      explanation: Incorrect. The list of tables in Azure Synapse is generated automatically.
+    - content: Modify the Azure Synapse Link for Dataverse definition in the Power Apps portal to include the product category table.
+      isCorrect: true 
+      explanation: Correct. The list of tables that will be synchronized is defined in the link definition.
+  - content: After you present a Power BI report that’s connected to a Dataverse data source, you share it with the members of the team who are attending the presentation. A colleague observes that the accessible version is drastically different than what you presented. What could be the reason for this difference?
+    choices: 
+    - content: The Dataverse connection setting is set as **DirectQuery**, and the security enforcement is restricting the records that your colleague has access to compared to what you can access.
+      isCorrect: true 
+      explanation: Correct. The **DirectQuery** connection setting carries the security enforcement that’s applicable to the users in Dataverse.
+    - content: The Dataverse connection setting is set as **Import**, and the security enforcement is restricting the records that your colleague has access to compared to what you can access.
+      isCorrect: false 
+      explanation: Incorrect. The **Import** connection setting won't enforce the same security restrictions that are set up in Dataverse.
+    - content: The Dataverse connection setting is set as **DirectQuery**, and the refresh configuration hasn't been set to real-time for your colleague.
+      isCorrect: false 
+      explanation: Incorrect. The **DirectQuery** connection setting provides data in real-time. No refresh configuration is required.
+  - content: You create a Power BI report that must be as current as possible based on a set of Dataverse tables that contain numerous records. Which type of data source should you use for this scenario?
+    choices: 
+    - content: A Dataverse connection that’s set as **DirectQuery**
+      isCorrect: false 
+      explanation: Incorrect. The **DirectQuery** connection setting provides real-time data but isn't intended for high-volume scenarios.
+    - content: A Dataverse connection that’s set as **Import**
+      isCorrect: false 
+      explanation: Incorrect. The **Import** connection setting can handle high-volume scenarios but has a limited refresh configuration, so data wouldn't be as current as expected.
+    - content: Azure Synapse that’s linked to Dataverse
+      isCorrect: true 
+      explanation: Correct. After you create an Azure Synapse Link to Dataverse, it can handle high-volume data scenarios with near real-time information.

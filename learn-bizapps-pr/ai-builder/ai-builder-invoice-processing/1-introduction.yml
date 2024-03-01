@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-invoice-processing.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to invoice processing in AI Builder for Microsoft Power Platform.
+  ms.date: 12/09/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

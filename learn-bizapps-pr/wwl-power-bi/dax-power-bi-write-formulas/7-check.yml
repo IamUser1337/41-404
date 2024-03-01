@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-write-formulas.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/15/2022 
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You're using Power BI Desktop to develop a model. It has a table named Sales, which includes a column named CustomerKey. In reports, you need a calculation to show the number of different customers who have placed orders. What type of DAX calculation will you add to the model?
+    choices: 
+    - content: Calculated table
+      isCorrect: false
+      explanation: A calculated table will add a new table to the model. Also, a calculated table can't be added to the Sales table.
+    - content: Calculated column
+      isCorrect: false 
+      explanation: A calculated column would be added to the Sales table, and this action wouldn't meet the objective of counting different customers.
+    - content: Computed column
+      isCorrect: false 
+      explanation: A computed column is added by using Power Query and has the effect of adding a new column to the Sales table; it isn't, however, a DAX calculation. This action wouldn't meet the objective of counting different customers.
+    - content: Measure
+      isCorrect: true 
+      explanation: You can add a measure to the Sales table by using the DISTINCTCOUNT DAX function.
+  - content: You're using Power BI Desktop to develop a model. It has a table named Customer, which includes a column named DateOfBirth. In reports, you need to group customers by current age. What type of DAX calculation will you add to the Customer table?
+    choices: 
+    - content: Calculated table
+      isCorrect: false
+      explanation: A calculated table will add a new table to the model. Also, a calculated table can't be added to the Customer table.
+    - content: Calculated column
+      isCorrect: true 
+      explanation: A calculated column can store the current age for each customer. This column could then be used in reports to group customers by age.
+    - content: Computed column
+      isCorrect: false 
+      explanation: A computed column is added by using Power Query, but it isn't a DAX calculation.
+    - content: Measure
+      isCorrect: false 
+      explanation: A measure cannot be used to group customers by age.
+  - content: You're using Power BI Desktop to develop a model. It has a table named Geography, which has two relationships to the Sales table. One relationship filters by customer region and the other filters by sales region. You need to create a role-playing dimension so that both filters are possible. What type of DAX calculation will you add to the model?
+    choices: 
+    - content: Calculated table
+      isCorrect: true 
+      explanation: A calculated table could create a table that duplicates the Geography table data. It could then have an active relationship to the Sales table. Both geography tables would have active relationships to allow report users to filter by customer region or sales region.
+    - content: Calculated column
+      isCorrect: false 
+      explanation: A calculated column would not allow multiple active relationships between the Geography and Sales tables.
+    - content: Computed column
+      isCorrect: false 
+      explanation: A computed column would not allow multiple active relationships between the Geography and Sales tables. Also, it's not a DAX calculation.
+    - content: Measure
+      isCorrect: false 
+      explanation: A measure would not allow multiple active relationships between the Geography and Sales tables.
+  - content: You write a DAX formula that adds BLANK to the number 20. What will be the result?
+    choices: 
+    - content: The result will be zero (0).
+      isCorrect: false
+      explanation: BLANK is converted to zero when added to a number.
+    - content: The result will be 20.
+      isCorrect: true 
+      explanation: BLANK is converted to zero when added to a number.
+    - content: The result will be BLANK.
+      isCorrect: false 
+      explanation: BLANK is converted to zero when added to a number.
+    - content: The result will be NULL.
+      isCorrect: false 
+      explanation: No concept of NULL exists in DAX.

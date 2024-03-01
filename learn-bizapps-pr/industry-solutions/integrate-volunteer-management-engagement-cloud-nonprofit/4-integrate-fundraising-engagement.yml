@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.4-integrate-fundraising-engagement 
+title: Integrate Volunteer Management with Fundraising and Engagement 
+metadata: 
+  title: Integrate Volunteer Management with Fundraising and Engagement 
+  description: Learn how to integrate Volunteer Management with Fundraising and Engagement.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-integrate-fundraising-engagement.md)] 

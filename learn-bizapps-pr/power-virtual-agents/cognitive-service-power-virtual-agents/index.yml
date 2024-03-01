@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.cognitive-service-power-virtual-agents
+metadata:
+ title: Use Azure AI Services for Language in a Microsoft Copilot Studio
+ description: This module describes the setup that’s required to use Azure AI Services for Language to enhance the capabilities of a Microsoft Copilot Studio.
+ ms.date: 1/12/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: copilot-studio
+title: Use Azure AI Services for Language in a Microsoft Copilot Studio 
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module describes the setup that’s required to use Azure AI Services for Language to enhance the capabilities of a Microsoft Copilot Studio. Additionally, you’ll learn about Azure AI Services for Language and how to incorporate it into a copilot.
+abstract: |
+    In this module, you'll:
+    - Explore why using more services is important for your copilot functionality.
+    - Learn about Azure AI Services for Language and its capabilities.
+    - Review how to create a copilot and prepare it for use with Azure AI Services for Language.
+    - Learn how to call your Azure AI Services for Language service from within a copilot with a Power Automate flow.
+prerequisites: None
+iconUrl: /learn/achievements/cognitive-service-power-virtual-agents.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn-bizapps.cognitive-service-power-virtual-agents.introduction
+- learn-bizapps.cognitive-service-power-virtual-agents.azure-cognitive-service
+- learn-bizapps.cognitive-service-power-virtual-agents.define-your-bot
+- learn-bizapps.cognitive-service-power-virtual-agents.call-your-service
+- learn-bizapps.cognitive-service-power-virtual-agents.deploy-your-bot
+- learn-bizapps.cognitive-service-power-virtual-agents.check
+- learn-bizapps.cognitive-service-power-virtual-agents.summary
+badge:
+  uid: learn-bizapps.cognitive-service-power-virtual-agents.badge

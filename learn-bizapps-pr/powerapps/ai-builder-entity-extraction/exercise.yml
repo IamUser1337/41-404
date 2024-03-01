@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-entity-extraction.exercise 
+title: Exercise – Use the prebuilt entity extraction model in Power Automate
+metadata: 
+  title: Exercise – Use the prebuilt entity extraction model in Power Automate
+  description: Practice using the prebuilt entity extraction model in Power Automate.
+  ms.date: 06/20/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

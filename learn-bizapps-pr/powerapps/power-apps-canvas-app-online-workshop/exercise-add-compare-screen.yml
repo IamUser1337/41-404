@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-canvas-app-online-workshop.exercise-add-compare-screen 
+title: Exercise - Add the compare screen 
+metadata: 
+  title: Exercise - Add the compare screen 
+  description: Follow the steps to add the compare screen.
+  ms.date: 01/09/2024   
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 20 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-add-compare-screen.md)] 

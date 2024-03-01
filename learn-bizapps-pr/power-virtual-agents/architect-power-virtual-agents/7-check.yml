@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.architect-power-virtual-agents.7-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You are building a Microsoft Copilot Studio chatbot. You need to add an existing bot that was developed in Node.js with the Azure Bot Framework to your chatbot. What should you do?
+    choices: 
+    - content: Use Azure Bot Composer
+      isCorrect: false
+      explanation: Azure Bot Composer can only be used to add content to a Microsoft Copilot Studio chatbot. It can't be used to add an Azure Bot Framework bot.
+    - content: Use the Dispatcher tool 
+      isCorrect: false
+      explanation: The Dispatcher tool will add your Microsoft Copilot Studio chatbot and allow it to be called from an Azure Bot Framework bot. 
+    - content: Add a skill
+      isCorrect: true
+      explanation: You will define the Azure Bot Framework bot as a skill. You can then call the Azure Bot Framework bot from your Microsoft Copilot Studio chatbot.
+    - content: Use Power Automate
+      isCorrect: false
+      explanation: Power Automate is used to perform actions for the Microsoft Copilot Studio chatbot. It can't add an Azure Bot Framework bot.
+  - content: You need to answer questions in a Microsoft Copilot Studio chatbot from a QnA Maker knowledge base. What should you use?
+    choices: 
+    - content: Azure Bot Composer
+      isCorrect: false
+      explanation: Azure Bot Composer can integrate with QnA Maker knowledge bases, but QnA Maker is not available in Azure Bot Composer for Microsoft Copilot Studio.
+    - content: Power Automate
+      isCorrect: true
+      explanation: Power Automate has a QnA Maker connector. Calling a Power Automate cloud flow with a Microsoft Copilot Studio action allows the user prompt to be answered with a QnA Maker knowledge base response.
+    - content: Custom entities
+      isCorrect: false
+      explanation: Microsoft Copilot Studio entities are used to extract information from a user's prompt. Entities are not used to access the QnA Maker knowledge base.
+    - content: Channels
+      isCorrect: false
+      explanation: Microsoft Copilot Studio channels are used to deploy the chatbot to different services. Channels are not used to access the QnA Maker knowledge base.
+  - content: You need to create a chatbot that supports LUIS and QnA Maker. What should you use?
+    choices: 
+    - content: Microsoft Copilot Studio web app
+      isCorrect: false
+      explanation: Adaptive cards are used to create rich interactive messages with Azure Bot Service bots. They are not related to LUIS or QnA Maker.
+    - content: Microsoft Copilot Studio in Microsoft Teams
+      isCorrect: false
+      explanation: Adaptive cards are used to create rich interactive messages with Azure Bot Service bots. They are not related to LUIS or QnA Maker.
+    - content: Adaptive cards
+      isCorrect: false
+      explanation: Adaptive cards are used to create rich interactive messages with Azure Bot Service bots. They are not related to LUIS or QnA Maker.
+    - content: Azure Bot Composer
+      isCorrect: true
+      explanation: Azure Bot Composer supports LUIS and QnA Maker natively.

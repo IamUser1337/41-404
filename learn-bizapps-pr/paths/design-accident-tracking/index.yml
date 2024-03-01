@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.accident-tracking-app
+metadata:
+  title: Design an accident tracking app in Power Apps
+  description: Learn how to build an employee accident tracking app from start to finish. In this learning path, you'll explore activities such as transforming a business process into a model-driven app, creating a data table, and adding a business process flow to the app.
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: learning-path
+title: Design an accident tracking app in Power Apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Learn how to build an employee accident tracking app from start to finish. In this learning path, you'll explore activities such as transforming a business process into a model-driven app, creating a data table, and adding a business process flow to the app.
+prerequisites: A basic understanding of Microsoft Power Apps and Microsoft Dataverse.
+iconUrl: /training/achievements/design-accident-tracking-app.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-apps
+- power-platform
+- dataverse
+- office-excel
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.model-driven-app-solution
+- learn-bizapps.build-dataverse-table-structure
+- learn-bizapps.customize-view-forms
+- learn-bizapps.create-model-driven
+trophy:
+  uid: learn-bizapps.design-accident-tracking-app-social.trophy

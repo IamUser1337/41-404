@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.choice-columns-formulas.3-set-values
+title: Modify choice and choices values
+metadata:
+  title: Modify choice and choices values
+  description: Learn how to create, update, and clear values for choices.
+  ms.date: 11/07/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-set-values.md)]

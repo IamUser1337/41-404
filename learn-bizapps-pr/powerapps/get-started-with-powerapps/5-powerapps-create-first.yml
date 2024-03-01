@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.5-powerapps-create-first
+title: Exercise - Create your first app in Power Apps
+metadata:
+  title: Exercise - Create your first app in Power Apps
+  description: Learn how to build your first app in Power Apps.
+  ms.date: 01/03/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/5-powerapps-create-first.md)]

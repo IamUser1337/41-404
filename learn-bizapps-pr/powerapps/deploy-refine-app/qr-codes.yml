@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.deploy-refine-app.qr-codes
+title: Use QR codes
+metadata:
+  title: Use QR codes
+  description: Learn about the barcode scanner control.
+  ms.date: 06/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/qr-codes.md)]

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-common-data-service.administer
+title: Describe Power Platform administration
+metadata:
+  title: Describe Power Platform administration
+  description: "Describe Power Platform administration options"
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 13
+content: |
+  [!include[](includes/2-describe-power-platform-administration.md)]

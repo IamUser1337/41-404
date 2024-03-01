@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.command-bar-advanced.exercise 
+title: Exercise - Use custom pages with commands
+metadata: 
+  title: Exercise - Use custom pages with commands
+  description: Steps to use custom pages with commands.
+  ms.date: 12/19/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

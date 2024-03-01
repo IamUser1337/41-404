@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.robotic-process-automation.6-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You need to automate with a system that doesn't have an available connector. The system has an API that you can poll every five minutes. What should you use?
+    choices: 
+    - content: Process advisor
+      isCorrect: false
+      explanation: Process advisor allows you to record and analyze business processes. It does not connect to systems.
+    - content: Power Automate for desktop
+      isCorrect: false
+      explanation: Because the system has an API, you could use Power Automate for desktop, but you should create a custom connector.
+    - content: Custom connector
+      isCorrect: true
+      explanation: Because the system has an API, you can create a custom connector. You can use a scheduled flow to poll the API or specify polling within the custom connector definition.
+    - content: Power Automate Instant cloud flow
+      isCorrect: false
+      explanation: An instant trigger is used for manually initiating a flow. It will not connect to an API.
+  - content: You identify a high-volume process for automating a legacy web application. What must you install to run this automation?
+    choices: 
+    - content: Process advisor
+      isCorrect: false
+      explanation: Process advisor allows you to record and analyze business processes. It is not required to run desktop flows.
+    - content: On-premises data gateway
+      isCorrect: true
+      explanation: High-volume legacy automations should be run in unattended mode. Unattended mode requires that the On-premises data gateway feature is installed.
+    - content: Postman
+      isCorrect: false
+      explanation: Postman is a tool that you can use to build custom connectors. Postman is not required for desktop flows.
+    - content: Microsoft Power Apps Build Tools
+      isCorrect: false
+      explanation: You can use Power Apps Build Tools with Microsoft Azure DevOps for application lifecycle management (ALM), not to run desktop flows.
+  - content: You have created multiple desktop flows. You need to dedicate virtual machines to specific high-priority desktop flows. What should you use?
+    choices: 
+    - content: Custom connector
+      isCorrect: false
+      explanation: Custom connectors are not used to link desktop flows to particular computers. 
+    - content: Process maps
+      isCorrect: false
+      explanation: Process maps are created by the Process advisor tool, and they are used to analyze activities. Process maps are not used to run desktop flows.
+    - content: Desktop recorder
+      isCorrect: false
+      explanation: Desktop recorder is used to capture user actions. It is not used to run desktop flows.
+    - content: Clusters
+      isCorrect: true
+      explanation: Clusters are used to group gateways together. Each cluster can be associated with specific desktop flows.

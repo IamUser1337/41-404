@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-text-recognition.3-build-flow 
+title: Build a Power Automate flow with AI Builder Text recognition
+metadata: 
+  title: Build a Power Automate flow with AI Builder Text recognition
+  description: Learn how to build a Power Automate flow with AI Builder Text recognition.
+  ms.date: 04/10/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-build-flow.md)] 

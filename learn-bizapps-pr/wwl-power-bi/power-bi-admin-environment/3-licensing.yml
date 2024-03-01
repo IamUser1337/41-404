@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-environment.3-licensing 
+title: Power BI licensing
+metadata: 
+  title: Power BI licensing
+  description: Learn about purchasing services and per-user licensing from an administrator perspective.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-licensing.md)] 

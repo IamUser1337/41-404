@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-fundraising-engagement 
+metadata: 
+ title: Get started with Fundraising and Engagement in Microsoft Cloud for Nonprofit
+ description: This module introduces Fundraising and Engagement in Microsoft Cloud for Nonprofit and outlines the capabilities that allow nonprofit organizations to use this application to enhance donor engagement and manage fundraising. 
+ ms.date: 11/01/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok 
+ ms.topic: module
+ ms.service: microsoft-cloud-nonprofit
+ ms.collection: get-started
+title: Get started with Fundraising and Engagement in Microsoft Cloud for Nonprofit
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Fundraising and Engagement enables nonprofit organizations to maintain holistic relationships with donors, and to manage individual giving, regular giving, and major moves with end-to-end automated processes.   
+abstract: |  
+    In this module, you will: 
+    - Learn the core capabilities of Fundraising and Engagement used to support donor management and fundraising.
+    - Understand how key fundraising terminology is used in Fundraising and Engagement.
+    - Get started with Fundraising and Engagement.
+prerequisites: None
+iconUrl: /training/achievements/get-started-fundraising-engagement.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.get-started-fundraising-engagement.1-introduction 
+- learn-bizapps.get-started-fundraising-engagement.2-terminology 
+- learn-bizapps.get-started-fundraising-engagement.3-fundraising-engagement 
+- learn-bizapps.get-started-fundraising-engagement.4-cloud-nonprofit 
+- learn-bizapps.get-started-fundraising-engagement.5-check 
+- learn-bizapps.get-started-fundraising-engagement.6-summary 
+badge: 
+  uid: learn-bizapps.get-started-fundraising-engagement.badge

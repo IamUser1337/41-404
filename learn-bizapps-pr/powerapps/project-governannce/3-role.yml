@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.project-governance.3-role
+title: Solution architect’s role in project governance
+metadata:
+  title: Solution architect’s role in project governance
+  description: Learn about the role that the solution architect has in project governance.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-role.md)]

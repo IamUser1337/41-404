@@ -1,0 +1,51 @@
+### YamlMime:Module 
+uid: learn-bizapps.perform-analytics-power-bi 
+metadata: 
+ title: Perform advanced analytics in Power BI 
+ description: You'll learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You'll also learn how to perform time series analysis. Finally, you'll work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.
+ ms.date: 07/13/2022
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Perform analytics in Power BI
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  You'll learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You'll also learn how to perform time series analysis. Finally, you'll work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.
+abstract: |  
+    In this module, you'll: 
+    - Explore statistical summary.
+    - Identify outliers with Power BI visuals. 
+    - Group and bin data for analysis.
+    - Apply clustering techniques.
+    - Conduct time series analysis.
+    - Use the Analyze feature.
+    - Use advanced analytics custom visuals.
+    - Review Quick insights.
+    - Apply AI Insights.
+prerequisites: None 
+iconUrl: /training/achievements/perform-analytics-power-bi.svg  
+levels:  
+- intermediate   
+roles:  
+- data-analyst  
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.perform-analytics-power-bi.1-introduction 
+- learn-bizapps.perform-analytics-power-bi.2-statistical-summary 
+- learn-bizapps.perform-analytics-power-bi.3-visuals 
+- learn-bizapps.perform-analytics-power-bi.4-group-data 
+- learn-bizapps.perform-analytics-power-bi.5-clustering-techniques 
+- learn-bizapps.perform-analytics-power-bi.6-time-series-analysis 
+- learn-bizapps.perform-analytics-power-bi.7-analyze-feature 
+- learn-bizapps.perform-analytics-power-bi.what-if-parameters
+- learn-bizapps.perform-analytics-power-bi.use-specialized-visuals
+- learn-bizapps.perform-analytics-power-bi.lab 
+- learn-bizapps.perform-analytics-power-bi.11-check 
+- learn-bizapps.perform-analytics-power-bi.12-summary 
+badge: 
+  uid: learn-bizapps.perform-analytics-power-bi.badge

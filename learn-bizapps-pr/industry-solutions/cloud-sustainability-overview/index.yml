@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-bizapps.cloud-sustainability-overview
+metadata:
+ title: Microsoft Cloud for Sustainability overview
+ description: Learn about Microsoft Cloud for Sustainability, which helps organizations build more enduring IT infrastructures by identifying opportunities to replace tools, systems, and activities with more efficient options.
+ ms.date: 09/20/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.collection: get-started
+ ms.service: microsoft-cloud-sustainability
+title: Microsoft Cloud for Sustainability overview
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Cloud for Sustainability helps organizations minimize the environmental footprint of their operational systems and processes. Furthermore, organizations can drive more sustainable value chains with greater transparency and accountability, from sourcing of materials through product distribution. With Microsoft Cloud for Sustainability, organizations can build more enduring IT infrastructures by identifying opportunities to replace tools, systems, and activities with more efficient options.
+abstract: |
+    In this module, you'll:
+    - Discover key sustainability concepts.
+    - Learn about Microsoft's sustainability journey.
+    - Explore the core capabilities of Microsoft Cloud for Sustainability.
+prerequisites: |
+  None
+iconUrl: /training/achievements/cloud-sustainability-overview.svg
+levels:
+- beginner
+roles:
+- functional-consultant
+- business-user
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- business-applications
+units:
+- learn-bizapps.cloud-sustainability-overview.introduction
+- learn-bizapps.cloud-sustainability-overview.key-concepts-sustainability
+- learn-bizapps.cloud-sustainability-overview.microsoft-sustainability-journey
+- learn-bizapps.cloud-sustainability-overview.about-microsoft-cloud
+- learn-bizapps.cloud-sustainability-overview.sustainability-manager
+- learn-bizapps.cloud-sustainability-overview.emissions-impact-dashboard
+- learn-bizapps.cloud-sustainability-overview.project-lake
+- learn-bizapps.cloud-sustainability-overview.corporate-sustainability
+- learn-bizapps.cloud-sustainability-overview.well-architected
+- learn-bizapps.cloud-sustainability-overview.solution-center
+- learn-bizapps.cloud-sustainability-overview.check
+- learn-bizapps.cloud-sustainability-overview.summary
+badge:
+  uid: learn-bizapps.cloud-sustainability-overview.badge

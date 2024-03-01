@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-power-pages
+metadata:
+  title: Work with Power Pages websites
+  description: Learn how to work with Power Pages websites.
+  ms.date: 06/09/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Work with Power Pages websites
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Power Pages websites are designed for interaction with the internal and external audiences. There are additional requirements for content management and design, as well as the need to secure the content. This learning path describes how Power Pages components work within context of Dataverse to deliver the content and data to external and internal audiences. We'll cover the topics of user authentication and how to secure access to different parts of the website content based on the target audience and relationship to the content. 
+prerequisites: |
+  - Power Pages trial website.
+  - Basic understanding of how to navigate a model-driven app. 
+iconUrl: /learn/achievements/work-power-pages.svg
+levels:
+- advanced
+roles: 
+- maker
+- developer
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.power-pages-studio
+- learn-bizapps.power-pages-studio-data-security
+- learn-bizapps.power-pages-metadata
+- learn-bizapps.power-pages-integrate-dataverse
+- learn-bizapps.power-pages-liquid
+- learn-bizapps.power-pages-configure-security 
+- learn-bizapps.power-pages-build-user-experience
+trophy: 
+  uid: learn-bizapps.work-power-pages.trophy

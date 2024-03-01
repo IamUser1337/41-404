@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-lab-manual-online-workshop.exercise-tables-columns
+title: Exercise - Create custom tables and columns
+metadata:
+  title: Exercise - Create custom tables and columns
+  description: Follow the steps to create custom tables and columns.
+  ms.date: 02/16/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-tables-columns.md)]

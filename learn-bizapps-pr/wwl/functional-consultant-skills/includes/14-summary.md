@@ -1,0 +1,1 @@
+In this module, you learned about the broad range of skills that a functional consultant must have. The functional consultant contributes in many tangible and intangible ways to a successful project. In this module we discovered some of the less tangible aspects of a successful functional consultant.

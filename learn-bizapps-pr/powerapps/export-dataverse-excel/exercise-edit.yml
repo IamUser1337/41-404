@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.export-dataverse-excel.exercise-edit
+title: Exercise - Edit account information in Excel and visualize updates in Dataverse
+metadata:
+  title: Exercise - Edit account information in Excel and visualize updates in Dataverse
+  description: Follow the steps to edit account information in Excel and visualize updates in Dataverse.
+  ms.date: 11/21/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-edit.md)]

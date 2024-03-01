@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-developer-resources.exercise 
+title: Exercise - Prepare development environment
+metadata: 
+  title: Exercise - Prepare development environment
+  description: Create a developer environment and review settings. 
+  ms.date: 09/27/2023 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/exercise.md)] 
+

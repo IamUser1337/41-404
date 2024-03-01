@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.process-advisor-introduction.exercise-process
+title: Exercise - Create a Process Mining report in Power Automate
+metadata:
+  title: Exercise - Create a Process Mining report in Power Automate
+  description: Follow the steps to create your first process report.
+  ms.date: 12/05/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-process.md)]

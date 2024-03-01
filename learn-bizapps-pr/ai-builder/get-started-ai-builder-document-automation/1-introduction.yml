@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-document-automation.1-introduction 
+title: Introduction to AI Builder document automation
+metadata: 
+  title: Introduction to AI Builder document automation
+  description: Learn what document automation is, what it includes, and how to use it.
+  ms.date: 01/31/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

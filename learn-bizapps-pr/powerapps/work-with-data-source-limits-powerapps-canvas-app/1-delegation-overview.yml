@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-source-limits.1-delegation-overview
+title: Delegation overview
+metadata:
+  title: Delegation overview
+  description: Delegation overview
+  ms.date: 12/01/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-delegation-overview.md)]
+

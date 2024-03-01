@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-volunteers-groups.3-use-groups 
+title: Use groups to manage volunteers
+metadata: 
+  title: Use groups to manage volunteers
+  description: Learn to group volunteers and manage their activities.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-use-groups.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-teams-connector.5-communication-outlook 
+title: Build communication with Outlook
+metadata: 
+  title: Build communication with Outlook
+  description: Learn how to add a Reply to email action to alert the sender of an approval.
+  ms.date: 12/26/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-communication-outlook.md)] 

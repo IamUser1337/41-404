@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-reports.2-report-objects 
+title: Report objects
+metadata: 
+  title: Report objects
+  description: Learn about the report objects, visuals, and elements, that you can use in reports.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 7
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/4-report-objects.md)] 

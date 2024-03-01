@@ -1,0 +1,1 @@
+In this module, you learned how to create a test tenant and developer environment. You also learned how to set up an enhanced data model as an optional step. Additionally, you learned how to create a website with Power Pages and how to design with the Power Pages design studio.

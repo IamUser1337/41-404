@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-canvas-app-real-estate-power-apps-copilot.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/22/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the main function of Copilot in Power Apps?
+    choices: 
+    - content: To generate a Dataverse table based on a prompt
+      isCorrect: false
+      explanation: Incorrect. The main function of Copilot in Power Apps is to help users build apps by describing their needs through natural language and conversation.
+    - content: To help users build apps by describing their needs through natural language and conversation
+      isCorrect: true 
+      explanation: Correct. The main function of Copilot in Power Apps is to help users build apps by describing their needs through natural language and conversation.
+    - content: To automate daily tasks in Power Apps
+      isCorrect: false 
+      explanation: Incorrect. The main function of Copilot in Power Apps is to help users build apps by describing their needs through natural language and conversation.
+    - content: To provide analytics for Power Apps usage
+      isCorrect: false 
+      explanation: Incorrect. The main function of Copilot in Power Apps is to help users build apps by describing their needs through natural language and conversation.
+  - content: What type of data source does Copilot in Power Apps currently support?
+    choices: 
+    - content: Excel
+      isCorrect: false 
+      explanation: Incorrect. Copilot in Power Apps currently supports Dataverse.
+    - content: SharePoint
+      isCorrect: false 
+      explanation: Incorrect. Copilot in Power Apps currently supports Dataverse.
+    - content: Dataverse
+      isCorrect: true 
+      explanation: Correct. Copilot in Power Apps currently supports Dataverse.
+    - content: SQL Server
+      isCorrect: false 
+      explanation: Incorrect. Copilot in Power Apps currently supports Dataverse.
+  - content: Which one of these follow-up prompts are unlikely to return results?
+    choices: 
+    - content: "add a power automate flow"
+      isCorrect: true 
+      explanation: Correct. The prompt "add a power automate flow" is unlikely to return results.
+    - content: "remove the status column"
+      isCorrect: false 
+      explanation: Incorrect. The prompt "add a power automate flow" is unlikely to return results.
+    - content: "refresh the data"
+      isCorrect: false 
+      explanation: Incorrect. The prompt "add a power automate flow" is unlikely to return results.
+    - content: "add 5 more rows of data"
+      isCorrect: false 
+      explanation: Incorrect. The prompt "add a power automate flow" is unlikely to return results.

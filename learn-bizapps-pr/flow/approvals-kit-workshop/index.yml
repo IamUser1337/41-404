@@ -1,0 +1,49 @@
+### YamlMime:Module 
+uid: learn-bizapps.approvals-kit-workshop
+metadata: 
+ title: Approvals Kit in Power Automate workshop overview
+ description: The Approvals Kit in Power Automate is a starter solution that provides a no-code method to help you model your business approval process and start approvals by using a Microsoft Power Platform connector. Using this method helps make automating your approval processes easier.
+ ms.date: 11/02/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.contributors:
+  - Grant-Archibald-MS 
+ ms.topic: module-standard-task-based 
+ ms.service: power-automate
+title: Approvals Kit in Power Automate workshop overview
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  When you’re handling business processes that require multiple levels of approval and conditional logic based on input data, the Power Automate Approvals connector can be a valuable tool in your Microsoft Power Platform solution. However, building these complex approval processes can be time-consuming and challenging. The Approvals Kit in Power Automate is a starter solution that provides a no-code method to help you model your business approval process and start approvals by using a Microsoft Power Platform connector. This method helps make automating your approval processes easier.
+abstract: | 
+    This module explains the following concepts: 
+    - The Approvals Kit and its benefits
+    - How to define a business approval process with a single stage and node
+    - How to trigger a business approval process from a Power Automate cloud flow
+    - How to extend the approvals process with conditional logic
+    - How to define multiple stages for the approval process
+    - How to handle cases when approvers are out of office
+    - Known issues and limitations of the Approvals Kit
+prerequisites: None
+iconUrl: /learn/achievements/approvals-kit-workshop.svg 
+levels: 
+- intermediate 
+roles: 
+- maker 
+- functional-consultant 
+products: 
+- power-platform
+- power-automate
+subjects: 
+- process-workflow 
+units: 
+- learn-bizapps.approvals-kit-workshop.introduction 
+- learn-bizapps.approvals-kit-workshop.import-contoso-coffee
+- learn-bizapps.approvals-kit-workshop.contoso-coffee-scenario 
+- learn-bizapps.approvals-kit-workshop.first-approval 
+- learn-bizapps.approvals-kit-workshop.trigger-approval 
+- learn-bizapps.approvals-kit-workshop.add-conditional-stages 
+- learn-bizapps.approvals-kit-workshop.approval-delegation-out-of-office 
+- learn-bizapps.approvals-kit-workshop.check 
+- learn-bizapps.approvals-kit-workshop.summary 
+badge: 
+  uid: learn-bizapps.approvals-kit-workshop.badge 

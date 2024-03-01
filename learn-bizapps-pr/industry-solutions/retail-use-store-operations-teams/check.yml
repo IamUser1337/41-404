@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-teams.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/04/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: interactive-tutorial
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following licenses does Riley Flores need to access the Store Operations Assist Teams?
+    choices:
+    - content: Microsoft Office E5
+      isCorrect: false
+      explanation: Incorrect. Riley Flores doesn't need a Microsoft Office E5 license to access the Store Operations Assist Teams.
+    - content: Microsoft Dynamics 365 Sales Trial
+      isCorrect: false
+      explanation: Incorrect. Riley Flores doesn't need a Microsoft Dynamics 365 Sales Trial license to access the Store Operations Assist Teams.
+    - content: Microsoft Dynamics 365 Customer Insights
+      isCorrect: false
+      explanation: Incorrect. Riley Flores doesn't need a Microsoft Dynamics 365 Customer Insights license to access the Store Operations Assist Teams.
+    - content: Microsoft 365 for frontline workers
+      isCorrect: true
+      explanation: Correct. Riley Flores needs a Microsoft 365 for frontline workers license to access the Store Operations Assist Teams.
+  - content: Which of the following actions can't you complete in the Store Operations Assist Teams?
+    choices:
+    - content: Create a to-do list for yourself
+      isCorrect: false
+      explanation: Incorrect. You can create a to-do list for yourself in the Store Operations Assist Teams.
+    - content: Set up a weekly calendar
+      isCorrect: true
+      explanation: Correct. You can't set up a weekly calendar in the Store Operations Assist Teams.
+    - content: View and complete the task list assigned to you
+      isCorrect: false
+      explanation: Incorrect. You can view and complete the task list assigned to you in the Store Operations Assist Teams.
+    - content: Create new tasks and assign them to other team members
+      isCorrect: false
+      explanation: Incorrect. You can create new tasks and assign them to other team members in the Store Operations Assist Teams.
+  - content: Which of the following data permissions should you assign to frontline workers in a retail setup?
+    choices:
+    - content: Retail data manager
+      isCorrect: false
+      explanation: Incorrect. You shouldn't assign frontline workers to the Retail data manager permissions in a retail setup.
+    - content: Retail store manager
+      isCorrect: false
+      explanation: Incorrect. You shouldn't assign frontline workers to the Retail store manager permissions in a retail setup.
+    - content: Relationships insight admin
+      isCorrect: false
+      explanation: Incorrect. You shouldn't assign frontline workers to the Relationships insight admin permissions in a retail setup.
+    - content: Retail store associate
+      isCorrect: true
+      explanation: Correct. You should assign frontline workers to the Retail store associate permissions in a retail setup.

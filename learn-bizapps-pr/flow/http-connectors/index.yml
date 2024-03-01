@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.http-connectors 
+metadata: 
+ title: Overview of HTTP connectors in Power Automate
+ description: Learn about HTTP connectors that are available in Microsoft Power Automate.
+ ms.date: 04/21/2021  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: Overview of HTTP connectors in Power Automate 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  HTTP connectors use Representational State Transfer (REST) architecture, which allows users to interact directly with data by using web requests. Additionally, it allows flow makers to use the full potential of the web service offerings in a secure manner while still using Power Automate flows. This module will focus on the built-in and premium HTTP connectors. 
+abstract: |  
+    In this module, you will:
+    - Discover the built-in and premium HTTP connectors.
+    - Learn about the HTTP Webhook connector.
+    - Review the HTTP with Azure AD connector.
+    - Learn about the When an HTTP request is received built-in connector.
+prerequisites: Basic understanding of how to create flows with SharePoint as the trigger      
+iconUrl: /training/achievements/http-connectors.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- business-user
+products:  
+- power-platform 
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.http-connectors.1-introduction 
+- learn-bizapps.http-connectors.2-webhook 
+- learn-bizapps.http-connectors.3-azure 
+- learn-bizapps.http-connectors.4-http-request 
+- learn-bizapps.http-connectors.5-check 
+- learn-bizapps.http-connectors.6-summary 
+badge: 
+  uid: learn-bizapps.http-connectors.badge

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-use-retail-insights-dashboard
+metadata:
+ title: Use the Retail Insights dashboard in Store Operations Assist
+ description: Learn how to deploy and set up the Retail Insights dashboard in Store Operations Assist in Microsoft Cloud for Retail.
+ ms.date: 02/08/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Use the Retail Insights dashboard in Store Operations Assist
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to deploy and set up the Retail Insights dashboard in Store Operations Assist.
+abstract: |
+    In this module, you:
+    - Deploy the Retail Insights dashboard.
+    - Set up the Retail Insights dashboard.
+    - View insights on the Retail Insights dashboard.
+prerequisites: |
+  - Power Apps licenses with Microsoft Power Platform administrator credentials
+  - Microsoft Teams
+  - Power BI Pro or Premium
+iconUrl: /learn/achievements/retail-use-retail-insights-dashboard.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-use-retail-insights-dashboard.introduction
+- learn-bizapps.retail-use-retail-insights-dashboard.deploy-dashboard
+- learn-bizapps.retail-use-retail-insights-dashboard.set-up-dashboard
+- learn-bizapps.retail-use-retail-insights-dashboard.view-retail-insights
+- learn-bizapps.retail-use-retail-insights-dashboard.check
+- learn-bizapps.retail-use-retail-insights-dashboard.summary
+badge:
+  uid: learn-bizapps.retail-use-retail-insights-dashboard.badge

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.developer-tools-extend.exercise 
+title: Exercise - Use the Power Apps CLI
+metadata: 
+  title: Exercise - Use the Power Apps CLI 
+  description: Practice using the Power Apps CLI.
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 15
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/exercise.md)] 
+

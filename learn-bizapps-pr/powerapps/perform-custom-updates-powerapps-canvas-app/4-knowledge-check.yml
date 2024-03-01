@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-custom-updates.4-knowledge-check 
+metadata: 
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 06/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+   
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: Use the Patch function to?
+    choices: 
+    - content: To edit records only
+      isCorrect: false
+      explanation: The Patch function is used to create and edit records but not delete them. 
+    - content: To delete records only
+      isCorrect: false 
+      explanation: The Patch function is used to create and edit records but not delete them. 
+    - content: To create records only
+      isCorrect: false 
+      explanation: The Patch function is used to create and edit records but not delete them. 
+    - content: To create and edit records but not delete
+      isCorrect: true
+      explanation: The Patch function is used to create and edit records but not delete them. 
+  - content: To delete a record from a data source or collection which function would you use?
+    choices: 
+    - content: The Remove function
+      isCorrect: true 
+      explanation: The Remove function should be used to delete a record from a data source.
+    - content: The Delete function
+      isCorrect: false 
+      explanation: The Remove function should be used to delete a record from a data source.
+    - content: The Delete control
+      isCorrect: false 
+      explanation: The Remove function should be used to delete a record from a data source.
+    - content: The DeleteIf function
+      isCorrect: false 
+      explanation: The Remove function should be used to delete a record from a data source.
+  - content: How does Power Apps handle mass deletes from a data source?
+    choices: 
+    - content: Power Apps has a built-in recycle bin.
+      isCorrect: false
+      explanation: Power Apps is a flexible platform that allows you to build your own mass deletion functionality. 
+    - content: Power Apps will automatically prompt the user before deletions.
+      isCorrect: false 
+      explanation: Power Apps is a flexible platform that allows you to build your own mass deletion functionality. 
+    - content: Power Apps cannot mass delete data.
+      isCorrect: false 
+      explanation: Power Apps is a flexible platform that allows you to build your own mass deletion functionality. 
+    - content: Power Apps is a flexible platform that allows you to build your own mass deletion functionality as required by your business needs.
+      isCorrect: true
+      explanation: Power Apps is a flexible platform that allows you to build your own mass deletion functionality. 

@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-power-platform-app-makers.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/13/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Your manager asks you to build a micro application that people can reuse across different applications. Which app type should you create?   
+    choices: 
+    - content: Canvas
+      isCorrect: false 
+      explanation: Incorrect. Canvas applications aren't micro applications. They're full applications that can connect to multiple data sources, and designers have complete control over the user interface.
+    - content: Model-driven
+      isCorrect: false 
+      explanation: Incorrect. Model-driven applications aren't micro applications. Typically, model-driven apps are for back-office scenarios.   
+    - content: Card
+      isCorrect: true 
+      explanation: Correct. Cards are micro applications that users can consume across other applications.  
+  - content: You plan to build a new application to help with incident reporting. Your organization doesn't want users to create apps in their production environment. Instead, they want to create a dedicated environment for building and testing. What type of environment are they most likely to create for you to build and test your app?   
+    choices: 
+    - content: Default
+      isCorrect: false 
+      explanation: Incorrect. The default environment exists in every tenant. All users can build apps in this environment, so organizations don't have as much control over what users add.   
+    - content: Sandbox
+      isCorrect: true 
+      explanation: Correct. Sandbox environments are for development and testing purposes.  
+    - content: Trial
+      isCorrect: false 
+      explanation: Incorrect. Typically, trial environments are for trying out a functionality. They also expire after 30 days. 
+  - content: Your manager asks you to review how the company invoices customers to determine if certain areas need improvement. Which Power Automate feature would you use to accomplish this task?   
+    choices: 
+    - content: Process mining 
+      isCorrect: true 
+      explanation: Correct. You can use process mining to analyze an organization's procedures and identify more efficient ways of completing tasks.  
+    - content: Cloud flow
+      isCorrect: false 
+      explanation: Incorrect. You would use cloud flows to create automation solutions across different applications.  
+    - content: Business process flow
+      isCorrect: false 
+      explanation: Incorrect. Business process flows guide users through different steps and stages of an organization’s business process.

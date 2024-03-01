@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.6-storage-mode
+title: Select a storage mode
+metadata:
+  title: Select a storage mode
+  description: "Learn how to select a storage mode."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/6-storage-mode.md)]

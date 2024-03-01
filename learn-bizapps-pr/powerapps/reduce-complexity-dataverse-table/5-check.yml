@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.reduce-complexity-dataverse-table.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/16/2021 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What Power Fx function do you use to get a table of possible values for a lookup column? 
+    choices: 
+    - content: Select()
+      isCorrect: false
+      explanation: The Select() function simulates a select action on a control as if the user had selected or tapped the control.
+    - content: Choices()
+      isCorrect: true 
+      explanation: The Choices() function returns a table of possible values for a lookup column.
+    - content: LookUp 
+      isCorrect: false 
+      explanation: The LookUp() function finds the first record in a table that satisfies a formula. 
+    - content: None, you should manually build the table.
+      isCorrect: false 
+      explanation: The Choices() function returns a table of possible values for a lookup column. 
+  - content: What is not a valid Dataverse relationship type? 
+    choices: 
+    - content: One-to-one
+      isCorrect: true 
+      explanation: Valid relationships are one-to-many, many-to-one, and many-to-many.
+    - content: One-to-many
+      isCorrect: false 
+      explanation: One-to-many is a valid relationship type.
+    - content: Many-to-many
+      isCorrect: false 
+      explanation: Many-to-many is a valid relationship type.
+    - content: Many-to-one
+      isCorrect: false 
+      explanation: Many-to-one is a valid relationship type.
+  - content: You want related rows deleted when the primary row is deleted. In that scenario, what would you set the value of a relationship behavior type to? 
+    choices: 
+    - content: Parental 
+      isCorrect: true 
+      explanation: Parental behavior will cascade the delete operation from primary to related rows.
+    - content: None 
+      isCorrect: false 
+      explanation: None is not a valid behavior type.
+    - content: Referential 
+      isCorrect: false 
+      explanation: Depending on setting, Referential behavior will either cause the association to be removed or will stop the operation, but it will not delete the related rows.
+    - content: Remove Link 
+      isCorrect: false 
+      explanation: Remove Link is an option for delete when a behavior type of Referential is set up and will cause the association to be removed, but it does not delete the related rows.

@@ -1,0 +1,1 @@
+In this module, you learned how to set up a Microsoft Cloud for Sustainability trial environment. Additionally, you created a new trial instance of Microsoft Cloud for Sustainability with all necessary trial licenses and supporting trial products.

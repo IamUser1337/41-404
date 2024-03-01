@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.templates-governance-policies.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/01/2021
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Who can submit a flow as a template, for publication, in the Power Automate template gallery?
+    choices: 
+    - content: Only Microsoft employees can submit templates.
+      isCorrect: false
+      explanation: Anyone can submit a template, provided that it has been successfully run since any modifications have been made.
+    - content: Anyone can submit a template, provided that no changes have been made since the last successful run.
+      isCorrect: true
+      explanation: Anyone can submit a template, provided that it has been successfully run since any modifications have been made.
+    - content: Only Microsoft partners can submit templates.
+      isCorrect: false 
+      explanation: Anyone can submit a template, provided that it has been successfully run since any modifications have been made.
+    - content: Only Microsoft MVPs can submit templates.
+      isCorrect: false 
+      explanation: Anyone can submit a template, provided that it has been successfully run since any modifications have been made.
+  - content: Who is the target audience for using templates from the Power Automate template gallery?
+    choices: 
+    - content: Administrators
+      isCorrect: false
+      explanation: Templates can be used by anyone using Power Automate who wants to quickly accomplish a task, regardless of their persona or skill level.
+    - content: Information workers
+      isCorrect: false 
+      explanation: Templates can be used by anyone using Power Automate who wants to quickly accomplish a task, regardless of their persona or skill level.
+    - content: People learning Power Automate
+      isCorrect: false 
+      explanation: Templates can be used by anyone using Power Automate who wants to quickly accomplish a task, regardless of their persona or skill level.
+    - content: Anyone who is looking to reduce their time of deploying a working solution and solve an immediate business need
+      isCorrect: true
+      explanation: Templates can be used by anyone using Power Automate who wants to quickly accomplish a task, regardless of their persona or skill level.
+  - content: What connector can you use to connect to the Office 365 Security and Compliance API?
+    choices: 
+    - content: PowerPlatform for Admins
+      isCorrect: false
+      explanation: You can call the Office 365 Security and Compliance API by using the HTTP connector.
+    - content: HTTP
+      isCorrect: true
+      explanation: You can call the Office 365 Security and Compliance API by using the HTTP connector.
+    - content: Flow Management
+      isCorrect: false 
+      explanation: You can call the Office 365 Security and Compliance API by using the HTTP connector.
+    - content: Office 365 for Admins
+      isCorrect: false 
+      explanation: You can call the Office 365 Security and Compliance API by using the HTTP connector.

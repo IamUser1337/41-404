@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-solutions-power-automate.6b-automate-solution-management 
+title: Automate solution management
+metadata: 
+  title: Automate solution management
+  description: Learn how to automate solution management.
+  ms.date: 10/05/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6b-automate-solution-management.md)] 

@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-use-store-operations-assist-mobile
+metadata:
+ title: Use Store Operations Assist Mobile
+ description: Learn how to set up Store Operations Assist Mobile in Microsoft Cloud for Retail and use it to view and complete forms and tasks.
+ ms.date: 05/24/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Use Store Operations Assist Mobile
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to set up Store Operations Assist Mobile and use it to view and complete forms and tasks.
+abstract: |
+    In this module, you:
+    - Set up Store Operations Assist Mobile and the mobile browser emulator.
+    - View a to-do list and complete a form template.
+    - Complete an inventory stock count template and a product price update template task.
+    - View a customer baseball card and then create a virtual appointment for a customer. 
+    - Create an ad-hoc task and review the response.
+prerequisites: |
+  - Microsoft Power Apps licenses with Microsoft Power Platform administrator credentials
+  - Microsoft Teams
+  - Microsoft Power BI Pro or Premium
+  - You must complete the previous modules in the learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) before you can complete this one.
+iconUrl: /learn/achievements/retail-use-store-operations-assist-mobile.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-use-store-operations-assist-mobile.introduction
+- learn-bizapps.retail-use-store-operations-assist-mobile.set-up-mobile-app
+- learn-bizapps.retail-use-store-operations-assist-mobile.set-up-mobile-emulator
+- learn-bizapps.retail-use-store-operations-assist-mobile.view-list-complete-form
+- learn-bizapps.retail-use-store-operations-assist-mobile.complete-inventory-stock
+- learn-bizapps.retail-use-store-operations-assist-mobile.complete-product-price
+- learn-bizapps.retail-use-store-operations-assist-mobile.view-customer-card
+- learn-bizapps.retail-use-store-operations-assist-mobile.create-ad-hoc-task
+- learn-bizapps.retail-use-store-operations-assist-mobile.check
+- learn-bizapps.retail-use-store-operations-assist-mobile.summary
+badge:
+  uid: learn-bizapps.retail-use-store-operations-assist-mobile.badge

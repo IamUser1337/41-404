@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-liquid.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What template language is integrated into Power Pages?
+    choices:
+    - content: Solid
+      isCorrect: false
+      explanation: Liquid is an open-source template language that's integrated into portals. Template developers use it to add dynamic content to pages and to create various custom templates.
+    - content: Liquid
+      isCorrect: true
+      explanation: Liquid is an open-source template language that's integrated into portals. Template developers use it to add dynamic content to pages and to create various custom templates.
+    - content: HTML
+      isCorrect: false
+      explanation: Liquid is an open-source template language that's integrated into portals. Template developers use it to add dynamic content to pages and to create various custom templates.
+    - content: JavaScript
+      isCorrect: false
+      explanation: Liquid is an open-source template language that's integrated into portals. Template developers use it to add dynamic content to pages and to create various custom templates.
+  - content: What do you need to do to apply table permissions when accessing Microsoft Dataverse data in Liquid templates?
+    choices:
+    - content: Use the `secure` Liquid filter.
+      isCorrect: false
+      explanation: Table permissions govern all data access that Liquid objects and tags perform, and it's not possible to switch off that feature.
+    - content: Nothing, table permissions are applied automatically.
+      isCorrect: true
+      explanation: Table permissions govern all data access that Liquid objects and tags perform, and it's not possible to switch off that feature.
+    - content: Select the Enable Table Permissions option on the Web Template table that contains Liquid code.
+      isCorrect: false
+      explanation: Table permissions govern all data access that Liquid objects and tags perform, and it's not possible to switch off that feature.
+    - content: Place Liquid code on a secured webpage.
+      isCorrect: false
+      explanation: Table permissions govern all data access that Liquid objects and tags perform, and it's not possible to switch off that feature.
+  - content: Where is Liquid code not processed?
+    choices:
+    - content: Page content
+      isCorrect: false
+      explanation: You can use Liquid code anywhere in the portals where you can enter HTML or text content, including web templates, webpages, and content snippets. Web roles don't contain content that’s rendered by the portals.
+    - content: Content snippets
+      isCorrect: false
+      explanation: You can use Liquid code anywhere in the portals where you can enter HTML or text content, including web templates, webpages, and content snippets. Web roles don't contain content that’s rendered by the portals.
+    - content: Web templates
+      isCorrect: false
+      explanation: You can use Liquid code anywhere in the portals where you can enter HTML or text content, including web templates, webpages, and content snippets. Web roles don't contain content that’s rendered by the portals.
+    - content: Web roles
+      isCorrect: true
+      explanation: You can use Liquid code anywhere in the portals where you can enter HTML or text content, including web templates, webpages, and content snippets. Web roles don't contain content that’s rendered by the portals.
+  - content: What would be the output of the following Liquid fragment if the user is signed in? `{{ user.fullname }}`
+    choices:
+    - content: Full name of the signed-in website user
+      isCorrect: true
+      explanation: An output statement is a set of double braces that contains an expression. When the output is rendered, it's replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.
+    - content: Empty string
+      isCorrect: false
+      explanation: An output statement is a set of double braces that contains an expression. When the output is rendered, it's replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.
+    - content: System Administrator
+      isCorrect: false
+      explanation: An output statement is a set of double braces that contains an expression. When the output is rendered, it's replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.
+    - content: This code generates an error
+      isCorrect: false
+      explanation: An output statement is a set of double braces that contains an expression. When the output is rendered, it's replaced with the value of that expression. Object `user` contains information about the contact that is currently signed in.

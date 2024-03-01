@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.3-create-modify-topics 
+title: Create and modify topics
+metadata: 
+  title: Create and modify topics 
+  description: Learn about creating and modifying topics.  
+  ms.date: 01/05/2024
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-create-modify-topics.md)] 

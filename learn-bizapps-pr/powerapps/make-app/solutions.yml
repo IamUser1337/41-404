@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.make-app.solutions
+title: Work with solutions
+metadata:
+  title: Work with solutions
+  description: Learn how to work with solutions.
+  ms.date: 05/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/solutions.md)]

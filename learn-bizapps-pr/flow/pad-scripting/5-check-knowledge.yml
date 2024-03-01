@@ -1,0 +1,41 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-scripting.5-check-knowledge
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 3
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: "The Run JavaScript function on web page action:"
+    choices:
+    - content: "Stores the returned value and the potential errors in two different variables."
+      isCorrect: false
+      explanation: "The Run JavaScript function on web page action has only one produced variable named Result."
+    - content: "Produces only one variable for the result."
+      isCorrect: true
+      explanation: "The Run JavaScript function on web page action has only one produced variable named Result."
+  - content: "Which one of the following scripting actions can run code on webpages?"
+    choices:
+    - content: "Run JavaScript function on web page"
+      isCorrect: true
+      explanation: "Only the Run JavaScript function on web page action can run code on webpages."
+    - content: "Run JavaScript"
+      isCorrect: false
+      explanation: "Only the Run JavaScript function on web page action can run code on webpages."
+    - content: "Both"
+      isCorrect: false
+      explanation: "Only the Run JavaScript function on web page action can run code on webpages."
+  - content: "Which one of the following statements is true?"
+    choices:
+    - content: "Scripting actions can contain any kind of variables in their code block."
+      isCorrect: true
+      explanation: "Code blocks can contain hardcoded values and any kind of variables."
+    - content: "Scripting actions can contain only text variables in their code block."
+      isCorrect: false
+      explanation: "Code blocks can contain hardcoded values and any kind of variables."

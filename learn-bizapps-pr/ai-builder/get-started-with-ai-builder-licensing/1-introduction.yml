@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-licensing.1-introduction
+title: Introduction to AI Builder licensing
+metadata: 
+  title:  Introduction to AI Builder licensing
+  description: Learn about AI Builder licensing and how to buy and manage your AI Builder licenses.
+  ms.date: 04/30/2020
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.describe-how-power-platform-solutions-consume-microsoft-azure-services
+title: 'Describe how Power Platform solutions consume Microsoft Azure services '
+metadata:
+  title: Describe how Power Platform solutions consume Microsoft Azure services
+  description: "Describe how Azure services can be used with Power Platform."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 5
+content: |
+  [!include[](includes/11-describe-how-power-platform-solutions-consume-microsoft-azure-services.md)]

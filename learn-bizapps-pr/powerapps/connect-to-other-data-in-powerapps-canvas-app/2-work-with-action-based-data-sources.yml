@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.connect-other-data.2-work-with-action-based-data-sources
+title: Work with action-based data sources
+metadata:
+  title: Work with action-based data sources
+  description: Work with action-based data sources
+  ms.date: 01/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-work-with-action-based-data-sources.md)]

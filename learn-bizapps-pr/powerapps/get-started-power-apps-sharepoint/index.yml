@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.get-started-power-apps-sharepoint
+metadata:
+ title: Get started with Power Apps and SharePoint
+ description: Learn how to create and customize Power Apps with SharePoint.
+ ms.date: 09/22/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Get started with Power Apps and SharePoint
+summary: |
+  [!include[](../includes/module-banner.md)]
+  SharePoint Online is one of the best data sources for Power Apps in terms of compatibility and ease of use. This module describes how to use Power Apps and SharePoint together as a simple introduction into the larger Microsoft Power Platform.
+abstract: |
+    In this module, you'll:
+    - Learn about Power Apps canvas apps.
+    - Learn how to relate a SharePoint list to a Power Apps application.
+    - Discover the uses and benefits of SharePoint as a data source for Power Apps.
+prerequisites: None
+iconUrl: /learn/achievements/get-started-power-apps-sharepoint.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+subjects:
+- business-applications
+units:
+- learn-bizapps.get-started-power-apps-sharepoint.introduction
+- learn-bizapps.get-started-power-apps-sharepoint.benefits
+- learn-bizapps.get-started-power-apps-sharepoint.create-first
+- learn-bizapps.get-started-power-apps-sharepoint.customize
+- learn-bizapps.get-started-power-apps-sharepoint.exercise
+- learn-bizapps.get-started-power-apps-sharepoint.share-publish
+- learn-bizapps.get-started-power-apps-sharepoint.check
+- learn-bizapps.get-started-power-apps-sharepoint.summary
+badge:
+  uid: learn-bizapps.get-started-power-apps-sharepoint.badge

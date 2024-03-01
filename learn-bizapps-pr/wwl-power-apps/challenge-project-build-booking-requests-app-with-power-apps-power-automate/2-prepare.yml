@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.prepare
+title: Prepare
+metadata:
+  unitType: learning-content
+  title: Prepare to create custom tables and columns to build a canvas app along with some notification flows
+  description: "Project specification and setup requirements."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+  [!include[](includes/2-prepare.md)]
+

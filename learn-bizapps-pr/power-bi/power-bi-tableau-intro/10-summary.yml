@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.10-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of the Introduction to Power BI for Tableau users module
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/10-summary.md)] 

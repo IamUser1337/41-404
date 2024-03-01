@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.create-users
+title: Exercise - Create users and assign licenses
+metadata:
+  title: Exercise - Create users and assign licenses
+  description: Follow the steps to create users and assign licenses.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-users.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.explore-business-value-power-fx
+title: Explore the business value of the Power Fx
+metadata:
+  title: Explore the business value of the Power Fx
+  description: "Describe Power Fx, which is the low-code language that is used throughout Microsoft Power Platform."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 4
+content: |
+  [!include[](includes/6-explore-business-value-power-fx.md)]

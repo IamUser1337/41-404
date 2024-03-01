@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.identify-foundational-components-microsoft-power-platform.explore-microsoft-dataverse
+title: Explore Microsoft Dataverse
+metadata:
+  title: Explore Microsoft Dataverse
+  description: "Learn about Dataverse and the Common Data Model."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 14
+content: |
+  [!include[](includes/4-explore-microsoft-dataverse.md)]

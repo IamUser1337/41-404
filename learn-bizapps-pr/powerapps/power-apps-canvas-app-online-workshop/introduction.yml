@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-apps-canvas-app-online-workshop.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to the Power Apps canvas app online workshop
+  ms.date: 02/16/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

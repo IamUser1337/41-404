@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.connect-cloud-desktop-flow.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/26/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where can you initiate the Power Automate for desktop flows creation?
+    choices: 
+    - content: From the browser only in make.powerautomate.com
+      isCorrect: false 
+      explanation: The browser isn't the only location where you can initiate the creation of Power Automate for desktop flows. You can create the flow from the desktop as well.
+    - content: From the Power Automate for desktop application only
+      isCorrect: false 
+      explanation: Power Automate for desktop isn't the only location where you can start creating the flow.
+    - content: Neither browser nor desktop
+      isCorrect: false 
+      explanation: You can initiate building the Power Automate for desktop flows from the browser and the desktop.
+    - content: Both browser and desktop
+      isCorrect: true  
+      explanation: You can initiate building the Power Automate for desktop flows from the browser and the desktop.
+  - content: Which of the following options is true regarding desktop and cloud flows?
+    choices: 
+    - content: You'll need to initiate flows with manual triggers through Power Automate.
+      isCorrect: false
+      explanation: This module used the manual trigger to help make learning easier; however, you can use many triggers to initiate a flow.
+    - content: You shouldn't use your keyboard and mouse while desktop flows are running.
+      isCorrect: true 
+      explanation: Using your keyboard and/or mouse while the desktop flow is running could interrupt the process and end the flow.
+    - content: If Power Automate doesn't have a predefined connection with a program, you can't use flows with that program.
+      isCorrect: false 
+      explanation: The advantage of desktop flows is that they allow you to use Power Automate with programs that don't have a predefined connection with Power Automate.
+    - content: Desktop flows connect to online services such as Outlook or Teams.
+      isCorrect: false 
+      explanation: Cloud flows connect through online services through APIs. A cloud flow connects to online or cloud services.
+  - content: What is the bridge that allows you to connect desktop and cloud flows?
+    choices: 
+    - content: An API
+      isCorrect: false 
+      explanation: An API is a bridge that connects cloud services together. You would use APIs often in cloud flows.
+    - content: Robotic process automation (RPA)
+      isCorrect: false 
+      explanation: RPA is the process of automating human actions that you're building by using desktop and cloud flows. 
+    - content: A gateway
+      isCorrect: true 
+      explanation: You need a gateway whenever you connect something on a desktop to anything that's held in the cloud.

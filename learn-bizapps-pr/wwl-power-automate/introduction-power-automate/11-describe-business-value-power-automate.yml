@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.describe-business-value-power-automate
+title: Describe the business value of Power Automate
+metadata:
+  title: Describe the business value of Power Automate
+  description: "Power Automate in action at Komatsu."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/11-describe-business-value-power-automate.md)]

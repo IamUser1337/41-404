@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-embedded-content 
+metadata: 
+ title: Embed Power BI content 
+ description: Learn about embedding Power BI content.
+ ms.date: 07/07/2023  
+ author: mberdugo  
+ manager: kfollis 
+ ms.author: monaberdugo  
+ ms.topic: module
+ ms.service: powerbi  
+title: Embed Power BI content 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  <!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+
+  You can embed any type of Power BI content in your apps. Including Power BI reports, report visuals, paginated reports, dashboards, dashboard tiles, and the Q&A experience. Your app can edit existing Power BI reports or create new ones, too.
+
+  Embedding Power BI content is always a client-side process. To assist your development effort, you can import client libraries that provide programmatic control of the entire embedding experience. You can also optimize the embedding experience by using bootstrap or phased embedding.
+
+  > [!TIP]
+  > Power BI is in a constant state of evolution, so be sure that you keep abreast of new features that are announced in the <a href="https://powerbi.microsoft.com/blog" target="_blank">Microsoft Power BI Blog</a>. You might discover new features and capabilities that you can apply to improve your existing reports.
+abstract: |  
+    In this module, you learn to: 
+    - Programmatically embed all types of Power BI content.
+    - Optimize the embedding experience.
+prerequisites: Experience developing web apps and creating Power BI workspaces and content, and be familiar with the two embedding scenarios, *For your organization* and *For your customers*.
+iconUrl: /training/achievements/power-bi-embedded-content.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- business-analyst 
+products: 
+- power-apps
+- power-bi
+subjects:
+- data-analytics
+units:
+- learn-bizapps.power-bi-embedded-content.introduction 
+- learn-bizapps.power-bi-embedded-content.reports 
+- learn-bizapps.power-bi-embedded-content.other-content-types 
+- learn-bizapps.power-bi-embedded-content.optimize-experience 
+- learn-bizapps.power-bi-embedded-content.check 
+- learn-bizapps.power-bi-embedded-content.summary 
+badge: 
+  uid: learn-bizapps.power-bi-embedded-content.badge

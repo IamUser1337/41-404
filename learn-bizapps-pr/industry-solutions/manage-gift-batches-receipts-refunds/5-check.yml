@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-gift-batches-receipts-refunds.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/29/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: In which of the following situations would you process multiple gifts under a single payment?
+    choices: 
+    - content: The nonprofit organization holds an event and receives cash collections from individual donors
+      isCorrect: false 
+      explanation: Incorrect. This would require processing multiple payments in a gift batch.
+    - content: An organization sets up workplace giving, and makes a gift of $20,000, made up of contributions from multiple employees
+      isCorrect: true 
+      explanation: Correct. This is considered a single payment composed of multiple gifts from employees.
+    - content: A user wants to process all the gifts received today in bulk.
+      isCorrect: false 
+      explanation: Incorrect. This would require processing multiple payments in a gift batch.
+  - content: Last month, a constituent made a pledge of $20,000 and a donor commitment record was created. The constituent can no longer commit to this and would like to cancel the pledge. What action should be taken in Fundraising and Engagement?
+    choices: 
+    - content: The donor commitment record should be deactivated.
+      isCorrect: false 
+      explanation: Incorrect. This will not track the change in the constituent’s decision.
+    - content: The donor commitment record should be deleted.
+      isCorrect: false 
+      explanation: Incorrect. This will not track the change in the constituent’s decision.
+    - content: The pledge amount of $20,000 should be refunded.
+      isCorrect: false 
+      explanation: Incorrect. As no actual payment has been made by the constituent yet, no refund can occur.
+    - content: The pledge amount of $20,000 should be written off.
+      isCorrect: true 
+      explanation: Correct.
+  - content: On a transaction record, a user clicks on the Generate Receipt button. What action will occur by default?
+    choices: 
+    - content: A receipt record is created for the transaction in Fundraising and Engagement.
+      isCorrect: true 
+      explanation: Correct. By default this button will only create a receipt record.
+    - content: A receipt record is created for the transaction in Fundraising and Engagement, and the receipt document will generate in Microsoft Word.
+      isCorrect: false 
+      explanation: Incorrect. This is not default behavior.
+    - content: A receipt record is created for the transaction in Fundraising and Engagement, and the receipt document and thank-you letter will be emailed to the donor.
+      isCorrect: false 
+      explanation: Incorrect. This is not default behavior but is possible to configure.

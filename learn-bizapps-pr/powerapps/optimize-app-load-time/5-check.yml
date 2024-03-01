@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.optimize-app-load-time.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/17/2021 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: If you need to conditionally have different first screens show on app startup, where should you place the conditional logic?
+    choices: 
+    - content: In the App object OnStart property
+      isCorrect: false 
+      explanation: Incorrect. In apps that are created after March 1, 2021, this action is prohibited and existing apps should be modified to put the logic in the App.StartScreen property instead. 
+    - content: In the App object StartScreen property
+      isCorrect: true 
+      explanation: Correct. Using the StartScreen property allows you to implement conditional logic for what screen to show first without increasing the app load times. 
+    - content: In the Screen object OnVisible property 
+      isCorrect: false 
+      explanation: Incorrect. For conditional logic to determine the first screen, configure the App object StartScreen property.  
+  - content: What tool would you use to identify the formulas that impact your app load time?  
+    choices: 
+    - content: Power Platform CLI
+      isCorrect: false
+      explanation: Incorrect. The goal of Microsoft Power Platform CLI is to provide a command-line interface for working with the different Microsoft Power Platform resources. It does not measure app performance. 
+    - content: Power Apps Test Studio
+      isCorrect: false 
+      explanation: Incorrect. While Test Studio could help with repeatable testing, it doesn’t provide performance details of the formulas. 
+    - content: Microsoft Azure Monitor
+      isCorrect: true 
+      explanation: Correct. You can run Microsoft Azure Monitor to get detailed information on how your formulas are performing. 
+  - content: You used the ClearCollect function to preload the data from a table into a collection. However, only 500 of the 1000 available rows in the table were loaded. What could be causing the problem?  
+    choices: 
+    - content: Review the app setting Data row limit value.
+      isCorrect: true 
+      explanation: Correct. By default, this setting is 500 and can be increased up to 2,000. Review to ensure that 2,000 is sufficient so that you don’t have future problems loading all rows. 
+    - content: Use the ClearCollect function from OnStart instead of OnVisible.
+      isCorrect: false 
+      explanation: Incorrect. Regardless of where you call the ClearCollect function, it will only load up to the app's Data row limit value. 
+    - content: Perform a separate call to Clear followed by a call to Collect. 
+      isCorrect: false 
+      explanation: Incorrect. The number of rows loaded does not depend on whether Collect or ClearCollect is used. 
+    - content: Use a Dataverse table view that includes all 1,000 records. 
+      isCorrect: false 
+      explanation: Incorrect. ClearCollect is non-delegable and subject to the app setting Data row limit value. The only way that a Dataverse view would help is if its filter criteria reduced the qualified rows below the limit value. 

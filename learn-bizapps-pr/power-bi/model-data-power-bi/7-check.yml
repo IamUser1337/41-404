@@ -1,0 +1,89 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.model-data-power-bi.7-check 
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/25/2022
+ author: minewiskan 
+ manager: kfollis 
+ ms.author: owend 
+ ms.topic: unit
+  
+durationInMinutes: 10
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: How do you get Power BI Desktop to find relationships in data after it has been imported? 
+    choices: 
+    - content: Open the Power Query Editor 
+      isCorrect: false 
+      explanation: You can use the Manage Relationships dialog to create or edit relationships.
+    - content: Select Manage Relationships and then Autodetect 
+      isCorrect: true 
+      explanation: You can use the Manage Relationships dialog to create or edit relationships.
+    - content: Select the New Parameter button to map the relationship 
+      isCorrect: false 
+      explanation: You can use the Manage Relationships dialog to create or edit relationships.
+    - content: Use the Performance Manager 
+      isCorrect: false 
+      explanation: You can use the Manage Relationships dialog to create or edit relationships.
+  - content: If your months were sorted alphabetically, how could you sort them by month order?
+    choices: 
+    - content: Click the Edit Queries button 
+      isCorrect: false 
+      explanation: Use the "Sort by Column" option to sort Month by MonthNo. This will ensure that months are sorted by month order.
+    - content: Add a slicer to your visual 
+      isCorrect: false 
+      explanation: Use the "Sort by Column" option to sort Month by MonthNo. This will ensure that months are sorted by month order.
+    - content: Change the visualization type 
+      isCorrect: false 
+      explanation: Use the "Sort by Column" option to sort Month by MonthNo. This will ensure that months are sorted by month order.
+    - content: Apply the MonthNo category sort option
+      isCorrect: true 
+      explanation: Use the "Sort by Column" option to sort Month by MonthNo. This will ensure that months are sorted by month order. 
+  - content: How do you get Power BI to separate date data into year, quarter, month, and day? 
+    choices: 
+    - content: Open the Query Editor 
+      isCorrect: false 
+      explanation: When you create a table visualization in your report by using a date field, Power BI Desktop automatically includes breakdowns by time period. 
+    - content: Select the New Parameter button 
+      isCorrect: false 
+      explanation: When you create a table visualization in your report by using a date field, Power BI Desktop automatically includes breakdowns by time period.  
+    - content: Select the New Measure button  
+      isCorrect: false 
+      explanation: When you create a table visualization in your report by using a date field, Power BI Desktop automatically includes breakdowns by time period. 
+    - content: You don't need to do anything, it is automatic. 
+      isCorrect: true 
+      explanation: When you create a table visualization in your report by using a date field, Power BI Desktop automatically includes breakdowns by time period. 
+  - content: How do you create data tables that you want stored as part of the model rather than as part of a query?
+    choices: 
+    - content: Use a calculated table
+      isCorrect: true 
+      explanation: Calculated tables store data in the model instead of in an external source or being calculated on the fly. 
+    - content: Select the Enter Data button 
+      isCorrect: false 
+      explanation: Calculated tables store data in the model instead of in an external source or being calculated on the fly. 
+    - content: Select the New Measure button  
+      isCorrect: false 
+      explanation: Calculated tables store data in the model instead of in an external source or being calculated on the fly. 
+    - content: Select the New Parameter button 
+      isCorrect: false 
+      explanation: Calculated tables store data in the model instead of in an external source or being calculated on the fly. 
+  - content: Why would a table show the same value, like "Sales", for every country?
+    choices: 
+    - content: Because the Revenue data is corrupted
+      isCorrect: false 
+      explanation: The lack of a relationship becomes obvious when you create a simple table visual in Power BI Desktop and get the same value for all entries.
+    - content: Because the column is assigned with the wrong data type
+      isCorrect: false 
+      explanation:  The lack of a relationship becomes obvious when you create a simple table visual in Power BI Desktop and get the same value for all entries.
+    - content: Because there is no relationship between the Sales and Country fields.
+      isCorrect: true 
+      explanation: The lack of a relationship becomes obvious when you create a simple table visual in Power BI Desktop and get the same value for all entries.
+    - content: Because the column is sorted incorrectly
+      isCorrect: false 
+      explanation: The lack of a relationship becomes obvious when you create a simple table visual in Power BI Desktop and get the same value for all entries.
+
+
+ 

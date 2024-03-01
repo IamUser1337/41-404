@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-web.2-launch-close-handle-browsers
+title: Launch, close, and handle browsers
+metadata:
+  title: Launch, close, and handle browsers
+  description: Launch, close, and handle browsers
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-launch-close-handle-browsers.md)]

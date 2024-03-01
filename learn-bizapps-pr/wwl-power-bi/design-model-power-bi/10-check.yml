@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.design-model-power-bi.10-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Check your knowledge"
+  ms.date: 04/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "What does data granularity mean?"
+    choices:
+    - content: "The amount of data that you have, meaning that higher granularity means more data to work with."
+      isCorrect: false
+      explanation: "Incorrect. Data granularity does not directly affect the amount of data that you have. "
+    - content: "The level of detail in your data, meaning that higher granularity means more detailed data."
+      isCorrect: true
+      explanation: "Correct. Data granularity refers to how finely or coarsely your data is divided or aggregated."
+    - content: "Data granularity is a type of schema design."
+      isCorrect: false
+      explanation: "Incorrect. Data granularity is not designed in the schema."
+  - content: "What is the difference between a fact table and a dimension table?"
+    choices:
+    - content: "Fact tables contain observational data while dimension tables contain information about specific entities within the data."
+      isCorrect: true
+      explanation: "Correct. Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+    - content: "Fact tables contain information about specific entities while dimension tables contain information about observational data."
+      isCorrect: false
+      explanation: "Incorrect. Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+    - content: "There is no difference."
+      isCorrect: false
+      explanation: "Incorrect. Fact tables contain observational data such as sales orders, employees, shipping dates, and so on, while dimension tables contain information about specific entities such as product IDs and dates."
+  - content: "Choose the best answer to explain relationship cardinality?"
+    choices:
+    - content: "Cardinality is the measure of unique values in a table."
+      isCorrect: true
+      explanation: "Correct. An example of high cardinality would be a Sales table as it has a high number of unique values."
+    - content: "Cardinality is the granularity of the data."
+      isCorrect: false
+      explanation: "Incorrect. Cardinality is the directionality that is associated with a relationship."
+    - content: "Cardinality is how long it takes for the data to load."
+      isCorrect: false
+      explanation: "Incorrect. Cardinality is the directionality that is associated with a relationship."

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-word-excel-dataverse.exercise-create-work-order
+title: Exercise – Create a work order template
+metadata: 
+  title: Exercise – Create a work order template
+  description: Follow the steps to create a work order template.
+  ms.date: 08/31/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-create-work-order.md)] 

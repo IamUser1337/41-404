@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-power-apps-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/30/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: A Power Automate cloud flow can be triggered by which of the following?
+    choices:
+    - content: On a schedule
+      isCorrect: false
+      explanation: Incorrect. Scheduling isn't the only way to trigger a Power Automate cloud flow.
+    - content: An event trigger, such as a data change
+      isCorrect: false
+      explanation: Incorrect. Event trigger isn't the only way to trigger a Power Automate cloud flow.
+    - content: Manually, from a flow button
+      isCorrect: false
+      explanation: Incorrect. Manually isn't the only way to trigger a Power Automate cloud flow.
+    - content: All of these answers
+      isCorrect: true
+      explanation: Correct. You can trigger a Power Automate cloud flow on a schedule, on an event, and manually.
+  - content: To check if an approval request was approved or not, what would you add to your flow logic?
+    choices:
+    - content: A condition to check if approved or not
+      isCorrect: true
+      explanation: Correct. You can add a condition that will check the outcome of the approval.
+    - content: An update Dataverse row action
+      isCorrect: false
+      explanation: Incorrect. No Dataverse row action is available to check for approval status.
+    - content: You would send the outcome of the approval in email for review
+      isCorrect: false
+      explanation: Incorrect. Emails aren't required to check an approval status.
+    - content: No action is required because the outcome is automatically checked by the flow
+      isCorrect: false
+      explanation: Incorrect. You'll need to check the outcome of an approval if you want to know whether it was approved or not.
+  - content: After you make a change to your flow and save it, what should you do?
+    choices:
+    - content: Test the flow
+      isCorrect: true
+      explanation: Correct. It's the best practice to always test your flows with any changes.
+    - content: Rename the flow
+      isCorrect: false
+      explanation: Incorrect. You can rename your flow anytime.
+    - content: Visit the approval center to approve the new version
+      isCorrect: false
+      explanation: Incorrect. Changes to your flow don't need to be approved.
+    - content: Publish the new version
+      isCorrect: false
+      explanation: Incorrect. No need or option exists for publishing your updated flow.

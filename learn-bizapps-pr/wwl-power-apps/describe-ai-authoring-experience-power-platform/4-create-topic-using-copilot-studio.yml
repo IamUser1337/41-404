@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-ai-authoring-experience-power-platform.create-topic-using-copilot-studio
+title: Create a basic copilot
+metadata:
+  title: Create a basic copilot
+  description: "Discussion of the process of building a copilot."
+  ms.date: 02/15/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/4-create-topic-using-copilot-studio.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-store-operations-assist-teams-approvals.exercise-create-request
+title: Exercise - Create a request in Store Operations Assist Teams
+metadata:
+  title: Exercise - Create a request in Store Operations Assist Teams
+  description: Follow the steps to create a request in Store Operations Assist Teams.
+  ms.date: 10/18/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: interactive-tutorial
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-create-request.md)]

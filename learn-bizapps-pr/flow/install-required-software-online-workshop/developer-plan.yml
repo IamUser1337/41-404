@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.install-required-software-online-workshop.developer-plan
+title: Get Power Apps Developer Plan
+metadata:
+  title: Get Power Apps Developer Plan
+  description: Learn about Power Apps Developer Plan.
+  ms.date: 01/18/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: interactive-tutorial
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/developer-plan.md)]

@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.introduction-power-apps-cards.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 12/11/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: You edit a card for Power Apps and want to display a list of items in a collection. How do you accomplish this task?
+    choices:
+    - content: Add a vertical gallery and then connect it to the collection.
+      isCorrect: false
+      explanation: Incorrect. The gallery control is available for canvas apps but not for cards.
+    - content: Add a text label and then assign the collection to the text label's **Repeat for every** property.
+      isCorrect: true
+      explanation: Correct. The Repeat for every property results in the display of one text label instance for each item in the collection.
+    - content: Add a container and then set the Bleed property to true.
+      isCorrect: false
+      explanation: Incorrect. The Bleed property manages the padding of the control.
+  - content: A colleague asks you to create a small application to request approval for new vendors that are added to a Microsoft SharePoint list. The approval confirmation must be emailed back to the user who added the vendor. Which Power Apps solution should you use?
+    choices:
+    - content: Use a card that's connected to the SharePoint list.
+      isCorrect: false
+      explanation: Incorrect. Power Apps cards can use Dataverse as an external data source only.
+    - content: Use a card with a customizable variable. The vendor information is provided as a parameter to a Power Automate action for the card instance.
+      isCorrect: false
+      explanation: Incorrect. The card can display the vendor information to the user, but it can't send the confirmation email.
+    - content: Use a canvas app to display the vendor information, capture the approval, and send the confirmation message in email.
+      isCorrect: true
+      explanation: Correct. In this scenario, cards aren't an option. A canvas app provides all required capabilities.
+  - content: You send a card where users in a Teams channel add items to a collection. Then, you send the card to another channel. How can you ensure that the items that users add in the first instance are visible in the second one?
+    choices:
+    - content: Set the variable persistence as permanent.
+      isCorrect: true
+      explanation: Correct. If the variable persistence is set to permanent, the value is shared across the different instances of the card.
+    - content: Save the card again and then send it to both channels at the same time.
+      isCorrect: false
+      explanation: Incorrect. This action has no impact on the collection visibility from either instance.
+    - content: Set the variable value of the second instance by using a Power FX formula with the value from the first instance.
+      isCorrect: false
+      explanation: Incorrect. No reference is possible between the different instances of the card to set the value of a variable by using Power FX formulas.

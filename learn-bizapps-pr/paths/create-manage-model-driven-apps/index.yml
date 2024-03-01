@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn.wwl.create-manage-model-driven-apps
+metadata:
+  title: Create and manage model-driven apps with Power Apps and Dataverse
+  description: In this learning path, you practice building model-driven apps by using Microsoft Power Apps. The skills validated include creating Dataverse tables, modifying forms and views, and configuring a model-driven app. The scenario in this experience represents real-world challenges faced by individuals with business-specific expertise who build model-driven apps.
+  ms.date: 12/14/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: learning-path
+  ms.service: powerapps
+title: Create and manage model-driven apps with Power Apps and Dataverse
+prerequisites: |
+  - Candidates for this credential should be familiar with data modeling concepts in Microsoft Dataverse and with the Power Apps maker portal.
+summary: |
+  In this learning path, you practice building model-driven apps by using Microsoft Power Apps. The skills validated include creating Dataverse tables, modifying forms and views, and configuring a model-driven app. The scenario in this experience represents real-world challenges faced by individuals with business-specific expertise who build model-driven apps.
+iconUrl: /training/achievements/generic-trophy.svg
+levels:
+- intermediate
+roles:
+- business-analyst
+- maker
+products:
+- power-apps
+- dataverse
+subjects:
+- business-applications
+- custom-app-development
+- data-modeling
+modules:
+- learn-bizapps.powerapps-common-data-service
+- learn-bizapps.powerapps-design-model-driven-apps
+- learn-dynamics.configure-model-driven-apps-customer-engagement
+- learn-bizapps.manage-solutions-power-automate
+- learn.wwl.guided-project-create-manage-model-driven-apps
+trophy:
+  uid: learn.wwl.create-manage-model-driven-apps.trophy

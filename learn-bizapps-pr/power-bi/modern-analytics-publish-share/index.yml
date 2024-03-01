@@ -1,0 +1,49 @@
+### YamlMime:Module 
+uid: learn-bizapps.modern-analytics-publish-share 
+metadata: 
+ title: Secure, publish, and share data in Power BI
+ description: Learn how to secure, share, and publish Microsoft Power BI reports as part of the Power BI service. Understand workspaces and certification.
+ ms.date: 07/06/2023  
+ author: paulinbar  
+ manager: kfollis 
+ ms.author: painbar  
+ ms.topic: module
+ ms.service: powerbi  
+title: Secure, publish, and share data in Power BI
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Secure, share, publish, and keep data up to date using workspaces in the Power BI service, empowering teams to discover limitless data insights.  
+abstract: |  
+    In this module, learn how to: 
+    - Share reports in Power BI.
+    - Create scorecards with goals in Power BI.
+    - Configure row-level security for a Power BI report.
+    - Publish a Power BI data model to a workspace.
+    - Control access to a workspace.
+    - Create comments and personal bookmarks in a report.
+    - Use endorsements to certify or promote datasets.
+    - Protect data with Microsoft Purview Information Protection.
+    - Apply refresh and alert schedules for a Power BI report.
+prerequisites: None
+iconUrl: /training/achievements/modern-analytics-publish-share.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform
+- power-bi 
+subjects:
+- data-management
+units:
+- learn-bizapps.modern-analytics-publish-share.1-introduction 
+- learn-bizapps.modern-analytics-publish-share.2-security 
+- learn-bizapps.modern-analytics-publish-share.3-publish 
+- learn-bizapps.modern-analytics-publish-share.4-share 
+- learn-bizapps.modern-analytics-publish-share.5-protect-data 
+- learn-bizapps.modern-analytics-publish-share.6-refresh-alerts 
+- learn-bizapps.modern-analytics-publish-share.7-check 
+- learn-bizapps.modern-analytics-publish-share.8-summary 
+badge: 
+  uid: learn-bizapps.modern-analytics-publish-share.badge

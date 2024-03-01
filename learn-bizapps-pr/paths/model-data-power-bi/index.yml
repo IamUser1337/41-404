@@ -1,0 +1,37 @@
+### YamlMime:LearningPath
+uid: learn.wwl.model-data-power-bi
+metadata:
+  title: Model data with Power BI
+  description: Model data with Power BI
+  ms.date: 05/25/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: learning-path
+title: Model data with Power BI
+prerequisites: |
+  There are no prerequisites for this learning path.
+summary: |
+  Learn what a Power BI semantic model is, which data loading approach to use, and how to build out your semantic model to get the insights you need.
+
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/).
+iconUrl: /training/achievements/model-data-power-bi.svg
+levels:
+- beginner
+roles:
+- data-analyst
+products:
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.dax-power-bi-models
+- learn.wwl.choose-power-bi-model-framework
+- learn-bizapps.design-model-power-bi
+- learn-bizapps.dax-power-bi-write-formulas
+- learn-bizapps.dax-power-bi-add-measures
+- learn-bizapps.dax-power-bi-add-calculated-tables
+- learn-bizapps.dax-power-bi-time-intelligence
+- learn-bizapps.optimize-model-power-bi
+- learn.wwl.enforce-power-bi-model-security
+trophy:
+  uid: learn.wwl.model-data-power-bi.trophy

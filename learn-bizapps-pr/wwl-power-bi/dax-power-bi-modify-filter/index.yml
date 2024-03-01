@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.dax-power-bi-modify-filter
+metadata: 
+ title: Modify DAX filter context in Power BI Desktop models
+ description: By the end of this module, you'll be able to describe filter context, which is used to evaluate measure formulas. You'll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you'll learn how to configure the CALCULATE function with filters and filter modifiers.
+ ms.date: 07/18/2022
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Modify DAX filter context in Power BI Desktop models 
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  By the end of this module, you'll be able to describe and work with filter context, which is used to evaluate measure formulas.
+abstract: |  
+    By the end of this module, you'll be able to:
+    - Describe filter context.
+    - Use the CALCULATE function to modify filter context.
+    - Pass filters to the CALCULATE function.
+    - Pass filter modifiers to the CALCULATE function.
+    - Perform context transition.
+prerequisites: You should have experience creating Microsoft Power BI Desktop models and designing Power BI report layouts. You should also understand how to define Data Analysis Expressions (DAX) measures and how to work with iterator functions. 
+iconUrl: /training/achievements/modify-dax-filter-context-power-bi-desktop.svg  
+levels:  
+- intermediate   
+roles: 
+- maker 
+- data-analyst  
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.dax-power-bi-modify-filter.1-introduction 
+- learn-bizapps.dax-power-bi-modify-filter.2-modify-filter-context 
+- learn-bizapps.dax-power-bi-modify-filter.3-filter-modifier-functions 
+- learn-bizapps.dax-power-bi-modify-filter.4-examine-filter-context 
+- learn-bizapps.dax-power-bi-modify-filter.5-context-transition 
+- learn-bizapps.dax-power-bi-modify-filter.6-check 
+- learn-bizapps.dax-power-bi-modify-filter.7-summary 
+badge: 
+  uid: learn-bizapps.dax-power-bi-modify-filter.badge

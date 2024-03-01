@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-custom-connector.3-explore 
+title: Explore custom connector configuration options
+metadata: 
+  title: Explore custom connector configuration options
+  description: Learn about naming, visibility, request and response, and validation.
+  ms.date: 05/12/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-explore.md)] 

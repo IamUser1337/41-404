@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-water-waste-overview.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 11/10/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Which of the following are entities types in the water data model?
+    choices:
+    - content: Water quantity entities, Water quality entities, Water recycling data. 
+      isCorrect: false
+      explanation: Water quantity entities, Water quality entities, Water reference data are the three entities in the Water Data Model. 
+    - content: Water quantity entities, Water quality entities, Water intensity factor. 
+      isCorrect: false
+      explanation: Water quantity entities, Water quality entities, Water reference data are the three entities in the Water Data Model.
+    - content: Water quantity entities, Water quality entities, Water reference data.
+      isCorrect: true
+      explanation: Water quantity entities, Water quality entities, Water reference data are the three entities in the Water Data Model.
+    - content:  Water quantity entities, Water reference data, Water recycling data. 
+      isCorrect: false
+      explanation: Water quantity entities, Water quality entities, Water reference data are the three entities in the Water Data Model.
+  - content: Why do organizations drive corporate water sustainability goals? 
+    choices:
+    - content: To meet regulatory disclosures. 
+      isCorrect: false
+      explanation: Water sustainability in Microsoft Sustainability Manager enables organizations to record, estimate, analyze, and report on water quantity and quality data to meet use cases such as water sustainability disclosures and regulatory water quality reporting.
+    - content: To meet regulatory acts, directives and environmental, social, and governance (ESG) disclosure rules. 
+      isCorrect: true
+      explanation: Water sustainability in Microsoft Sustainability Manager enables organizations to record, estimate, analyze, and report on water quantity and quality data to meet use cases such as water sustainability disclosures and regulatory water quality reporting.
+    - content: Report on contaminants and chemicals data for facilities and across organization. 
+      isCorrect: false
+      explanation: Water sustainability in Microsoft Sustainability Manager enables organizations to record, estimate, analyze, and report on water quantity and quality data to meet use cases such as water sustainability disclosures and regulatory water quality reporting.
+    - content: Monitor and report to the organization's management.  
+      isCorrect: false
+      explanation: Water sustainability in Microsoft Sustainability Manager enables organizations to record, estimate, analyze, and report on water quantity and quality data to meet use cases such as water sustainability disclosures and regulatory water quality reporting.
+  - content: Which of the following waste quantity entities are part of the data model?
+    choices:
+    - content: Waste Disposed, Upstream Raw Material Supplier, Waste Quantity.
+      isCorrect: true
+      explanation: YourExplanation
+    - content: Waste Disposed, Waste Processing Unit, Facility.
+      isCorrect: false
+      explanation: YourExplanation
+    - content: Waste Disposed, Waste Processing, Waste Quantity. 
+      isCorrect: false
+      explanation: YourExplanation
+    - content: Waste Quantity, Waste Quality, Waste Processing. 
+      isCorrect: false
+      explanation: YourExplanation
+  - content: Waste sustainability is calculated using which of the following parameter? 
+    choices:
+    - content: Waste Quantity
+      isCorrect: false
+      explanation: Waste Generated = Waste Diverted from Disposal + Waste Diverted to Disposal.
+    - content: Waste quality 
+      isCorrect: false
+      explanation: Waste Generated = Waste Diverted from Disposal + Waste Diverted to Disposal.
+    - content: Waste diverted from disposal 
+      isCorrect: true
+      explanation: Waste Generated = Waste Diverted from Disposal + Waste Diverted to Disposal.
+    - content: Waste reference data
+      isCorrect: false
+      explanation: Waste Generated = Waste Diverted from Disposal + Waste Diverted to Disposal.
+      

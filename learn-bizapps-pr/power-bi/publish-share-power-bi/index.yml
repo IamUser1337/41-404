@@ -1,0 +1,51 @@
+### YamlMime:Module 
+uid: learn-bizapps.publish-share-power-bi 
+metadata: 
+ title: Publish and share in Power BI
+ description: Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web. 
+ ms.date: 06/20/2022
+ author: ajburnle  
+ manager: kfollis 
+ ms.author: ajburnle  
+ ms.topic: module
+ ms.collection: get-started
+ #  
+ ms.service: powerbi
+title: Publish and share in Power BI
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web. 
+abstract: |  
+    In this module, you will: 
+    - Publish reports
+    - Print and export reports
+    - Build apps
+    - Integrate with OneDrive
+    - Publish to the web
+prerequisites: Access to Power BI Desktop 
+iconUrl: /training/achievements/publish-and-share-with-power-bi-desktop.svg
+levels:  
+- intermediate   
+roles:  
+- business-analyst
+- data-analyst  
+products:  
+- power-platform
+- power-bi 
+subjects:
+- data-visualization
+units:
+- learn-bizapps.publish-share-power-bi.1-introduction-content-packs 
+- learn-bizapps.publish-share-power-bi.2-publish-reports 
+- learn-bizapps.publish-share-power-bi.3-print-export-reports  
+- learn-bizapps.publish-share-power-bi.5-power-bi-mobile 
+- learn-bizapps.publish-share-power-bi.6-create-groups 
+- learn-bizapps.publish-share-power-bi.7-build-apps
+- learn-bizapps.publish-share-power-bi.8-use-apps 
+- learn-bizapps.publish-share-power-bi.10-integrate-onedrive 
+- learn-bizapps.publish-share-power-bi.11-publish-web 
+- learn-bizapps.publish-share-power-bi.12-check 
+- learn-bizapps.publish-share-power-bi.13-summary 
+badge: 
+  uid: learn-bizapps.publish-and-share-with-power-bi-desktop.badge

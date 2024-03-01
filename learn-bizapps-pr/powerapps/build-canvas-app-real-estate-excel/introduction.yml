@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-canvas-app-real-estate-excel.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to building a Power Apps canvas app for a real estate solution using data from Excel
+  ms.date: 09/22/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

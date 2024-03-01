@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-setup-organization.exercise-profile-data 
+title: Exercise - Set up a company profile and reference data
+metadata: 
+  title: Exercise - Set up a company profile and reference data
+  description: Practice setting up a company profile and reference data.
+  ms.date: 09/26/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 25 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-profile-data.md)] 

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.fetch-xml
+title: Use FetchXML to query data
+metadata:
+  title: Use FetchXML to query data
+  description: Learn how to use FetchXML to query data.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/fetch-xml.md)]

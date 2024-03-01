@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.introduction-smart-store-analytics.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 12/18/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: How does Smart Store Analytics extract store data for analysis?
+    choices:
+    - content: Through manual data entry by store managers
+      isCorrect: false
+      explanation: Incorrect. Smart Store Analytics doesn't extract store data through manual data entry by store managers.
+    - content: By integrating with AiFi's systems and using AI services from Microsoft Power BI and Cloud for Retail 
+      isCorrect: true
+      explanation: Correct. Smart Store Analytics extracts store data by integrating with AiFi's systems and using AI services from Microsoft Power BI and Cloud for Retail.
+    - content: By using a separate mobile app
+      isCorrect: false
+      explanation: Incorrect. Smart Store Analytics doesn't extract store data by using a separate mobile app.
+    - content: By connecting directly to Microsoft Azure Synapse database templates
+      isCorrect: false
+      explanation: Incorrect. Smart Store Analytics doesn't extract store data by connecting directly to Microsoft Azure Synapse database templates.
+  - content: What are the key areas where Smart Store Analytics provides insights for store managers?
+    choices:
+    - content: Employee scheduling and training
+      isCorrect: false
+      explanation: Incorrect. Employee scheduling and training aren't key insight areas.
+    - content: Store security and surveillance
+      isCorrect: false
+      explanation: Incorrect. Store security and surveillance aren't key insight areas.
+    - content: Store layout, product catalog, product placement, and promotions
+      isCorrect: true
+      explanation: Correct. Key insight areas are store layout, product catalog, product placement, and promotions.
+    - content: Customer demographics and social media engagement
+      isCorrect: false
+      explanation: Incorrect. Customer demographics and social media engagement aren't key insight areas.
+  - content: How does Smart Store Analytics integrate with AiFi's data?
+    choices:
+    - content: Through a separate non-Microsoft application
+      isCorrect: false
+      explanation: Incorrect. Smart Store Analytics doesn't integrate with AiFi data through a separate non-Microsoft application.
+    - content: Through the Smart Store Analytics data lake
+      isCorrect: false
+      explanation: Incorrect. Smart Store Analytics doesn't integrate with AiFi data through the Smart Store Analytics data lake.
+    - content: By using the AiFi Connector from Cloud for Retail
+      isCorrect: true
+      explanation: Correct. Smart Store Analytics integrates with AiFi data by using the AiFi Connector from Cloud for Retail.
+    - content: By directly accessing Microsoft Azure Machine Learning packages
+      isCorrect: false
+      explanation: Incorrect. Smart Store Analytics doesn't integrate with AiFi data by directly accessing Microsoft Azure Machine Learning packages.

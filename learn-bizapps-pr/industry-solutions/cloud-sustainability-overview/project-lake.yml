@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cloud-sustainability-overview.project-lake
+title: Project ESG Lake solution
+metadata:
+  title: Project ESG Lake solution
+  description: Learn about the capabilities of the Project ESG Lake solution.
+  ms.date: 09/20/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: interactive-tutorial
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/project-lake.md)]

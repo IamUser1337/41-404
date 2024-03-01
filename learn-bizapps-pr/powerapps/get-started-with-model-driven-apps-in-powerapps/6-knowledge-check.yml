@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.6-knowledge-check
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What components make up model-driven apps?
+    choices:
+    - content: Tables, Columns, Relationships, and Choice columns
+      isCorrect: false
+      explanation: Not quite, these components make up the Data components. The other main components include User Interface, Logic, and Visualizations.
+    - content: Charts, Dashboards, and Embedded Microsoft Power BI
+      isCorrect: false
+      explanation: These items are part of the Visualizations component. Along with visualizations, the other components include Data, User Interface, and Logic.
+    - content: Data, User interface, Logic, and Visualizations
+      isCorrect: true
+      explanation: Correct! The components of model-driven apps include Data, User interface, Logic, and Visualizations.
+    - content: Data and Visualizations
+      isCorrect: false
+      explanation: Data and Visualizations are two of the components, but you need to include User Interface and Logic.
+  - content: If you wanted to create a standard procedure or process for handling service requests what type of logic would be best to implement?
+    choices:
+    - content: Business process flow
+      isCorrect: true
+      explanation: Business process flow logic should be used.
+    - content: Business rule
+      isCorrect: false
+      explanation: Business process flow logic should be used.
+    - content: Workflow
+      isCorrect: false
+      explanation: Business process flow logic should be used.
+    - content: Flow
+      isCorrect: false
+      explanation: Business process flow logic should be used.
+  - content: When you share a model-driven app, which of the following statements is true?
+    choices:
+    - content: Users just need to be added to a predefined security role.
+      isCorrect: false
+      explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.
+    - content: Users just need to be added to a custom security role.
+      isCorrect: false
+      explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.
+    - content: Model-driven apps don't need to be shared, they're accessible to anyone with the app link.
+      isCorrect: false
+      explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.
+    - content: Users need to be added to a predefined or custom security role and then you also need to assign one or more security roles to the app.
+      isCorrect: true
+      explanation: To share a model-driven app, you need to add a user to a security role that is assigned to the app.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.medical-imaging-data.use-case-medical-imaging
+title: Use case 1 - Medical imaging query and cohort
+metadata:
+  title: Use case 1 - Medical imaging query and cohort
+  description: Explore the medical imaging query and cohort use case.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/use-case-medical-imaging.md)]

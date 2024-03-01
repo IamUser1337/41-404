@@ -1,0 +1,1 @@
+Power Automate for desktop provides an extensive group of Microsoft Excel actions that can automate most Excel-related business tasks. Through these actions, you can launch and close Excel files, manage worksheets, and enter, retrieve, or select data.

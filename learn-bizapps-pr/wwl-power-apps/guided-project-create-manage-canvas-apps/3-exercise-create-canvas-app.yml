@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-canvas-apps.exercise-create-canvas-app
+title: Exercise - Create a canvas app that connects to a data source
+metadata:
+  title: Exercise - Create a canvas app that connects to a data source
+  description: "Test your ability to build a canvas app and connect to a data source."
+  ms.date: 11/07/2023
+  author: wwlpublish
+  ms.author: brianmoring
+  ms.topic: unit
+  ms.service: power-platform
+durationInMinutes: 30
+content: |
+  [!include[](includes/3-exercise-create-canvas-app.md)]

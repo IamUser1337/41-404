@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.4-column-data-types
+title: Evaluate and change column data types
+metadata:
+  title: Evaluate and change column data types
+  description: "Learn how to evaluate and change column data types."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](includes/4-column-data-types.md)]

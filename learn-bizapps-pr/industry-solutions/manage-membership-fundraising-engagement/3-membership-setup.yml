@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-membership-fundraising-engagement.3-membership-setup 
+title: Membership setup
+metadata: 
+  title: Membership setup
+  description: Learn how to set up memberships.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-membership-setup.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.configure-settings-fundraising-engagement.5-budgets 
+title: Budgets
+metadata: 
+  title: Budgets
+  description: Budgets are where you can assign funds towards a particular objective. 
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-budgets.md)] 

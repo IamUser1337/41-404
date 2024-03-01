@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.model-driven-app-solution.2-model-driven-app-solution 
+title: Complete model-driven app solution
+metadata: 
+  title: Complete model-driven app solution
+  description: Learn about the complete model-driven app solution.
+  ms.date: 01/14/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-model-driven-app-solution.md)] 

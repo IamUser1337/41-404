@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.home-health.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/06/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following is a key capability of Home Health?
+    choices: 
+    - content: Provider scheduling
+      isCorrect: true
+      explanation: Provider scheduling is a key capability of Home Health.
+    - content: Event management
+      isCorrect: false
+      explanation: Provider scheduling is a key capability of Home Health.
+    - content: Patient segmentation
+      isCorrect: false
+      explanation: Provider scheduling is a key capability of Home Health.
+    - content: Virtual clinic
+      isCorrect: false 
+      explanation: Provider scheduling is a key capability of Home Health.
+  - content: Which of the following terms is defined as anything that needs to be scheduled in Microsoft Cloud for Healthcare?
+    choices: 
+    - content: Booking
+      isCorrect: false
+      explanation: A bookable resource is defined as anything that needs to be scheduled in Microsoft Cloud for Healthcare.
+    - content: Bookable resource
+      isCorrect: true 
+      explanation: A bookable resource is defined as anything that needs to be scheduled in Microsoft Cloud for Healthcare.
+    - content: Bookable resource booking
+      isCorrect: false 
+      explanation: A bookable resource is defined as anything that needs to be scheduled in Microsoft Cloud for Healthcare.
+    - content: Resource
+      isCorrect: false 
+      explanation: A bookable resource is defined as anything that needs to be scheduled in Microsoft Cloud for Healthcare.
+  - content: Which one of the following classifications describes who or what the resource is and how the resource relates to your organization?
+    choices: 
+    - content: Resource characteristic
+      isCorrect: false
+      explanation: A resource type is a classification that describes who or what the resource is and how the resource relates to your organization.
+    - content: Resource type
+      isCorrect: true 
+      explanation: A resource type is a classification that describes who or what the resource is and how the resource relates to your organization.
+    - content: Contact type
+      isCorrect: false 
+      explanation: A resource type is a classification that describes who or what the resource is and how the resource relates to your organization.
+    - content: User
+      isCorrect: false 
+      explanation: A resource type is a classification that describes who or what the resource is and how the resource relates to your organization.
+  - content: What app allows you to connect to Bing Maps?
+    choices: 
+    - content: Home Health
+      isCorrect: false
+      explanation: Resource scheduling allows you to connect to Bing Maps.
+    - content: Resource Scheduling
+      isCorrect: true 
+      explanation: Resource scheduling allows you to connect to Bing Maps.
+    - content: Field Service
+      isCorrect: false 
+      explanation: Resource scheduling allows you to connect to Bing Maps.
+    - content: Field Service Mobile
+      isCorrect: false 
+      explanation: Resource scheduling allows you to connect to Bing Maps.

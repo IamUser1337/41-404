@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.medtech-iot 
+metadata: 
+ title: MedTech service with IoT devices
+ description: Learn about MedTech service with IoT devices in Microsoft Cloud for Healthcare.
+ ms.date: 11/30/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: MedTech service with IoT devices
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  In this module, you'll learn how to enable IoT data scenarios for remote patient monitoring. 
+abstract: |  
+    In this module, you'll: 
+    - Enable IoT data scenarios for remote patient monitoring.
+    - Ingest data from devices.
+prerequisites: None
+iconUrl: /training/achievements/medtech-iot.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions 
+- mscloud-healthcare
+subjects: 
+- business-applications
+- data-modeling
+units: 
+- learn-bizapps.medtech-iot.introduction 
+- learn-bizapps.medtech-iot.devices 
+- learn-bizapps.medtech-iot.data 
+- learn-bizapps.medtech-iot.wellness-trend-notifications 
+- learn-bizapps.medtech-iot.patient-reported-outcomes-interface 
+- learn-bizapps.medtech-iot.check 
+- learn-bizapps.medtech-iot.summary 
+badge: 
+  uid: learn-bizapps.medtech-iot.badge 

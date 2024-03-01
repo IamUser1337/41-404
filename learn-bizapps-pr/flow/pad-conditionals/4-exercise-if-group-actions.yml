@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-conditionals.4-exercise-if-group-actions 
+title: Exercise - If group of actions
+metadata: 
+  title: Exercise - If group of actions
+  description: An exercise with the 'If' group of actions
+  ms.date: 10/27/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise-if-group-actions.md)] 

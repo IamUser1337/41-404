@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-power-bi-reporting.setup
+title: Set up
+metadata:
+  title: Set up
+  description: "Set up"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/2-set-up.md)]

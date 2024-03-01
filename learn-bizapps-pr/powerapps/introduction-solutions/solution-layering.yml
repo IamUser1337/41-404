@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-solutions.solution-layering 
+title: Solution layering
+metadata: 
+  title: Solution layering
+  description: Learn about solution layering.
+  ms.date: 08/31/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/solution-layering.md)] 

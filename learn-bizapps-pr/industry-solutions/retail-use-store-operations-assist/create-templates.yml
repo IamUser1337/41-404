@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist.create-templates
+title: Exercise - Create templates
+metadata:
+  title: Exercise - Create templates
+  description: Follow the steps to create a form template, an inventory spot count template, and a product price update template.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-templates.md)]

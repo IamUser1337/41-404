@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.azure-health-data-services.azure-services-tools 
+title: Azure Health Data Services tools and connectors 
+metadata: 
+  title: Azure Health Data Services tools and connectors 
+  description: Learn about the tools and connectors in Azure Health Data Services. 
+  ms.date: 11/30/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/azure-services-tools.md)] 

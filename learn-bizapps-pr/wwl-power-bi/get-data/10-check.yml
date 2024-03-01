@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-data.10-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: "Knowledge Check"
+  questions:
+  - content: "When connecting to a SQL Server database to get data, what language should you use to extract data?"
+    choices:
+    - content: "DAX"
+      isCorrect: false
+      explanation: "Incorrect. You would use DAX language with Power BI and Azure Analysis Services."
+    - content: "T-SQL"
+      isCorrect: true
+      explanation: "Correct. T-SQL is the query language that you would use for SQL Server."
+    - content: "MDX"
+      isCorrect: false
+      explanation: "Incorrect. You would use MDX language with Azure Analysis Services."
+  - content: "You're creating a Power BI report with data from an Azure Analysis Services MDX Cube. When the data refreshes in the cube, you would like to see it immediately in the Power BI report. How should you connect?"
+    choices:
+    - content: "Import"
+      isCorrect: false
+      explanation: "Incorrect. This will import the data into Power BI on a scheduled interval."
+    - content: "T-SQL"
+      isCorrect: false
+      explanation: "Incorrect. This option doesn't exist when connecting to AAS cubes."
+    - content: "Live connection"
+      isCorrect: true
+      explanation: "Correct. This will reflect cube changes immediately."
+  - content: "What can you do to improve performance when you're getting data in Power BI?"
+    choices:
+    - content: "Remove unnecessary columns and rows"
+      isCorrect: true
+      explanation: "Correct. Always use the least amount of data needed for your project."
+    - content: "Export database files to CSV to load"
+      isCorrect: false
+      explanation: "Incorrect. Database connections allow query folding, which is more efficient than flat files."
+    - content: "Combine date and time columns into a single column"
+      isCorrect: false
+      explanation: "Incorrect. Separating date and time will improve compression and thus performance."

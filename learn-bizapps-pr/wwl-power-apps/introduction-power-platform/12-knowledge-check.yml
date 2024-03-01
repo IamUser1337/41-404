@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 4
+content: |
+  [!include[](includes/12-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Which of the following Microsoft Power Platform components would you use when you need to create a customer-facing website with self-support options?"
+    choices:
+    - content: "Power Pages"
+      isCorrect: true
+      explanation: "Correct. This answer is correct as Power Pages is used to create external-facing websites that allow users outside your organization to sign in and create and view data in Dataverse."
+    - content: "Power Apps"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect as Power Apps creates apps."
+    - content: "Power Automate"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect as Power Automate is used to create automated business process solutions."
+  - content: "Your team is frustrated with the number of times they have to perform basic data entry on project startup. There are many divisions who need the information and sometimes human error results in mistakes, making it more difficult to make sense of your information. Which program would be the most help in this situation?"
+    choices:
+    - content: "Power Apps"
+      isCorrect: false
+      explanation: "Incorrect. Although you could design an app to assist with data entry, you would still need Power Automate to ensure it gets to all the correct places."
+    - content: "Power Automate"
+      isCorrect: true
+      explanation: "Correct. Power Automate can create automated information workflows so that data entry only has to occur once."
+    - content: "Power BI"
+      isCorrect: false
+      explanation: "Incorrect. Power BI could help you analyze your project data, but it doesn't help you to reduce the number of times you enter the data."
+  - content: "A client likes the idea of implementing a Microsoft Power Platform solution, but is concerned about the ability to interact with a custom API. How should you respond?"
+    choices:
+    - content: "Microsoft Power Platform offers the ability to create custom connectors for this purpose, which allow you to connect to Power Apps and Power Automate."
+      isCorrect: true
+      explanation: "Correct. You can build out a custom connector to bridge your app or workflow to the API."
+    - content: "Microsoft Power Platform has over 900 connectors to use in these situations."
+      isCorrect: false
+      explanation: "Incorrect. While the statement is accurate, a custom API would require a custom connector."
+    - content: "Microsoft Power Platform uses connectors that hold a series of functions available for developers."
+      isCorrect: false
+      explanation: "Incorrect. APIs hold a series of functions available for developers. Connectors allow you to push the information and functions back and forth from your data source."
+  - content: "What is Copilot Studio?"
+    choices:
+    - content: "A tool for creating and editing videos."
+      isCorrect: false
+      explanation: "Incorrect. Copilot Studio isn't related to video editing."
+    - content: "A tool for managing social media accounts."
+      isCorrect: false
+      explanation: "Incorrect. Copilot Studio isn't related to social media management."
+    - content: "A tool for building copilots."
+      isCorrect: true
+      explanation: "Correct. Copilot Studio is a tool for building copilots, which are bots that simulate human conversation through a chat interface."

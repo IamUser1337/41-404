@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn.wwl.mapping-learning-to-power-bi
+metadata:
+  title: 'Prepare to teach the module: Map learning to Power BI'
+  description: "Prepare to teach the module: Map learning to Power BI"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Map learning to Power BI'
+summary: Deliver the “Mapping Learning to Power BI” module of instructor-led course “Modern Excel Analyst in a day” and extend student’s Excel skills to Power BI Desktop and Power BI Service.
+abstract: |
+  After the completion of this module, you will be able to explain and demonstrate how to:
+  - Extend Excel skills and knowledge into Power BI desktop and Power BI service
+  - Create Power BI visuals
+  - Create reports with conditional formatting in Power BI
+  - Implement Row Level Security (RLS) in Power BI service
+  - Publish reports with Power BI service
+prerequisites: |
+  - Basic familiarity with data analysis and reporting tools.
+  - Experience with Excel.
+iconUrl: /training/achievements/mapping-learning-to-power-bi.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- office-excel
+- power-bi
+subjects:
+- productivity
+units:
+- learn.wwl.mapping-learning-to-power-bi.introduction
+- learn.wwl.mapping-learning-to-power-bi.desktop-introduction
+- learn.wwl.mapping-learning-to-power-bi.visuals-security
+- learn.wwl.mapping-learning-to-power-bi.publishing-promoted
+- learn.wwl.mapping-learning-to-power-bi.lab02-desktop
+- learn.wwl.mapping-learning-to-power-bi.knowledge-check
+- learn.wwl.mapping-learning-to-power-bi.summary
+badge:
+  uid: learn.wwl.mapping-learning-to-power-bi.badge

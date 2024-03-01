@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.process-gifts.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/1/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When creating a transaction record, what are the two **types** of transaction the gift can be categorized as?
+    choices: 
+    - content: Donation and soft credit
+      isCorrect: true 
+      explanation: A transaction type can be either donation or soft credit.
+    - content: Soft credit and gift in kind
+      isCorrect: false 
+      explanation: Soft credit is a type of transaction, but a gift in kind is a type of donation.
+    - content: Donor commitment and soft credit
+      isCorrect: false 
+      explanation: Soft credit is a type of transaction, but a donor commitment isn't.
+    - content: Donation and pledge
+      isCorrect: false 
+      explanation: Donation is a type of transaction, but a pledge isn't.
+  - content: In what situation would a donor commitment be created as opposed to a transaction?
+    choices: 
+    - content: An individual attends a fundraising event and donates $100 in cash.
+      isCorrect: false 
+      explanation: A transaction record will be created in this instance.
+    - content: On the first of the month every month, an organization makes a donation of $1000.
+      isCorrect: false 
+      explanation: A payment schedule for a recurring donation will be created in this instance.
+    - content: A company pledges a donation of $50,000 for your Christmas campaign.
+      isCorrect: true 
+      explanation: Correct, this is a donor commitment as there's no agreed payment date and no monetary value has been processed yet.
+  - content: A pledge schedule is created for an organization. The amount of the pledge is $12,000 to be allocated over six months. How many pledge allocation records would be created, and what is their value?
+    choices: 
+    - content: Six pledge allocations of $2000
+      isCorrect: true 
+      explanation: There will be six payments in total, of $2000 a month.
+    - content: Six pledge allocations of $12,000
+      isCorrect: false 
+      explanation: The total amount should be divided by six.
+    - content: Two pledge allocations of $6000
+      isCorrect: false 
+      explanation: There should be six pledge allocations.
+    - content: Two pledge allocations of $12,000
+      isCorrect: false 
+      explanation: There should be six pledge allocations.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.continuous-deployment-power-platform.continuous-deployment-workflow
+title: Continuous deployment workflow example
+metadata:
+  title: Continuous deployment workflow example
+  description: View diagrams and a video showing a continuous deployment workflow example.
+  ms.date: 05/06/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/continuous-deployment-workflow.md)]

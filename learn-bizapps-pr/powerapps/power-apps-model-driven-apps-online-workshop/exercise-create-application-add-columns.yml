@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-model-driven-apps-online-workshop.exercise-create-application-add-columns 
+title: Exercise - Create an app and add columns to the Machine Order table
+metadata: 
+  title: Exercise - Create an app and add columns to the Machine Order table
+  description: Follow the steps to create an application and add columns to the Machine Order table.
+  ms.date: 02/16/2024
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 20
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-create-application-add-columns.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-effective-bots.topics
+title: Topics
+metadata:
+  title: Topics
+  description: Learn about topics, which represent paths that the system takes a customer on while they're interacting with a bot.
+  ms.date: 04/11/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/topics.md)]

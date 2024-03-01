@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-canvas-app-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/31/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is a gallery?
+    choices: 
+    - content: A component for displaying a series of data on a canvas app screen
+      isCorrect: true 
+      explanation: Correct. Typically, you’d use a gallery to display items that include images. Galleries can be vertical or horizontal.
+    - content: A type of screen for a canvas app
+      isCorrect: false 
+      explanation: Incorrect. A gallery is placed on a canvas app screen.
+    - content: A pre-configured data entry page
+      isCorrect: false 
+      explanation: Incorrect. Galleries are for displaying data, not necessarily for editing it. You would drill down into a data record for any needed edits.
+    - content: A component to display notifications in a canvas app
+      isCorrect: false 
+      explanation: Incorrect. A gallery displays items that typically include images.
+  - content: What is the minimum number of screens for a canvas app?
+    choices: 
+    - content: One
+      isCorrect: true 
+      explanation: Correct. Many canvas apps are simple and accomplish their goals on a single screen.
+    - content: Two
+      isCorrect: false 
+      explanation: Incorrect. Many canvas apps are simple and accomplish their goals on a single screen.
+    - content: Three
+      isCorrect: false 
+      explanation: Incorrect. Many canvas apps are simple and accomplish their goals on a single screen.
+    - content: Four
+      isCorrect: false 
+      explanation: Incorrect. Many canvas apps are simple and accomplish their goals on a single screen.
+  - content: Navigate(‘DetailScreen’) is an example of what?
+    choices: 
+    - content: JavaScript
+      isCorrect: false 
+      explanation: Incorrect. While you can use JavaScript with Microsoft Power Platform, Navigate(‘DetailScreen’) is a Power Fx formula.
+    - content: Power Fx formula – low code
+      isCorrect: true 
+      explanation: Correct. Low code formulas with Power Fx enable more users to develop their own custom apps.
+    - content: Connector
+      isCorrect: false 
+      explanation: Incorrect. A connector is used to bring data and actions to a canvas app from an external service.

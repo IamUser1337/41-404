@@ -1,0 +1,16 @@
+﻿### YamlMime:ModuleUnit 
+uid: learn-bizapps.developer-tools-extend.summary 
+title: Summary
+metadata: 
+  title: Summary  
+  description: Review what you've learned about the available developer tools on Microsoft Power Platform. 
+  ms.date: 09/27/2023 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: interactive-tutorial 
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+durationInMinutes: 1 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/summary.md)] 

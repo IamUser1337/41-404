@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.6-build-visual 
+title: Build a visual
+metadata: 
+  title: Build a visual
+  description: Learn about the difference in processes for building a visual in Power BI.
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-build-visual.md)] 

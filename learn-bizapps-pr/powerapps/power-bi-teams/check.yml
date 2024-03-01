@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-teams.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/06/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How do you connect to a Dataverse database from Power BI Desktop?
+    choices: 
+    - content: You can't connect to Dataverse from Power BI Desktop.
+      isCorrect: false 
+      explanation: Incorrect. You can connect to Dataverse by using the Dataverse connector.
+    - content: You don't need to connect to Dataverse because Power BI is always connected to the database.
+      isCorrect: false 
+      explanation: Incorrect. You do need to connect and you can connect to Dataverse by using the Dataverse connector.
+    - content: You must connect from Teams and then reload Power BI Desktop.
+      isCorrect: false 
+      explanation: Incorrect. Power BI Desktop is an independent app from Teams.
+    - content: Select the Dataverse icon located on the ribbon, sign in to your Dataverse environment, and then select Connect.
+      isCorrect: true 
+      explanation: Correct. Select the Dataverse icon located on the ribbon, sign in to your Dataverse environment, and then select Connect.
+  - content: After you finish transforming your data, how do you apply your changes and close the Power Query Editor?
+    choices: 
+    - content: Select Close & Apply and then select Close & Apply.
+      isCorrect: true 
+      explanation: Correct. You need to select Close & Apply.
+    - content: The changes will be applied automatically after you close the Power Query Editor.
+      isCorrect: false 
+      explanation: Incorrect. You need to select Close & Apply.
+    - content: Refresh the Power Query Editor and the changes will be applied.
+      isCorrect: false 
+      explanation: Incorrect. Changes are only applied after you select Close & Apply.
+    - content: Publish your changes and then close the Power Query Editor.
+      isCorrect: false 
+      explanation: Incorrect. You'll apply your changes by selecting Close & Apply.
+  - content: Can you create a hierarchy that will allow you to drill into data?
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: Correct. You can create a hierarchy that allows you to drill down into detail data.
+    - content: No
+      isCorrect: false 
+      explanation: Incorrect. You can create a hierarchy that allows you to drill down into detail data.

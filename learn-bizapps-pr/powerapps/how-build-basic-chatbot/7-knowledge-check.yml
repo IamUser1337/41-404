@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.how-to-build-basic-chatbot.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "You can have up to how many topics in a chatbot?"
+    choices:
+    - content: "100"
+      isCorrect: false
+      explanation: "Incorrect."
+    - content: "1000"
+      isCorrect: true
+      explanation: "Correct. You can have up to 1000 topics in a chatbot."
+    - content: "2000"
+      isCorrect: false
+      explanation: "Incorrect. You cannot have 2000 topics in a Power Virtual Agents chatbot."
+  - content: "When testing your chatbot, what would best help you find and fix unexpected behavior?"
+    choices:
+    - content: "Selecting the same response"
+      isCorrect: false
+      explanation: "Incorrect. Selecting the same response would not best help you find and fix unexpected behavior."
+    - content: "Enabling tracking between topics"
+      isCorrect: true
+      explanation: "Correct. As you fine-tune your chatbot, it can be useful to enable tracking between topics so you can follow through the conversation path step by step."
+    - content: "Creating new topics"
+      isCorrect: false
+      explanation: "Incorrect. Creating new topics would not best help you find and fix unexpected behavior."
+  - content: "Which of the following is a valid reason for a chatbot session to end?"
+    choices:
+    - content: "The session has more than 100 turns"
+      isCorrect: true
+      explanation: "Correct. Chatbot sessions can end if a session has more than 100 turns."
+    - content: "The session is longer than 90 minutes"
+      isCorrect: false
+      explanation: "Incorrect. The first message that occurs after 60 minutes - not 90 minutes - starts a new session."
+    - content: "The session has more than 50 turns"
+      isCorrect: false
+      explanation: "Incorrect. A user can end the chat session."

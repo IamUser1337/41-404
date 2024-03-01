@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-model-driven.4-exercise
+title: Exercise - Modify a view in a model-driven app
+metadata:
+  title: Exercise - Modify a view in a model-driven app
+  description: Follow the steps to modify a view in a model-driven app.
+  ms.date: 11/07/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 11
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-exercise.md)]

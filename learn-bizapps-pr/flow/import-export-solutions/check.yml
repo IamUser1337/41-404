@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.import-export-solutions.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 03/11/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+ 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You've hardcoded a value in a cloud flow action and want to have a different value override it in other environments. What should you do to resolve the problem while maintaining a healthy ALM? 
+    choices: 
+    - content: Edit the flow after deployment to each environment.
+      isCorrect: false
+      explanation: Incorrect. Editing a cloud flow outside of a development environment doesn't maintain a healthy ALM. An environment variable would let you establish a default value and then override it in each environment where the flow is deployed to.
+    - content: Use an environment variable.
+      isCorrect: true 
+      explanation: Correct. An environment variable would let you establish a default value and then override it in each environment where the flow is deployed to.
+    - content: Use a connection reference. 
+      isCorrect: false 
+      explanation: Incorrect. A connection reference wouldn't help with a hard-coded value. An environment variable would let you establish a default value and then override it in each environment where the flow is deployed to.
+    - content: Export the solution as Managed. 
+      isCorrect: false 
+      explanation: Incorrect. Exporting a solution as Managed or Unmanaged has no impact on having different values in each environment. An environment variable would let you establish a default value and then override it in each environment where the flow is deployed to.
+  - content: You're exporting a solution to transport it to a non-development environment. When prompted for Export as type, which option should you choose? 
+    choices: 
+    - content: Unmanaged
+      isCorrect: false
+      explanation: Incorrect. Solutions should be transported to non-development environments by using managed solutions.
+    - content: Backup
+      isCorrect: false 
+      explanation: Incorrect. Backup isn't a valid Export as type; only Managed and Unmanaged are. Solutions should be transported to non-development environments by using managed solutions.
+    - content: Managed
+      isCorrect: true 
+      explanation: Correct. Solutions should be transported to non-development environments by using managed solutions.
+  - content: Which of the following options is not a benefit of using solutions with cloud flows? 
+    choices: 
+    - content: Using solutions makes cloud flows run faster. 
+      isCorrect: true 
+      explanation: Correct. Cloud flows run the same speed whether in a solution or not.
+    - content: Solutions act as a container to make it easier to manage related resources, including cloud flows. 
+      isCorrect: false 
+      explanation: Incorrect. This option describes a benefit of using solutions.
+    - content: Solutions can be exported and stored in source control for version tracking. 
+      isCorrect: false 
+      explanation: Incorrect. This option describes a benefit of using solutions.
+    - content: Solutions enable the transport of the collection of resources from one environment to another with straightforward export and import actions. 
+      isCorrect: false 
+      explanation: Incorrect. This option describes a benefit of using solutions.

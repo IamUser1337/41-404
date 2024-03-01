@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.functional-consultant-skills.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/13/2021
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+   
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/13-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Which of the following would be the functional consultant’s role?"
+    choices:
+    - content: "Be the voice between business and tech"
+      isCorrect: true
+      explanation: "The functional consultant plays a unique role that enables them to be able to communicate and translate between these two sets of stakeholders."
+    - content: "Design the data model"
+      isCorrect: false
+      explanation: "A solution architect would do this."
+    - content: "Build a custom connector"
+      isCorrect: false
+      explanation: "A professional developer would do this."
+  - content: "Which of the following are characteristics of logical data models?"
+    choices:
+    - content: "It includes precisely defined relationships"
+      isCorrect: false
+      explanation: "This is a characteristic of a physical data model."
+    - content: "It includes the way data flows through the system."
+      isCorrect: true
+      explanation: "Logical data models are high-level diagrams that show the way that data flows through the system."
+    - content: "It includes column-level information about the tables."
+      isCorrect: false
+      explanation: "This is a characteristic of a physical data model."
+  - content: "Which of the following is a well written functional requirement?"
+    choices:
+    - content: "From the quote, select the submit button to send the quote for approval."
+      isCorrect: false
+      explanation: "This functional requirement does not capture the who, what, and why of the requirement."
+    - content: "As a sales manager, I need to be able to reject discounts on quotes, so that the sales team does not offer unapproved discounts."
+      isCorrect: true
+      explanation: "This functional requirement clearly captures the who, what and why of the requirement."
+    - content: "Quotes can be approved and rejected."
+      isCorrect: false
+      explanation: "This functional requirement does not capture the who and why of the requirement."

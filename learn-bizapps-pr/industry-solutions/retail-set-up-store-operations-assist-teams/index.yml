@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.retail-set-up-store-operations-assist-teams 
+metadata: 
+ title: Set up Store Operations Assist Teams
+ description: Learn how to set up Store Operations Assist Teams in Microsoft Cloud for Retail.
+ ms.date: 02/22/2024
+ author: lavanyapg 
+ ms.author: lsuresh 
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Set up Store Operations Assist Teams
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  In this module, you can experiment with and gain hands-on experience in setting up Store Operations Assist Teams.
+abstract: | 
+    In this module, you'll learn how to: 
+    - Enable the search settings.
+    - Use retail team templates to create teams.
+    - Set up environment variables for Store Operations Assist Teams.
+    - Enable user access to Store Operations Assist Teams.
+    - Create and assign app setup policies for frontline workers.
+prerequisites: You must complete the entire learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) before you can complete this one.
+iconUrl: /learn/achievements/retail-set-up-store-operations-assist-teams.svg 
+levels: 
+- intermediate 
+roles: 
+- functional-consultant 
+- administrator 
+products: 
+- mscloud-retail
+- industry-solutions 
+subjects: 
+- business-applications
+units: 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.introduction 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-search-setting 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-templates 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-environment-variables 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-user-access 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-app-setup-policies 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.check 
+- learn-bizapps.retail-set-up-store-operations-assist-teams.summary 
+badge: 
+  uid: learn-bizapps.retail-set-up-store-operations-assist-teams.badge 

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-calculated-tables.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/15/2022
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 3 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which statement about calculated tables is true?
+    choices: 
+    - content: Calculated tables increase the size of the semantic model.
+      isCorrect: true 
+      explanation: Calculated tables store data inside the model, and adding them results in a larger model size.
+    - content: Calculated tables are evaluated by using row context.
+      isCorrect: false 
+      explanation: Calculated tables aren't evaluated in any context. Calculated columns are evaluated in row context.
+    - content: Calculated tables are created in Power Query.
+      isCorrect: false 
+      explanation: Calculated tables are created in the model by using DAX. It's not possible to create a calculated table by using Power Query.
+    - content: Calculated tables cannot include calculated columns.
+      isCorrect: false 
+      explanation: Calculated tables can include calculated columns. Columns originate either from the calculated table formula or from calculated columns that you add to the calculated table.
+  - content: Which statement about calculated columns is true?
+    choices: 
+    - content: Calculated columns are created in the Power Query Editor window.
+      isCorrect: false
+      explanation: Calculated columns are created in the model by using DAX. Computed columns are created in the Power Query Editor window by using M.
+    - content: Calculated column formulas are evaluated by using row context.
+      isCorrect: true 
+      explanation: Calculated column formulas are evaluated by using row context.
+    - content: Calculated column formulas can only reference columns from within their table.
+      isCorrect: false 
+      explanation: Calculated column formulas can reference columns from other tables, but they need to use the RELATED or RELATEDTABLE function.
+    - content: Calculated columns can't be related to non-calculated columns.
+      isCorrect: false 
+      explanation: Calculated columns behave like columns that are sourced from Power Query. They can be related to any other column in the model, provided that it's in a different table.
+  - content: You're developing a Power BI desktop model that sources data from an Excel workbook. The workbook has an employee table that stores one row for each employee. Each row has a reference to the employee's manager, which is also a row in the employee table. You need to add several columns to the Employee table in your model to analyze payroll data within the organization hierarchy (like, executive level, manager level, and so on). Which technique will you use to add the columns?
+    choices: 
+    - content: Add persisted columns to a table by using T-SQL.
+      isCorrect: false
+      explanation: The columns require naturalizing the parent-child relationship into columns. T-SQL can't be used to query the Excel workbook.
+    - content: Add column expressions in a view by using T-SQL.
+      isCorrect: false 
+      explanation: The columns require naturalizing the parent-child relationship into columns. T-SQL can't be used to query the Excel workbook.
+    - content: Add computed columns by using M.
+      isCorrect: false 
+      explanation: The columns require naturalizing the parent-child relationship into columns. M doesn't have built-in functions to complete this operation.
+    - content: Add calculated columns by using DAX.
+      isCorrect: true 
+      explanation: You can use the DAX parent-child functions to naturalize the recursive (employee-manager) relationship into columns.

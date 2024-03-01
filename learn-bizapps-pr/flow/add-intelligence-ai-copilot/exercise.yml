@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-intelligence-ai-copilot.exercise
+title: Exercise - Generate text with GPT in AI Builder and Power Automate
+metadata:
+  title: Exercise - Generate text with GPT in AI Builder and Power Automate
+  description: Follow the steps to generate text with GPT in AI Builder and Power Automate.
+  ms.date: 09/25/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

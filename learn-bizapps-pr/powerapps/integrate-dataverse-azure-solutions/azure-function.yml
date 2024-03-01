@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-dataverse-azure-solutions.azure-function
+title: Write an Azure Function that processes Microsoft Dataverse events
+metadata:
+  title: Write an Azure Function that processes Dataverse events
+  description: Learn how to write an Azure Function that processes Dataverse events.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+durationInMinutes: 40
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/azure-function.md)]

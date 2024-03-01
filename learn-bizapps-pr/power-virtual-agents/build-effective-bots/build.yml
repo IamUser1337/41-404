@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-effective-bots.build
+title: Build solutions
+metadata:
+  title: Build solutions
+  description: Learn how to design and build your solutions to get the correct information to the customer.
+  ms.date: 04/11/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/build.md)]

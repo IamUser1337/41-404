@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.application-lifecycle-management-architect.2-considerations
+title: Key considerations for ALM
+metadata:
+  title: Key considerations for ALM
+  description: Learn about the different strategies for application lifecycle management (ALM).
+  ms.date: 07/30/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-considerations.md)]

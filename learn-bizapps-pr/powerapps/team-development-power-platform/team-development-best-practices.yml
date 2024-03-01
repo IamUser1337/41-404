@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.team-development-power-platform.team-development-best-practices 
+title: Common pattern mistakes for team development
+metadata: 
+  title: Common pattern mistakes for team development
+  description: Learn about common pattern mistakes for team development.
+  ms.date: 05/06/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/team-development-best-practices.md)] 

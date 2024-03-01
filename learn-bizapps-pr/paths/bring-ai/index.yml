@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.bring-ai
+metadata:
+  title: Bring AI to your business with AI Builder
+  description: Learn how to bring AI Builder to your business.
+  ms.date: 4/27/2020
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Bring AI to your business with AI Builder
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Do you want to bring AI to your business to improve your business performance? This learning path introduces you to AI Builder, teaches you how to build models, and explains how you can use them in Power Apps and Power Automate. 
+
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
+
+prerequisites: |
+  - Signed up for Power Apps or Power Automate 
+  - Access to Microsoft Dataverse 
+iconUrl: /training/achievements/bring-ai-to-your-business-with-ai-builder.svg
+levels:
+- beginner
+roles: 
+- maker
+- business-user
+products:
+- ai-builder
+subjects:
+- artificial-intelligence
+- business-applications
+modules:
+- learn-bizapps.get-started-with-ai-builder
+- learn-bizapps.manage-models
+- learn-bizapps.ai-builder-text-generation
+trophy: 
+  uid: learn-bizapps.bring-ai-to-your-business-with-ai-builder-social.trophy

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-key-phrase-extraction.3-exercise 
+title: Build a Power Automate flow by using AI Builder Key phrase extraction
+metadata: 
+  title: Build a Power Automate flow by using AI Builder Key phrase extraction
+  description: Learn how to build a Power Automate flow by using AI Builder Key phrase extraction.
+  ms.date: 04/02/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 30 
+content: | 
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-exercise.md)] 

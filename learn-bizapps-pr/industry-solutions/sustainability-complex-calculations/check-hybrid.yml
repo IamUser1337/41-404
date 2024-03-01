@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-complex-calculations.check-hybrid
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/29/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following options is an example of indirect emissions in Scope 3 Category 1 accounting?
+    choices:
+    - content: Leased assets and employee commuting
+      isCorrect: false
+      explanation: Incorrect. Leased assets and employee commuting are examples of Scope 3 Category 7, 8, and 13.
+    - content: Upstream transportation and distribution
+      isCorrect: false
+      explanation: Incorrect. Upstream transportation and distribution is an example of Scope 3 Category 4.
+    - content: Business travel and generated waste
+      isCorrect: false
+      explanation: Incorrect. Business travel and generated waste are examples of Scope 3 Categories 5 and 6.
+    - content: All upstream cradle-to-gate emissions from the production of purchased products
+      isCorrect: true
+      explanation: Correct. Scope 3 Category 1 includes all upstream cradle-to-gate emissions from the production of purchased products.
+  - content: What is the rationale behind Devon pursuing a hybrid method for Scope 3 Category 1 emission?
+    choices:
+    - content: Devon had to account for farms that belong to the consortium and farms that don't belong to the consortium, and the former reported their average emissions.
+      isCorrect: true
+      explanation: Correct. Devon had to account for consortium farms and the farms that didn't report their emissions.
+    - content: Devon had to account for the hybrid-powered engines of the trucks that were used for transporting shipped goods from the Port of Houston to facilities.
+      isCorrect: false
+      explanation: Incorrect. Upstream transportation and distribution isn't covered by Scope 3 Category 1 emissions.
+    - content: Devon used a spend-based method for calculations that doesn't have a hybrid component.
+      isCorrect: false
+      explanation: Incorrect. Devon received the supplier-specific emissions data for the consortium farms from Remy to provide a more accurate calculation. The Spend-based method can't be used alone.
+    - content: Devon pursued a custom emissions library for calculations.
+      isCorrect: false
+      explanation: Incorrect. Devon did create a custom emissions library; however, it wasn't the sole reason for using the hybrid calculation method. The custom emissions library couldn't be used for calculating emissions from non-consortium farms.

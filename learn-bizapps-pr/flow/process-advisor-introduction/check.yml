@@ -1,0 +1,75 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.process-advisor-introduction.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/02/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 12
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What does hyperautomation involve?
+    choices:
+    - content: Process mining
+      isCorrect: false
+      explanation: Incorrect. Process mining isn't the only activity that's involved in hyperautomation.
+    - content: Automating business processes
+      isCorrect: false
+      explanation: Incorrect. Automating business processes isn't the only activity that's involved in hyperautomation.
+    - content: Using AI and RPA
+      isCorrect: false
+      explanation: Incorrect. Using AI and RPA isn't the only activity that's involved in hyperautomation.
+    - content: Identifying automation opportunities
+      isCorrect: false
+      explanation: Incorrect. Identifying automation opportunities isn't the only activity that's involved in hyperautomation.
+    - content: All of the above
+      isCorrect: true
+      explanation: Correct. Hyperautomation involves process mining, automating business processes, using AI and RPA, and identifying automation opportunities.
+  - content: What are the three necessary attribute types that you need to map for Power Automate to analyze process mining event log data?
+    choices:
+    - content: Case ID, Event End, Resource
+      isCorrect: false
+      explanation: Incorrect. These types aren't the three attribute types that you need to map for Power Automate to analyze process mining event log data.
+    - content: Activity, Event End, Event Start
+      isCorrect: false
+      explanation: Incorrect. These types aren't the three attribute types that you need to map for Power Automate to analyze process mining event log data.
+    - content: Financial per Case, Case ID, Activity
+      isCorrect: false
+      explanation: Incorrect. These types aren't the three attribute types that you need to map for Power Automate to analyze process mining event log data.
+    - content: Event Start, Activity, Case ID
+      isCorrect: true
+      explanation: Correct. To analyze event log data with Power Automate's process mining capability, you'll need to map the Event Start, Activity, and Case ID attribute types.
+    - content: Case Level Attribute, Resource, Event Start
+      isCorrect: false
+      explanation: Incorrect. These types aren't the three attribute types that you need to map for Power Automate to analyze process mining event log data.
+  - content: Which part of the process map shows the relative length or relative duration of the activity?
+    choices:
+    - content: Case count at nodes
+      isCorrect: false
+      explanation: Incorrect. This part of the map doesn't show the relative duration or frequency of the activity.
+    - content: Directed arrow lines
+      isCorrect: false
+      explanation: Incorrect. This part of the map doesn't show the relative duration or frequency of the activity.
+    - content: Average duration of cases over time graph
+      isCorrect: false
+      explanation: Incorrect. This part of the map doesn't show the relative duration or frequency of the activity.
+    - content: Blue ripples 
+      isCorrect: true
+      explanation: Correct. Blue ripples (or bubbles) show the relative duration or frequency of the activity.
+  - content: Which of these options could be an example of a resource in process mining?
+    choices:
+    - content: Invoice value of an event
+      isCorrect: false
+      explanation: Incorrect. This option isn't an example of a resource in process mining.
+    - content: Aluminum
+      isCorrect: false
+      explanation: Incorrect. This option isn't an example of a resource in process mining.
+    - content: Bob, a junior financial analyst
+      isCorrect: true
+      explanation: Correct. This option is an example of a resource in process mining.
+    - content: Invoice approval process
+      isCorrect: false

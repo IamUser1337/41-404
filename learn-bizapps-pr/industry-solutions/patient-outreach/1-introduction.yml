@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.patient-outreach.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to patient outreach in Microsoft Cloud for Healthcare 
+  ms.date: 11/23/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

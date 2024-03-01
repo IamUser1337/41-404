@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-imperative-dev-techniques.1-imperative-vs-declarative
+title: Imperative versus declarative development
+metadata:
+  title: Imperative versus declarative
+  description: Learn about imperative versus declarative development.
+  ms.date: 12/1/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-imperative-vs-declarative.md)]

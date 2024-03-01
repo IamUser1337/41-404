@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-virtual-agents.what-power-virtual-agents
+title: Describe Power Virtual Agents
+metadata:
+  title: Describe Power Virtual Agents
+  description: "Introduction to  Power Virtual Agents."
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 11
+content: |
+  [!include[](includes/2-describe-power-virtual-agents.md)]

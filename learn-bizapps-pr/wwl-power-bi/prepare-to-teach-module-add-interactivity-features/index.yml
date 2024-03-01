@@ -1,0 +1,36 @@
+### YamlMime:Module
+uid: learn.wwl.prepare-to-teach-module-add-interactivity-features
+metadata:
+  title: 'Prepare to teach the module: Add interactivity features'
+  description: "Prepare to teach the module: Add interactivity features"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Add interactivity features'
+summary: Explain, demonstrate, and deliver to your Data Analyst customers the “Add interactivity features&quot; module of the instructor-led course “Power BI paginated reports”.
+abstract: |
+  Teach the module “Add interactivity features&quot; in the instructor-led course “Power BI paginated reports”.
+prerequisites: |
+  Experience creating paginated reports
+iconUrl: /training/achievements/add-interactivity-features.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+- azure-powerbi-embedded
+subjects:
+- productivity
+units:
+- learn.wwl.prepare-to-teach-module-add-interactivity-features.introduction
+- learn.wwl.prepare-to-teach-module-add-interactivity-features.to-report
+- learn.wwl.prepare-to-teach-module-add-interactivity-features.lab-06a
+- learn.wwl.prepare-to-teach-module-add-interactivity-features.knowledge-check
+- learn.wwl.prepare-to-teach-module-add-interactivity-features.summary
+badge:
+  uid: learn.wwl.prepare-to-teach-module-add-interactivity-features.badge

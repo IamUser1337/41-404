@@ -1,0 +1,3 @@
+Several organizations use Microsoft Teams and SharePoint Online to collaborate, and Microsoft has enabled integration options between these tools and Power BI. Most organizations have channels within Microsoft Teams or sites set up in SharePoint Online for communication. These tools help eliminate unwanted emails and improve productivity so that teams are focused on the most important aspects of their business. The integration of these tools brings together the data aspect from Power BI with the immediate feedback and discussion features from Teams or SharePoint.
+
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RWMwPu]

@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.author-advanced-formulas 
+metadata: 
+  title: Create formulas that use tables, records, and collections in a canvas app in Power Apps
+  description: Do you have need for complex formulas in your app? This module can help you write those formulas.
+  ms.date: 01/31/2022  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  
+title: Create formulas that use tables, records, and collections in a canvas app in Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Do you have need for complex formulas in your app? This module can help you write those formulas. 
+abstract: |  
+    In this module, you will: 
+    - Utilize formulas that process multiple records
+    - Use the Concat function to combine text from multiple records
+    - Utilize the Countrows, CountIf, ForAll
+    - Perform math operations on data in a table
+prerequisites: A basic understanding of how to create a canvas app in Power Apps.    
+iconUrl: /training/achievements/author-advanced-formulas.svg  
+levels:  
+- advanced   
+roles:  
+- functional-consultant 
+- maker
+products:  
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.author-advanced-formulas.1-formulas-multiple-records 
+- learn-bizapps.author-advanced-formulas.2-math-operation 
+- learn-bizapps.author-advanced-formulas.3-combine-separate-records 
+- learn-bizapps.author-advanced-formulas.4-forall-function 
+- learn-bizapps.author-advanced-formulas.4a-exercise-forall
+- learn-bizapps.author-advanced-formulas.5-knowledge-check 
+- learn-bizapps.author-advanced-formulas.6-summary 
+badge: 
+  uid: learn-bizapps.author-advanced-formulas.badge

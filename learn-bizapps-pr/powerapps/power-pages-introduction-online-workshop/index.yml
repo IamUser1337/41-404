@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-introduction-online-workshop
+metadata:
+ title: Introduction and prerequisites for Power Pages - Online workshop
+ description: This module describes the prerequisites for the Power Pages in a Day course.
+ ms.date: 01/24/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: power-pages
+title: Introduction and prerequisites for Power Pages - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In the [Create a machine ordering app with Power Apps - Online Workshop Learning Path](/training/paths/power-apps-online-workshop/), you built a solution to manage the process for ordering coffee machines. This learning path/workshop extends that scenario. Contoso Coffee is a distributor of coffee and espresso machines. They need a simpler way for their various suppliers to update orders.
+abstract: |
+    In this module, you'll:
+    - Create a test tenant.
+    - Create a developer environment.
+    - Set up an enhanced data model (optionally).
+    - Create a site with Power Pages.
+    - Design with the Power Pages design studio.
+prerequisites: Latest version of Microsoft Edge or Google Chrome
+iconUrl: /learn/achievements/power-pages-introduction-online-workshop.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-introduction-online-workshop.introduction
+- learn-bizapps.power-pages-introduction-online-workshop.create-tenant
+- learn-bizapps.power-pages-introduction-online-workshop.create-environment
+- learn-bizapps.power-pages-introduction-online-workshop.set-up-data
+- learn-bizapps.power-pages-introduction-online-workshop.create-site
+- learn-bizapps.power-pages-introduction-online-workshop.design-studio
+- learn-bizapps.power-pages-introduction-online-workshop.check
+- learn-bizapps.power-pages-introduction-online-workshop.summary
+badge:
+  uid: learn-bizapps.power-pages-introduction-online-workshop.badge

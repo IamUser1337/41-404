@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-connectors-certified.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 07/04/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When you're updating a certified connector definition, which one of the following situations wouldn't be a breaking change?
+    choices: 
+    - content: Removing an input parameter
+      isCorrect: false 
+      explanation: Incorrect. This action would be a breaking change to existing users.
+    - content: Adding a new action to the connector
+      isCorrect: true 
+      explanation: Correct. This action wouldn't be a breaking change.
+    - content: Changing the purpose of an input parameter or result value
+      isCorrect: false 
+      explanation: Incorrect. This action would be a breaking change because existing users had a different expectation when they created their automation.
+    - content: Renaming one of the operation IDs by adding V2 at the end
+      isCorrect: false 
+      explanation: Incorrect. This action would be a breaking change because it effectively removes the old operation, breaking any deployments that use that action.
+  - content: Which one of the following parameters is required to make your connector eligible for Verified Publisher Microsoft certification?
+    choices: 
+    - content: Make the API that's used by the connector an open source.
+      isCorrect: false 
+      explanation: Incorrect. Connectors must be open source, but no requirement exists for making the underlying API an open source.
+    - content: Any custom connector that you build is eligible.
+      isCorrect: false 
+      explanation: Incorrect. You need to own the underlying service or present explicit rights to use the API and provide a user scenario that fits well with Microsoft products.
+    - content: You need to own the underlying service or present explicit rights to use the API and provide a user scenario that fits well with Microsoft products.
+      isCorrect: true 
+      explanation: Correct. This requirement is key for determining eligibility for submitting a connector for certification.
+    - content: Your connector must be for a paid API and not a free one.
+      isCorrect: false 
+      explanation: Incorrect. Certified connectors can be for paid or free APIs.
+  - content: Which command-line tool do you use to download a custom connector for making it an open source?
+    choices: 
+    - content: Paconn
+      isCorrect: true 
+      explanation: Correct. This tool downloads the custom connector artifacts.
+    - content: Package Deployer
+      isCorrect: false 
+      explanation: Incorrect. Administrators can use Package Deployer to deploy packages on Microsoft Dataverse instances. You wouldn't use it to download custom connectors.
+    - content: Connector Packager
+      isCorrect: false 
+      explanation: Incorrect. No command-line tool called Connector Packager exists.
+    - content: Use az
+      isCorrect: false 
+      explanation: Incorrect. You can't use az, an Azure command-line interface tool, to download a custom connector.

@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-entity-extraction.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/20/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: A multinational retailer processes email messages that come into a centralized mailbox in different languages. The retailer requests the creation of a flow that will extract recognized entities in those messages. Which statement is valid?
+    choices: 
+    - content: Entity extraction will automatically detect the language of the email messages.
+      isCorrect: false 
+      explanation: Incorrect. Entity extraction doesn't detect the language of a message that it processes.
+    - content: Select the language from a list of available languages in the entity extraction action.
+      isCorrect: true 
+      explanation: Correct. A list of available languages is provided, and you’ll need to select one for the action to be valid.
+    - content: Entity extraction supports only English language messages or documents.
+      isCorrect: false 
+      explanation: Incorrect. Entity extraction supports multiple languages.
+  - content: A finance advisor department implements a solution that processes documents that are received from suppliers and customers. Additionally, the solution extracts the different recognized entities that they relate to. Recently, the department noticed that many documents weren't processed by the Power Automate flow that you created. Multiple failed runs are listed in the activity log. What could explain this issue?
+    choices: 
+    - content: The failed runs are for lengthy documents.
+      isCorrect: true 
+      explanation: Correct. If documents contain more than 5,000 characters, the entity extraction will generate an error and the flow will fail to run with success.
+    - content: The flow is turned off, so the runs will fail.
+      isCorrect: false 
+      explanation: Incorrect. If the flow is turned off, it won’t run at all, so it won’t have a failed run in the context of this scenario.
+    - content: Processed documents are in French.
+      isCorrect: false 
+      explanation: Incorrect. French is a supported language for entity extraction.
+  - content: A petting zoo manager wants to identify email messages about animals so that they can be routed to the proper specialized staff. In the list of supported entity types, animals aren't detected. What is the reason for the lack of detection?
+    choices: 
+    - content: A custom value must be added for the animal entity type.
+      isCorrect: false  
+      explanation: Incorrect. You can set up only two values in the entity extraction action, Language and Text.
+    - content: The prebuilt entity extraction model must be trained to recognize the animal entity type.
+      isCorrect: false 
+      explanation: Incorrect. A prebuilt AI Builder model is to be used as it is, no training is possible.
+    - content: The prebuilt entity extraction model can't be customized, and new entity types can't be added.
+      isCorrect: true 
+      explanation: Correct. For this scenario, the prebuilt entity extraction can't process an unsupported entity type, such as animals. Review alternatives with other available AI Builder models.

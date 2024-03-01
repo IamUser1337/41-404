@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-collaborative-comments.collaboration
+title: Collaboration with others
+metadata:
+  title: Collaboration with others
+  description: Learn how to collaborate with others on a flow.
+  ms.date: 03/11/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+  
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/collaboration.md)]

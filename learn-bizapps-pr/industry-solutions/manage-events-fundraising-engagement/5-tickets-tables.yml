@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-events-fundraising-engagement.5-tickets-tables 
+title: Tickets and event tables
+metadata: 
+  title: Tickets and event tables
+  description: Learn about tickets and event tables.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-tickets-tables.md)] 

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow-get-started.9-troubleshoot-flows
+title: Troubleshoot flows
+metadata: 
+  title: Troubleshoot flows
+  description: Learn how to troubleshoot flows to fix issues with connections and performance.
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit  
+durationInMinutes: 8 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](../includes/banner.md)]
+  [!include[](includes/9-troubleshoot-flows.md)] 
+

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-entities.variables 
+title: Work with variables
+metadata: 
+  title: Work with variables
+  description: Learn how to work with variables.
+  ms.date: 01/02/2024
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/variables.md)] 

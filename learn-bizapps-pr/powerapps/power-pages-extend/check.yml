@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-extend.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/26/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 8
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What JavaScript library is included with Power Pages websites?
+    choices: 
+    - content: React
+      isCorrect: false 
+      explanation: Out of the box, Power Pages websites include the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
+    - content: jQuery
+      isCorrect: true 
+      explanation: Out of the box, Power Pages websites include the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
+    - content: Vue
+      isCorrect: false 
+      explanation: Out of the box, Power Pages websites include the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
+    - content: Angular
+      isCorrect: false 
+      explanation: Out of the box, Power Pages websites include the jQuery library, which helps make manipulation of the page content and appearance a reasonably simple task.
+  - content: You have a requirement to set a default value for a column on a form and also hide the column. What is the most efficient method to complete the task?
+    choices: 
+    - content: Use business rules on the model-driven form.
+      isCorrect: false 
+      explanation: Business rules on the model-driven form won't apply to the website. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide".
+    - content: Create a JavaScript function.
+      isCorrect: false 
+      explanation: Business rules on the model-driven form won't apply to the website. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide".
+    - content: Hide the column on the model-driven form designer.
+      isCorrect: false 
+      explanation: Business rules on the model-driven form won't apply to the website. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide".
+    - content: Create a Table Form Metadata record to set the default value and CSS class values.
+      isCorrect: true 
+      explanation: Business rules on the model-driven form won't apply to the website. A JavaScript function would work, but it isn't the most efficient method. Hiding the column on the form designer won't set the default value. A Table Form Metadata record has the ability to set a default value and hide the column by using the CSS class value of "hide".
+  - content: You've set up a Power Pages website on a development environment and you need to move the configuration to your test environment. What tool would you use to accomplish this task?
+    choices: 
+    - content: Power Pages admin center
+      isCorrect: false 
+      explanation: The Power Pages admin center doesn't have tools to migrate website configuration. Exporting and importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Microsoft Power Platform CLI can export and import website configuration. Microsoft Dataverse solutions don't include website data.
+    - content: Export and import Microsoft Excel files
+      isCorrect: false 
+      explanation: The Power Pages admin center doesn't have tools to migrate website configuration. Exporting and importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Microsoft Power Platform CLI can export and import website configuration. Microsoft Dataverse solutions don't include website data.
+    - content: Microsoft Power Platform CLI
+      isCorrect: true 
+      explanation: The Power Pages admin center doesn't have tools to migrate website configuration. Exporting and importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Microsoft Power Platform CLI can export and import website configuration. Microsoft Dataverse solutions don't include website data.
+    - content: Dataverse solution
+      isCorrect: false 
+      explanation: The Power Pages admin center doesn't have tools to migrate website configuration. Exporting and importing Excel files would lead to problems with data relationships and potential duplicates of webpages. Microsoft Power Platform CLI can export and import website configuration. Microsoft Dataverse solutions don't include website data.
+  - content: You need to apply different background color to all pages in the `/products` section of your Power Pages website. How would you accomplish this task? 
+    choices: 
+    - content: Add JavaScript to the website that would use the page URL to dynamically modify page styles.
+      isCorrect: false 
+      explanation: JavaScript isn't required for style changes. A CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a sustainable approach. You can apply styles to individual pages and entire sections of a website.
+    - content: Create a Web File record under the `/products` page and then upload CSS file with the required color changes.
+      isCorrect: true 
+      explanation: JavaScript isn't required for style changes. A CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a sustainable approach. You can apply styles to individual pages and entire sections of a website.
+    - content: Edit all pages in the section and then add inline CSS instructions to every page.
+      isCorrect: false 
+      explanation: JavaScript isn't required for style changes. A CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a sustainable approach. You can apply styles to individual pages and entire sections of a website.
+    - content: Styles always apply to the entire site, and you can't style only one section of the site.
+      isCorrect: false 
+      explanation: JavaScript isn't required for style changes. A CSS Web File applies styles to the parent page and all pages below in the hierarchy. Editing every page in the section isn't a sustainable approach. You can apply styles to individual pages and entire sections of a website.

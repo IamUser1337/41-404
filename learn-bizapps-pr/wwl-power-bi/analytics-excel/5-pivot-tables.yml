@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.analytics-excel.pivot-tables
+title: Pivot tables
+metadata:
+  title: Pivot tables
+  description: "Pivot tables"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 26
+content: |
+  [!include[](includes/5-pivot-tables.md)]

@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.use-ai-builder-process-invoice 
+metadata: 
+ title: Use AI Builder to process invoice forms in Power Automate
+ description: Learn how to use AI Builder to process invoice forms in Microsoft Power Automate.
+ ms.date: 08/01/2023  
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: module
+title: Use AI Builder to process invoice forms in Power Automate
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module explains how to integrate AI builder into an existing API-based flow to facilitate a robust automated process.
+abstract: |  
+    In this module, you will: 
+    - Build a new AI model for form processing.
+    - Train the new AI model to process Contoso Invoice forms.
+    - Integrate the new AI model into an existing cloud flow.
+    - Test the updated cloud flow and associated AI Builder-based predictions.
+prerequisites: Basic understanding of Microsoft Power Automate. This module builds off the Build your first Power Automate for desktop UI flow, the Use input and output parameters, the Create a Gateway to Desktop UI flow, and the Integration with Outlook connector modules.
+iconUrl: /training/achievements/use-ai-builder-process-invoice.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- business-user  
+products: 
+- power-platform
+- power-automate 
+subjects:
+- artificial-intelligence
+- process-workflow
+units:
+- learn-bizapps.use-ai-builder-process-invoice.1-introduction 
+- learn-bizapps.use-ai-builder-process-invoice.2-set-up 
+- learn-bizapps.use-ai-builder-process-invoice.3-form-process-flow 
+- learn-bizapps.use-ai-builder-process-invoice.4-model 
+- learn-bizapps.use-ai-builder-process-invoice.5-analyze-train-model 
+- learn-bizapps.use-ai-builder-process-invoice.6-integrate-model 
+- learn-bizapps.use-ai-builder-process-invoice.7-check 
+- learn-bizapps.use-ai-builder-process-invoice.8-summary 
+badge: 
+  uid: learn-bizapps.use-ai-builder-process-invoice.badge

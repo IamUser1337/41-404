@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-mobile-optimized.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 01/03/2024
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Which design concept assures that a canvas app automatically adjusts to different layouts and device configurations?
+    choices:
+    - content: Responsive
+      isCorrect: true
+      explanation: Correct. A responsive design layout facilitates using your canvas app on many different layouts and platforms.
+    - content: Optimized
+      isCorrect: false
+      explanation: Incorrect. Creating a responsive design layout facilitates using your canvas app on many different layouts and platforms.
+    - content: Resilient
+      isCorrect: false
+      explanation: Incorrect. Creating a responsive design layout facilitates using your canvas app on many different layouts and platforms.
+    - content: Robust
+      isCorrect: false
+      explanation: Incorrect. A responsive design for a canvas app is one that facilitates a similar experience across multiple orientations, dimensions, and types of devices.
+  - content: Which of the following controls automatically assigns the X and Y properties of other controls placed within it to facilitate a responsive app design?
+    choices:
+    - content: Container
+      isCorrect: false
+      explanation:  Incorrect. It's possible for you to assign the position of a control within a Container, whereas the Vertical container and Horizontal containers automatically assign position properties (X and Y).
+    - content: Vertical container
+      isCorrect: true
+      explanation: Correct. The Vertical and Horizontal containers automatically arrange all their child components as they assign each control's X and Y properties.
+    - content: Horizontal gallery
+      isCorrect: false
+      explanation: Incorrect. It's possible for you to move controls within a gallery template. Vertical and Horizontal containers automatically arrange all their child components as they assign each control's X and Y properties.
+    - content: Edit form
+      isCorrect: false
+      explanation: Incorrect. You can add and position controls into an Edit form. However, Vertical and Horizontal containers automatically arrange all their child components as they assign each control's X and Y properties.
+  - content: Which of the following options could enhance the performance of your canvas app?
+    choices:
+    - content: Having lookups to other data sources within a gallery
+      isCorrect: false
+      explanation: Incorrect. This action creates performance-expensive lookups and slows down your app. The best option from this list is to limit the data that your app is pulling in.
+    - content: Using large file size graphic images in a screen background
+      isCorrect: false
+      explanation: Incorrect. A mobile user might be hard-pressed to quickly pull in a large image into the app over a metered data connection. The best option from this list is to limit the data that your app is pulling in.
+    - content: Using multiple data sources in the same form
+      isCorrect: false
+      explanation: Incorrect. Forms behave the best when all of their data is coming from the same data source. The best option from this list is to limit the data that your app is pulling in.
+    - content: Limit the data that your app is pulling in
+      isCorrect: true
+      explanation: Correct. Any of the other options might create an app performance drain. Filtering the data that you bring into any part of your app is a good technique to enhance performance.

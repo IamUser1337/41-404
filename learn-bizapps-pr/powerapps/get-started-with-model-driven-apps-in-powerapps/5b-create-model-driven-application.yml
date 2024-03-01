@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.5b-create-model-driven-application
+title: Exercise - Create a model-driven app
+metadata:
+  title: Exercise - Create a model-driven app
+  description: Create a model-driven app using Microsoft Dataverse data.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/5b-create-model-driven-application.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.azure-health-bot.5-extend-custom-scenarios
+title: Extend Azure Health Bot with custom scenarios
+metadata:
+  title: Extend Azure Health Bot with custom scenarios
+  description: Learn how Omnichannel for Customer Service integration allows the patient to interact with Azure Health Bot by using the chat widget to access medical information and custom scenarios.
+  ms.date: 10/30/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-extend-custom-scenarios.md)]

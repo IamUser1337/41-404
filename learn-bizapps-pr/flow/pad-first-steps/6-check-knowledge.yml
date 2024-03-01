@@ -1,0 +1,41 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-first-steps.6-check-knowledge
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/01/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 3
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which one of the following statements is true?
+    choices:
+    - content: You can run flows only through the console.
+      isCorrect: false
+      explanation: You can run flows through the console and the flow designer.
+    - content: You can run flows only through the flow designer.
+      isCorrect: false
+      explanation: You can run flows through the console and the flow designer.
+    - content: You can run flows through both the console and the flow designer.
+      isCorrect: true
+      explanation: You can run flows through the console and the flow designer.
+  - content: Every flow contains a subflow that is run automatically. What is the name of this subflow?
+    choices:
+    - content: Main
+      isCorrect: true
+      explanation: Every flow contains a subflow named Main that starts automatically when the flow is run.
+    - content: Master
+      isCorrect: false
+      explanation: Every flow contains a subflow named Main that starts automatically when the flow is run.
+  - content: Which one of the following statements is true?
+    choices:
+    - content: UI elements and images are stored in the same tab of the flow designer.
+      isCorrect: false
+      explanation: UI elements and images are stored in different tabs named UI elements and Images, respectively.
+    - content: UI elements and images are stored in different tabs of the flow designer.
+      isCorrect: true
+      explanation: UI elements and images are stored in different tabs named UI elements and Images, respectively.

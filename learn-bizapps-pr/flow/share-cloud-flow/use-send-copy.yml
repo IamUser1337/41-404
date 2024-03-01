@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.share-cloud-flow.use-send-copy
+title: Use the Send a copy feature
+metadata:
+  title: Use the Send a copy feature
+  description: Learn when and how you can use the Send a copy feature.
+  ms.date: 03/08/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+  
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/use-send-copy.md)]

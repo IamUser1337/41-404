@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.write-data-source.2-base-controls
+title: Exercise - Add the base controls
+metadata:
+  title: Exercise - Add the base controls
+  description: Follow the steps to add the base controls to the app.
+  ms.date: 08/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-base-controls.md)]

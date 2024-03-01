@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-models.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/15/2022
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: In a Power BI Desktop model design, which type of object do you create to connect multiple tables?
+    choices: 
+    - content: Relationship
+      isCorrect: true
+      explanation: Correct. A relationship connects two tables together to allow filtering and further analysis.
+    - content: Column
+      isCorrect: false 
+      explanation: Incorrect. A column is contained inside a table and stores values. It doesn't connect tables.
+    - content: Measure
+      isCorrect: false 
+      explanation: Incorrect. A measure is a DAX formula that achieves summarization. It doesn't connect tables.
+  - content: Which of the following statements is correct regarding a star schema design?
+    choices: 
+    - content: Fact tables store accumulations of business events.
+      isCorrect: true 
+      explanation: Correct. Fact tables store accumulations of business events, like sales orders or currency exchange rates.
+    - content: Fact tables store accumulations of business entities.
+      isCorrect: false 
+      explanation: Incorrect. Fact tables store accumulations of business events. They don't store business entities, which are stored in dimension tables.
+    - content: Fact tables must have a unique column.
+      isCorrect: false 
+      explanation: Incorrect. Fact tables are not required to have a unique column. Dimension tables, however, are required to have a unique column, which is used to create a one-to-many relationship to fact tables.
+  - content: In what order does an analytic query implement its phases?
+    choices: 
+    - content: Filter, Group, Summarize
+      isCorrect: true 
+      explanation: Correct. Filter is used to first restrict the data to query. Group then divides the query result into groups. Summarize then produces single value aggregations for each group.
+    - content: Group, Filter, Summarize
+      isCorrect: false 
+      explanation: Incorrect. Filter takes place before grouping.
+    - content: Summarize, Filter, Group
+      isCorrect: false 
+      explanation: Incorrect. The correct phase order for an analytic query is Filter, Group, Summarize.

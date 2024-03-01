@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.best-practices-email 
+metadata: 
+ title: Best practices for email in SharePoint and Power Automate
+ description: Email continues to be the primary and preferred method of communication for many businesses. In some situations, emails are also received as official electronic forms of approval. This module will provide you with a list of best practices that you can follow by using Microsoft Power Automate for outgoing and incoming emails.
+ ms.date: 04/21/2021  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: Best practices for email in SharePoint and Power Automate
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Though several means of communication are available, email is often considered the primary and official method. Whether you are sending an electronic approval or attaching important documents to complete a transaction process, email is a vital tool for businesses. This module focuses on key features that can help you use Power Automate flows to enhance and secure your electronic mail. 
+abstract: |  
+    In this module, you will: 
+    - Monitor incoming email.
+    - Send an email on behalf of someone else.
+    - Format the body of an email.
+    - Use the Approval connector for an approval process by using email.
+    - Discover when to use attachments versus links.
+prerequisites: Basic understanding of how to create flows with SharePoint as the trigger      
+iconUrl: /training/achievements/best-practices-email.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products:  
+- power-platform
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.best-practices-email.1-introduction 
+- learn-bizapps.best-practices-email.2-send 
+- learn-bizapps.best-practices-email.3-format 
+- learn-bizapps.best-practices-email.4-approval 
+- learn-bizapps.best-practices-email.5-attachments 
+- learn-bizapps.best-practices-email.6-check 
+- learn-bizapps.best-practices-email.7-summary 
+badge: 
+  uid: learn-bizapps.best-practices-email.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-lab-manual-online-workshop.exercise-connect-data
+title: Exercise - Connect data from the canvas app
+metadata:
+  title: Exercise - Connect data from the canvas app
+  description: Follow the steps to connect a canvas app to a table and add a form to submit approval requests.
+  ms.date: 02/16/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 25
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-connect-data.md)]

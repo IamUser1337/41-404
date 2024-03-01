@@ -1,0 +1,48 @@
+### YamlMime:Module
+uid: learn-bizapps.implement-power-virtual-agents
+metadata:
+ title: Manage Microsoft Copilot Studio
+ description: This module examines the components available for managing and administrating copilots.  
+ ms.date: 10/02/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ ms.service: copilot-studio
+title: Manage Microsoft Copilot Studio
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Copilot Studio allows organizations to quickly create copilots based on business scenarios their customers and employees can easily interact with as needed.  This module examines the components available for managing and administrating copilots.  
+abstract: |
+    In this module, you will:
+    - Create and configure a new copilot.
+    - Set permissions and security.
+    - Use topics and entities.
+    - Import and export copilots.
+    - Authenticate users.
+prerequisites: none
+iconUrl: /training/achievements/implement-power-virtual-agents.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- administrator
+- business-user
+products:
+ 
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn-bizapps.implement-power-virtual-agents.1-introduction
+- learn-bizapps.implement-power-virtual-agents.2-environments
+- learn-bizapps.implement-power-virtual-agents.3-bot-topics
+- learn-bizapps.implement-power-virtual-agents.4-bot-entities
+- learn-bizapps.implement-power-virtual-agents.5-monitor
+- learn-bizapps.implement-power-virtual-agents.6-administer
+- learn-bizapps.implement-power-virtual-agents.export-import-bots
+- learn-bizapps.implement-power-virtual-agents.authentication
+- learn-bizapps.implement-power-virtual-agents.7-check
+- learn-bizapps.implement-power-virtual-agents.8-summary
+badge:
+  uid: learn-bizapps.implement-power-virtual-agents.badge

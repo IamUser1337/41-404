@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-manage-workspaces-power-bi.5-troubleshoot-data
+title: Troubleshoot data by viewing its lineage
+metadata:
+  title: 'Troubleshoot data by viewing its lineage '
+  description: "Troubleshoot data by viewing its lineage"
+  ms.date: 03/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/5-troubleshoot-data.md)]

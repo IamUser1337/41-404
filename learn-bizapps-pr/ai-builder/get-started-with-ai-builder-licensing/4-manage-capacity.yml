@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-licensing.4-manage-capacity 
+title: Manage AI Builder capacity 
+metadata: 
+  title: Manage AI Builder capacity 
+  description: Learn how to manage AI Builder capacity.
+  ms.date: 04/30/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: | 
+ [!include[](includes/4-manage-capacity.md)] 

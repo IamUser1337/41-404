@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.approvals-kit-workshop.add-conditional-stages 
+title: Add conditionals and stages
+metadata: 
+  title: Add conditionals and stages
+  description: Learn how to add conditionals and stages.
+  ms.date: 11/02/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit 
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/add-conditional-stages.md)] 

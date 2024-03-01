@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Use best practices to secure and govern Power Automate environments/Manage-environmental-changes-in-Power-Automate</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="94.3396226" height="94.3396226" rx="47.1698113"></rect>
+        <linearGradient x1="77.8299825%" y1="11.1997378%" x2="-99.6885927%" y2="253.807911%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+        <rect id="path-5" x="0" y="0" width="100" height="100" rx="50"></rect>
+        <filter x="-0.5%" y="-0.5%" width="102.0%" height="102.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="1" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M50,2.83018868 C76.0511674,2.83018868 97.1698113,23.9488326 97.1698113,50 C97.1698113,76.0511674 76.0511674,97.1698113 50,97.1698113 C23.9488326,97.1698113 2.83018868,76.0511674 2.83018868,50 C2.83018868,23.9488326 23.9488326,2.83018868 50,2.83018868 Z M50,6.60377358 C26.032926,6.60377358 6.60377358,26.032926 6.60377358,50 C6.60377358,73.967074 26.032926,93.3962264 50,93.3962264 C73.967074,93.3962264 93.3962264,73.967074 93.3962264,50 C93.3962264,26.032926 73.967074,6.60377358 50,6.60377358 Z" id="path-7"></path>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-9">
+            <stop stop-color="#D2EBFF" offset="0%"></stop>
+            <stop stop-color="#F0FFFD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#CCCCCC" offset="15%"></stop>
+            <stop stop-color="#707070" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="97.5691716%" x2="50%" y2="-5.30956676%" id="linearGradient-11">
+            <stop stop-color="#0078D4" offset="0%"></stop>
+            <stop stop-color="#1380DA" offset="16%"></stop>
+            <stop stop-color="#3C91E5" offset="53%"></stop>
+            <stop stop-color="#559CEC" offset="82%"></stop>
+            <stop stop-color="#5EA0EF" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-12" points="0 0.0232778571 24.6319411 0.0232778571 24.6319411 16.2505671 0 16.2505671"></polygon>
+        <linearGradient x1="50%" y1="97.5691716%" x2="50%" y2="-5.30956676%" id="linearGradient-14">
+            <stop stop-color="#0078D4" offset="0%"></stop>
+            <stop stop-color="#1380DA" offset="16%"></stop>
+            <stop stop-color="#3C91E5" offset="53%"></stop>
+            <stop stop-color="#559CEC" offset="82%"></stop>
+            <stop stop-color="#5EA0EF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#1E5CA5" offset="0%"></stop>
+            <stop stop-color="#225496" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Use-best-practices-to-secure-and-govern-Power-Automate-environments" transform="translate(-160.000000, -1080.000000)">
+            <g id="Use-best-practices-to-secure-and-govern-Power-Automate-environments/Manage-environmental-changes-in-Power-Automate" transform="translate(160.000000, 1080.000000)">
+                <g id="Badge-Plates/Circle">
+                    <g id="BG" transform="translate(2.830189, 2.830189)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g></g>
+                        <g id="Colors/Microsoft-365/BG-Solid-Badge" mask="url(#mask-2)">
+                            <g id="Rectangle">
+                                <use fill="#0078D4" xlink:href="#path-4"></use>
+                                <use fill-opacity="0.4" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Border">
+                        <g id="White-Border">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <rect stroke="#F2F1F0" stroke-width="4" stroke-linejoin="square" x="2" y="2" width="96" height="96" rx="48"></rect>
+                        </g>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Boarder" fill="#0078D4" fill-rule="nonzero" xlink:href="#path-7"></use>
+                        <g id="Colors/Microsoft-365/Border" mask="url(#mask-8)" fill="#0076D7">
+                            <g transform="translate(2.830189, 2.830189)" id="Microsoft-365/Border">
+                                <rect x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Computer" transform="translate(23.000000, 28.000000)" fill-rule="nonzero">
+                    <rect id="Rectangle" fill="url(#linearGradient-9)" x="0" y="0" width="54" height="37" rx="0.6"></rect>
+                    <path d="M37.5489935,47.9762419 C32.3804224,47.1295896 32.1771639,43.2591793 32.1771639,37 L21.9271325,37 C21.9271325,43.2591793 21.752911,47.1295896 16.5843399,47.9762419 C15.1065497,48.1465252 13.9910348,49.4517399 14,51 L40.1333333,51 C40.1422986,49.4517399 39.0267836,48.1465252 37.5489935,47.9762419 Z" id="Path" fill="url(#linearGradient-10)"></path>
+                </g>
+                <g id="Group-4" transform="translate(34.000000, 33.000000)">
+                    <g id="Group-6" transform="translate(0.200000, 0.000000)">
+                        <path d="M24.4108791,23.4448586 C26.6230969,21.3912486 27.9462167,18.7238453 28.1958619,15.8567778 L30.1990394,15.8735329 L26.9903461,10.6071429 L23.6817946,15.8196375 L25.5718798,15.8355548 C25.3360704,18.060904 24.2854549,20.1287559 22.5623011,21.7285835 C20.5879983,23.5615854 17.9610084,24.5713562 15.168591,24.5713562 C12.3746697,24.5713562 9.74948455,23.5615854 7.77367779,21.7285835 C7.2650632,21.2552534 6.43642145,21.2552534 5.92630298,21.7285835 C5.41468062,22.2021928 5.41468062,22.9715286 5.92630298,23.4448586 C8.39538468,25.7372281 11.6762646,27 15.168591,27 C18.6591128,27 21.9417974,25.7372281 24.4108791,23.4448586 Z" id="Fill-1" fill="url(#linearGradient-11)"></path>
+                        <g id="Group-5" transform="translate(0.800961, 0.000000)">
+                            <mask id="mask-13" fill="white">
+                                <use xlink:href="#path-12"></use>
+                            </mask>
+                            <g id="Clip-4"></g>
+                            <path d="M4.61823183,11.1141386 C4.8170269,8.87186893 5.87046063,6.7905225 7.63979686,5.1801975 C9.61243259,3.38599929 12.2334045,2.39805643 15.0228418,2.39805643 C17.8107775,2.39805643 20.4335512,3.38599929 22.4043852,5.1801975 C22.913685,5.64356893 23.7394953,5.64356893 24.2499963,5.1801975 C24.7592961,4.71627964 24.7592961,3.96494036 24.2499963,3.5010225 C21.7851776,1.25875286 18.5080618,0.0232778571 15.0231421,0.0232778571 C11.5364206,0.0232778571 8.26080625,1.25875286 5.79568725,3.5010225 C3.52636038,5.5665225 2.19875762,8.25030643 2.00026284,11.1357225 L-1.10844667e-12,11.1515689 L3.30324144,16.2505671 L6.50558387,11.0988386 L4.61823183,11.1141386 Z" id="Fill-3" fill="url(#linearGradient-14)" mask="url(#mask-13)"></path>
+                        </g>
+                    </g>
+                    <g id="Gear" transform="translate(8.691501, 7.445794)" fill="url(#linearGradient-15)" fill-rule="nonzero">
+                        <path d="M13.4782609,7.08847737 L13.4782609,5.59053498 L11.9472691,5.05555556 L11.5712361,4.03909465 L12.3233022,2.46090535 L12.3233022,2.30041152 L11.8398311,1.81893004 L11.2757815,1.17695473 L11.0609055,1.17695473 L9.55677327,1.97942387 L8.53611211,1.68518519 L7.86462451,0 L6.38735178,0 L5.8770212,1.52469136 L4.74892203,1.97942387 L3.00305426,1.15020576 L1.9555336,2.19341564 L1.9555336,2.38065844 L2.73445922,3.87860082 L2.27784765,5.00205761 L0.47826087,5.67078189 L0.47826087,7.16872428 L0.693136903,7.16872428 L2.27784765,7.7037037 L2.70759971,8.72016461 L1.90181459,10.4588477 L2.94933525,11.5288066 L3.16421128,11.5288066 L4.64148401,10.7798354 L5.68900467,11.2078189 L6.33363277,13 L7.837765,13 L7.837765,12.7860082 L8.34809558,11.18107 L9.36875674,10.7530864 L11.141484,11.5823045 L12.1890047,10.5390947 L12.1890047,10.3251029 L11.4369386,8.82716049 L11.7323931,7.78395062 L13.4782609,7.08847737 Z M6.99078621,8.57114542 C5.91946111,8.4561148 5.10988339,7.59534615 5.10988339,6.57131109 C5.10988339,5.54727389 5.91946111,4.68650525 6.99078621,4.57147462 C7.55027849,4.5646611 8.08932913,4.77100365 8.48749444,5.14439779 C8.88565975,5.51779192 9.10975495,6.02711739 9.10970896,6.55857222 C9.11698954,7.09442982 8.89608523,7.61036335 8.49712097,7.98930345 C8.0981567,8.36824354 7.55495991,8.57806058 6.99078621,8.57114542 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

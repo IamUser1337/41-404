@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.upload-product-images
+title: Exercise - Upload product images
+metadata:
+  title: Exercise - Upload product images
+  description: Follow the steps to upload product images.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/upload-product-images.md)]

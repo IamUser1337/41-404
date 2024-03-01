@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder-licensing.3-get-premium-license 
+title: Get a premium AI Builder license 
+metadata: 
+  title: Get a premium AI Builder license 
+  description: Learn how to get a premium AI Builder license.
+  ms.date: 04/30/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-get-premium-license.md)] 

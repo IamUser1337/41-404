@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.sustainability-architecture 
+metadata: 
+ title: Microsoft Sustainability Manager solution architecture
+ description: This module describes the solution view, data model and process flow, and extensibility and integration for Microsoft Cloud for Sustainability.
+ ms.date: 11/14/2023  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Microsoft Sustainability Manager Solution Architecture
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module describes the solution view for Microsoft Sustainability Manager. You’ll learn about the data model and process flow, and how the data model relates to the functional area. Additionally, you’ll learn about the extensibility options for Microsoft Cloud for Sustainability and the recommended practices for extensibility.
+abstract: |  
+    In this module, you'll: 
+    - Learn about the Microsoft Cloud for Sustainability data model on which the application is built.
+    - Review the data types, process and data flow, and how the data model relates to the functional area.
+    - Extend the core capabilities of Microsoft Sustainability Manager. 
+    - Learn about the extensibility options and recommended practices for Microsoft Cloud for Sustainability. 
+prerequisites: None
+iconUrl: /learn/achievements/sustainability-architecture.svg  
+levels:  
+- intermediate   
+- beginner  
+roles:  
+- business-user   
+- functional-consultant 
+- solution-architect
+products: 
+- industry-solutions
+- mscloud-sustainability 
+subjects: 
+- business-applications
+units: 
+- learn-bizapps.sustainability-architecture.introduction 
+- learn-bizapps.sustainability-architecture.data-model-workflow
+- learn-bizapps.sustainability-architecture.extensibility-integration
+- learn-bizapps.sustainability-architecture.check
+- learn-bizapps.sustainability-architecture.summary
+badge: 
+  uid: learn-bizapps.sustainability-architecture.badge

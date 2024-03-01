@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.capability-mapping
+title: Capability and solution mappings
+metadata:
+  title: Capability and solution mappings
+  description: Learn about Microsoft Cloud for Retail capability and solution mappings.
+  ms.date: 01/24/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/capability-mapping.md)]

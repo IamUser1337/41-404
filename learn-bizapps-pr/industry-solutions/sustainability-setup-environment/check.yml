@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-setup-environment.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/14/2022
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which other license is required when you’re creating the trial Microsoft 365 tenant with Dynamics 365 Customer Service Enterprise Admin trial license?   
+    choices:
+    - content: Microsoft Azure subscription
+      isCorrect: false
+      explanation: A Microsoft Azure subscription isn't required when you’re creating the trial Microsoft 365 tenant with Dynamics 365 Customer Service Enterprise Admin trial license.
+    - content: Power Apps license
+      isCorrect: true
+      explanation: Dynamics 365 Customer Service Enterprise Admin trial includes a Power Apps license.
+    - content: Microsoft Cloud Solution Center
+      isCorrect: false
+      explanation: Microsoft Cloud Solution Center isn't required when you’re creating the trial Microsoft 365 tenant with Dynamics 365 Customer Service Enterprise Admin trial license.
+    - content: Dynamics 365 Sales
+      isCorrect: false
+      explanation: A Dynamics 365 Sales license isn't required when you’re creating the trial Microsoft 365 tenant with Dynamics 365 Customer Service Enterprise Admin trial license.
+  - content: What is the next task that you would perform after procuring the Dynamics Customer Service and Microsoft Office 365 free trial licenses? 
+    choices:
+    - content: Obtain a Microsoft Azure subscription
+      isCorrect: false
+      explanation: Obtaining a Microsoft Azure subscription isn't the next task to complete after procuring the Dynamics Customer Service and Microsoft Office 365 free trial licenses.
+    - content: Obtain a Microsoft Power Automate trial license
+      isCorrect: false
+      explanation: Obtaining a Microsoft Power Automate trial license isn't the next task to complete after procuring the Dynamics Customer Service and Microsoft Office 365 free trial licenses. 
+    - content: Obtain a Microsoft Cloud for Sustainability trial
+      isCorrect: true
+      explanation: The next task is to obtain a Microsoft Cloud for Sustainability trial after you've procured the Dynamics Customer Service and Microsoft Office 365 free trial licenses. 
+    - content: Obtain a Dynamics 365 trial license
+      isCorrect: false
+      explanation: Obtaining a Dynamics 365 trial license isn't the next task to complete after procuring the Dynamics Customer Service and Microsoft Office 365 free trial licenses.
+  - content: Which trial license are you required to add to use OneDrive for data ingestion in Microsoft Cloud for Sustainability?  
+    choices:
+    - content: Azure subscription 
+      isCorrect: false
+      explanation: An Azure subscription isn't required for you to use OneDrive for data ingestion in Microsoft Cloud for Sustainability. 
+    - content: Microsoft Teams
+      isCorrect: false
+      explanation: Microsoft Teams isn't required for you to use OneDrive for data ingestion in Microsoft Cloud for Sustainability. 
+    - content: Microsoft Office 365
+      isCorrect: true
+      explanation: A Microsoft Office 365 license is required for you to use OneDrive for data ingestion in Microsoft Cloud for Sustainability. 
+    - content: Dynamics 365
+      isCorrect: false
+      explanation: A Dynamics 365 license isn't required for you to use OneDrive for data ingestion in Microsoft Cloud for Sustainability.

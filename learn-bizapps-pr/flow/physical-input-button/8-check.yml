@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.physical-input-button.8-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/21/2021 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the advantages of using Flic physical button vs the Power Automate virtual button?
+    choices: 
+    - content: Flic is a physical button while Power Automate is virtual.
+      isCorrect: false
+      explanation: The Flic trigger in Power Automate has several events options such as click, double click, hold and any. In addition, you can simply click on the button as long as the mobile device is within reach for the Bluetooth signal.
+    - content: Flic has multiple options to trigger a flow such as click, double click and hold. Power Automate virtual button has only one click. 
+      isCorrect: true
+      explanation: The Flic trigger in Power Automate has several events options such as click, double click, hold and any. In addition, you can simply click on the button as long as the mobile device is within reach for the Bluetooth signal. 
+    - content: Flic button has more color options compared to Power Automate's virtual buttons.
+      isCorrect: false 
+      explanation: The Flic trigger in Power Automate has several events options such as click, double click, hold and any. In addition, you can simply click on the button as long as the mobile device is within reach for the Bluetooth signal. 
+    - content: Flic's physical button offers the ability to add your company logo. Power Automate's button is large and bulky. 
+      isCorrect: false 
+      explanation: The Flic trigger in Power Automate has several events options such as click, double click, hold and any. In addition, you can simply click on the button as long as the mobile device is within reach for the Bluetooth signal.
+  - content: How do you use Twilio to communicate with the end user?
+    choices: 
+    - content: Twilio sends an email message.
+      isCorrect: false
+      explanation: Twilio sends an SMS text message to the user. The user's phone number is gathered from the user's Office 365 profile.  
+    - content: Twilio sends a Power Automate notification.
+      isCorrect: false 
+      explanation: Twilio sends an SMS text message to the user. The user's phone number is gathered from the user's Office 365 profile. 
+    - content: Twilio sends an SMS text message to the user.
+      isCorrect: true
+      explanation: Twilio sends an SMS text message to the user. The user's phone number is gathered from the user's Office 365 profile. 
+    - content: Twilio will make a pre-recorded phone call.
+      isCorrect: false 
+      explanation: Twilio sends an SMS text message to the user. The user's phone number is gathered from the user's Office 365 profile. 
+  - content: Does Flic use the Microsoft Office 365 username and password?
+    choices: 
+    - content: No. You will have to register with Flic first and create a username and password there.
+      isCorrect: true
+      explanation: Even though Flic is an approved connector, it does not use the Microsoft 365's username and password for its authentication. A separate account is created at Flic.io.
+    - content: No. Flic does not need username and password.
+      isCorrect: false 
+      explanation: Even though Flic is an approved connector, it does not use the Microsoft 365's username and password for its authentication. A separate account is created at Flic.io.
+    - content: Yes. You do not need to register with Flic.
+      isCorrect: false 
+      explanation: Even though Flic is an approved connector, it does not use the Microsoft 365's username and password for its authentication. A separate account is created at Flic.io.
+    - content: Yes. Your Office 365 account automatically synchronizes with Flic.
+      isCorrect: false
+      explanation: Even though Flic is an approved connector, it does not use the Microsoft 365's username and password for its authentication. A separate account is created at Flic.io.
+ 

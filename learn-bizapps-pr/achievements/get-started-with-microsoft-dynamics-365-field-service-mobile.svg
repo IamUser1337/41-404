@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Implementing Microsoft Dynamics 365 for Field Service/get-started-with-microsoft-dynamics-365-field-service-mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <polyline id="path-3" points="9.25546281e-14 57.3537907 20 16.3537907 48 49.3537907 53.0552848 32.9984574"></polyline>
+        <filter x="-6.9%" y="-7.3%" width="113.5%" height="121.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101590806 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-5" points="65 33.6462093 78.945192 2 93.945192 22 106.945192 -8.8817842e-14"></polyline>
+        <filter x="-8.7%" y="-6.0%" width="117.6%" height="122.7%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="2" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101590806 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-10.5%" y="-6.1%" width="121.1%" height="112.1%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0996659873 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Implementing-Microsoft-Dynamics-365-for-Field-Service" transform="translate(-579.000000, -727.000000)">
+            <g id="Implementing-Microsoft-Dynamics-365-for-Field-Service/get-started-with-microsoft-dynamics-365-field-service-mobile" transform="translate(579.000000, 727.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Graphs" mask="url(#mask-2)" stroke-linejoin="round">
+                        <g transform="translate(-2.474386, 24.000000)" id="Path-5">
+                            <g>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use stroke="#FFFFFF" stroke-width="4" xlink:href="#path-3"></use>
+                            </g>
+                            <g>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use stroke="#FFFFFF" stroke-width="4" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Phone" filter="url(#filter-7)" mask="url(#mask-2)">
+                        <g transform="translate(29.000000, 15.000000)">
+                            <g id="Phone-Body">
+                                <rect id="Rectangle" fill="#3E5162" fill-rule="nonzero" x="0" y="0" width="38" height="66" rx="5"></rect>
+                                <path d="M19,0 L32.8499668,0 C35.6113905,-5.07265313e-16 37.8499668,2.23857625 37.8499668,5 L37.8499668,61 C37.8499668,63.7614237 35.6113905,66 32.8499668,66 L19,66 L19,0 Z" id="Rectangle" fill="#30404D" fill-rule="nonzero"></path>
+                                <circle id="Oval" fill="#30404D" fill-rule="nonzero" cx="19" cy="61" r="3"></circle>
+                            </g>
+                            <g id="Phone-BG" transform="translate(3.000000, 5.000000)">
+                                <rect id="Rectangle" fill="#FFFFFE" fill-rule="nonzero" x="0" y="0" width="32" height="51"></rect>
+                                <rect id="Rectangle" fill="#E1E4E1" fill-rule="nonzero" x="16" y="0" width="16" height="51"></rect>
+                                <rect id="Rectangle" fill="#546670" fill-rule="nonzero" x="0" y="0" width="32" height="4"></rect>
+                                <rect id="Rectangle" fill="#435665" fill-rule="nonzero" x="16" y="0" width="16" height="4"></rect>
+                            </g>
+                            <g id="Text" transform="translate(9.000000, 14.000000)">
+                                <rect id="Rectangle" fill="#E1E4E1" fill-rule="nonzero" x="0" y="0" width="20" height="3" rx="1.5"></rect>
+                                <path d="M10,0 L18.5,0 C19.3284271,-1.52179594e-16 20,0.671572875 20,1.5 L20,1.5 C20,2.32842712 19.3284271,3 18.5,3 L10,3 L10,0 Z" id="Rectangle" fill="#BEC4BE" fill-rule="nonzero"></path>
+                                <rect id="Rectangle" fill="#E1E4E1" fill-rule="nonzero" x="0" y="6" width="20" height="3" rx="1.5"></rect>
+                                <path d="M10,6 L18.5,6 C19.3284271,6 20,6.67157288 20,7.5 L20,7.5 C20,8.32842712 19.3284271,9 18.5,9 L10,9 L10,6 Z" id="Rectangle" fill="#BEC4BE" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="Graph" transform="translate(9.000000, 27.000000)">
+                                <g id="Bar-Graph---3" transform="translate(16.000000, 5.000000)">
+                                    <path d="M1.55431223e-15,17.9934864 C1.55431223e-15,18.4544078 0.894285714,18.828489 2,18.828489 C3.10571429,18.828489 4,18.4544078 4,17.9934864 L4,1.74888992 L1.55431223e-15,1.74888992 L1.55431223e-15,17.9934864 Z" id="Fill-878" fill="#69994E"></path>
+                                    <path d="M2,18.828489 C3.10571429,18.828489 4,18.4544078 4,17.9934864 L4,1.74888992 L2,1.74888992 L2,18.828489 Z" id="Fill-883" fill="#598844"></path>
+                                    <path d="M4,1.74888992 C4,2.30088992 3.10571429,2.74888992 2,2.74888992 C0.894285714,2.74888992 0,2.30088992 0,1.74888992 C0,1.19638992 0.894285714,0.748889917 2,0.748889917 C3.10571429,0.748889917 4,1.19638992 4,1.74888992" id="Fill-884" fill="#7CB65A"></path>
+                                </g>
+                                <g id="Bar-Graph---2" transform="translate(8.000000, 11.000000)">
+                                    <path d="M1.55431223e-15,12.0574613 C1.55431223e-15,12.4391299 0.894285714,12.7488899 2,12.7488899 C3.10571429,12.7488899 4,12.4391299 4,12.0574613 L4,1.74888992 L1.55431223e-15,1.74888992 L1.55431223e-15,12.0574613 Z" id="Fill-887" fill="#C2423D"></path>
+                                    <path d="M2,12.5773789 C3.10571429,12.5773789 4,12.2724487 4,11.8967311 L4,1.74888992 L2,1.74888992 L2,12.5773789 Z" id="Fill-883" fill="#AB3B37"></path>
+                                    <g id="Group-8" transform="translate(0.000000, 0.748890)" fill="#DF5142">
+                                        <path d="M4,1 C4,1.552 3.10571429,2 2,2 C0.894285714,2 0,1.552 0,1 C0,0.4475 0.894285714,0 2,0 C3.10571429,0 4,0.4475 4,1" id="Fill-884"></path>
+                                    </g>
+                                </g>
+                                <g id="Bar-Graph---1" transform="translate(0.000000, 0.748890)">
+                                    <path d="M0,1 L0,22.12 C0,22.60576 0.894285714,23 2,23 C3.10571429,23 4,22.60576 4,22.12 L4,1 L0,1 Z" id="Fill-878" fill="#33A7CB"></path>
+                                    <path d="M2,23 C3.10571429,23 4,22.60576 4,22.12 L4,1 L2,1 L2,23 Z" id="Fill-883" fill="#0095B2"></path>
+                                    <path d="M4,1 C4,1.552 3.10571429,2 2,2 C0.894285714,2 0,1.552 0,1 C0,0.4475 0.894285714,0 2,0 C3.10571429,0 4,0.4475 4,1" id="Fill-884" fill="#55B7D9"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

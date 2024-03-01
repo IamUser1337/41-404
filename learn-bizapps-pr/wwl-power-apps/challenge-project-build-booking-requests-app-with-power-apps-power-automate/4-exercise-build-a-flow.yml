@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.challenge-project-build-booking-requests-app-with-power-apps-power-automate.exercise-build-a-flow
+title: Exercise - Build Power Automate flows to send automated emails
+metadata:
+  unitType: exercise
+  title: Exercise - Build Power Automate flows to send automated emails
+  description: "Create Power Automate flows. Send automated emails."
+  ms.date: 6/28/2022
+  author: Randall-Knapp
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 30
+content: |
+  [!include[](includes/4-exercise-build-a-flow.md)]

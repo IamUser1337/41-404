@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.automate-data-cleaning-power-query.5-lab 
+title: Lab 01 - Use Power Query in Excel
+metadata: 
+  title: Lab 01 - Use Power Query in Excel
+  description: Learn how to connect to CSV and Excel data sources and use transformations to splice a column, unpivot, and clean data.
+  ms.date: 09/09/2021 
+  author: DougKlopfenstein
+  ms.author: dougklo
+  ms.topic: unit
+durationInMinutes: 30
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-lab.md)] 

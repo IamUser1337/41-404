@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.9-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Answer the following questions to see what you've learned."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: "Answer the following questions to see what you've learned."
+  questions:
+  - content: "What is a risk of having null values in a numeric column?"
+    choices:
+    - content: "That function SUM of data is incorrect."
+      isCorrect: false
+      explanation: "This is incorrect. SUM will ignore NULL values and calculate correctly."
+    - content: "That function MAX of data will be incorrect."
+      isCorrect: false
+      explanation: "This is incorrect. MAX expressions will pick the maximum non-null value."
+    - content: "That function AVERAGE of data will be incorrect."
+      isCorrect: true
+      explanation: "Correct. AVERAGE takes the total and divides by the number of non-null values. If NULL is synonymous with zero in the data, the average will be different from the accurate average."
+  - content: "If you have two queries that have different data but the same column headers, and you want to combine both tables into one query with all the combined rows, which operation should you perform?"
+    choices:
+    - content: "Append"
+      isCorrect: true
+      explanation: "Correct. Append will take two tables and combine it into one query. The combined query will have more rows while keeping the same number of columns."
+    - content: "Merge"
+      isCorrect: false
+      explanation: "Incorrect. This will combine the columns of the two queries, greatly expanding the rows, similar to a SQL JOIN clause."
+    - content: "Combine Column"
+      isCorrect: false
+      explanation: "Incorrect. This is a column operation, not a table operation."
+  - content: "Which of the following selections aren't best practices for naming conventions in Power BI?"
+    choices:
+    - content: "Rename columns to have spaces in them."
+      isCorrect: false
+      explanation: "Incorrect. Spaces make columns and tables easier to read for report users and report authors."
+    - content: "Abbreviate column names."
+      isCorrect: true
+      explanation: "Correct. Abbreviations lead to confusion because they're often overused or not universally agreed on."
+    - content: "Replace values that have integers with human readable results."
+      isCorrect: false
+      explanation: "Incorrect. Replacing integer values with text will make it easier for report users and authors to correctly interpret data."

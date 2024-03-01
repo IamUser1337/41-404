@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.apply-ai-builder-text-recognition-transportation-industry.1-introduction 
+title: Scenario introduction
+metadata: 
+  title: Apply AI Builder text recognition in transportation industry
+  description: Learn how to integrate was is AI Builder Text Recognition, identify how Power Apps allows you to track your business activity, and assess how AI Builder Text Recognition can automate front line workers tasks.
+  ms.date: 04/27/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

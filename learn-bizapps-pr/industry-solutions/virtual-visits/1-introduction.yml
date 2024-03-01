@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.virtual-visits.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to virtual visits.
+  ms.date: 07/27/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

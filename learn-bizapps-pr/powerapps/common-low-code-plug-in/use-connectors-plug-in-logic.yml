@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.common-low-code-plug-in.use-connectors-plug-in-logic 
+title: Use connectors in plug-in logic
+metadata: 
+  title: Use connectors in plug-in logic
+  description: Learn about using connectors in plug-in logic.
+  ms.date: 01/10/2024 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit 
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/use-connectors-plug-in-logic.md)] 

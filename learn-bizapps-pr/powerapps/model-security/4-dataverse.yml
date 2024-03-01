@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.model-security.4-dataverse
+title: Access to Dataverse
+metadata:
+  title: Access to Dataverse
+  description: Learn about the security features of Microsoft Dataverse.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-dataverse.md)]

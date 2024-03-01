@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-workspace-data-components-online-workshop.add-table-permission
+title: Add a table permission
+metadata:
+  title: Add a table permission
+  description: Follow the steps to add a table permission.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/add-table-permission.md)]

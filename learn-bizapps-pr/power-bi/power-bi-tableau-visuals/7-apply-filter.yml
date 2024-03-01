@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-visuals.7-apply-filter 
+title: Apply a filter
+metadata: 
+  title: Apply a filter 
+  description: Learn how to apply a filter. 
+  ms.date: 3/31/2021 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-apply-filter.md)] 

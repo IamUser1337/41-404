@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-expressions.4-functions 
+title: Types of functions
+metadata: 
+  title: Types of functions 
+  description: Learn about the types of functions.  
+  ms.date: 10/01/2020 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-functions.md)] 

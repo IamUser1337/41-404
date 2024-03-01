@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-environmental-changes.3-implement-best-practices 
+title: Implement best practices for building DLP change management plans 
+metadata: 
+  title: Implement best practices for building DLP change management plans 
+  description: Learn how to implement best practices for building DLP change management plans.
+  ms.date: 10/02/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-implement-best-practices.md)] 

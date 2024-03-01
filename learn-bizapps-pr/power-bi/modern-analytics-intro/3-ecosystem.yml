@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-intro.3-ecosystem
+title: Ecosystem of modern analytics
+metadata: 
+  title: Ecosystem of modern analytics
+  description: Learn about the ecosystem of modern analytics.
+  ms.date: 09/13/2021 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-ecosystem.md)] 

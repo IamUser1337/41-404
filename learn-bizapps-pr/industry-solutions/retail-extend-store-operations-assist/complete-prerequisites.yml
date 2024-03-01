@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.complete-prerequisites
+title: Exercise - Complete the prerequisites
+metadata:
+  title: Exercise - Complete the prerequisites
+  description: Follow the steps to complete the prerequisites for the rest of the exercises in this module.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/complete-prerequisites.md)]

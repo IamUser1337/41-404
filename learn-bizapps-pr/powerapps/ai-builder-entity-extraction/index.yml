@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.ai-builder-entity-extraction 
+metadata: 
+ title: Get started with AI Builder entity extraction  
+ description: Learn how to use AI Builder entity extraction to identify key elements from text.
+ ms.date: 06/20/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Get started with AI Builder entity extraction  
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  You will explore how to use AI Builder entity extraction to identify key elements from text, such as email messages, and to classify those elements into different categories. 
+abstract: |  
+    In this module, you'll: 
+    - Learn about AI Builder entity extraction.
+    - Discover business scenarios where you can apply entity extraction.
+    - Use the extraction model in Power Automate.
+prerequisites: | 
+    - A Microsoft Power Apps license
+    - A Microsoft Power Automate license 
+    - Access to Microsoft Dataverse 
+    - An AI Builder add-on or trial
+    - Email account that's set up with Microsoft Outlook 365
+    - Microsoft Teams is set up for notifications
+iconUrl: /training/achievements/ai-builder-entity-extraction.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-apps 
+subjects: 
+- artificial-intelligence 
+units: 
+- learn-bizapps.ai-builder-entity-extraction.introduction 
+- learn-bizapps.ai-builder-entity-extraction.solve-business-problems 
+- learn-bizapps.ai-builder-entity-extraction.exercise 
+- learn-bizapps.ai-builder-entity-extraction.check 
+- learn-bizapps.ai-builder-entity-extraction.summary 
+badge: 
+  uid: learn-bizapps.ai-builder-entity-extraction.badge 

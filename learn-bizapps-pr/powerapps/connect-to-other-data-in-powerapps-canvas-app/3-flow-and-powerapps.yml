@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.connect-other-data.3-flow-and-powerapps
+title: Power Automate is a companion to Power Apps
+metadata:
+  title: Power Automate is a companion to Power Apps
+  description: Power Automate is a companion to Power Apps
+  ms.date: 01/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-flow-and-powerapps.md)]

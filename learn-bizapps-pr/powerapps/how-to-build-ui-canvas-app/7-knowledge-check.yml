@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.how-to-build-ui-canvas-app.7-knowledge-check 
+metadata: 
+  title: How to build the UI in a canvas app in Power Apps knowledge check
+  description: How to build the UI in a canvas app in Power Apps knowledge check
+  ms.date: 01/03/2024 
+  author: jadaphillips
+  ms.author: jadaphillips 
+  ms.topic: unit
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: How to build the UI in a canvas app in Power Apps knowledge check
+  questions: 
+  - content: What are the two form factors you can choose from when creating a canvas app?
+    choices: 
+    - content: Tablet and PC  
+      isCorrect: false
+      explanation: Incorrect. The two form factors available are the Tablet and Phone. 
+    - content: Tablet and Phone 
+      isCorrect: true
+      explanation: Correct. The two form factors available are the Tablet and Phone.
+    - content: Phone and PC 
+      isCorrect: false 
+      explanation: Incorrect. The two form factors available are the Tablet and Phone.
+    - content: Tablet and iPhone 
+      isCorrect: false 
+      explanation: Incorrect. The two form factors available are the Tablet and Phone.
+  - content: Which formula returns the full name of the logged-in Power Apps user when entered as text data?
+    choices: 
+    - content: User.FullName 
+      isCorrect: false
+      explanation: Incorrect. User().FullName provides the first and last name of the logged in user.
+    - content: FullName.User() 
+      isCorrect: false
+      explanation: Incorrect. User().FullName provides the first and last name of the logged in user.
+    - content: User().FullName 
+      isCorrect: true 
+      explanation: Correct. User().FullName provides the first and last name of the logged in user.
+    - content: User().Name 
+      isCorrect: false 
+      explanation: Incorrect. User().FullName provides the first and last name of the logged in user.
+  - content: The Image control had an ImagePosition property. Which of the following is a valid option for ImagePosition?
+    choices: 
+    - content: Expand 
+      isCorrect: false
+      explanation: Incorrect. Fit, Center, Fill, Stretch and Tile are the only available Image position options.
+    - content: Fill-in 
+      isCorrect: false
+      explanation: Incorrect. Fit, Center, Fill, Stretch and Tile are the only available Image position options.
+    - content: Box 
+      isCorrect: false 
+      explanation: Incorrect. Fit, Center, Fill, Stretch and Tile are the only available Image position options.
+    - content: Fit 
+      isCorrect: true 
+      explanation: Correct. Fit, along with Center, Fill, Stretch and Tile are the available Image position options. 
+

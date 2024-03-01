@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-admin-intro.exercise 
+title: Exercise - Run the site checker
+metadata: 
+  title: Exercise - Run the site checker 
+  description: Follow the steps to learn how to run the site checker and interpret warnings and errors.   
+  ms.date: 10/12/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

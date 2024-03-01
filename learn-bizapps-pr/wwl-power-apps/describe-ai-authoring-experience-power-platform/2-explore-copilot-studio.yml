@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-ai-authoring-experience-power-platform.explore-copilot-studio
+title: Explore Copilot Studio
+metadata:
+  title: Explore Copilot Studio
+  description: "Overview of Copilot Studio and its capabilities."
+  ms.date: 02/15/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/2-explore-copilot-studio.md)]

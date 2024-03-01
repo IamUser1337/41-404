@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-collaborative-comments.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/11/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+ 
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Who can add comments to a cloud flow?
+    choices:
+    - content: All licensed users in your organization
+      isCorrect: false
+      explanation: Incorrect. Only co-owners of the flow can add comments.
+    - content: Only you, its creator
+      isCorrect: false
+      explanation: Incorrect. When you create a new Power Automate cloud flow, only you can view, edit, and run it. By sharing, you can allow other users within your organization to help edit your automation. Any co-owner can add comments.
+    - content: Any flow owner
+      isCorrect: true
+      explanation: Correct. When you create a new Power Automate cloud flow, only you can view, edit, and run it. By sharing, you can allow other users within your organization to help edit your automation. Any user whom you share with will become a co-owner and can add comments.
+  - content: What can you comment on in a cloud flow?
+    choices:
+    - content: Any action step, but not the trigger
+      isCorrect: false
+      explanation: Incorrect. You can comment on the trigger and any action step.
+    - content: Only at the flow level that's not associated with a step.
+      isCorrect: false
+      explanation: Incorrect. You can only comment on the trigger and any action step. You can't create a comment that isn't associated with the trigger or an action step.
+    - content: The trigger and any action step
+      isCorrect: true
+      explanation: Correct. You can comment on the trigger and any action step.
+    - content: Only on action steps that have errors
+      isCorrect: false
+      explanation: Incorrect. You can comment on the trigger and any action step.
+  - content: To notify another user to look at a comment, what should you do?
+    choices:
+    - content: In the comment, @mention their name
+      isCorrect: true
+      explanation: Correct. This action will send them an email notification.
+    - content: Nothing
+      isCorrect: false
+      explanation: Incorrect. You should @mention them in the comment.
+    - content: All co-owners are notified of new comments
+      isCorrect: false
+      explanation: Incorrect. Owners can view the comments if they open the flow. You should @mention them in the comment so that they'll be notified.
+    - content: Send them an email because comments can't notify them
+      isCorrect: false
+      explanation: Incorrect. Manual email isn't required; you should @mention them in the comment.

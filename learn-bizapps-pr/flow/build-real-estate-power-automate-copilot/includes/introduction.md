@@ -1,0 +1,5 @@
+Copilot in Power Automate is like having your own virtual assistant. It's a powerful feature that makes workflow automation simpler. It uses AI and machine learning to analyze your processes and generate smart suggestions for actions and automations. The best part is that you don't need to be a coding expert to benefit from Copilot. It's designed to help you create efficient workflows without the hassle of complex programming.
+
+With Microsoft Power Automate, you can describe a flow to create, and you can improve and iterate on your flows with AI-driven conversations. This next-generation, AI-based Copilot in Power Automate sits inside the flow studio and helps with every flow that’s being built or changed.
+
+Copilot in Power Automate allows open-ended and conversational experiences while you're creating your flows. As you build, you can ask questions and get assistance in making improvements and changes. You don’t need special knowledge of how Power Automate works. By using natural language, you can build and enhance everything from a simple flow to a complex, robust, enterprise-wide process.

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.explore-data-power-bi.4-ask-questions 
+title: Ask questions of your data with natural language
+metadata: 
+  title: Ask questions of your data with natural language
+  description: Learn how to ask questions of your data by using natural language in Power BI.
+  ms.date: 07/31/2019 
+  author: paulinbar 
+  manager: kfollis 
+  ms.author: painbar 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-ask-questions.md)] 
+

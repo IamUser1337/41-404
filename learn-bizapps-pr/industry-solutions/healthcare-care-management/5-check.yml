@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-care-management.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/30/2023  
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the key capabilities of Care Management?
+    choices: 
+    - content: Care Team, Care Plan, Clinical Timeline, and Virtual Clinic 
+      isCorrect: true 
+      explanation: The key capabilities of Care Management are Care Team, Care Plan, Clinical Timeline, and Virtual Clinic. 
+    - content: Care Team, Medications, Encounters, and Patient Interactions
+      isCorrect: false 
+      explanation: The key capabilities of Care Management are Care Team, Care Plan, Clinical Timeline, and Virtual Clinic. 
+    - content: Care Plan, Clinical Timeline, Resource Scheduling, and Patient Interactions
+      isCorrect: false 
+      explanation: The key capabilities of Care Management are Care Team, Care Plan, Clinical Timeline, and Virtual Clinic. 
+    - content: Care Plan, Clinical Timeline, Virtual Clinic, and Encounters
+      isCorrect: false 
+      explanation: The key capabilities of Care Management are Care Team, Care Plan, Clinical Timeline, and Virtual Clinic. 
+  - content: Which entity table does the data model use for patients, practitioners, and related people?
+    choices: 
+    - content: Account
+      isCorrect: false
+      explanation: The data model uses Contact as the entity table for patients, practitioners, and related people.
+    - content: Person
+      isCorrect: false 
+      explanation: The data model uses Contact as the entity table for patients, practitioners, and related people.
+    - content: Contact
+      isCorrect: true 
+      explanation: The data model uses Contact as the entity table for patients, practitioners, and related people.
+    - content: Organization
+      isCorrect: false 
+      explanation: The data model uses Contact as the entity table for patients, practitioners, and related people.
+  - content: What are the four sections of the site map in the Care Management application?
+    choices: 
+    - content: Administration, Care Management, Clinical Data, and Health Analytics
+      isCorrect: false
+      explanation: The four sections of the site map in the Care Management application are Administration, Care Management, Clinical Data, and Templates.
+    - content: Administration, Care Management, Clinical Data, and Templates
+      isCorrect: true 
+      explanation: The four sections of the site map in the Care Management application are Administration, Care Management, Clinical Data, and Templates.
+    - content: Administration, Care Plans, Timeline, and Health Analytics
+      isCorrect: false 
+      explanation: The four sections of the site map in the Care Management application are Administration, Care Management, Clinical Data, and Templates.
+    - content: Administration, Care Plans, Timeline, and Templates
+      isCorrect: false 
+      explanation: The four sections of the site map in the Care Management application are Administration, Care Management, Clinical Data, and Templates.
+  - content: Does the Clinical timeline tab on the Patient form display a calendar pane that shows events for the selected week and an agenda pane that shows previous or upcoming events for that patient?
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: The Clinical timeline tab on the Patient form displays a calendar pane that shows events for the selected week and an agenda pane that shows previous or upcoming events for that patient.
+    - content: No
+      isCorrect: false 
+      explanation: The Clinical timeline tab on the Patient form displays a calendar pane that shows events for the selected week and an agenda pane that shows previous or upcoming events for that patient.

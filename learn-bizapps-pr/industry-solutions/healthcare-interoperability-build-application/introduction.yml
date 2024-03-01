@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-build-application.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction 
+  description: Introduction to building a module-driven app by using virtual health data tables 
+  ms.date: 11/23/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit 
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

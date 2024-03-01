@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-custom-connector.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/12/2023
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You've been asked to build a Power Automate flow that uses an API from Fabrikam. You've decided to build a custom connector because a built-in connector isn't available for the API. After reviewing the API documentation, you discover that it has an OpenAPI definition file and examples that could be used with Postman. Considering the possibilities, which approach makes the most sense to quickly get started building the custom connector?
+    choices: 
+    - content: Use the examples, build a Postman collection, and then import that collection.
+      isCorrect: false 
+      explanation: Though you could take this approach, it's not the fastest way to get started with a custom connector when you already have an OpenAPI definition.
+    - content: Import the OpenAPI definition file to start your custom connector configuration.
+      isCorrect: true 
+      explanation: When available, importing an OpenAPI is the fastest approach. It allows bringing in operations and security details to start your custom connector configuration.
+    - content: Use the OpenAPI file as a reference and then manually add the actions to your new custom connector.
+      isCorrect: false 
+      explanation: Though you could use this approach, it's not the fastest way to get started with a custom connector when you already have an OpenAPI definition.
+    - content: Run the samples, capture the network trace, and upload the trace to create the connector.
+      isCorrect: false 
+      explanation: Network trace isn't a valid source of the API definitions.
+  - content: Which of the following authentication types isn't supported by custom connectors?
+    choices: 
+    - content: Anonymous
+      isCorrect: false 
+      explanation: This is a supported authentication type.
+    - content: Cookie Authentication
+      isCorrect: true 
+      explanation: While a valid authentication pattern, Cookie Authentication isn't supported by custom connectors.
+    - content: API Key
+      isCorrect: false 
+      explanation: This is a supported authentication type.
+    - content: OAuth 2.0
+      isCorrect: false 
+      explanation: This is a supported authentication type.
+  - content: You have built a custom connector and want to make it available to other companies, similar to built-in connectors. What should you do?
+    choices: 
+    - content: Share the connector in the portal.
+      isCorrect: false 
+      explanation: This option only allows you to let people in your own company's environment use the connection.
+    - content: Submit the connector for certification.
+      isCorrect: true 
+      explanation: After it has been certified, your connector will be available to all customers in their own environments.
+    - content: Publish your connector on Microsoft AppSource.
+      isCorrect: false 
+      explanation: To publish, you need to submit for certification.
+    - content: Publish the connector on GitHub as an open source.
+      isCorrect: false 
+      explanation: It isn't possible to use open-source connectors in the same way as built-in ones.
+  - content: You've imported an OpenAPI definition and it included 10 actions. For now, two actions shouldn't be visible to users of the connectors, but you might make them available later. What should you do to implement this preference?
+    choices: 
+    - content: Add words (HIDDEN) to the actions' names.
+      isCorrect: false 
+      explanation: The name of the action has no impact on its visibility.
+    - content: Select them as internal.
+      isCorrect: true 
+      explanation: This selection prevents the actions from showing but retains their definition for future use.
+    - content: Share only the actions that you want people to use.
+      isCorrect: false 
+      explanation: You share at the connector level, not at the action level.
+    - content: Disable access to actions in a security role.
+      isCorrect: false 
+      explanation: Security roles don't apply to connector actions.

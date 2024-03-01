@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-configure-security
+metadata:
+ title: Set up Power Pages security
+ description: Learn how to set up Power Pages security.
+ ms.date: 06/08/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: power-pages
+title: Set up Power Pages security
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  The concept of exposing Microsoft Dataverse on a public webpage is appealing for addressing numerous business requirements. However, careful consideration is necessary to avoid exposing private or sensitive data. This module focuses on helping you learn about and set up website security to protect static and dynamic content and limit visibility to specific audiences.
+abstract: |
+    In this module, you'll:
+    - Learn about the relationship between Dataverse contacts and website users.
+    - Identify the various website security metadata entities, such as contacts, web roles, webpage access control rules, and table permissions.
+    - Discover how you can limit access to webpages by using webpage access control rules.
+    - Learn how to set up table permissions to help secure Dataverse and Dynamics 365 records.
+prerequisites: |
+  - Basic understanding of Power Pages
+  - Ability to create webpages and show Dataverse data by using lists and forms
+  - Basic understanding of how relationships work between Dataverse entities
+iconUrl: /training/achievements/power-pages-configure-security.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- developer
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-configure-security.introduction
+- learn-bizapps.power-pages-configure-security.secure-static-content
+- learn-bizapps.power-pages-configure-security.table-permissions
+- learn-bizapps.power-pages-configure-security.exercise
+- learn-bizapps.power-pages-configure-security.check
+- learn-bizapps.power-pages-configure-security.summary
+badge:
+  uid: learn-bizapps.power-pages-configure-security.badge

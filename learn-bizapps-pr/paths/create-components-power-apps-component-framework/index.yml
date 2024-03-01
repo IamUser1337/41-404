@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.create-components-power-apps-component-framework
+metadata: 
+  title: Create components with Power Apps Component Framework
+  description: Learn how to build custom components and controls with Power Apps component framework.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+  ms.service: powerapps
+  ms.subservice: pcf
+title: Create components with Power Apps Component Framework
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Get started with Power Apps Component Framework with an introductory module on the core concepts and components. This is followed by modules that show you how to build a component and work with advanced Power Apps Component Framework features.
+prerequisites: |
+  - Basic understanding of Microsoft Power Platform.
+  - Experience in software development against the Microsoft stack and Visual Studio.
+  - Experience in administering solutions in Azure is preferred.
+iconUrl: /training/achievements/create-components-power-apps-component-framework.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dynamics-365  
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.get-started-power-apps-component-framework
+- learn-bizapps.build-power-apps-component 
+- learn-bizapps.component-framework-advanced  
+trophy: 
+  uid: learn-bizapps.create-components-power-apps-component-framework.trophy

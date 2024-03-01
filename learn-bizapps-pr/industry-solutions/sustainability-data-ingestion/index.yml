@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-data-ingestion
+metadata:
+ title: Ingest emissions activity data
+ description: Learn how to ingest carbon emissions activity data in Microsoft Cloud for Sustainability.
+ ms.date: 09/27/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.service: microsoft-cloud-sustainability
+ ms.topic: module
+title: Ingest emissions activity data
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module will focus on tasks to complete the activity data ingestion for the purchased electricity of two newly acquired Florida facilities, ingestion of emission data and ingestion of activity data using connectors.
+abstract: |
+    In this module, you'll:
+    - Use Microsoft Sustainability Manager connectors to ingest data.
+    - Use Power Query to transform the data before ingestion.
+    - Review the ingested data in the Purchase Electricity Activity Data table in Dataverse.
+prerequisites: |
+    - Microsoft Sustainability manager environment is set up with sample data
+    - Previous module's organization and reference data are entered
+iconUrl: /learn/achievements/sustainability-data-ingestion.svg
+levels:
+- intermediate
+roles:
+- business-user
+- functional-consultant
+- solution-architect
+products:
+- mscloud-sustainability
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-data-ingestion.introduction
+- learn-bizapps.sustainability-data-ingestion.exercise
+- learn-bizapps.sustainability-data-ingestion.check
+- learn-bizapps.sustainability-data-ingestion.summary
+badge:
+  uid: learn-bizapps.sustainability-data-ingestion.badge

@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-canvas-app.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 12/01/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Where do you set up and customize your app?
+    choices:
+    - content: Power Apps for mobile devices
+      isCorrect: false
+      explanation: Incorrect. You can't set up and customize your apps in Power Apps for mobile devices.
+    - content: Power Apps admin center
+      isCorrect: false
+      explanation: Incorrect. You can't set up and customize your apps in the Power Apps admin center.
+    - content: Microsoft Dynamics 365
+      isCorrect: false
+      explanation: Incorrect. Microsoft Dynamics 365 isn't where you would set up and customize your apps.
+    - content: Power Apps Studio
+      isCorrect: true
+      explanation: Correct. You can set up and customize your apps in Power Apps Studio.
+  - content: Which of these statements about data sources is true?
+    choices:
+    - content: In Power Apps, the app data comes primarily from your local device.
+      isCorrect: false
+      explanation: Incorrect. In Power Apps, you aren't limited to only data sources on your local device.
+    - content: Power Apps isn't able to connect to external data. All data must be stored in Power Apps.
+      isCorrect: false
+      explanation: Incorrect. In Power Apps, you aren't limited to only data sources. Connectors allow you to use many different data sources.
+    - content: Power Apps uses connectors to connect to data sources. If the data source supports it, Power Apps can read and write to the data source.
+      isCorrect: true
+      explanation: Correct. You can use many external data sources, including Twitter, Facebook, Microsoft SQL Server, and Salesforce.
+  - content: When you're creating an app, what are the three options that you can start from?
+    choices:
+    - content: Blank app, Microsoft Dataverse, SQL Server
+      isCorrect: false
+      explanation: Incorrect. When creating an app, you can start from many different data sources and aren't limited to Dataverse and SQL.
+    - content: Blank app, template, data source
+      isCorrect: true
+      explanation: Correct. When creating an app, you can start from a blank app, data source, or template.
+    - content: Template, blank app, Access
+      isCorrect: false
+      explanation: Incorrect. Access isn't a supported data source, so you can't use it to create an app.
+    - content: Template, collection, blank app
+      isCorrect: false
+      explanation: Incorrect. When creating an app, you aren't able to start from a collection.

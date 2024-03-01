@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-excel.2-connect-excel 
+title: Connect Excel to Power BI datasets
+metadata: 
+  title: Connect Excel to Power BI datasets
+  description: Learn to connect Excel to Power BI datasets.
+  ms.date: 09/28/2021 
+  author: maggiesMSFT
+  manager: kfollis  
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-connect-excel.md)] 

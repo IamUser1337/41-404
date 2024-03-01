@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-common-data-service.exercise-build-basic-dataverse-data-model
+title: Exercise - Build a basic Dataverse data model
+metadata:
+  title: Exercise - Build a basic Dataverse data model
+  description: "Hands-on exercise to build a Dataverse table"
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/6-exercise-build-basic-dataverse-data-model.md)]

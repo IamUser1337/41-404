@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.guided-project-create-manage-model-driven-apps.prepare
+title: Prepare
+metadata:
+  title: Prepare
+  description: "Accessing Power Platform to complete the guided project."
+  ms.date: 12/13/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+  [!include[](includes/2-prepare.md)]

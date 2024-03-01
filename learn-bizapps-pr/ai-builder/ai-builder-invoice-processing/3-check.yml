@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-invoice-processing.3-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/09/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many invoices can you have in a single file you use for processing?
+    choices: 
+    - content: Only one invoice per file
+      isCorrect: true 
+      explanation: Invoice processing scans one invoice at a time per file.
+    - content: Up to three invoices per file
+      isCorrect: false 
+      explanation: Invoice processing scans one invoice at a time per file.
+    - content: Up to five invoices per file
+      isCorrect: false 
+      explanation: Invoice processing scans one invoice at a time per file.
+  - content: What invoice formats are supported?
+    choices: 
+    - content: Only PDF files
+      isCorrect: false 
+      explanation: Invoice processing works for both PDF and image files.
+    - content: Only image files (JPG, PNG)
+      isCorrect: false 
+      explanation: Invoice processing works for both PDF and image files.
+    - content: Both PDF and image (JPG, PNG) files
+      isCorrect: true 
+      explanation: Invoice processing works for both PDF and image files.
+  - content: What type of information can you extract from an invoice using invoice processing?
+    choices: 
+    - content: Commonly used invoice fields
+      isCorrect: false 
+      explanation: Invoice processing extracts commonly used invoice fields, confidence scores for each invoice field, and all detected text on the invoice.
+    - content: Confidence scores for each invoice field
+      isCorrect: false 
+      explanation: Invoice processing extracts commonly used invoice fields, confidence scores for each invoice field, and all detected text on the invoice.
+    - content: All detected text on the invoice
+      isCorrect: false 
+      explanation: Invoice processing extracts commonly used invoice fields, confidence scores for each invoice field, and all detected text on the invoice.
+    - content: All of the above
+      isCorrect: true 
+      explanation: Invoice processing extracts commonly used invoice fields, confidence scores for each invoice field, and all detected text on the invoice.

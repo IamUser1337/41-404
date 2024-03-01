@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-goals-scorecard.exercise-define
+title: Exercise - Define sustainability goals
+metadata:
+  title: Exercise - Define sustainability goals
+  description: Follow the steps to define sustainability goals.
+  ms.date: 05/04/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 22
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-define.md)]

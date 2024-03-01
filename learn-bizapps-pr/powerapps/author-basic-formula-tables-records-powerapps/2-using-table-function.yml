@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.tables-and-records.2-using-table-function
+title: Using the Table function
+metadata: 
+  title: Using the Table function to create a table
+  description: Using the Table function
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-using-table-function.md)] 
+

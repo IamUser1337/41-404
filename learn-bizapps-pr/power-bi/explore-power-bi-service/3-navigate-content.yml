@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-to-power-bi-service.3-navigate-content 
+title: Explore Power BI using dashboards, reports, and apps
+metadata: 
+  title: Explore Power BI using dashboards, reports, and apps
+  description: Learn how to explore Power BI using dashboards, reports, and apps.
+  ms.date: 07/07/2023 
+  author: maggiesMSFT
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+   
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-navigate-content.md)] 
+

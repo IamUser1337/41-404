@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.use-imperative-dev-techniques.7-knowledge-check
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 12/1/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which type of variable is preferred when you are unsure?
+    choices:
+    - content: Global variables
+      isCorrect: true
+      explanation: Global variables are preferred as they are always available and thus most flexible.
+    - content: Context variables
+      isCorrect: false
+      explanation: Global variables are preferred as they are always available and thus most flexible.
+    - content: Collection variables
+      isCorrect: false
+      explanation: Global variables are preferred as they are always available and thus most flexible.
+    - content: Default variables
+      isCorrect: false
+      explanation: Global variables are preferred as they are always available and thus most flexible.
+  - content: Which control do you use to reference a context variable on another screen?
+    choices:
+    - content: A Label control
+      isCorrect: false
+      explanation: A context variable is only available from the screen where they were created.
+    - content: A Form control
+      isCorrect: false
+      explanation: A context variable is only available from the screen where they were created.
+    - content: Any control type that supports variables
+      isCorrect: false
+      explanation: A context variable is only available from the screen where they were created.
+    - content: Context variables are only available from the screen they were created on
+      isCorrect: true
+      explanation: A context variable is only available from the screen where they were created.
+  - content: How can Global variables be used to enhance performance?
+    choices:
+    - content: They cannot, they slow down the system
+      isCorrect: false
+      explanation: They can enhance performance by storing information that can be referenced throughout your app.
+    - content: By increasing the cache rate to 1000
+      isCorrect: false
+      explanation: They can enhance performance by storing information that can be referenced throughout your app.
+    - content: By storing information to be referenced throughout your app
+      isCorrect: true
+      explanation: They can enhance performance by storing information that can be referenced throughout your app.
+    - content: By caching data for a closed app
+      isCorrect: false
+      explanation: They can enhance performance by storing information that can be referenced throughout your app.

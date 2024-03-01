@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.make-app.exercise-create-canvas-app
+title: Exercise - Create the Dive Center canvas app
+metadata:
+  title: Exercise - Create the Dive Center canvas app
+  description: Follow the steps to create the Dive Center canvas app.
+  ms.date: 05/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 18
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-create-canvas-app.md)]

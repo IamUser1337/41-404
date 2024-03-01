@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-power-query.exercise-transfer-attendee-list 
+title: Exercise – Transfer an attendee list to a contact table
+metadata: 
+  title: Exercise – Transfer an attendee list to a contact table
+  description: Steps to transfer an attendee list to a contact table.
+  ms.date: 08/31/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-transfer-attendee-list.md)] 

@@ -1,0 +1,38 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-site-design-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/14/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Can you modify the site header within the Power Pages workspace?
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: Correct. You can modify the site header within the Power Pages workspace.
+    - content: No
+      isCorrect: false 
+      explanation: Incorrect. You can modify the site header within the Power Pages workspace.
+  - content: Can you embed videos in webpages?
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: Correct. You can embed videos in webpages.
+    - content: No
+      isCorrect: false 
+      explanation: Incorrect. You can embed videos in webpages.
+  - content: Do you need to include a logo in the header?
+    choices: 
+    - content: Yes
+      isCorrect: false 
+      explanation: Incorrect. You don't need to include a logo in the header.
+    - content: No
+      isCorrect: true 
+      explanation: Correct. You don't need to include a logo in the header.

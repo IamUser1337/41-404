@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.explore-data-power-bi 
+metadata: 
+ title: Explore data in Power BI
+ description: Turn your business intelligence data into data insights by creating and configuring Power BI dashboards. 
+ ms.date: 06/30/2023  
+ author: paulinbar  
+ manager: kfollis 
+ ms.author: painbar  
+ ms.topic: module
+ ms.service: powerbi  
+title: Explore data in Power BI
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Turn your business intelligence data into data insights by creating and configuring Power BI dashboards. 
+abstract: |  
+    In this module, you will: 
+    - Upload reports
+    - Create dashboards
+    - Ask questions of your data
+prerequisites: Access to Power BI Desktop 
+iconUrl: /training/achievements/explore-data-with-power-bi-desktop.svg
+levels:  
+- intermediate   
+roles:  
+- business-analyst
+- data-analyst  
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.explore-data-power-bi.1-introduction-power-bi-service 
+- learn-bizapps.explore-data-power-bi.2-quick-insights 
+- learn-bizapps.explore-data-power-bi.3-create-configure-dashboard 
+- learn-bizapps.explore-data-power-bi.4-ask-questions 
+- learn-bizapps.explore-data-power-bi.5-custom-qa 
+- learn-bizapps.explore-data-power-bi.6-share-dashboards 
+- learn-bizapps.explore-data-power-bi.7-display-full-screen 
+- learn-bizapps.explore-data-power-bi.8-edit-tile-details 
+- learn-bizapps.explore-data-power-bi.9-get-more-space-on-dashboard 
+- learn-bizapps.explore-data-power-bi.11-check 
+- learn-bizapps.explore-data-power-bi.12-summary 
+badge: 
+  uid: learn-bizapps.explore-data-with-power-bi-desktop.badge

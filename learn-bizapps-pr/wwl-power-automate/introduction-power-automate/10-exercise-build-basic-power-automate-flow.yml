@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.exercise-build-basic-power-automate-flow
+title: 'Exercise: Build a basic Power Automate flow'
+metadata:
+  title: 'Exercise: Build a basic Power Automate flow'
+  description: "Hands-on exercise to build a Power Automate instant flow."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](includes/10-exercise-build-basic-power-automate-flow.md)]

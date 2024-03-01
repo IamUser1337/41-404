@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-constituents-fundraising-engagement.2-contacts-organizations 
+title: Work with contacts and organizations 
+metadata: 
+  title: Work with contacts and organizations 
+  description: Learn to work with contacts and organizations.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-contacts-organizations.md)] 

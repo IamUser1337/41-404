@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-calculations.3-iterator 
+title: Understand iterator functions
+metadata: 
+  title: Understand iterator functions
+  description: Learn about row and filter context and iterator functions.
+  ms.date: 03/31/2021 
+  author: minewiskan 
+  manager: kfollis 
+  ms.author: owend 
+  ms.topic: unit
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-iterator.md)] 

@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-bizapps.wwl.introduction-power-bi
+metadata:
+  title: Describe the capabilities of Microsoft Power BI
+  description: "In this module, learners are introduced to Microsoft Power BI and its rich data analytics and data visualization capabilities."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.custom:
+  - N/A
+  ms.service: powerbi
+title: Describe the capabilities of Microsoft Power BI
+summary: |
+  Learn how you can use Power BI to easily build reports and dashboards with interactive visualizations and AI-driven insights. See how other organizations have used this solution to drive business results with actionable insights.
+  [!INCLUDE [](../../includes/wwl/ai-contribution-notes.md)]
+abstract: |
+  In this module, we will:
+  - Describe the business value and features of Power BI.
+  - Compare and contrast the different components that make up Power BI.
+  - Describe how to clean and transform data.
+  - Examine how AI insights help detect anomalies and spot trends.
+  - Build a basic dashboard.
+  - Consume Power BI reports and dashboards.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-power-bi.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- functional-consultant
+- student
+products:
+- power-bi
+subjects:
+- data-visualization
+units:
+- learn-bizapps.wwl.introduction-power-bi.introduction
+- learn-bizapps.wwl.introduction-power-bi.describe-using-power-bi-build-data-driven-analytics
+- learn-bizapps.wwl.introduction-power-bi.explore-different-power-bi-elements
+- learn-bizapps.wwl.introduction-power-bi.describe-cleaning-transforming-data
+- learn-bizapps.wwl.introduction-power-bi.describe-using-ai-insights-spot-trends-anomalies
+- learn-bizapps.wwl.introduction-power-bi.build-basic-dashboard
+- learn-bizapps.wwl.introduction-power-bi.consider-business-value-power-bi
+- learn-bizapps.wwl.introduction-power-bi.knowledge-check
+- learn-bizapps.wwl.introduction-power-bi.summary-resources
+badge:
+  uid: learn-bizapps.wwl.introduction-power-bi.badge

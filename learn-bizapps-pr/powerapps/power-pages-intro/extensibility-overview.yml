@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-intro.extensibility-overview
+title: Overview of Power Pages extensibility
+metadata:
+  title: Overview of Power Pages extensibility
+  description: Learn about how pro developers can extend Power Pages functionality.
+  ms.date: 01/04/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/extensibility-overview.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.common-low-code-plug-in.data-manipulation 
+title: Data manipulation
+metadata: 
+  title: Data manipulation
+  description: Learn about data manipulation.
+  ms.date: 01/10/2024 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit 
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/data-manipulation.md)] 

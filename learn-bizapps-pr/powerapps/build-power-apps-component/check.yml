@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-power-apps-component.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/30/2023
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ ms.subservice: mda-developer
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which Power Platform CLI command do you use to initialize a code component project? 
+    choices: 
+    - content: pac pcf init 
+      isCorrect: true 
+      explanation: The command that you would use to initialize a code component project is pac pcf init.
+    - content: pac pcf new 
+      isCorrect: false 
+      explanation: The command that you would use to initialize a code component project is pac pcf init.
+    - content: npm start 
+      isCorrect: false 
+      explanation: The command that you would use to initialize a code component project is pac pcf init.
+    - content: pac pcf 
+      isCorrect: false 
+      explanation: The command that you would use to initialize a code component project is pac pcf init.
+  - content: What build engine is used to generate a Power Apps component solution package? 
+    choices: 
+    - content: npm 
+      isCorrect: false
+      explanation: MSBuild build engine is used to generate a Power Apps component solution package.
+    - content: .NET 
+      isCorrect: false 
+      explanation: MSBuild build engine is used to generate a Power Apps component solution package.
+    - content: Node.js 
+      isCorrect: false 
+      explanation: MSBuild build engine is used to generate a Power Apps component solution package.
+    - content: MSBuild 
+      isCorrect: true
+      explanation: MSBuild build engine is used to generate a Power Apps component solution package.
+  - content: During the build of a custom grid component, what file format is supported to load mock data into the Power Apps Component Test Harness? 
+    choices: 
+    - content: CSV
+      isCorrect: true 
+      explanation: During the build of a custom grid component, CSV is supported to load mock data into the Power Apps Component Test Harness.
+    - content: JSON
+      isCorrect: false 
+      explanation: During the build of a custom grid component, CSV is supported to load mock data into the Power Apps Component Test Harness.
+    - content: XML
+      isCorrect: false 
+      explanation: During the build of a custom grid component, CSV is supported to load mock data into the Power Apps Component Test Harness.
+    - content: PDF
+      isCorrect: false 
+      explanation: During the build of a custom grid component, CSV is supported to load mock data into the Power Apps Component Test Harness.

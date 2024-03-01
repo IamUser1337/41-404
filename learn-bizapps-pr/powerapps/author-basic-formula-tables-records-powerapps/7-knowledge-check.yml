@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.tables-and-records.7-knowledge-check 
+metadata: 
+  title: Author a basic formula that uses tables and records in a Power Apps canvas app knowledge check 
+  description: Author a basic formula that uses tables and records in a canvas app in Power Apps knowledge check 
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: Author a basic formula that uses tables and records in a Power Apps canvas app knowledge check 
+  questions: 
+  - content: Which of the following statements is true?
+    choices: 
+    - content: Collections are table variables in which you can temporarily store data in rows and columns.
+      isCorrect: true 
+      explanation: Collections are table variables that can be temporarily used to store data. 
+    - content: Collections are automatically stored in your data source.
+      isCorrect: false 
+      explanation: Collections are not automatically stored in your data source. Collections are table variables that can be temporarily used to store data. 
+    - content: Use collections with forms.
+      isCorrect: false 
+      explanation: Collections are table variables that can be temporarily used to store data.  
+  - content: The LookUp function is used for?
+    choices: 
+    - content: Returning all the upper records of a data source.
+      isCorrect: false
+      explanation: The Lookup function is used to return the first record that matches a given criteria.
+    - content: To update a specific record in your data source.
+      isCorrect: false 
+      explanation: The Lookup function is used to return the first record that matches a given criteria. 
+    - content: To return the first record that matches a given criteria.
+      isCorrect: true
+      explanation: The Lookup function is used to return the first record that matches a given criteria. 
+    - content: To look for all the records that match a given criteria.
+      isCorrect: false 
+      explanation: The Lookup function is used to return the first record that matches a given criteria. 
+  - content: When you use the Table function what happens to the data?
+    choices: 
+    - content: It creates a table of data that is stored permanently on the local device.
+      isCorrect: false
+      explanation: It creates a table of data to be used by a specific control. 
+    - content: It creates a table of data in a collection to be used throughout your app.
+      isCorrect: false 
+      explanation: It creates a table of data to be used by a specific control. 
+    - content: Is updates your external data source with new data.
+      isCorrect: false 
+      explanation: It creates a table of data to be used by a specific control. 
+    - content: It creates a table of data to be used by a specific control.
+      isCorrect: true
+      explanation: It creates a table of data to be used by a specific control. 

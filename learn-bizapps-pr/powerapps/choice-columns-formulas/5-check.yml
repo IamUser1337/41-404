@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.choice-columns-formulas.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/07/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What Power Fx function do you use to get a table of possible values for a choice column?
+    choices:
+    - content: Select()
+      isCorrect: false
+      explanation: The Select() function simulates a select action on a control as if the user had selected or tapped the control.
+    - content: Choices()
+      isCorrect: true
+      explanation: The Choices() formula returns a table of possible values for a Choice column.
+    - content: LookUp()
+      isCorrect: false
+      explanation: The LookUp() function finds the first record in a table that satisfies a formula.
+    - content: None, you should manually build the table
+      isCorrect: false
+      explanation: The Choices() function returns a table of possible values for a Choice column.
+  - content: What isn't a valid type of a list of values for a choice or choices column?
+    choices:
+    - content: Private choice
+      isCorrect: true
+      explanation: Valid list value types are Global choice and Local choice.
+    - content: Global choice
+      isCorrect: false
+      explanation: Global is a valid type; the list of values can be used by multiple choice or choices columns.
+    - content: Local choice
+      isCorrect: false
+      explanation: Local is a valid type; the list of values is only used for a single choice or a choices column.
+  - content: If you want to clear the existing stored value, what would you set the value of a choice column to when using the Patch() function?
+    choices:
+    - content: Blank()
+      isCorrect: true
+      explanation: The Blank() function would set to "no value" or "unknown value," as it was before being set.
+    - content: Empty()
+      isCorrect: false
+      explanation: Empty() isn't a valid Power Fx function.
+    - content: IsBlank()
+      isCorrect: false
+      explanation: The IsBlank() function is used to check for "no value," not to set the value.
+    - content: Reset()
+      isCorrect: false
+      explanation: The Reset() function resets a control to its default property value. This function would set the control back to the current value and would have no effect on the Patch() function.

@@ -1,0 +1,42 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-active-directory.4-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 08/01/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following actions do you have to perform before deploying Active Directory actions?
+    choices: 
+    - content: "Establish an Active Directory connection."
+      isCorrect: true 
+      explanation: All Active Directory actions require an established connection.
+    - content: "No further action is required."
+      isCorrect: false 
+      explanation: All Active Directory actions require an established connection.
+  - content: Which one of the following actions can establish an Active Directory connection? 
+    choices: 
+    - content: "Connect to server"
+      isCorrect: true
+      explanation: Only the Connect to server action can establish an Active Directory connection.
+    - content: "Create user"
+      isCorrect: false
+      explanation: Only the Connect to server action can establish an Active Directory connection.
+    - content: "All Active Directory actions can establish a connection."
+      isCorrect: false
+      explanation: Only the Connect to server action can establish an Active Directory connection.
+  - content: Which one the following actions do you have to use to create an Active Directory organizational unit?
+    choices: 
+    - content: "Create object"
+      isCorrect: true
+      explanation: The Create object action creates an Active Directory organizational unit. 
+    - content: "Create group"
+      isCorrect: false 
+      explanation: The Create group action creates an Active Directory group, not an organizational unit.

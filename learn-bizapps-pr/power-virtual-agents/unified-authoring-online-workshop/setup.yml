@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.unified-authoring-online-workshop.setup 
+title: Setup
+metadata: 
+  title: Setup
+  description: Learn about unified authoring setup.
+  ms.date: 12/05/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/setup.md)] 

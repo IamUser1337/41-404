@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.use-teams-connector 
+metadata: 
+ title: Use the Teams connector in Power Automate
+ description: Learn how to use the Teams connector in Microsoft Power Automate.
+ ms.date: 12/26/2022
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Use the Teams connector in Power Automate
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  With Microsoft Power Automate, you can design an end-to-end robotic process automation (RPA), from automated emails and form processing to approvals and taking actions in desktop applications. Approvals are integral to many company processes, but preparing, requesting, and waiting for an approval can be time-consuming. Instead, you can build the process in Power Automate to reduce the time that you spend on necessary but repetitive tasks. Also, you'll be able to request an approval in Microsoft Teams, where you spend the most time collaborating and chatting. This module explains how to integrate Microsoft Teams and Outlook into an existing cloud and desktop flow to build an automated, end-to-end invoice approval process.
+abstract: |  
+    In this module, you'll: 
+    - Integrate a Microsoft Teams-based approval model and the associated conditional logic into an existing cloud flow. 
+    - Integrate the desktop flow for entering the invoice information into the approval process. 
+    - Integrate Microsoft Outlook-based approval/rejection notifications into the invoice process. 
+    - Test the end-to-end invoice processing cloud flow.
+prerequisites: Basic understanding of Microsoft Power Automate and completion of the five previous modules in this learning path because this module builds from them
+iconUrl: /training/achievements/use-teams-connector.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- business-user
+products: 
+- power-platform
+- power-automate 
+subjects:
+- business-applications
+units:
+- learn-bizapps.use-teams-connector.1-introduction 
+- learn-bizapps.use-teams-connector.2-existing-solution 
+- learn-bizapps.use-teams-connector.3-create-approval 
+- learn-bizapps.use-teams-connector.4-integrate-existing-flow 
+- learn-bizapps.use-teams-connector.5-communication-outlook 
+- learn-bizapps.use-teams-connector.6-test-run-flow 
+- learn-bizapps.use-teams-connector.7-check 
+- learn-bizapps.use-teams-connector.8-summary 
+badge: 
+  uid: learn-bizapps.use-teams-connector.badge

@@ -1,0 +1,55 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.multiple-data-sources.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/05/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What are connectors used for in Power Automate?
+    choices:
+    - content: Connectors are used to start a flow.
+      explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
+      isCorrect: false
+    - content: Connectors let you build a flow that accepts user input.
+      explanation: Connectors let you connect to a service like Twitter.
+      isCorrect: false
+    - content: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
+      explanation: Connectors let you connect to a service like Salesforce, Microsoft 365, Twitter.
+      isCorrect: true
+  - content: What is a key advantage of using Power Automate in business process automation?
+    choices:
+    - content: Power Automate primarily enhances graphic design capabilities.
+      explanation: Power Automate is not focused on graphic design but on automating workflows and integrating different software.
+      isCorrect: false
+    - content: It offers complex coding environments for software developers.
+      explanation: While Power Automate allows for the use of expressions, its primary aim is to enable workflow automation without needing complex coding, targeting a wider range of users, not just developers.
+      isCorrect: false
+    - content: Power Automate simplifies the automation of repetitive tasks and integrates various applications and services.
+      explanation: This is the main function of Power Automate, as it allows users to automate routine tasks and seamlessly connect different apps and services.
+      isCorrect: true
+    - content:  It is used for hardware integration and physical device management.
+      explanation: Power Automate is not used for direct hardware integration or managing physical devices; it's about software and workflow automation.
+      isCorrect: false
+  - content: When creating flows across data sources do the column names need to match?
+    choices:
+    - content: Yes.
+      explanation: This is only required for choice type column types.
+      isCorrect: false
+    - content: Yes, but only for numerical column types.
+      explanation: This is only required for choice type column types.
+      isCorrect: false
+    - content: No.
+      explanation: This is only required for choice type column types.
+      isCorrect: false
+    - content: Yes, but only for choice type column types.
+      explanation: In order to copy data over the names of choice type, columns need to match.
+      isCorrect: true
+

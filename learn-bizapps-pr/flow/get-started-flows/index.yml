@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.flow-get-started
+metadata:
+  title: Get started with Power Automate
+  description: Learn how to create simple flows to make your life easier.
+  ms.date: 11/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module  
+title: Get started with Power Automate
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Power Automate is an online workflow service that automates actions across the most common apps and services.
+abstract: |
+    In this module, you will:
+    - Create a flow that automatically saves email attachments
+    - Learn how to create a button flow to send yourself a reminder
+prerequisites: |
+    - Signed up for Power Automate
+    - Have a OneDrive for Business account
+    - Have or create a Mailchimp account
+iconUrl: /training/achievements/get-started-with-flow.svg
+levels:
+- beginner
+roles:
+- business-user
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.flow-get-started.1-flow-introduction
+- learn-bizapps.flow-get-started.2-flow-create-first
+- learn-bizapps.flow-get-started.6-flow-scheduled-flows
+- learn-bizapps.flow-get-started.flow-monitor-incoming-emails
+- learn-bizapps.flow-get-started.8-flow-share-flows
+- learn-bizapps.flow-get-started.9-troubleshoot-flows
+- learn-bizapps.flow-get-started.10-knowledge-check
+- learn-bizapps.flow-get-started.11-summary-cleanup
+badge:
+  uid: learn.flow-get-started.badge

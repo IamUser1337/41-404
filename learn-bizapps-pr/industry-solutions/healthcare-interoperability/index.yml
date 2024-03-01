@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.healthcare-interoperability 
+metadata: 
+ title: Integration and interoperability solution for healthcare and life sciences 
+ description: This module provides a foundational description of the integration and interoperability challenges that exist in the healthcare and life sciences industries and how Microsoft Cloud for Healthcare can help overcome those challenges.
+ ms.date: 02/13/2024  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Integration and interoperability solution for healthcare and life sciences 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module provides a foundational description of the integration and interoperability challenges that exist in the healthcare and life sciences industries and how Microsoft Cloud for Healthcare can help overcome those challenges. It also provides an overview of the integration and interoperability solutions, such as Azure Health Data Services, Data Integration Toolkit, Dataverse Healthcare API, Data Ingestion ARM Template, and Virtual Health Tables, which are provided by Microsoft Cloud for Healthcare. It also explains the process for setting up the Data Integration Toolkit to use the Dataverse Healthcare API to send and retrieve healthcare data from Microsoft Dataverse.
+abstract: |  
+    In this module, you'll: 
+    - Learn about the integration and interoperability challenges in the healthcare and life sciences industries.
+    - Explore how Microsoft Cloud for Healthcare solves integration and interoperability challenges.
+    - Work with the Data Integration Toolkit to solve the integration and interoperability challenges.
+    - Send and retrieve data to and from Microsoft Dataverse by using the Dataverse Healthcare API.
+prerequisites: Microsoft Cloud for Healthcare [training environment preparation](/training/modules/training-environment-preparation-healthcare/) module
+iconUrl: /learn/achievements/healthcare-interoperability.svg  
+levels:  
+- advanced  
+roles:  
+- business-user   
+- functional-consultant 
+- solution-architect
+products: 
+- industry-solutions
+- mscloud-healthcare
+subjects: 
+- business-applications
+units: 
+- learn-bizapps.healthcare-interoperability.introduction 
+- learn-bizapps.healthcare-interoperability.toolkit-overview 
+- learn-bizapps.healthcare-interoperability.basic-configuration 
+- learn-bizapps.healthcare-interoperability.api-overview 
+- learn-bizapps.healthcare-interoperability.azure-logic-apps 
+- learn-bizapps.healthcare-interoperability.azure-function 
+- learn-bizapps.healthcare-interoperability.postman 
+- learn-bizapps.healthcare-interoperability.check 
+- learn-bizapps.healthcare-interoperability.summary 
+badge: 
+  uid: learn-bizapps.healthcare-interoperability.badge 

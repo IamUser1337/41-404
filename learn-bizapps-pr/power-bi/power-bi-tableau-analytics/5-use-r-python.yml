@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-analytics.5-use-r-python 
+title: Use R and Python
+metadata: 
+  title: Use R and Python 
+  description: Learn how to use R and Python. 
+  ms.date: 03/31/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-use-r-python.md)] 

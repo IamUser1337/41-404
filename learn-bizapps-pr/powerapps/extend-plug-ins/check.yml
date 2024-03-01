@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.extend-plug-ins.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2023
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ ms.service: powerapps 
+ ms.subservice: dataverse-developer
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are a few declarative alternatives that you have for building plug-ins to automate business processes?
+    choices: 
+    - content: Workflows, Power Automate, Power Apps 
+      isCorrect: false
+      explanation: Workflows, Power Automate, and Rollup Fields are a few declarative alternatives that are available for building plug-ins to automate business processes.
+    - content: Workflow, Power Automate, Rollup Fields 
+      isCorrect: true
+      explanation: Workflows, Power Automate, and Rollup Fields are a few declarative alternatives that are available for building plug-ins to automate business processes.
+    - content: Workflows, Client Script, Rollup Fields
+      isCorrect: false 
+      explanation: Workflows, Power Automate, and Rollup Fields are a few declarative alternatives that are available for building plug-ins to automate business processes.
+  - content: If you need custom logic to run synchronously in your application, which of the following won't achieve that objective?
+    choices: 
+    - content: Plug-ins
+      isCorrect: false
+      explanation: Power Automate won't run synchronously in your application. 
+    - content: Workflows
+      isCorrect: false 
+      explanation: Power Automate won't run synchronously in your application. 
+    - content: Power Automate
+      isCorrect: true
+      explanation: Power Automate won't run synchronously in your application. 
+  - content: What method is exposed within a plug-in assembly that enables you to run custom application logic?
+    choices: 
+    - content: Execute
+      isCorrect: true 
+      explanation: Execute is exposed within a plug-in assembly that enables you to run custom application logic.
+    - content: Run
+      isCorrect: false 
+      explanation: Execute is exposed within a plug-in assembly that enables you to run custom application logic.
+    - content: Start
+      isCorrect: false 
+      explanation: Execute is exposed within a plug-in assembly that enables you to run custom application logic.

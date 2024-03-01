@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.6-publish-share 
+title: Publish and share your new copilot
+metadata: 
+  title: Publish and share your new copilot 
+  description: Learn how to publish and share your new copilot. 
+  ms.date: 01/05/2024
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-publish-share.md)] 

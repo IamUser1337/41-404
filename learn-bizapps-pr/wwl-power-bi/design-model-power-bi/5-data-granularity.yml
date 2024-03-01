@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.design-model-power-bi.5-data-granularity
+title: Define data granularity
+metadata:
+  title: Define data granularity
+  description: "Define data granularity"
+  ms.date: 04/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+content: |
+  [!include[](includes/5-data-granularity.md)]

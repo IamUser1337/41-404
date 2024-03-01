@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.optimize-model-power-bi
+metadata:
+  title: Optimize a model for performance in Power BI
+  description: "Performance optimization, also known as performance tuning, involves making changes to the current state of the semantic model so that it runs more efficiently. Essentially, when your semantic model is optimized, it performs better."
+  ms.date: 10/26/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.custom:
+  - N/A
+  ms.service: powerbi
+title: Optimize a model for performance in Power BI
+summary: Performance optimization, also known as performance tuning, involves making changes to the current state of the semantic model so that it runs more efficiently. Essentially, when your semantic model is optimized, it performs better.
+abstract: |
+  By the end of this module, you will be able to:
+   - Review the performance of measures, relationships, and visuals.
+   - Use variables to improve performance and troubleshooting.
+   - Improve performance by reducing cardinality levels.
+   - Optimize DirectQuery models with table level storage.
+   - Create and manage aggregations.
+prerequisites: |
+  None
+iconUrl: /training/achievements/optimize-model-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-modeling
+units:
+- learn-bizapps.optimize-model-power-bi.1-introduction
+- learn-bizapps.optimize-model-power-bi.2-performance
+- learn-bizapps.optimize-model-power-bi.3-variables
+- learn-bizapps.optimize-model-power-bi.4-reduce-cardinality
+- learn-bizapps.optimize-model-power-bi.5-directquery-models
+- learn-bizapps.optimize-model-power-bi.6-aggregations
+- learn-bizapps.optimize-model-power-bi.7-check
+- learn-bizapps.optimize-model-power-bi.8-summary
+badge:
+  uid: learn-bizapps.optimize-model-power-bi.badge

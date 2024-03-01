@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-deployment-pipelines.work-with-deployment-pipelines
+title: Work with deployment pipelines
+metadata:
+  title: Work with deployment pipelines
+  description: "Once you have content in a pipeline stage, you can deploy it to the next stage."
+  ms.date: 01/30/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](includes/work-with-deployment-pipelines.md)]

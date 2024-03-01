@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.virtual-visits.3-configure-teams
+title: Configure Microsoft Teams for virtual visits
+metadata:
+  title: Configure Microsoft Teams for virtual visits
+  description: Learn to configure Microsoft Teams to schedule and conduct virtual visits remotely with patients.
+  ms.date: 07/27/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-configure-teams.md)]

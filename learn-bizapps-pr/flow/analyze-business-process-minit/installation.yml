@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.analyze-business-process-minit.installation 
+title: Install Power Automate Process Mining and open your process
+metadata: 
+  title: Install Power Automate Process Mining and open your process
+  description: Learn how to install the Power Automate Process Mining desktop app and open processes.
+  ms.date: 04/02/2023  
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/installation.md)] 

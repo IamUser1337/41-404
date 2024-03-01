@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.elevate-shopping
+title: Elevate the shopping experience
+metadata:
+  title: Elevate the shopping experience
+  description: Learn how intelligent stores, real-time personalization, unified commerce, digital ad solutions, and seamless customer service can help elevate your shoppers' experience.
+  ms.date: 01/24/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/elevate-shopping.md)]

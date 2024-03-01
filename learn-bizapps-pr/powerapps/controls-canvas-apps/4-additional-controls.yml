@@ -1,0 +1,14 @@
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.4-additional-controls
+title: Additional controls for enhancing your app's usability
+metadata:
+  title: Additional controls for enhancing your app's usability
+  description: Additional controls for enhancing your app's usability
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-additional-controls.md)]

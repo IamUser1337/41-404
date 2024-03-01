@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.manage-datasets-power-bi
+metadata:
+  title: Manage semantic models in Power BI
+  description: "With Microsoft Power BI, you can use a single semantic model to build many reports. Reduce your administrative overhead even more with scheduled semantic model refreshes and resolving connectivity errors."
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Manage semantic models in Power BI
+summary: With Microsoft Power BI, you can use a single semantic model to build many reports. Reduce your administrative overhead even more with scheduled semantic model refreshes and resolving connectivity errors. 
+abstract: |
+  In this module, you will:
+   - Use a Power BI gateway to connect to on-premises data sources.
+   - Configure a scheduled refresh for a semantic model.
+   - Configure incremental refresh settings.
+   - Manage and promote semantic models.
+   - Troubleshoot service connectivity.
+   - Boost performance with query caching (Premium).
+prerequisites: |
+  None
+iconUrl: /training/achievements/manage-datasets-in-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-management
+units:
+- learn-bizapps.manage-datasets-power-bi.1-introduction
+- learn-bizapps.manage-datasets-power-bi.4-power-bi-gateway
+- learn-bizapps.manage-datasets-power-bi.5-dataset-refresh
+- learn-bizapps.manage-datasets-power-bi.6-incremental-refresh
+- learn-bizapps.manage-datasets-power-bi.7-manage-datasets
+- learn-bizapps.manage-datasets-power-bi.8-troubleshoot-connectivity
+- learn-bizapps.manage-datasets-power-bi.9-query-caching
+- learn-bizapps.manage-datasets-power-bi.10-check
+- learn-bizapps.manage-datasets-power-bi.11-summary
+badge:
+  uid: learn-bizapps.manage-datasets-power-bi.badge

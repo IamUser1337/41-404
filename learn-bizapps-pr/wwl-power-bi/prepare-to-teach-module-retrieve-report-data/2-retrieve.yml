@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-retrieve-report-data.retrieving
+title: Retrieve report data
+metadata:
+  title: Retrieve report data
+  description: "Retrieve report data"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+azureSandbox: false
+durationInMinutes: 52
+content: |
+  [!include[](includes/2-retrieve.md)]

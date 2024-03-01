@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-publish-share.1-introduction 
+title: Share and use reports in Power BI
+metadata: 
+  title: Share and use reports in Power BI
+  description: Introduction to sharing and using reports in Power BI.
+  ms.date: 09/28/2021 
+  author: paulinbar 
+  manager: kfollis 
+  ms.author: painbar 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

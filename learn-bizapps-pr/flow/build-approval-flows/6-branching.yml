@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-approval-flows.6-branching
+title: Exercise - Create a business process flow that has conditions
+metadata:
+  title: Exercise - Create a business process flow that has conditions
+  description: Learn how to create a business process flow that has branches to handle a process that is more complex with conditions.
+  ms.date: 11/30/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 11
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-branching.md)]

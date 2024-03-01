@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.introduction-power-apps-cards.share-suggestions-card
+title: Exercise - Share the employee suggestions card in Teams
+metadata:
+  title: Exercise - Share the employee suggestions card in Teams
+  description: Follow the steps to share an employee suggestions card in Teams.
+  ms.date: 12/11/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/share-suggestions-card.md)]

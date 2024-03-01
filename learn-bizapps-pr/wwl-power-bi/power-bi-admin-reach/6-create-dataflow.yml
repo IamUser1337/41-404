@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-reach.6-create-dataflow 
+title: Create a Dataflow 
+metadata: 
+  title: Create a Dataflow  
+  description: Learn how to create a Dataflow.  
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-create-dataflow.md)] 

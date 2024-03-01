@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.button-user-input.1-user-inputs 
+title: Six types of user inputs
+metadata: 
+  title: Six types of user inputs
+  description: Learn about the six user input types included with Power Automate.
+  ms.date: 11/01/2021
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-user-inputs.md)] 

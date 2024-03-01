@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.shape-data.3-combine-data-shaping-functions
+title: Combining data shaping functions
+metadata:
+  title: Combine data shaping functions
+  description: Combine data shaping functions
+  ms.date: 12/01/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-combine-data-shaping-functions.md)]

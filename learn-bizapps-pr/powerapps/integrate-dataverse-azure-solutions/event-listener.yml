@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-dataverse-azure-solutions.event-listener
+title: Write a Service Bus Event Listener that consumes Microsoft Dataverse messages
+metadata:
+  title: Write a Service Bus Event Listener that consumes Dataverse messages
+  description: Learn how to write a Service Bus Event Listener that consumes Dataverse messages.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/event-listener.md)]

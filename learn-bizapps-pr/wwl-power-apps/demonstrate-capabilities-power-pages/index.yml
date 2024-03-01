@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn.wwl.demonstrate-capabilities-power-pages
+metadata:
+  title: Demonstrate the capabilities of Microsoft Power Pages
+  description: "In this module, learners are introduced to the Microsoft Power Pages. Power Pages is a low-code platform that enables you to rapidly design, configure, and publish websites that work seamlessly across web browsers and devices. Power Pages enables you to build sites by using the same shared business data stored in Microsoft Dataverse. Now you can streamline this process even further by using Copilot."
+  ms.date: 02/26/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.custom:
+  - N/A
+  ms.service: power-pages
+title: Demonstrate the capabilities of Microsoft Power Pages
+summary: Learn about Microsoft Power Pages, the platform for creating, hosting, and administering modern external-facing websites using shared business data stored in Microsoft Dataverse. [!INCLUDE [](../../includes/wwl/ai-contribution-notes.md)]
+abstract: |
+  In this module, we will:
+  -   Explore Power Pages.
+  -   Describe the business value of Power Pages.
+  -   Examine the process for building a basic site.
+  -   Describe the use cases for creating sites with Copilot.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-to-power-virtual-agents.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+- maker
+products:
+- power-platform
+- power-pages
+subjects:
+- business-applications
+units:
+- learn.wwl.demonstrate-capabilities-power-pages.introduction
+- learn.wwl.demonstrate-capabilities-power-pages.explore-power-pages
+- learn.wwl.demonstrate-capabilities-power-pages.describe-business-value-power-pages
+- learn.wwl.demonstrate-capabilities-power-pages.build-power-pages-site
+- learn.wwl.demonstrate-capabilities-power-pages.create-power-pages-site-copilot
+- learn.wwl.demonstrate-capabilities-power-pages.knowledge-check
+- learn.wwl.demonstrate-capabilities-power-pages.summary
+badge:
+  uid: learn.wwl.demonstrate-capabilities-power-pages.badge

@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-admin-governance 
+metadata: 
+ title: Provide governance in a Power BI environment
+ description: Learn the fundamental rules, regulations, and policies of a BI governance approach.
+ ms.date: 04/30/2021  
+ author: wwlpublish  
+ ms.author: shlindsay  
+ ms.topic: module
+ ms.service: powerbi  
+title: Provide governance in a Power BI environment
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  Power BI governance is a set of rules, regulations, and policies that define and ensure the effective, controlled, and valuable operation of a BI environment. In this module, you'll learn the fundamental components and practices necessary to govern a Power BI tenant.
+abstract: |  
+    In this module, you will: 
+    - Define the key components of an effective BI governance model
+    - Describe the key elements associated with data governance
+    - Configure, deploy, and manage elements of a BI governance strategy
+    - Set up BI help and support settings
+prerequisites: Familiarity with Power BI and governance practices in a BI environment.
+iconUrl: /training/achievements/power-bi-admin-governance.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator   
+products: 
+- power-platform 
+- power-bi 
+subjects:
+- information-protection-governance
+units:
+- learn-bizapps.power-bi-admin-governance.1-introduction 
+- learn-bizapps.power-bi-admin-governance.2-elements 
+- learn-bizapps.power-bi-admin-governance.3-configure 
+- learn-bizapps.power-bi-admin-governance.4-deploy 
+- learn-bizapps.power-bi-admin-governance.5-embed 
+- learn-bizapps.power-bi-admin-governance.6-help 
+- learn-bizapps.power-bi-admin-governance.7-check 
+- learn-bizapps.power-bi-admin-governance.8-summary 
+badge: 
+  uid: learn-bizapps.power-bi-admin-governance.badge

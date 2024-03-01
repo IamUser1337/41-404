@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-automate.explore-different-power-automate-apps
+title: Explore the different Power Automate apps
+metadata:
+  title: Explore the different Power Automate apps
+  description: "Introduction to the types of Power Automate apps."
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/3-explore-different-power-automate-apps.md)]

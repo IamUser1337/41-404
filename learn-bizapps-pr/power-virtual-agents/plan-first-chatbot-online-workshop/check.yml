@@ -1,0 +1,58 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-first-chatbot-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/06/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Out of the options provided, what data source can I connect Microsoft Copilot Studio to using the Generative answers feature?
+    choices: 
+    - content: A public-facing website
+      isCorrect: true 
+      explanation: Correct. A public-facing website is the data source that you can directly connect the Generative answers feature within the Microsoft Copilot Studio interface. 
+    - content: An on-premises Excel document
+      isCorrect: false 
+      explanation: Incorrect. On-premises data sources aren't supported in Microsoft Copilot Studio. 
+    - content: A hosted PDF in OneDrive
+      isCorrect: false 
+      explanation: Incorrect. OneDrive as a data source isn't supported in Microsoft Copilot Studio.
+  - content: Out of the box, Microsoft Copilot Studio includes pretrained NLU technology. How would a bot maker train the bot?
+    choices: 
+    - content: By running complex training programs
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Copilot Studio doesn't require complex training programs because it's already pretrained.
+    - content: By adding a new topic
+      isCorrect: false 
+      explanation: Incorrect. Adding a new topic is one step, but it's missing a fundamental component.
+    - content: By entering trigger phrases within a topic
+      isCorrect: true 
+      explanation: Correct. Entering trigger phrases will allow you to train the bot, specifically to trigger the topic that you're creating.
+  - content: Why is reducing topic overlap important when you're building bots?
+    choices: 
+    - content: It reduces the occurrences when the bot needs to ask clarifying questions, such as *Did you mean*.
+      isCorrect: true 
+      explanation: Correct. Asking to clarify questions doesn't promote good conversational design and experience, so reducing them means that a user or customer has a quicker and more positive interaction.
+    - content: Because the NLU handles topic overlap
+      isCorrect: false 
+      explanation: Incorrect. The NLU doesn't handle topic overlap.
+    - content: The topic will be easier to write
+      isCorrect: false 
+      explanation: Incorrect. Reducing topic overlap doesn't influence the topic authoring process.
+  - content: What's the only wrong way of completing the requirements gathering worksheet?
+    choices: 
+    - content: Not logging anything at all
+      isCorrect: true 
+      explanation: Correct. Not logging anything at all isn't the best way to begin requirements gathering.
+    - content: Writing down too much information
+      isCorrect: false 
+      explanation: Incorrect. Writing down too much information is one way to begin. You can always reduce and iterate the information later.
+    - content: Being collaborative and completing it as a project team
+      isCorrect: false 
+      explanation: Incorrect. Being collaborative and completing it as a team is a great way to complete the worksheet.

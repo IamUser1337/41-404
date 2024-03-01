@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-architecture.summary 
+title: Summary
+metadata: 
+  title: Summary 
+  description: Summary of Microsoft Cloud for Sustainability solution architecture  
+  ms.date: 11/14/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/summary.md)] 

@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dax-power-bi-add-measures.lab
+title: Exercise - Create DAX Calculations in Power BI Desktop
+metadata:
+  title: Exercise - Create DAX Calculations in Power BI Desktop
+  description: "In this lab, you'll create calculations using Data Analysis Expressions (DAX)."
+  ms.date: 01/18/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labId: 133464
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/5b-lab.md)]

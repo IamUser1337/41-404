@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.onboard-approve-volunteer-management.5-record-attendance 
+title: Record attendance and close the engagement
+metadata: 
+  title: Record attendance and close the engagement
+  description: Learn to complete attendance records and close the engagement.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-record-attendance.md)] 

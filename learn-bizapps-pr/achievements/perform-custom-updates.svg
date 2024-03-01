@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Understand advanced topics in PowerApps/perform-custom-updates-in-a-canvas-app-in-powerapps</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-5.8%" y="-6.5%" width="111.6%" height="112.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M8,8.13571432e-13 L8,12.0036733 C8,12.5559581 8.44771525,13.0036733 9,13.0036733 L17,13.0036733 C17.5522847,13.0036733 18,12.5559581 18,12.0036733 L18,8.149037e-13 C22.6979037,1.95911925 26,6.59577332 26,12.0036733 C26,19.183375 20.1797017,25.0036733 13,25.0036733 C5.82029825,25.0036733 0,19.183375 0,12.0036733 C0,6.59577332 3.3020963,1.95911925 8,8.14237566e-13 Z" id="path-4"></path>
+        <filter x="-3.8%" y="-4.0%" width="107.7%" height="116.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M8.5,24 L18,24 L18,48 C18,48.5522847 17.5522847,49 17,49 L9,49 C8.44771525,49 8,48.5522847 8,48 L8,24.5 C8,24.2238576 8.22385763,24 8.5,24 Z" id="path-6"></path>
+        <filter x="-10.0%" y="-4.0%" width="120.0%" height="116.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-8" cx="13" cy="13" r="13"></circle>
+        <filter x="-3.8%" y="-3.8%" width="107.7%" height="115.4%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Understand-advanced-topics-in-PowerApps" transform="translate(-50.000000, -660.000000)">
+            <g id="Understand-advanced-topics-in-PowerApps/perform-custom-updates-in-a-canvas-app-in-powerapps" transform="translate(50.000000, 660.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#965596" xlink:href="#path-1"></use>
+                    <g id="Gear" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(14.000000, 9.000000)">
+                            <g id="Group-5">
+                                <path d="M34.3196,53.2299 C23.2736,53.2299 14.3196,44.2759 14.3196,33.2299 C14.3196,22.1839 23.2736,13.2299 34.3196,13.2299 C45.3656,13.2299 54.3196,22.1839 54.3196,33.2299 C54.3196,44.2759 45.3656,53.2299 34.3196,53.2299 M59.9896,28.0439 L56.9376,20.5259 L59.9436,16.8209 C61.2536,15.2069 61.1076,12.8579 59.6096,11.4169 L57.0316,8.9389 C55.5796,7.5419 53.3156,7.4439 51.7486,8.7089 L48.0396,11.6999 L40.5256,8.4039 L40.1156,3.6559 C39.9356,1.5869 38.2056,0.0009 36.1306,0.0009 L32.5786,0.0009 C30.5306,0.0009 28.8126,1.5469 28.5996,3.5839 L28.0966,8.4039 L20.3976,11.6999 L16.6326,8.6949 C15.0556,7.4379 12.7926,7.5489 11.3476,8.9549 L8.8406,11.3949 C7.3466,12.8469 7.2186,15.2029 8.5446,16.8079 L11.6126,20.5259 L8.3676,28.0439 L3.5506,28.5889 C1.5286,28.8179 0.0006,30.5289 0.0006,32.5639 L0.0006,36.5589 C0.0006,38.6159 1.5586,40.3359 3.6046,40.5399 L8.3676,41.0119 L11.6126,48.4879 L8.5296,52.1309 C7.2056,53.6969 7.2796,56.0099 8.7016,57.4889 L11.2716,60.1609 C12.7356,61.6809 15.1296,61.8029 16.7396,60.4389 L21.1716,56.6859 L47.2026,56.6859 L52.0856,60.3069 C53.6856,61.4949 55.9176,61.3229 57.3166,59.9029 L59.7706,57.4119 C61.1916,55.9709 61.3116,53.6969 60.0516,52.1129 L56.9376,48.1999 L59.9896,40.5899 L64.9886,40.1519 C67.0546,39.9699 68.6386,38.2409 68.6386,36.1669 L68.6386,32.5769 C68.6386,30.5359 67.1026,28.8219 65.0736,28.5999 L59.9896,28.0439 Z" id="Fill-1" fill="#F0F2F2"></path>
+                                <path d="M59.9895,28.044 L56.9375,20.526 L59.9435,16.821 C61.2535,15.206 61.1075,12.858 59.6095,11.417 L57.0315,8.939 C55.5795,7.542 53.3155,7.444 51.7485,8.708 L48.0395,11.7 L40.5255,8.404 L40.1155,3.656 C39.9355,1.587 38.2055,-4.12114787e-13 36.1305,-4.12114787e-13 L33.9916992,-4.12114787e-13 L33.9916992,13.23 C45.0376992,13.23 54.3195,22.184 54.3195,33.23 C54.3195,44.276 45.0376992,53.23 33.9916992,53.23 L33.9916992,56.686 L47.2025,56.686 L52.0855,60.307 C53.6855,61.495 55.9175,61.323 57.3165,59.903 L59.7705,57.412 C61.1915,55.971 61.3115,53.697 60.0525,52.113 L56.9375,48.2 L59.9895,40.59 L64.9885,40.152 C67.0545,39.97 68.6385,38.241 68.6385,36.166 L68.6385,32.577 C68.6385,30.536 67.1025,28.822 65.0735,28.6 L59.9895,28.044 Z" id="Fill-3" fill="#DCDEDE"></path>
+                            </g>
+                            <g id="Group-67" transform="translate(14.000000, 14.000000)">
+                                <ellipse id="Oval" stroke="#DCDEDE" stroke-width="2" fill-rule="nonzero" cx="20.5" cy="19.5" rx="20" ry="19.5"></ellipse>
+                                <path d="M19.9916992,39 C31.0376992,39 40.5,30.26985 40.5,19.5 C40.5,9.80033137 32.8247729,1.75513992 23.2299221,0.252041443 C22.1713055,0.0862019651 21.0893211,0 19.9916992,0" id="Stroke-1" stroke="#F0F2F2" stroke-width="2"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Wrench" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(35.000000, 30.000000)">
+                            <g id="Combined-Shape" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#D5DBD5" xlink:href="#path-4"></use>
+                            </g>
+                            <g id="Rectangle" fill="none">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                <use fill="#D5DBD5" xlink:href="#path-6"></use>
+                            </g>
+                            <path d="M14.3978049,24.1373948 L18,23 L18,47.1272233 L13,47.1272233 L13,26.0445815 C13,25.1719957 13.5657128,24.4001283 14.3978049,24.1373948 Z" id="Rectangle" fill="#A6ADAE"></path>
+                            <path d="M8,46 L18,46 L18,48 C18,48.5522847 17.5522847,49 17,49 L9,49 C8.44771525,49 8,48.5522847 8,48 L8,46 Z" id="Rectangle" fill="#C5CCCD"></path>
+                            <path d="M13,25.0036718 C13.0000044,25.0024484 13.0000066,25.0012244 13.0000066,25 L13.0000066,13.0036733 L17.0000066,13.0036733 C17.5522914,13.0036733 18.0000066,12.5559581 18.0000066,12.0036733 L18.0000066,3.83137966e-13 C22.6979103,1.95911925 26.0000066,6.59577332 26.0000066,12.0036733 C26.0000066,19.183375 20.1797084,25.0036733 13.0000066,25.0036733 Z" id="Combined-Shape" fill="#A6ADAE"></path>
+                        </g>
+                    </g>
+                    <g id="update" mask="url(#mask-2)">
+                        <g transform="translate(36.000000, 63.000000)">
+                            <g id="Oval">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                <use fill="#7CB65A" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            </g>
+                            <g id="Group-61" stroke-width="1" fill-rule="evenodd" transform="translate(3.466667, 5.200000)">
+                                <path d="M4.73099511,1.84442245 C5.93967696,0.864299241 7.44377148,0.222307679 9.11077738,0.0765321519 C13.5557242,-0.312041688 17.4740449,2.97635494 17.8626187,7.42130177 C17.9989816,8.98356169 17.6813647,10.4808984 17.0188584,11.7827414" id="Stroke-2" stroke="#FFFFFF" stroke-width="2"></path>
+                                <path d="M14.3909649,14.7841244 C13.2788231,15.5499286 11.9591202,16.04711 10.5177767,16.1730949 C6.07282987,16.5616687 2.1545092,13.2732721 1.76593536,8.82832523 C1.65756911,7.5875438 1.83568557,6.38755055 2.24549823,5.29423409" id="Stroke-4" stroke="#FFFFFF" stroke-width="2"></path>
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(2.267094, 5.380504) rotate(-21.000000) translate(-2.267094, -5.380504) " points="0.575342068 4.24371952 3.95884604 3.70285556 3.39134982 7.05815189"></polygon>
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(16.874548, 11.908691) rotate(-194.000000) translate(-16.874548, -11.908691) " points="15.182796 10.7719072 18.5663 10.2310433 17.9988038 13.5863396"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="PowerApps-Border" stroke="#742774" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-excel-automation.3-reading-excel-document
+title: Read from an Excel document
+metadata: 
+  title: Read from an Excel document
+  description: Learn how to read from an Excel document.
+  ms.date: 08/04/2021
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-reading-excel-document.md)] 

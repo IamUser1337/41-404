@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-receipt-processing.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to getting started with receipt processing in AI Builder
+  ms.date: 07/20/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

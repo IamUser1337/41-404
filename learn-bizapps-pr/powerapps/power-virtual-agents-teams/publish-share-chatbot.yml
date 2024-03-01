@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-virtual-agents-teams.publish-share-chatbot 
+title: Exercise - Publish and share your chatbot
+metadata: 
+  title: Exercise - Publish and share your chatbot
+  description: Now that you've finished editing and testing your bot, you're ready to publish it.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 30 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/publish-share-chatbot.md)] 

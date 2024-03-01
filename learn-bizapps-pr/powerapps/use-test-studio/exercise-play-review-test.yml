@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-test-studio.exercise-play-review-test 
+title: Exercise - Play and review the tests for the Budget Tracker canvas app
+metadata: 
+  title: Exercise - Play and review the tests for the Budget Tracker canvas app
+  description: Follow the steps to play and review the tests for the Budget Tracker canvas app.
+  ms.date: 09/27/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: interactive-tutorial 
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-play-review-test.md)] 

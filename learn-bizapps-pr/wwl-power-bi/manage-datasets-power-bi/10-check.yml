@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-datasets-power-bi.10-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Check your knowledge"
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/10-check.md)]
+quiz:
+  questions:
+  - content: "Where are semantic model-scheduled refreshes configured?"
+    choices:
+    - content: "Power BI service"
+      isCorrect: true
+      explanation: "semantic model-scheduled refreshes are configured in Power BI service."
+    - content: "Power BI Desktop"
+      isCorrect: false
+      explanation: "semantic model-scheduled refreshes are configured in Power BI service."
+    - content: "AppSource"
+      isCorrect: false
+      explanation: "semantic model-scheduled refreshes are configured in Power BI service."
+  - content: "What reserved parameters configure the start and end of where Incremental refresh should occur?"
+    choices:
+    - content: "Start and End parameters"
+      isCorrect: false
+      explanation: "RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur."
+    - content: "StartRange and EndRange"
+      isCorrect: false
+      explanation: "RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur."
+    - content: "RangeStart and RangeEnd"
+      isCorrect: true
+      explanation: "RangeStart and RangeEnd configure the start and end of where Incremental refresh should occur."
+  - content: "What is the difference between Promotion and Certification when you are endorsing a semantic model?"
+    choices:
+    - content: "Promotion requires write access while Certification requires permission from the semantic model owner to access to the semantic model."
+      isCorrect: false
+      explanation: "Promotion does not need specific permissions while Certification requires permission from the semantic model owner to access to the semantic model."
+    - content: "Promotion is for broad usage while Certification needs permission granted on the Admin Tenant settings."
+      isCorrect: true
+      explanation: "Promotion does not need specific permissions while Certification requires permission from the semantic model owner to access to the semantic model."
+    - content: "Promotion is for specific users while Certification needs permission granted on the Admin Tenant settings."
+      isCorrect: false
+      explanation: "Promotion does not need specific permissions while Certification requires permission from the semantic model owner to access to the semantic model."

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-paginated-reports-power-bi.4-charts
+title: Work with charts on the report
+metadata:
+  title: Work with charts on the report
+  description: "Work with charts on the report"
+  ms.date: 07/05/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 1
+content: |
+  [!include[](includes/4-charts.md)]

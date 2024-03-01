@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.2-integrate-email
+title: Integrate with Exchange or Outlook to send email messages from Volunteer Management 
+metadata: 
+  title: Integrate with Exchange or Outlook to send email messages from Volunteer Management 
+  description: Learn how to integrate with Exchange or Outlook to send email messages from Volunteer Management.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-integrate-email.md)] 

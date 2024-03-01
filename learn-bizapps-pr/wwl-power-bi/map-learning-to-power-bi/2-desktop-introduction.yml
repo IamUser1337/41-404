@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.mapping-learning-to-power-bi.desktop-introduction
+title: Desktop introduction
+metadata:
+  title: Desktop introduction
+  description: "Desktop introduction"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 10
+content: |
+  [!include[](includes/2-desktop-introduction.md)]

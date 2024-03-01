@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-intro.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/10/2022
+ author: mberdugo
+ manager: kfollis 
+ ms.author: monaberdugo
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: John is a developer at Tailspin Toys who is considering developing an app that programmatically embeds Power BI reports. John is proficient with HTML5. What other skill must John have?
+    choices:
+    - content: Java
+      isCorrect: false
+      explanation: Incorrect. While it's possible to develop an app by using Java, it's not a required skill to programmatically embed Power BI embedded analytics.
+    - content: JavaScript
+      isCorrect: true
+      explanation: Correct. The client APIs require developing logic in JavaScript.
+    - content: NodeJS
+      isCorrect: false
+      explanation: Incorrect. While it's possible to develop an app by using NodeJS, it's not a required skill to programmatically embed Power BI embedded analytics.
+    - content: Python
+      isCorrect: false
+      explanation: Incorrect. While it's possible to develop an app by using Python, it's not a required skill to programmatically embed Power BI embedded analytics.
+  - content: Nikita is a developer at Tailspin Toys. Nikita needs to embed a highly interactive analytic experience that allows users to explore and interact with data by using slicers and filters. Which type of Power BI content should Nikita embed in the app?
+    choices:
+    - content: Power BI report
+      isCorrect: true
+      explanation: Correct. Power BI reports deliver interactive analytical experiences that are designed to encourage exploration and discovery.
+    - content: Power BI visual
+      isCorrect: false
+      explanation: Incorrect. A single Power BI visual can't be filtered by a slicer.
+    - content: Paginated report
+      isCorrect: false
+      explanation: Incorrect. A paginated report isn't as highly interactive as a Power BI report. Also, paginated reports don't support slicers.
+    - content: Q&A
+      isCorrect: false
+      explanation: Incorrect. Q&A is about natural language querying. It doesn't support slicers.
+  - content: Iskander is a developer at Tailspin Toys who needs to embed a report that can be exported as a PDF or Word document. Which type of Power BI content should Iskander embed in the app?
+    choices:
+    - content: Power BI report
+      isCorrect: false
+      explanation: Incorrect. Power BI reports can be exported, but not as a Word document.
+    - content: Power BI visual
+      isCorrect: false
+      explanation: Incorrect. A single Power BI visual can't be exported.
+    - content: Paginated report
+      isCorrect: true
+      explanation: Correct. A paginated report can be exported in many formats, including PDF and Word.
+    - content: Q&A
+      isCorrect: false
+      explanation: Incorrect. Q&A is about natural language querying. Q&A responses can't be exported.

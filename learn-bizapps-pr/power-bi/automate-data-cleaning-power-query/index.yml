@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.automate-data-cleaning-power-query 
+metadata: 
+ title: Automate data cleaning with Power Query 
+ description: This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.
+ ms.date: 06/20/2023
+ author: DougKlopfenstein
+ ms.author: dougklo
+ ms.topic: module
+ ms.service: powerquery
+title: Automate data cleaning with Power Query 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Power Query in Microsoft Excel is a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools. Achieving clean data for analysis consumes countless hours for professionals across all industries. With Power Query, your data preparation and cleaning will be transformed, automated, and improved, giving you time for analysis and for driving business impact.
+abstract: |  
+    In this module, you will: 
+    - Learn about the role of Power Query in the modern analytics ecosystem.
+    - Launch Power Query from Excel.
+    - Navigate the user interface (UI) of Power Query.
+    - Connect to disparate data sources by using Power Query.
+    - Use Power Query to clean and transform data for a data model.
+prerequisites: Microsoft Excel
+iconUrl: /training/achievements/automate-data-cleaning-power-query.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform
+- power-bi
+- power-query
+subjects:
+- data-analytics
+units:
+- learn-bizapps.automate-data-cleaning-power-query.1-introduction 
+- learn-bizapps.automate-data-cleaning-power-query.2-explore-power-query 
+- learn-bizapps.automate-data-cleaning-power-query.3-import-data 
+- learn-bizapps.automate-data-cleaning-power-query.4-common-data-challenges 
+- learn-bizapps.automate-data-cleaning-power-query.5-lab 
+- learn-bizapps.automate-data-cleaning-power-query.6-check 
+- learn-bizapps.automate-data-cleaning-power-query.7-summary 
+badge: 
+  uid: learn-bizapps.automate-data-cleaning-power-query.badge

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-expressions.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/01/2020 
+ author: davebeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the correct syntax for a string in a Power Automate function?
+    choices: 
+    - content: This is my string.
+      isCorrect: false
+      explanation: Power Automate requires single quotes (') around a text to make it a string.
+    - content: \'This is my string.\'
+      isCorrect: true 
+      explanation: Power Automate requires single quotes (') around a text to make it a string.
+    - content: \"This is my string.\"
+      isCorrect: false 
+      explanation: Power Automate requires single quotes (') around a text to make it a string.
+    - content: makeString(This is my string.)
+      isCorrect: false 
+      explanation: Power Automate requires single quotes (') around a text to make it a string.
+  - content: How would you write a formula to add 3 plus 5 and then divide by 2?
+    choices: 
+    - content: div(add(3,5),2)
+      isCorrect: true 
+      explanation: Power Automate requires the use of an expression phrase like "div" and "add" before being provided numbers to make calculations. Start from the inside (the calculation you want to make first, in this case adding 3 and 5) and then work your way out in the formula as you add additional calculations (in this case, dividing the sum of 3 and 5 by 2).
+    - content: (3+5)/2
+      isCorrect: false 
+      explanation: Power Automate requires the use of an expression phrase like "div" and "add" before being provided numbers to make calculations. Start from the inside (the calculation you want to make first. in this case adding 3 and 5) and then work your way out in the formula as you add additional calculations (in this case, dividing the sum of 3 and 5 by 2).
+    - content: div(3+5,2)
+      isCorrect: false 
+      explanation: Power Automate requires the use of an expression phrase like "div" and "add" before being provided numbers to make calculations. Start from the inside (the calculation you want to make first, in this case adding 3 and 5) and then work your way out in the formula as you add additional calculations (in this case, dividing the sum of 3 and 5 by 2).
+    - content: Power Automate expressions cannot be used for math.
+      isCorrect: false 
+      explanation: Power Automate requires the use of an expression phrase like "div" and "add" before being provided numbers to make calculations. Start from the inside (the calculation you want to make first, in this case adding 3 and 5) and then work your way out in the formula as you add additional calculations (in this case, dividing the sum of 3 and 5 by 2).
+  - content: What statement best describes the relationship between Power Automate and Azure Logic Apps functions?
+    choices: 
+    - content: Each product has its own functions with no overlap.
+      isCorrect: false
+      explanation: You can use the same functions in a Power Automate as you can in Azure Logic Apps.
+    - content: Each product uses the same functions but has different syntax.
+      isCorrect: false 
+      explanation: You can use the same functions in a Power Automate as you can in Azure Logic Apps.
+    - content: They use the same functions and their function documentation is interchangeable.
+      isCorrect: true 
+      explanation: You can use the same functions in a Power Automate as you can in Azure Logic Apps.
+    - content: The two products are similar but you should ignore all function documentation for Azure Logic Apps when building a Power Automate flow.
+      isCorrect: false 
+      explanation: You can use the same functions in a Power Automate as you can in Azure Logic Apps.

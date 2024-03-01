@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-teams.exercise-create-team 
+title: Exercise - Create a team with Dataverse 
+metadata: 
+  title: Exercise - Create a team with Dataverse 
+  description: Learn how to create a team with Dataverse.
+  ms.date: 10/05/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 25
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-create-team.md)] 

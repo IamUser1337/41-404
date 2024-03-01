@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-canvas-app-real-estate-excel.exercise 
+title: Exercise – Create a canvas app with data from an Excel file
+metadata: 
+  title: Exercise – Create a canvas app with data from an Excel file
+  description: Follow the steps to create a canvas app by using data from an Excel file.
+  ms.date: 09/22/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 30 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

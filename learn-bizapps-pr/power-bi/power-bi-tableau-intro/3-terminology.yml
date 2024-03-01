@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.3-terminology 
+title: Differences in terminology
+metadata: 
+  title: Differences in terminology
+  description: Learn about the Power BI terminology that corresponds to terminology in Tableau.
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-terminology.md)] 

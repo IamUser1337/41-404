@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-with-ai-builder-language-detection 
+metadata: 
+ title: Identify the language of text with AI Builder
+ description: Explore AI Builder Language detection and learn how to use it with other Microsoft Power Platform products.
+ ms.date: 04/09/2020   
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Identify the language of text with AI Builder
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  Explore AI Builder Language detection and learn how to use it with other Microsoft Power Platform products. 
+abstract: |  
+    In this module, you will: 
+    - Learn about the AI Builder Language detection prebuilt model.
+    - Discover how AI Builder Language detection works within Microsoft Power Platform.
+    - Explore business problems that can be solved with AI Builder Language detection.
+    - Develop a simple flow with Power Automate that uses AI Builder Language detection.
+prerequisites: |
+  - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+  - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+iconUrl: /training/achievements/get-started-with-language-detection.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+- business-user
+products:  
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+units:
+- learn-bizapps.get-started-with-ai-builder-language-detection.1-intro-to-language-detection 
+- learn-bizapps.get-started-with-ai-builder-language-detection.2-business-problems-solved 
+- learn-bizapps.get-started-with-ai-builder-language-detection.3-exercise 
+- learn-bizapps.get-started-with-ai-builder-language-detection.3a-check
+- learn-bizapps.get-started-with-ai-builder-language-detection.4-summary 
+badge: 
+  uid: learn-bizapps.get-started-with-language-detection.badge

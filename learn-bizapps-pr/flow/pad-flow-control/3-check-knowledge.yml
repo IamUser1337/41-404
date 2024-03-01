@@ -1,0 +1,46 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-flow-control.3-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2020 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "The Go to action directs the flow to:"
+    choices: 
+    - content: "Another flow"
+      isCorrect: false 
+      explanation: "Your answer is incorrect. The Go to action directs the flow to a label."
+    - content: "A Label"
+      isCorrect: true 
+      explanation: "That is correct!"
+    - content: "Another subflow"
+      isCorrect: false 
+      explanation: "Your answer is incorrect. The Go to action directs the flow to a label."
+    - content: "All of the above"
+      isCorrect: false 
+      explanation: "Your answer is incorrect. The Go to action directs the flow to a label."
+  - content: "Which one of the following statements about the Exit subflow action is true?"
+    choices: 
+    - content: "It isn't necessary at the end of each subflow."
+      isCorrect: true 
+      explanation: "Subflows exit automatically after running their last action."
+    - content: "It is necessary at the end of each subflow."
+      isCorrect: false 
+      explanation: "Subflows exit automatically after running their last action."
+  - content: "Which one of the following statements about Comments is true?"
+    choices: 
+    - content: "They don't affect the functionality of the flow."
+      isCorrect: true 
+      explanation: "Comments don't affect the functionality of the flow."
+    - content: "Comments are interpreted like all the other types of actions."
+      isCorrect: false 
+      explanation: "Comments aren't interpreted like standard actions."
+

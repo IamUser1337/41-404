@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.describe-ai-authoring-experience-power-platform.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions."
+  ms.date: 02/15/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/8-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "A support engineer is creating a copilot that assists customers with basic account questions such as account balance, rewards points, etc. Which of the following Copilot Studio elements would they use to control how the bot engages with a customer?"
+    choices:
+    - content: "Entity"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect because entities are information that represents real-world items such as phone numbers, zip codes, etc."
+    - content: "Variable"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect as variables are used to store customer responses so they can be used later in the conversation."
+    - content: "Topic"
+      isCorrect: true
+      explanation: "Correct. This answer is correct because in Copilot Studios, a topic defines how a bot conversation plays out."
+  - content: "A support engineer is building a copilot that assists customers with basic account questions such as account balance, rewards points, etc. They want to provide the customer with a list of departments that they can choose from to simplify their overall experience. What Copilot Studio component would they create?"
+    choices:
+    - content: "Entity"
+      isCorrect: true
+      explanation: "Correct. Entities are information that represents real-world items such as phone numbers, zip codes, etc. Custom entities can be created to reflect real-world elements of an organization such as departments."
+    - content: "Variable"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect as variables are used to store customer responses so they can be used later in the conversation. The values from an entity could be used in a variable, but the entity would need to be created first."
+    - content: "Topic"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect because in Copilot Studios, a topic defines how a bot conversation plays out."
+  - content: "A team has been struggling with processing applications from customers who are applying to be a part of their company’s newest software beta test. They want to create an automated solution for handling customer applications. Which of the following AI Builder models would best help with this objective?"
+    choices:
+    - content: "Prediction"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect as the prediction model is used to analyze patterns in historical data and then predict a future outcome."
+    - content: "Document processing"
+      isCorrect: true
+      explanation: "Correct. This answer is correct as the document processing model lets you read and save information from documents."
+    - content: "Object detection"
+      isCorrect: false
+      explanation: "Incorrect. This answer is incorrect as the object detection model scans images to identify a thing such as logos, specific objects, and more."

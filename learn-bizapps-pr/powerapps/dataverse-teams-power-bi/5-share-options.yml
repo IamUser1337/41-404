@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dataverse-teams-power-bi.5-share-options 
+title: Share the data
+metadata: 
+  title: Share the data
+  description: Learn how to share your Power BI data with Teams and with colleagues.
+  ms.date: 07/30/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-share-options.md)] 

@@ -1,0 +1,29 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-complex-calculations.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/29/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 2
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What capabilities are available to get specific Scope 1 and 2 source types and Scope 3 category level insights in Sustainability Manager?
+    choices:
+    - content: Insights can't be derived at a specific scope level because Sustainability Manager only reports overall emissions.
+      isCorrect: false
+      explanation: Incorrect. Sustainability Manager has many ways of obtaining insights around Scope 1 and 2 source types and Scope 3 category levels, including filtering and scope-specific dashboard tabs.
+    - content: Insights can be derived at Scope 1 and 2 source types but not at Scope 3 category levels.
+      isCorrect: false
+      explanation: Incorrect. In addition to Scope 1 and 2 source types, Scope 3 category levels can be derived through filtering and scope-specific dashboard tabs.
+    - content: Insights can be filtered by using Reporting period, Accounting method, Organizational hierarchy, and then at individual Scope 1 and 2 source types and Scope 3 category levels.
+      isCorrect: true
+      explanation: Correct. Insights can be filtered by using Reporting period, Accounting method, Organizational hierarchy, and then at individual Scope 1 and 2 source type and Scope 3 category levels.
+    - content: Insights are only supported at Scope 3 category levels.
+      isCorrect: false
+      explanation: Incorrect. Scope 1 and 2 source types can also be derived through a filter and scope-specific dashboard tabs.

@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-dataverse.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/26/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following options isn't a valid data-aware component in Power Pages?
+    choices: 
+    - content: List 
+      isCorrect: false 
+      explanation: Lists, forms, and multistep forms are data-aware components in Power Pages. They do use Dataverse tables; however, Table isn't a valid Power Pages component.
+    - content: Table
+      isCorrect: true 
+      explanation: Lists, forms, and multistep forms are data-aware components in Power Pages. They do use Dataverse tables; however, Table isn't a valid Power Pages component. 
+    - content: Multistep form
+      isCorrect: false 
+      explanation: Lists, forms, and multistep forms are data-aware components in Power Pages. They do use Dataverse tables; however, Table isn't a valid Power Pages component. 
+    - content: Form
+      isCorrect: false 
+      explanation: Lists, forms, and multistep forms are data-aware components in Power Pages. They do use Dataverse tables; however, Table isn't a valid Power Pages component.
+  - content: You've created a Contact Us form and want to redirect users to a Thank You page after successful submission. How can you achieve this task?
+    choices: 
+    - content: Change the form title to "Contact Us - Thank You."
+      isCorrect: false 
+      explanation: The On submit setting defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
+    - content: Set the Form column on the Thank You page to the Contact Us form.
+      isCorrect: false 
+      explanation: The On submit setting defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
+    - content: Add a redirect step to the form.
+      isCorrect: false 
+      explanation: The On submit setting defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
+    - content: Set up the On submit setting to redirect to the Thank You page.
+      isCorrect: true 
+      explanation: The On submit setting defines behavior on successful submission of the form. Options are to display a message or redirect to another page or URL.
+  - content: Where in Power Pages design studio would you add a list and form component to a particular webpage?
+    choices: 
+    - content: From the webpage settings dialog
+      isCorrect: false 
+      explanation: The webpage settings dialog doesn't contain details about page content. You could add Liquid tags to a page template, but that would apply to all pages that use that template. You can add forms and lists by using the Add a component option on the page design canvas. You can add forms and lists in the Portal Management app, but it isn't the only way.
+    - content: Directly in the webpage template
+      isCorrect: false 
+      explanation: The webpage settings dialog doesn't contain details about page content. You could add Liquid tags to a page template, but that would apply to all pages that use that template. You can add forms and lists by using the Add a component option on the page design canvas. You can add forms and lists in the Portal Management app, but it isn't the only way.
+    - content: By using the Add a component link on the page canvas
+      isCorrect: true 
+      explanation: The webpage settings dialog doesn't contain details about page content. You could add Liquid tags to a page template, but that would apply to all pages that use that template. You can add forms and lists by using the Add a component option on the page design canvas. You can add forms and lists in the Portal Management app, but it isn't the only way.
+    - content: You can only add forms and lists by using the Portal Management app
+      isCorrect: false 
+      explanation: The webpage settings dialog doesn't contain details about page content. You could add Liquid tags to a page template, but that would apply to all pages that use that template. You can add forms and lists by using the Add a component option on the page design canvas. You can add forms and lists in the Portal Management app, but it isn't the only way.
+  - content: You want website visitors to be able to locate specific records in a list view based on an option value in the Microsoft Dataverse record. What is the best way to accomplish this task?
+    choices: 
+    - content: Enable search in the List settings
+      isCorrect: false 
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The filter (or metadata filter) option is the best solution for allowing users to filter on specific choice values. Increasing the number of records for each page won't help users locate data.
+    - content: Add the Choice column to the model-driven view to allow website visitors to sort by the value
+      isCorrect: false 
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The filter (or metadata filter) option is the best solution for allowing users to filter on specific choice values. Increasing the number of records for each page won't help users locate data.
+    - content: Use the Add Filter list command and then set up a filter for the Choice column
+      isCorrect: true 
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The filter (or metadata filter) option is the best solution for allowing users to filter on specific choice values. Increasing the number of records for each page won't help users locate data.
+    - content: Increase the number of records for each page in the List settings
+      isCorrect: false 
+      explanation: Enabling the search property will only provide the quick find search box. Adding the Choice column to the view isn't the best way to find the data. The filter (or metadata filter) option is the best solution for allowing users to filter on specific choice values. Increasing the number of records for each page won't help users locate data.

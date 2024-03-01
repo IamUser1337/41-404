@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.process-gifts.2-transactions 
+title: Work with transactions
+metadata: 
+  title: Work with transactions
+  description: Learn to work with transactions
+  ms.date: 11/1/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-transactions.md)] 

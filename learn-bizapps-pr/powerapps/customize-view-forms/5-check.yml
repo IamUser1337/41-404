@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.customize-view-forms.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/03/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you modify table views in Dataverse?
+    choices:
+    - content: Find the table that you want to modify the view for, select a view from the list, and then make changes in the design experience.
+      isCorrect: true
+      explanation: Find the table that you want to modify the view for, select a view from the list, and then make changes in the design experience.
+    - content: Find the table that you want to modify the view for, select Dashboards, and then select Add dashboards.
+      isCorrect: false
+      explanation: Find the table that you want to modify the view for, select a view from the list, and then make changes in the design experience.
+    - content: You can only use Visual Studio to modify views in Dataverse.
+      isCorrect: false
+      explanation: Find the table that you want to modify the view for, select a view from the list, and then make changes in the design experience.
+    - content: Find the table that you want to modify the view for, select Data, and then select Add record.
+      isCorrect: false
+      explanation: Find the table that you want to modify the view for, select a view from the list, and then make changes in the design experience.
+  - content: How can you quickly add new records to a table in Dataverse?
+    choices:
+    - content: Find the table that you want to add records for, select Edit, and then select New row using form to bring the Main form as a means to enter data.
+      isCorrect: true
+      explanation: Find the table that you want to add records for, select Edit, and then select New row using form to bring the Main form as a means to enter data.
+    - content: Find the table that you want to add records for, select Data, and then select Add record to bring a View form as a means to enter data.
+      isCorrect: false
+      explanation: Find the table that you want to add records for, select Edit, and then select New row using form to bring the Main form as a means to enter data.
+    - content: You can only import data by using Visual Studio to create new records quickly.
+      isCorrect: false
+      explanation: Find the table that you want to add records for, select Edit, and then select New row using form to bring the Main form as a means to enter data.
+    - content: You can't add records without a model-driven app that is created on top of the tables.
+      isCorrect: false
+      explanation: Find the table that you want to add records for, select Edit, and then select New row using form to bring the Main form as a means to enter data.
+  - content: How can you add a subgrid to a form to allow data entering from related tables?
+    choices:
+    - content: It's not possible to add subgrids to forms by using the form designer.
+      isCorrect: false 
+      explanation: In the Components section, select Grid then Subgrid. Then, find the related table and view to add to the form.
+    - content: In the Components section, select Grid then Subgrid. Then, find the related table and view to add to the form.
+      isCorrect: true 
+      explanation: In the Components section, select Grid then Subgrid. Then, find the related table and view to add to the form.
+    - content: You can only use Visual Studio and custom plug-ins to add subgrids to forms.
+      isCorrect: false 
+      explanation: In the Components section, select Grid then Subgrid. Then, find the related table and view to add to the form.
+    - content: In the Components section, select 1-column tab and then add fields from the related tables.
+      isCorrect: false 
+      explanation: In the Components section, select Grid then Subgrid. Then, find the related table and view to add to the form.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-cloud-financial-services.4-maker-considerations 
+title: Maker considerations
+metadata: 
+  title: Maker considerations
+  description: Learn about maker considerations.
+  ms.date: 12/01/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 9 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-maker-considerations.md)] 

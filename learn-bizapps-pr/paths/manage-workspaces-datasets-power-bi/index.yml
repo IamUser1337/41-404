@@ -1,0 +1,33 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.manage-workspaces-datasets-power-bi
+metadata:
+  title: Manage workspaces and semantic models in Power BI                            
+  description:   In this Learning Path, you'll learn how to publish Power BI reports to the Power BI service. You'll also learn how to create workspaces, manage related items, and data refreshes for up-to-date reports. Additionally, implement row-level security to restrict user access to relevant data without the need for multiple reports.
+  ms.date: 06/30/2020
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: learning-path
+title: Manage workspaces and datasets in Power BI                           
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  In this Learning Path, you'll learn how to publish Power BI reports to the Power BI service. You'll also learn how to create workspaces, manage related items, and data refreshes for up-to-date reports. Additionally, implement row-level security to restrict user access to relevant data without the need for multiple reports.
+  
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true).
+prerequisites: None
+iconUrl: /training/achievements/deploy-and-maintain-data-in-power-bi.svg
+levels:
+- intermediate
+roles: 
+- data-analyst
+products:
+- power-bi 
+subjects:
+- collaboration
+- data-analytics
+modules:
+- learn-bizapps.create-manage-workspaces-power-bi  
+- learn-bizapps.manage-datasets-power-bi
+- learn-bizapps.create-dashboards-power-bi
+- learn-bizapps.row-level-security-power-bi
+trophy: 
+  uid: learn-bizapps.manage-workspaces-datasets-power-bi.trophy

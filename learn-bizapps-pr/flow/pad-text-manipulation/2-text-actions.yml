@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-text-manipulation.2-text-actions 
+title: Text handling actions
+metadata: 
+  title: Text handling actions
+  description: Learn about text handling actions in Power Automate for desktop.
+  ms.date: 06/30/2022 
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 18 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-text-actions.md)] 

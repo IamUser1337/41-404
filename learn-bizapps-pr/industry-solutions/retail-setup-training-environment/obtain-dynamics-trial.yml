@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.obtain-dynamics-trial
+title: Exercise - Obtain a Dynamics 365 trial
+metadata:
+  title: Exercise - Obtain a Dynamics 365 trial
+  description: Follow the steps to get a Dynamics 365 trial.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/obtain-dynamics-trial.md)]

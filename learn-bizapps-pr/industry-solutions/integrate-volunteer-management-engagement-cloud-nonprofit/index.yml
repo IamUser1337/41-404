@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit 
+metadata: 
+ title: Integrate Volunteer Management and Volunteer Engagement with Microsoft Cloud for Nonprofit
+ description: In this module, you will learn how Volunteer Management and Volunteer Engagement in Microsoft Cloud for Nonprofit integrate with other parts of the Microsoft Cloud for Nonprofit.
+ ms.date: 11/01/2021  
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: module
+ ms.service: microsoft-cloud-nonprofit
+title: Integrate Volunteer Management and Volunteer Engagement with Microsoft Cloud for Nonprofit
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn how Volunteer Management and Volunteer Engagement integrate with other parts of the Microsoft Cloud for Nonprofit.
+abstract: |  
+    In this module, you will: 
+    - Integrate with Exchange or Outlook to send email messages from Volunteer Management
+    - Manage documents related to Volunteer Management in SharePoint 
+    - Integrate Volunteer Management with Fundraising and Engagement
+prerequisites: None
+iconUrl: /training/achievements/integrate-volunteer-management-engagement-cloud-nonprofit.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions
+- mscloud-nonprofit
+subjects:
+- business-applications
+units:
+- learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.1-introduction 
+- learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.2-integrate-email
+- learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.3-manage-documents 
+- learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.4-integrate-fundraising-engagement 
+- learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.5-check 
+- learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.6-summary 
+badge: 
+  uid: learn-bizapps.integrate-volunteer-management-engagement-cloud-nonprofit.badge

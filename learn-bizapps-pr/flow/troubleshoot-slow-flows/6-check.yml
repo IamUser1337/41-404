@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.troubleshoot-slow-flows.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/23/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What do you use the compose action for?
+    choices: 
+    - content: Compose the body of an email in HTML format
+      isCorrect: false 
+      explanation: Scenarios do occur where the flow runs successfully but you don't get the results that you intended because of the flow. These scenarios are where using the Compose and Variable actions helps.
+    - content: Compose a value before setting it to a variable
+      isCorrect: false 
+      explanation: Scenarios do occur where the flow runs successfully but you don't get the results that you intended because of the flow. These scenarios are where using the Compose and Variable actions helps.
+    - content: View the value of an action to determine the data and format
+      isCorrect: true
+      explanation: Scenarios do occur where the flow runs successfully but you don't get the results that you intended because of the flow. These scenarios are where using the Compose and Variable actions helps.
+    - content: View the value of an action to determine if it's reusable
+      isCorrect: false 
+      explanation: Scenarios do occur where the flow runs successfully but you don't get the results that you intended because of the flow. These scenarios are where using the Compose and Variable actions helps.
+  - content: What are the date ranges of the flow and environment analytics?
+    choices: 
+    - content: Flow is 7, 14, and 21 days. Environment is 30, 60, and 90 days.
+      isCorrect: false 
+      explanation: Flow analytics provides you with a history of a specific flow and the analytics can be filtered in 7, 14, and 30 days. Environment analytics provides you with a history of all flows in that environment and the analytics can be filtered in 7, 14, and 28 days.
+    - content: Flow is 7, 14, and 30 days. Environment is 7, 14, and 28 days.
+      isCorrect: true 
+      explanation: Flow analytics provides you with a history of a specific flow and the analytics can be filtered in 7, 14, and 30 days. Environment analytics provides you with a history of all flows in that environment and the analytics can be filtered in 7, 14, and 28 days.
+    - content: Flow is 30, 60, and 90 days. Environment is 7, 14, and 28 days.
+      isCorrect: false 
+      explanation: Flow analytics provides you with a history of a specific flow and the analytics can be filtered in 7, 14, and 30 days. Environment analytics provides you with a history of all flows in that environment and the analytics can be filtered in 7, 14, and 28 days.
+    - content: Flow and environment analytics have the same date ranges.
+      isCorrect: false 
+      explanation: Flow analytics provides you with a history of a specific flow and the analytics can be filtered in 7, 14, and 30 days. Environment analytics provides you with a history of all flows in that environment and the analytics can be filtered in 7, 14, and 28 days.
+  - content: What are the three groups of data loss prevention (DLP) policies in Microsoft Power Platform admin center?
+    choices: 
+    - content: Essential, Non-Essential, and Blocked
+      isCorrect: false 
+      explanation: DLP policies enforce rules for which connectors can be used together by classifying connectors as Business or Non-Business. If you put a connector in the Business group, it can only be used with other connectors from that group in any given app or flow. Occasionally, you might want to block the use of certain connectors altogether by classifying them as Blocked.
+    - content: Essential, Non-Essential, and Partial
+      isCorrect: false 
+      explanation: DLP policies enforce rules for which connectors can be used together by classifying connectors as Business or Non-Business. If you put a connector in the Business group, it can only be used with other connectors from that group in any given app or flow. Occasionally, you might want to block the use of certain connectors altogether by classifying them as Blocked.
+    - content: Business, Non-Business, and Partial
+      isCorrect: false 
+      explanation: DLP policies enforce rules for which connectors can be used together by classifying connectors as Business or Non-Business. If you put a connector in the Business group, it can only be used with other connectors from that group in any given app or flow. Occasionally, you might want to block the use of certain connectors altogether by classifying them as Blocked.
+    - content: Business, Non-Business, and Blocked
+      isCorrect: true 
+      explanation: DLP policies enforce rules for which connectors can be used together by classifying connectors as Business or Non-Business. If you put a connector in the Business group, it can only be used with other connectors from that group in any given app or flow. Occasionally, you might want to block the use of certain connectors altogether by classifying them as Blocked.
+  - content: Why use an OData query?
+    choices: 
+    - content: To filter data on the server side and improve flow performance
+      isCorrect: true 
+      explanation: Because SharePoint connector is built on REST APIs, it supports your ability to filter data on the server side by using OData. Benefits of using OData include reducing the amount of data that you're bringing into your flow and reducing the need to loop through a record set to find values of interest.
+    - content: To filter data on the server side and improve the syntax of the data
+      isCorrect: false 
+      explanation: Because SharePoint connector is built on REST APIs, it supports your ability to filter data on the server side by using OData. Benefits of using OData include reducing the amount of data that you're bringing into your flow and reducing the need to loop through a record set to find values of interest.
+    - content: To filter data on the client side and cause less load on the server
+      isCorrect: false 
+      explanation: Because SharePoint connector is built on REST APIs, it supports your ability to filter data on the server side by using OData. Benefits of using OData include reducing the amount of data that you're bringing into your flow and reducing the need to loop through a record set to find values of interest.
+    - content: To filter data on the client side and improve flow performance
+      isCorrect: false 
+      explanation: Because SharePoint connector is built on REST APIs, it supports your ability to filter data on the server side by using OData. Benefits of using OData include reducing the amount of data that you're bringing into your flow and reducing the need to loop through a record set to find values of interest.

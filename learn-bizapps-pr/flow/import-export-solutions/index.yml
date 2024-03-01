@@ -1,0 +1,46 @@
+### YamlMime:Module 
+uid: learn-bizapps.import-export-solutions 
+metadata: 
+ title: Import and export solutions with cloud flows 
+ description: Learn how to use solutions to transport cloud flows from one environment to another.
+ ms.date: 03/11/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Import and export solutions with cloud flows 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Explore how you can use solutions to transport your cloud flows from one environment to another.
+abstract: |  
+    In this module, you'll: 
+    - Learn about the basics of using solutions with cloud flows. 
+    - Learn about the manual and automated options for working with solutions.
+    - Discover the benefits of using solutions with cloud flows.
+    - Learn how to add new and existing cloud flows to a solution.
+    - Learn about connection references.
+    - Use environment variables to avoid hard coded values.
+    - Import and export solutions.
+prerequisites: Basic Microsoft Power Automate experience
+iconUrl: /training/achievements/import-export-solutions.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-platform
+- power-automate 
+- dataverse
+subjects:
+- data-management
+units:
+- learn-bizapps.import-export-solutions.introduction 
+- learn-bizapps.import-export-solutions.connection-references 
+- learn-bizapps.import-export-solutions.environment-variable-basics 
+- learn-bizapps.import-export-solutions.transport-solutions 
+- learn-bizapps.import-export-solutions.exercise 
+- learn-bizapps.import-export-solutions.check 
+- learn-bizapps.import-export-solutions.summary 
+badge: 
+  uid: learn-bizapps.import-export-solutions.badge

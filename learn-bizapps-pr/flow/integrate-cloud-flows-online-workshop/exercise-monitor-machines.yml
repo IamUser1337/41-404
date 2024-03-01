@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrate-cloud-flows-online-workshop.exercise-monitor-machines 
+title: Exercise - Monitor the list of machines
+metadata: 
+  title: Exercise - Monitor the list of machines
+  description: Follow the steps to monitor the list of machines.
+  ms.date: 11/29/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 5
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-monitor-machines.md)] 

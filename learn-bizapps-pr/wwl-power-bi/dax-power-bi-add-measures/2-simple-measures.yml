@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-measures.2-simple-measures 
+title: Create simple measures
+metadata: 
+  title: Create simple measures 
+  description: Learn about creating simple measures.  
+  ms.date: 05/15/2022 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-simple-measures.md)] 

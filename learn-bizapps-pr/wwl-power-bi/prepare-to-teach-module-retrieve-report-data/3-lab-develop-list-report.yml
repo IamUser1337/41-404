@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.prepare-to-teach-module-retrieve-report-data.lab-03a-develop-list-report
+title: Lab 03A Develop a List report
+metadata:
+  title: Lab 03A Develop a List report
+  description: "Lab 03A Develop a List report"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+azureSandbox: false
+durationInMinutes: 45
+content: |
+  [!include[](includes/3-lab-develop-list-report.md)]

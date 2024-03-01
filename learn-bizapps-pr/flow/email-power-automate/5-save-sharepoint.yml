@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.email-power-automate.5-save-sharepoint 
+title: Save email content to SharePoint
+metadata: 
+  title: Save email content to SharePoint
+  description: Learn how to build a flow that monitors incoming email and saves metadata to Microsoft Lists and attachments to a document library.
+  ms.date: 11/02/2023
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-save-sharepoint.md)] 

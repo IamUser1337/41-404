@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.bring-it-all-together
+title: Bring it all together
+metadata:
+  title: Bring it all together
+  description: "Bring it all together"
+  ms.date: 11/17/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: unit
+  ms.service: power-platform
+durationInMinutes: 1
+content: |
+  [!include[](includes/10-bring-it-all-together.md)]

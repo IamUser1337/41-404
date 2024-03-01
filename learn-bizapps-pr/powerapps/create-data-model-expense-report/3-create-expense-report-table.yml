@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-data-model-expense-report.3-create-expense-report-table
+title: Exercise - Create a custom expense report table
+metadata:
+  title: Exercise - Create a custom expense report table
+  description: Create a custom expense report table to meet your business needs.
+  ms.date: 04/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 11
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-create-expense-report-table.md)]

@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.ai-builder-text-generation
+metadata:
+ title: Use text generation in AI Builder
+ description: Try a template and write your own instructions with text generation in AI Builder.
+ ms.date: 05/31/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Use text generation in AI Builder
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Try a template and write your own instructions with text generation in AI Builder.
+abstract: |
+    In this module, you'll:
+    - Learn about text generation in AI Builder.
+    - Learn how to create text from blank with text generation in a cloud flow.
+    - Learn how to create text from blank with text generation in an app.
+prerequisites: |
+  - Your environment in the US
+  - A Power Apps or Power Automate license
+  - Dataverse database installed on the environment
+  - An AI Builder add-on
+iconUrl: /learn/achievements/ai-builder-text-generation.svg
+levels:
+- intermediate
+roles:
+- maker
+products:
+- ai-builder
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+- artificial-intelligence
+units:
+- learn-bizapps.ai-builder-text-generation.introduction
+- learn-bizapps.ai-builder-text-generation.create-text-azure-open-ai-cloud-flow
+- learn-bizapps.ai-builder-text-generation.create-text-azure-open-ai-app
+- learn-bizapps.ai-builder-text-generation.check
+- learn-bizapps.ai-builder-text-generation.summary
+badge:
+  uid: learn-bizapps.ai-builder-text-generation.badge

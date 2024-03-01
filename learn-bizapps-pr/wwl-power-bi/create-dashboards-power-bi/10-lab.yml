@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-dashboards-power-bi.9-lab
+title: Exercise - Create a Power BI dashboard
+metadata:
+  title: Lab - Create a Power BI dashboard
+  description: "Exercise - Create a Power BI dashboard"
+  ms.date: 12/19/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labId: 72679
+labModal: true
+durationInMinutes: 30
+content: |
+  [!include[](includes/10-lab.md)]

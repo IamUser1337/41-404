@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.navigation-canvas-app
+metadata:
+  title: Navigation in a canvas app in Power Apps
+  description: In this module, learners do an in-depth exploration of navigation in Power Apps.
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: module
+title: Navigation in a canvas app in Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  This module takes learners beyond basic navigation by introducing screen transitions and using controls other than buttons for navigation. It also introduces the concept of the documentation screen.
+abstract: |
+    In this module, you will:
+    - Gain a greater understanding of the `Navigate` and `Back` functions.
+    - Learn how to use screen transitions in an app. 
+    - Learn how to preview and modify an app to fit various form factors.
+    - Gain hands-on experience in building navigations inside an app.
+    - Learn how to use other controls for app navigation.
+prerequisites: A basic understanding of how to create a Power Apps canvas app and some experience working with controls in Power Apps are helpful but not required.
+iconUrl: /training/achievements/navigation-canvas-app.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.navigation-canvas-app.1-understand-navigation
+- learn-bizapps.navigation-canvas-app.2-navigate-back-function
+- learn-bizapps.navigation-canvas-app.3-more-ways-to-use-navigate-function
+- learn-bizapps.navigation-canvas-app.3a-exercise-create-navigation-functions
+- learn-bizapps.navigation-canvas-app.4-knowledge-check
+- learn-bizapps.navigation-canvas-app.5-summary
+badge:
+  uid: learn-bizapps.navigation-canvas-app.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-capability-mapping.set-up-tenant
+title: Exercise 1 - Set up a Microsoft 365 tenant
+metadata:
+  title: Exercise 1 - Set up a Microsoft 365 tenant
+  description: Learn how to set up a Microsoft 365 tenant.
+  ms.date: 04/22/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/set-up-tenant.md)]

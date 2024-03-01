@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.approvals-power-automate.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/03/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: After how many days will the approval wait for a timeout?
+    choices:
+    - content: The approval will wait 90 days. After the first 30 days, the wait can be restarted up to three times.
+      isCorrect: false
+      explanation: The approval wait time duration is dependent on the duration of the entire flow. Run duration is calculated by using a run's start time. This calculation includes flows with pending steps like approvals. After 30 days, any pending steps will time out.
+    - content: The approval will wait 60 days. After the first 30 days, the wait can be restarted up to two times.
+      isCorrect: false
+      explanation: The approval wait time duration is dependent on the duration of the entire flow. Run duration is calculated by using a run's start time. This calculation includes flows with pending steps like approvals. After 30 days, any pending steps will time out.
+    - content: The approval will wait 30 days. The approval wait time duration is dependent on the duration of the entire flow.
+      isCorrect: true
+      explanation: The approval wait time duration is dependent on the duration of the entire flow. Run duration is calculated by using a run's start time. This calculation includes flows with pending steps like approvals. After 30 days, any pending steps will time out.
+    - content: The approval will wait 120 days. Approval can wait up to 120 days and independently of the flow.
+      isCorrect: false
+      explanation: The approval wait time duration is dependent on the duration of the entire flow. Run duration is calculated by using a run's start time. This calculation includes flows with pending steps like approvals. After 30 days, any pending steps will time out.
+  - content: Is the Approvals connector considered a standard or premium connector?
+    choices:
+    - content: Approvals is a premium connector.
+      isCorrect: false
+      explanation: The Approvals connector is a standard connector and doesn't change, no matter which data source is used.
+    - content: Approvals is a standard connector.
+      isCorrect: true
+      explanation: The Approvals connector is a standard connector and doesn't change, no matter which data source is used.
+    - content: If the data source is online, then the Approvals connector is considered standard; if it's on-premises, then it's premium.
+      isCorrect: false
+      explanation: The Approvals connector is a standard connector and doesn't change, no matter which data source is used.
+    - content: If the data source is on-premises, then the Approvals connector is considered standard; if it's online, then it's premium.
+      isCorrect: false
+      explanation: The Approvals connector is a standard connector and doesn't change, no matter which data source is used.
+  - content: How many actions does the Approvals connector have?
+    choices:
+    - content: Five actions, which are Create an approval, Start and wait for an approval, Wait for an approval, Create, and Wait for an approval and wait for an approval to change.
+      isCorrect: false
+      explanation: The approval step has only three actions and they're Create an approval, Start, and Wait for an approval.
+    - content: Two actions, which are Create and Wait for an approval.
+      isCorrect: false
+      explanation: The approval step has only three actions and they're Create an approval, Start, and Wait for an approval.
+    - content: Three actions, which are Create an approval, Start, and Wait for an approval.
+      isCorrect: true
+      explanation: The approval step has only three actions and they're Create an approval, Start, and Wait for an approval.
+    - content: Three actions, which are Create an approval, Start, and Wait for an approval and end an approval.
+      isCorrect: false
+      explanation: The approval step has only three actions and they're Create an approval, Start, and Wait for an approval.
+  - content: How many ways are available to respond to an approval?
+    choices:
+    - content: Two ways, which are by using the browser and by using a mobile app
+      isCorrect: false
+      explanation:  You can respond to an approval in four different ways. You can use the browser that's signed in to flow.microsoft.com, the Power Automate mobile app, Microsoft Teams, and Microsoft Outlook.
+    - content: Only one way, which is by using the browser
+      isCorrect: false
+      explanation:  You can respond to an approval in four different ways. You can use the browser that's signed in to flow.microsoft.com, the Power Automate mobile app, Microsoft Teams, and Microsoft Outlook.
+    - content: Three ways, which are by using the browser, a mobile app, and Outlook
+      isCorrect: false
+      explanation:  You can respond to an approval in four different ways. You can use the browser that's signed in to flow.microsoft.com, the Power Automate mobile app, Microsoft Teams, and Microsoft Outlook.
+    - content: Four ways, which are by using the browser, a mobile app, Outlook, and Teams
+      isCorrect: true
+      explanation: You can respond to an approval in four different ways. You can use the browser that's signed in to flow.microsoft.com, the Power Automate mobile app, Microsoft Teams, and Microsoft Outlook.
+  - content: Can the Approvals connector be blocked in DLP?
+    choices:
+    - content: Yes, it can be blocked.
+      isCorrect: false
+      explanation: In Power Platform DLP, you can't block the Approvals connector. You can leave it in the default Non-Business group or move it to the Business group.
+    - content: No, it cannot be blocked.
+      isCorrect: true
+      explanation: In Power Platform DLP, you can't block the Approvals connector. You can leave it in the default Non-Business group or move it to the Business group.
+    - content: Yes, it can be blocked if it's an online connector. However, it can't be blocked if it's on-premises.
+      isCorrect: false
+      explanation: In Power Platform DLP, you can't block the Approvals connector. You can leave it in the default Non-Business group or move it to the Business group.
+    - content: Yes, it can be blocked if you're using a premium connector. However, it can't be blocked if you're using a standard connector.
+      isCorrect: false
+      explanation: In Power Platform DLP, you can't block the Approvals connector. You can leave it in the default Non-Business group or move it to the Business group.

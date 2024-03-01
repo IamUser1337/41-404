@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.use-test-studio 
+metadata: 
+ title: Use Power Apps Test Studio to improve your canvas app
+ description: Learn how to use Power Apps Test Studio to improve your canvas app.
+ ms.date: 09/27/2023 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: module
+title: Use Power Apps Test Studio to improve your canvas app
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  As a canvas app maker, you want to ensure that the quality of your apps remains high as you deploy new versions of them. In this module, you explore how to take advantage of Power Apps Test Studio to build automated tests that support this quality objective.
+abstract: | 
+    This module explains how to: 
+    - Use Power Apps Test Studio.
+    - Create test suites and their test cases.
+    - Run tests and review the results.
+prerequisites: |  
+    - A Power Apps license
+    - A basic understanding of Power Apps and app design
+iconUrl: /learn/achievements/use-test-studio.svg 
+levels: 
+- beginner 
+roles: 
+- maker 
+- functional-consultant 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.use-test-studio.introduction 
+- learn-bizapps.use-test-studio.testing-strategy 
+- learn-bizapps.use-test-studio.exercise-create-record-test 
+- learn-bizapps.use-test-studio.perform-test-troubleshoot 
+- learn-bizapps.use-test-studio.exercise-play-review-test 
+- learn-bizapps.use-test-studio.check 
+- learn-bizapps.use-test-studio.summary 
+badge: 
+  uid: learn-bizapps.use-test-studio.badge 

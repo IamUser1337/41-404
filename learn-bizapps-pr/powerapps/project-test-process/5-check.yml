@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.project-test-process.5-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is user acceptance testing used for?
+    choices: 
+    - content: To ensure that the system works as expected
+      isCorrect: true
+      explanation: User acceptance testing (UAT) is performed by users to ensure that the system works as expected in daily activities. UAT is critical to ensure go-live sign-out and acceptance of the new system.
+    - content: To ensure that the system performs to the service-level agreement (SLA)
+      isCorrect: false
+      explanation: This option is describing performance testing.
+    - content: To validate existing historical data
+      isCorrect: false
+      explanation: This option is describing data validation testing of migrated data.
+    - content: To test the system after an update
+      isCorrect: false
+      explanation: This option is describing regression testing.
+  - content: What is required for performance testing?
+    choices: 
+    - content: Sample data
+      isCorrect: false
+      explanation: Performance testing requires volumes of data that represent real loads, not a sample of data.
+    - content: Sandbox environment
+      isCorrect: false
+      explanation: Performance testing should be performed on a separate environment. The environment should be a Production type environment, not a sandbox environment that has fewer resources allocated.
+    - content: Test environment for integrations
+      isCorrect: false
+      explanation: Integrations are tested as part of integration testing, not performance testing. Performance testing is for Microsoft Power Platform solution, not a test platform for an external system.
+    - content: Live volumes of data
+      isCorrect: true
+      explanation: Performance testing requires a realistic volume of data for a valid test.
+  - content: When should the deployment plan be prepared?
+    choices: 
+    - content: After development is complete
+      isCorrect: false
+      explanation: The deployment plan should be started as early in the project as possible.
+    - content: As soon as possible
+      isCorrect: true
+      explanation: The deployment plan should be started as early in the project as possible. The deployment plan is important because it helps guide toward a successful deployment.
+    - content: During the go-live review
+      isCorrect: false    
+      explanation: The deployment plan should be started as early in the project as possible.
+    - content: At the same time as the statement of work
+      isCorrect: false
+      explanation: The statement of work happens before the project has started. The solution components have not been chosen and designed, and it is not possible to create the deployment plan without this information.

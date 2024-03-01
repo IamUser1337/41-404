@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-select.product 
+title: Select the appropriate Power BI embedded analytics product
+metadata: 
+  title: Select the appropriate Power BI embedded analytics product
+  description: Learn how to select the appropriate Power BI embedded analytics product.
+  ms.date: 04/10/2022 
+  author: KesemSharabi
+  manager: kfollis  
+  ms.author: kesharab 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/product.md)] 

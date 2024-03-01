@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.incorporate-maps-address.additional-features
+title: Use extra features with maps
+metadata:
+  title: Use extra features with maps
+  description: Learn how to use extra features with maps.
+  ms.date: 08/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/additional-features.md)]

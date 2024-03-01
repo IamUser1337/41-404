@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-excel.5-excel-formulas 
+title: Office 365/Excel 2016+ formulas
+metadata: 
+  title: Office 365/Excel 2016+ formulas
+  description: Learn about Office 365/Excel 2016+ formulas.
+  ms.date: 09/28/2021 
+  author: maggiesMSFT 
+  manager: kfollis 
+  ms.author: maggies 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-excel-formulas.md)] 

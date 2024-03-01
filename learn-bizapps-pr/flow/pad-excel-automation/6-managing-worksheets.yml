@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-excel-automation.6-managing-worksheets
+title: Manage worksheets
+metadata: 
+  title: Manage worksheets
+  description: Learn how to manage worksheets.
+  ms.date: 12/09/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 5
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/6-managing-worksheets.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-store-operations-assist-mobile.create-ad-hoc-task
+title: Exercise - Create an ad-hoc task and review the response
+metadata:
+  title: Exercise - Create an ad-hoc task and review the response
+  description: Follow the steps to create an ad-hoc task and review the response.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-ad-hoc-task.md)]

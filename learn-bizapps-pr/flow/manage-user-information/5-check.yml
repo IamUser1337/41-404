@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-user-information.5-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/02/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What user information is available with the button trigger?
+    choices:
+    - content: User name, manager email, department, and  phone number.
+      explanation: The user button information provides user's contact information and the immediate manager's email.
+      isCorrect: false
+    - content: User name, email, department, and phone number.
+      explanation: The user button information provider user's contact information.
+      isCorrect: false
+    - content: User name, user email, full address, latitude, longitude, and timestamp.
+      explanation: The user button information provides the current location of the user where the button is triggered.
+      isCorrect: true
+  - content: What is the most commonly used data source to store your personal information?
+    choices:
+    - content: Microsoft OneDrive
+      explanation: Microsoft's OneDrive and OneDrive for Business is the most commonly used data source to store personal information.
+      isCorrect: true
+    - content: SharePoint
+      explanation: Microsoft SharePoint is not the most commonly used data source to store personal information.
+      isCorrect: false
+    - content: Dataverse
+      explanation: Microsoft Dataverse is not the most commonly used data source to store personal information.
+      isCorrect: false
+    - content: Excel
+      explanation: Microsoft Excel is not the most commonly used data source to store personal information.
+      isCorrect: false
+  - content: When creating Button Flows you can use trigger tokens to capture which of the following information?
+    choices:
+    - content: Phone Number
+      explanation: GPS, date and time, user name and email address are available information.
+      isCorrect: false
+    - content: Date of Birth, phone number and email address
+      explanation: GPS, date and time, user name and email address are available information.
+      isCorrect: false
+    - content: GPS, date and time, user name and email address
+      explanation: GPS, date and time, user name and email address are available information.
+      isCorrect: true
+    - content: Full address, manager information, and phone number
+      explanation: GPS, date and time, user name and email address are available information.
+      isCorrect: false

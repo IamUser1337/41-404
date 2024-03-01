@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.medical-imaging-data.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/30/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is DICOM?
+    choices:
+    - content: Digital Imaging and Communications in Medicine
+      isCorrect: false
+      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+    - content: All of these answers
+      isCorrect: true
+      explanation: Correct. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+    - content: The international standard for medical images, imaging formats, and related information
+      isCorrect: false
+      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+    - content: ISO 12052 recognized standard
+      isCorrect: false
+      explanation: Incorrect. DICOM® is Digital Imaging and Communications in Medicine and is the international standard for medical images, imaging format, and related information. It's the ISO 12052 standard that defines the formats for medical images that can be exchanged with the data and quality that meets clinical use requirements.
+  - content: What type of data does the DICOM® service store?
+    choices:
+    - content: Radiology imaging data only
+      isCorrect: false
+      explanation: Incorrect. DICOM® formatted medical imaging data is stored.
+    - content: Any type or format of imaging data
+      isCorrect: false
+      explanation: Incorrect. DICOM® formatted medical imaging data is stored.
+    - content: DICOM® formatted medical imaging data
+      isCorrect: true
+      explanation: Correct. DICOM® formatted medical imaging data is stored.
+    - content: Electronic health record data
+      isCorrect: false
+      explanation: Incorrect. DICOM® formatted medical imaging data is stored.
+  - content: Which of the following objects isn't part of the DICOM® data model?
+    choices:
+    - content: Electronic health records
+      isCorrect: true
+      explanation: Correct. The DICOM® data model defines four object levels, patient, study, series & equipment, and image.
+    - content: Patient
+      isCorrect: false
+      explanation: Incorrect. The DICOM® data model defines four object levels, patient, study, series & equipment, and image.
+    - content: Study
+      isCorrect: false
+      explanation: Incorrect. The DICOM® data model defines four object levels, patient, study, series & equipment, and image.
+    - content: Images
+      isCorrect: false
+      explanation: Incorrect. The DICOM® data model defines four object levels, patient, study, series & equipment, and image.

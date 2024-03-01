@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-text-analytics.exercise 
+title: Exercise - Use Language Studio for Text Analytics for health
+metadata: 
+  title: Exercise - Use Language Studio for Text Analytics for health
+  description: Follow the steps to use Language Studio for Text Analytics for health in Microsoft Cloud for Healthcare.
+  ms.date: 10/25/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

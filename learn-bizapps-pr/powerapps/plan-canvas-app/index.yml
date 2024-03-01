@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.plan-canvas-app
+metadata:
+ title: Plan a canvas app and start to build 
+ description: It might be tempting to immediately begin building your Microsoft Power Apps canvas app, but you need to complete the essential first steps in planning the app. In this module, you'll learn about those steps and how to build the simpler elements of the Expense Report app and connect it to your data.
+ ms.date: 01/12/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ 
+title: Plan a canvas app and start to build 
+summary: |
+  [!include[](../includes/module-banner.md)]
+  It might be tempting to immediately begin building your Power Apps canvas app, but you need to complete the essential first steps in planning the app. In this module, you'll learn about those steps and how to build the simpler elements of the Expense Report app and connect it to your data.
+abstract: |
+    In this module, you'll:
+    - Learn how to create a new app.
+    - Discover how to plan your app.
+    - Learn how to add and set up controls in a canvas app.
+prerequisites: |
+    - Basic understanding of Microsoft canvas apps and Microsoft Dataverse
+    - Basic knowledge of how to build a data model
+iconUrl: /training/achievements/plan-canvas-app.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.plan-canvas-app.1-introduction
+- learn-bizapps.plan-canvas-app.2-start-app
+- learn-bizapps.plan-canvas-app.3-design-screen
+- learn-bizapps.plan-canvas-app.4-make-screen-functional
+- learn-bizapps.plan-canvas-app.5-check
+- learn-bizapps.plan-canvas-app.6-summary
+badge:
+  uid: learn-bizapps.plan-canvas-app.badge

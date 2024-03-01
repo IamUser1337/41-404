@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-customize.4-quiz-customize-an-app
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you specify what happens when a user selects a button or control?
+    choices:
+    - content: Use the click wizard
+      explanation: Incorrect. You can set the OnSelect property to the formula that you want to run.
+      isCorrect: false
+    - content: Set the OnSelect property to the formula that you want to run.
+      explanation: Correct. You can set the OnSelect property to the formula that you want to run.
+      isCorrect: true
+    - content: Set the OnClick property to the formula that you want to run.
+      explanation: Incorrect. You can set the OnSelect property to the formula that you want to run.
+      isCorrect: false
+    - content: Power Apps can't run formulas based on user selections.
+      explanation: Incorrect. You can set the OnSelect property to the formula that you want to run.
+      isCorrect: false
+  - content: Which functions allow you to change the app screens for your users?
+    choices:
+    - content: Back and End
+      explanation: Incorrect. The Back function does provide some screen navigation, however, the Navigate function goes with Back to facilitate app navigation.
+      isCorrect: false
+    - content: Navigate and Back
+      explanation: Correct. The Navigate function allows you to designate which screen you want to send your user to. The Back function sends your user back to the previous screen they were working on. End and home aren't functions. Exit will log you out of Power Apps but doesn't change the app screen.
+      isCorrect: true
+    - content: Home and Navigate
+      explanation: Incorrect. Though Navigate is the function that allows you to designate which screen to send users to, there's no Home function. Back works with Navigate to provide app navigation.
+      isCorrect: false
+    - content: Exit and Start
+      explanation: Incorrect. Start isn't a function and Exit will close the app. The correct answer includes the Navigate and Back functions.
+      isCorrect: false
+  - content: What is the purpose of including a Gallery control in your app?
+    choices:
+    - content: To enable you to edit a record.
+      explanation: Incorrect. This is what an Edit form control does. A Gallery control enables you to display all records and select records from the data source.
+      isCorrect: false
+    - content: To show images that might or might not be related to your app.
+      explanation: Incorrect. Though you can show images that might be in your data with a Gallery control, that’s not the primary purpose of a Gallery. You use one to display and select from all records from your data. 
+      isCorrect: false
+    - content: To display and select from all records from your data source.
+      explanation: Correct. A Gallery is a powerful control enabling you to see all records from your data source and to select from them.
+      isCorrect: true
+    - content: To display a single record.
+      explanation: Incorrect. A Gallery is far more powerful than this, enabling you to display all records from your data source and to select from them. A form control is designed to portray a single record.
+      isCorrect: false

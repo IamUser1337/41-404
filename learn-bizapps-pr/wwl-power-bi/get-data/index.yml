@@ -1,0 +1,50 @@
+### YamlMime:Module
+uid: learn-bizapps.get-data
+metadata:
+  title: Get data in Power BI
+  description: "You'll learn how to retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You'll also learn how to improve performance while retrieving data."
+  ms.date: 05/17/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Get data in Power BI
+summary: You'll learn how to retrieve data from a variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You'll also learn how to improve performance while retrieving data.
+abstract: |
+  By the end of this module, you'll be able to:
+   - Identify and connect to a data source
+   - Get data from a relational database, like Microsoft SQL Server
+   - Get data from a file, like Microsoft Excel
+   - Get data from applications
+   - Get data from Azure Analysis Services
+   - Select a storage mode
+   - Fix performance issues
+   - Resolve data import errors
+prerequisites: |
+  None
+iconUrl: /training/achievements/get-data.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-management
+units:
+- learn-bizapps.get-data.1-introduction
+- learn-bizapps.get-data.2-data-files
+- learn-bizapps.get-data.3-relational-data
+- learn-bizapps.get-data.parameters
+- learn-bizapps.get-data.4-nosql-database
+- learn-bizapps.get-data.5-online-services
+- learn-bizapps.get-data.6-storage-mode
+- learn-bizapps.get-data.7-azure-analysis-services
+- learn-bizapps.get-data.8-performance-issues
+- learn-bizapps.get-data.9-import-errors
+- learn-bizapps.get-data.lab-prepare
+- learn-bizapps.get-data.10-check
+- learn-bizapps.get-data.11-summary
+badge:
+  uid: learn-bizapps.get-data.badge

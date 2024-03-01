@@ -1,0 +1,38 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-workspace-setup-online-workshop 
+metadata: 
+ title: Power Pages workspace setup - Online workshop
+ description: Learn about Power Pages workspace setup.
+ ms.date: 01/24/2024 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module
+ ms.service: power-pages
+title: Power Pages workspace setup - Online workshop
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  In this module, you'll explore the go-live checklist and make your site public.
+abstract: | 
+    In this module, you'll: 
+    - Review the go-live checklist.
+    - Modify site visibility.
+prerequisites: Completion of [Power Pages workspace data components - Online workshop](/training/modules/power-pages-workspace-data-components-online-workshop/) module.
+iconUrl: /learn/achievements/power-pages-workspace-setup-online-workshop.svg 
+levels: 
+- intermediate 
+roles: 
+- maker 
+- functional-consultant 
+products: 
+- power-platform
+- power-pages
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.power-pages-workspace-setup-online-workshop.introduction 
+- learn-bizapps.power-pages-workspace-setup-online-workshop.go-live-checklist 
+- learn-bizapps.power-pages-workspace-setup-online-workshop.modify-site-visibility 
+- learn-bizapps.power-pages-workspace-setup-online-workshop.check 
+- learn-bizapps.power-pages-workspace-setup-online-workshop.summary 
+badge: 
+  uid: learn-bizapps.power-pages-workspace-setup-online-workshop.badge 

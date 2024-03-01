@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-loops.4-for-each-loop 
+title: For each loop actions
+metadata: 
+  title: For each loop actions
+  description: Learn about the For each loop actions
+  ms.date: 10/22/2020 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-for-each-loop.md)] 

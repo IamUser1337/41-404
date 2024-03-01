@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-master-data.set-up-organizational-data
+title: Exercise - Set up reference data
+metadata:
+  title: Exercise - Set up reference data
+  description: Follow the steps to set up organizational reference data for the example scenario.
+  ms.date: 01/17/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/set-up-organizational-data.md)]

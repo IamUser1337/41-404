@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-studio-data-security
+metadata:
+ title: Explore Power Pages design studio data and security features
+ description: Power Pages makers spend most their time building sites in Power Pages design studio. It's important that makers understand design studio capabilities as well as its limitations. Power Pages design studio includes Data workspace to create and manage business data and Set up workspace to configure site security and behavior. This module will focus on using the design studio to build secure Dataverse data-driven pages. 
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: power-pages
+title: Explore Power Pages design studio data and security features
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Power Pages makers spend most their time building sites in Power Pages design studio. It's important that makers understand design studio capabilities as well as its limitations. Power Pages design studio includes Data workspace to create and manage business data and Set up workspace to configure site security and behavior. This module will focus on using the design studio to build secure Dataverse data-driven pages. 
+abstract: |
+    In this module, you will:
+    - Discover Data workspace, Dataverse data modelling and table permissions in Power Pages design studio.
+    - Explore how to extend the Dataverse data model and how to add connected data components to your page.
+    - Learn about securing access to a page.
+    - Identify where to add table permissions to secure business data.
+prerequisites: A basic understanding of how to use WYSIWYG tools to build web content. Knowledge of relational data structures will also be beneficial.
+iconUrl: /learn/achievements/power-pages-studio-data-security.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-studio-data-security.introduction
+- learn-bizapps.power-pages-studio-data-security.data
+- learn-bizapps.power-pages-studio-data-security.security
+- learn-bizapps.power-pages-studio-data-security.exercise
+- learn-bizapps.power-pages-studio-data-security.check
+- learn-bizapps.power-pages-studio-data-security.summary
+badge:
+  uid: learn-bizapps.power-pages-studio-data-security.badge

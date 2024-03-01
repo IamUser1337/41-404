@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.upload-file
+title: Exercise - Upload file to SharePoint document library
+metadata:
+  title: Exercise - Upload file to SharePoint document library
+  description: Follow the steps to upload a file to a SharePoint document library.
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/upload-file.md)]

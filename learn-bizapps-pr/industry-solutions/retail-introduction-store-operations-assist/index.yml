@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-introduction-store-operations-assist
+metadata:
+ title: Introduction to Store Operations Assist
+ description: Learn about the Store Operations Assist solution and architecture in Microsoft Cloud for Retail.
+ ms.date: 02/27/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Introduction to Store Operations Assist
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how the Store Operations Assist solution streamlines store processes and equips store associates with tools that help improve customer satisfaction, productivity, and collaboration.
+abstract: |
+    In this module, you'll:
+    - Learn about the Store Operations Assist solution components and architecture.
+    - Learn about the functionalities of Intelligent store operations to improve the efficiency of store operations.
+    - Learn how to use Clientel'ing to help store associates be aware of their customers' needs.
+    - Review the retail story and scenarios that are set up for use in other modules in this learning path.
+prerequisites: |
+  - Microsoft Power Apps licenses with admin credentials
+  - Microsoft Teams
+  - Microsoft Power BI Pro or Premium
+iconUrl: /learn/achievements/retail-introduction-store-operations-assist.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-introduction-store-operations-assist.introduction
+- learn-bizapps.retail-introduction-store-operations-assist.architecture
+- learn-bizapps.retail-introduction-store-operations-assist.retail-story
+- learn-bizapps.retail-introduction-store-operations-assist.check
+- learn-bizapps.retail-introduction-store-operations-assist.summary
+badge:
+  uid: learn-bizapps.retail-introduction-store-operations-assist.badge

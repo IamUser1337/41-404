@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-real-estate-power-automate-copilot.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/22/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the purpose of Copilot in Power Automate?
+    choices:
+    - content: To generate random suggestions for workflow development
+      isCorrect: false
+      explanation: Incorrect. This answer isn't a purpose of Copilot in Power Automate.
+    - content: To provide contextual suggestions and recommendations for workflow automation
+      isCorrect: true
+      explanation: Correct. The purpose of Copilot in Power Automate is to provide contextual suggestions and recommendations for workflow automation.
+    - content: To replace the need for programming knowledge in workflow creation
+      isCorrect: false
+      explanation: Incorrect. This answer isn't a purpose of Copilot in Power Automate.
+    - content: To optimize Power Automate desktop app integration
+      isCorrect: false
+      explanation: Incorrect. This answer isn't a purpose of Copilot in Power Automate.
+  - content: How does Copilot help with workflow development?
+    choices:
+    - content: By generating random actions and parameters for workflows
+      isCorrect: false
+      explanation: Incorrect. This answer doesn't describe how Copilot helps with workflow development.
+    - content: By analyzing existing flows, triggers, and actions to suggest relevant steps
+      isCorrect: true
+      explanation: Correct. Copilot helps with workflow development by analyzing existing flows, triggers, and actions to suggest relevant steps.
+    - content: By automating the entire workflow creation process without user input
+      isCorrect: false
+      explanation: Incorrect. This answer doesn't describe how Copilot helps with workflow development.
+    - content: By offering coding expertise for complex programming tasks
+      isCorrect: false
+      explanation: Incorrect. This answer doesn't describe how Copilot helps with workflow development.
+  - content: When should you use Copilot in Power Automate?
+    choices:
+    - content: Only when you're a beginner in workflow automation
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use Copilot in Power Automate only when you're a beginner in workflow automation.
+    - content: When you want to slow down the workflow development process
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use Copilot in Power Automate when you want to slow down the workflow development process.
+    - content: When you need to streamline and optimize your workflow automation
+      isCorrect: true
+      explanation: Correct. You would use Copilot in Power Automate when you need to streamline and optimize your workflow automation. 
+    - content: Only when you have extensive programming knowledge
+      isCorrect: false
+      explanation: Incorrect. You wouldn't use Copilot in Power Automate only when you have extensive programming knowledge.

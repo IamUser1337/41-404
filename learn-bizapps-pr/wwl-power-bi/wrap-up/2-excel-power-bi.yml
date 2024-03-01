@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.wrap-up.excel-power-bi
+title: Excel or Power BI?
+metadata:
+  title: Excel or Power BI?
+  description: "Excel or Power BI?"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 9
+content: |
+  [!include[](includes/2-excel-power-bi.md)]

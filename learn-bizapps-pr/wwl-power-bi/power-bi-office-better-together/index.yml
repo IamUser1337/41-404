@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn.wwl.power-bi-office-better-together
+metadata:
+  title: 'Prepare to teach the module: Power BI & Office better together'
+  description: "Prepare to teach the module: Power BI & Office better together"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Power BI & Office better together'
+summary: Deliver the fourth module of instructor-led course “Modern Excel Analyst in a day” to help your Data Analyst customers use Power BI integrated with MS Office Teams &amp; SharePoint Online.
+abstract: |
+  After the completion of this module, you will be able to explain and demonstrate how to:
+  - Share reports and visuals to Teams from PBI
+  - Use Power BI App in Teams to collaborate and have data discussions
+  - Use SharePoint Online search to quickly find your Power BI Reports &amp; Dashboard
+  - Build a Power BI report directly from a list in SharePoint
+prerequisites: |
+  - Basic familiarity with data analysis and reporting tools.
+  - Experience with Excel.
+iconUrl: /training/achievements/power-bi-office-better-together.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- office-excel
+- power-bi
+subjects:
+- productivity
+units:
+- learn.wwl.power-bi-office-better-together.introduction
+- learn.wwl.power-bi-office-better-together.microsoft-teams
+- learn.wwl.power-bi-office-better-together.app-microsoft-teams
+- learn.wwl.power-bi-office-better-together.pbi-sharepoint-online
+- learn.wwl.power-bi-office-better-together.knowledge-check
+- learn.wwl.power-bi-office-better-together.summary
+badge:
+  uid: learn.wwl.power-bi-office-better-together.badge

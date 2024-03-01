@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-data-ingestion.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of ingesting emissions activity data in Microsoft Sustainability Manager
+  ms.date: 05/04/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

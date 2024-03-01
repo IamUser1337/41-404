@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn.wwl.identify-foundational-components-microsoft-power-platform
+metadata:
+  title: Identify foundational components of Microsoft Power Platform
+  description: "This module introduces learners to the foundational elements of Microsoft Power Platform. Topics range from administration, security, and governance to Microsoft Dataverse and data connectors."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: module
+  ms.service: power-platform
+title: Identify foundational components of Microsoft Power Platform
+summary: |
+  Learn about the key foundational elements of Power Platform such as administration and the security and governance features. Additionally, we cover such as core capabilities as Microsoft Dataverse and data connectors.
+  [!INCLUDE [](../../includes/wwl/ai-contribution-notes.md)]
+abstract: |
+  In this module, we will:
+  -   Examine different Power Platform administrative options.
+  -   Describe security and governance in Power Platform.
+  -   Explore Microsoft Dataverse and how to use it to build business solutions.
+  -   Examine Power Platform connectors.
+prerequisites: |
+  None
+iconUrl: /training/achievements/introduction-common-data-services.svg
+levels:
+- beginner
+roles:
+- business-analyst
+- business-user
+products:
+- power-platform
+- dataverse
+subjects:
+- data-modeling
+units:
+- learn.wwl.identify-foundational-components-microsoft-power-platform.introduction
+- learn.wwl.identify-foundational-components-microsoft-power-platform.describe-power-platform-administration
+- learn.wwl.identify-foundational-components-microsoft-power-platform.describe-power-platform-security-governance
+- learn.wwl.identify-foundational-components-microsoft-power-platform.explore-microsoft-dataverse
+- learn.wwl.identify-foundational-components-microsoft-power-platform.examine-power-platform-connectors
+- learn.wwl.identify-foundational-components-microsoft-power-platform.exercise-build-basic-dataverse-data-model
+- learn.wwl.identify-foundational-components-microsoft-power-platform.knowledge-check
+- learn.wwl.identify-foundational-components-microsoft-power-platform.summary-resources
+badge:
+  uid: learn.wwl.identify-foundational-components-microsoft-power-platform.badge

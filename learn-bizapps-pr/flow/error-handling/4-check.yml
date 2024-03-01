@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.error-handling.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/02/2023
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit  
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many ways can you build a flow?
+    choices: 
+    - content: Two, Start from blank and Start from a template
+      isCorrect: false 
+      explanation: You can build a flow in three ways. Start from blank lets you create a custom flow to meet your requirements, and you can use triggers such as Automate Cloud flow, Instant cloud flow, Scheduled cloud flow, Desktop flow, and Business process flow. Start from a template gives you the flexibility to use an existing flow that is similar to your requirement. Changes usually include text or user information. Start from a connector is the third method. Connectors are the services that you use every day and you can link them together to automate tasks.
+    - content: Three, Start from blank, Start from a template, and Import from GitHub
+      isCorrect: false 
+      explanation: You can build a flow in three ways. Start from blank lets you create a custom flow to meet your requirements, and you can use triggers such as Automate Cloud flow, Instant cloud flow, Scheduled cloud flow, Desktop flow, and Business process flow. Start from a template gives you the flexibility to use an existing flow that is similar to your requirement. Changes usually include text or user information. Start from a connector is the third method. Connectors are the services that you use every day and you can link them together to automate tasks.
+    - content: Three, Start from blank, Start from a template, and Start from a connector
+      isCorrect: true 
+      explanation: You can build a flow in three ways. Start from blank lets you create a custom flow to meet your requirements, and you can use triggers such as Automate Cloud flow, Instant cloud flow, Scheduled cloud flow, Desktop flow, and Business process flow. Start from a template gives you the flexibility to use an existing flow that is similar to your requirement. Changes usually include text or user information. Start from a connector is the third method. Connectors are the services that you use every day and you can link them together to automate tasks.
+    - content: One, Start from a template
+      isCorrect: false 
+      explanation: You can build a flow in three ways. Start from blank lets you create a custom flow to meet your requirements, and you can use triggers such as Automate Cloud flow, Instant cloud flow, Scheduled cloud flow, Desktop flow, and Business process flow. Start from a template gives you the flexibility to use an existing flow that is similar to your requirement. Changes usually include text or user information. Start from a connector is the third method. Connectors are the services that you use every day and you can link them together to automate tasks.
+  - content: What does the Copy to my clipboard feature do in a flow?
+    choices: 
+    - content: Allows you to copy the entire flow from one environment to another
+      isCorrect: false 
+      explanation: Copy to my clipboard is a key feature that is available in the flow actions. Select the ellipsis button to find it.
+    - content: Allows you to duplicate an action in your flow by copying and pasting it
+      isCorrect: true 
+      explanation: Copy to my clipboard is a key feature that is available in the flow actions. Select the ellipsis button to find it.
+    - content: Allows you to copy the block of flow logic rather than only the actions 
+      isCorrect: false 
+      explanation: Copy to my clipboard is a key feature that is available in the flow actions. Select the ellipsis button to find it.
+    - content: Allows you to share your flows publicly through sites such as GitHub 
+      isCorrect: false 
+      explanation: Copy to my clipboard is a key feature that is available in the flow actions. Select the ellipsis button to find it.
+  - content: What are the available options in the Configure run after action?
+    choices: 
+    - content: Is successful, has failed, and has timed out are the three available options.
+      isCorrect: false 
+      explanation: The Configure run after action helps you identify which step failed and, if it did, it brings that to your attention. The action has four options, and you can select all of them.
+    - content: Is successful, has skipped, and has timed out are the three available options.
+      isCorrect: false 
+      explanation: The Configure run after action helps you identify which step failed and, if it did, it brings that to your attention. The action has four options, and you can select all of them.
+    - content: Not successful, has failed, has skipped, and has timed out are the four available options.
+      isCorrect: false 
+      explanation: The Configure run after action helps you identify which step failed and, if it did, it brings that to your attention. The action has four options, and you can select all of them.
+    - content: Is successful, has failed, has skipped, and has timed out are the four available options.
+      isCorrect: true 
+      explanation: The Configure run after action helps you identify which step failed and, if it did, it brings that to your attention. The action has four options, and you can select all of them.
+  - content: Which features are available in Power Automate analytics?
+    choices: 
+    - content: Run, Usage, Created, Shared, and Connectors
+      isCorrect: true 
+      explanation: Run, Usage, Created, Shared, and Connectors are the out-of-the-box analytics features that are available in Microsoft Power Platform admin center for Power Automate.
+    - content: Run, Usage, Created, Deleted, and Shared
+      isCorrect: false 
+      explanation: Run, Usage, Created, Shared, and Connectors are the out-of-the-box analytics features that are available in Microsoft Power Platform admin center for Power Automate.
+    - content: Run, Usage, Created, and Connectors
+      isCorrect: false 
+      explanation: Run, Usage, Created, Shared, and Connectors are the out-of-the-box analytics features that are available in Microsoft Power Platform admin center for Power Automate.
+    - content: Run, Usage, Created, Deleted, Shared, and Connectors
+      isCorrect: false 
+      explanation: Run, Usage, Created, Shared, and Connectors are the out-of-the-box analytics features that are available in Microsoft Power Platform admin center for Power Automate.

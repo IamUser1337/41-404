@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-power-automate-desktop-development-essentials 
+metadata: 
+ title: Power Automate for desktop development essentials
+ description: This module covers the basic development features available in Power Automate for desktop.
+ ms.date: 10/01/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Power Automate for desktop development essentials
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn how Power Automate for desktop handles common development concepts and tasks, such as actions, variables, conditionals, and loops.
+abstract: |  
+    In this module, you will:
+    - Create a flow from scratch using the flow designer
+    - Learn how to use actions and variables
+    - Understand the testing and debugging features of the flow designer
+    - Configure the error handling properties of individual actions
+    - Comprehend the use of UI elements and images
+    - Use subflows to compartmentalize and reuse parts of a flow
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
+iconUrl: /training/achievements/pad-power-automate-desktop-development-essentials.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant
+products:  
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-power-automate-desktop-development-essentials.1-introduction 
+- learn-bizapps.pad-power-automate-desktop-development-essentials.2-creating-flow-designer 
+- learn-bizapps.pad-power-automate-desktop-development-essentials.3-create-conditionals-loops 
+- learn-bizapps.pad-power-automate-desktop-development-essentials.4-subflows
+- learn-bizapps.pad-power-automate-desktop-development-essentials.5-test-debug-flows
+- learn-bizapps.pad-power-automate-desktop-development-essentials.6-manage-ui-elements-images
+- learn-bizapps.pad-power-automate-desktop-development-essentials.7-deploy-exception-handling
+- learn-bizapps.pad-power-automate-desktop-development-essentials.8-check 
+- learn-bizapps.pad-power-automate-desktop-development-essentials.9-summary 
+badge: 
+  uid: learn-bizapps.pad-power-automate-desktop-development-essentials.badge

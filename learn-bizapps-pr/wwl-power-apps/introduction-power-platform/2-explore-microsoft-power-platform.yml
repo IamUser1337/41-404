@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-platform.power-platform
+title: Explore Microsoft Power Platform
+metadata:
+  title: Explore Microsoft Power Platform
+  description: "Explore Microsoft Power Platform and its components."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 7
+content: |
+  [!include[](includes/2-explore-microsoft-power-platform.md)]

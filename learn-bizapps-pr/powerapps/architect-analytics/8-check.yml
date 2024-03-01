@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.architect-analytics.8-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/09/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You've created a dataset from Dataverse by using the OAuth endpoint. You create a report and dashboard from this dataset. What should you implement to control access to data in the dashboard?
+    choices:
+    - content: Workspaces
+      isCorrect: false
+      explanation: Workspaces don't control access to individual rows in a dataset.
+    - content: Row-level security
+      isCorrect: true
+      explanation: Row-level security (RLS) is required to control access to rows in a dataset.
+    - content: Power BI Premium
+      isCorrect: false
+      explanation: Power BI Premium isn't required to control access to data. Power BI Pro supports row-level security.
+    - content: Dataflows
+      isCorrect: false
+      explanation: Dataflows don't help the access of the data. The dataset is populated without using a dataflow.
+  - content: Which feature creates data in Common Data Model folder format?
+    choices:
+    - content: Export to Excel
+      isCorrect: false
+      explanation: Export to Excel creates worksheets in .xlsx format.
+    - content: Data Export Service
+      isCorrect: false
+      explanation: Data Export Service populates an Azure SQL database.
+    - content: Power Query
+      isCorrect: false
+      explanation: Power Query is a tool to transform data.
+    - content: Export to Data Lake
+      isCorrect: true
+      explanation: Export to Data Lake creates Common Data Model folders in Azure Data Lake Gen2 storage.
+  - content: What must you create before you can enable Power BI to trigger a Power Automate cloud flow?
+    choices:
+    - content: Power Automate cloud flow
+      isCorrect: false
+      explanation: Power Automate cloud flow can only be created after the alert has been created.
+    - content: Power BI Report page
+      isCorrect: false
+      explanation: Power BI alerts are configured from a tile on a Power BI dashboard.
+    - content: Key influencers visual
+      isCorrect: false
+      explanation: The Key influencers visual can't be used to create a Power BI alert. Only gauge, analytics, and single value card visuals can be used with alerts.
+    - content: Power BI alert
+      isCorrect: true
+      explanation: A Power BI alert with a rule is required to be created before you can create the Power Automate cloud flow.

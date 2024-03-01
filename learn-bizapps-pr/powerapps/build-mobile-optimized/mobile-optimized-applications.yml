@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-mobile-optimized.mobile-optimized-applications
+title: Learn about mobile-optimized apps
+metadata:
+  title: Learn about mobile-optimized apps
+  description: Learn about what makes an application mobile-optimized.
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/mobile-optimized-applications.md)]

@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.controls-canvas-apps.6-knowledge-check
+metadata:
+  title: Use and understand controls in a canvas app in Power Apps knowledge check
+  description: Use and understand controls in a canvas app in Power Apps knowledge check
+  ms.date: 12/07/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Use and understand controls in a canvas app in Power Apps knowledge check
+  questions:
+  - content: If you want to set the initial value of a control, which property would you edit?
+    choices:
+    - content: OnSelect
+      isCorrect: false
+      explanation: You would edit the Default property.
+    - content: Text
+      isCorrect: false
+      explanation: You would edit the Default property.
+    - content: Default
+      isCorrect: true
+      explanation: You would edit the Default property.
+    - content: Input
+      isCorrect: false
+      explanation: You would edit the Default property.
+  - content: Which of the following statements is false?
+    choices:
+    - content: The Combo box Control allows you to search for items to select, by default the dropdown control doesn't support this functionality.
+      isCorrect: false
+      explanation: This statement is correct.
+    - content: The dropdown control shows a maximum of 500 items, this limit doesn't apply to the Combo box.
+      isCorrect: false
+      explanation: This statement is correct.
+    - content: The Combo box supports the selection of multiple items, with a dropdown control you can only select a single item.
+      isCorrect: false
+      explanation: This statement is correct.
+    - content: The Combo box control shows a maximum of 500 items, this limit doesn't apply to the dropdown control.
+      isCorrect: true
+      explanation: This statement is the one that isn't correct.
+  - content: When building an app, if you wanted to give users the ability to enter any value, which Control would you add to your app?
+    choices:
+    - content: Label
+      isCorrect: false
+      explanation: You should use the Text input to allow users to enter any value.
+    - content: Text input
+      isCorrect: true
+      explanation: You should use the Text input to allow users to enter any value.
+    - content: Drop down
+      isCorrect: false
+      explanation: You should use the Text input to allow users to enter any value.
+    - content: Timer
+      isCorrect: false
+      explanation: You should use the Text input to allow users to enter any value.

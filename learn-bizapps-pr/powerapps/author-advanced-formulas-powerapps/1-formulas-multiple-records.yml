@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.author-advanced-formulas.1-formulas-multiple-records 
+title: Formulas that process multiple records
+metadata: 
+  title: Formulas that process multiple records 
+  description: Formulas that process multiple records 
+  ms.date: 01/31/2022  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+   
+durationInMinutes: 6 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-formulas-multiple-records.md)] 

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-visuals.2-build-visualization 
+title: Build a visualization
+metadata: 
+  title: Build a visualization  
+  description: Learn about building visualizations. 
+  ms.date: 3/31/2021 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-build-visualization.md)] 

@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.design-canvas-app-figma 
+metadata: 
+ title: Design a Power Apps canvas app by using Figma
+ description: Explore how you can take advantage of the rich design features of Figma to create a Power Apps canvas app. 
+ ms.date: 01/05/2024 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: module
+title: Design a Power Apps canvas app by using Figma
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  Figma is a user-friendly and collaborative design tool that empowers app makers of all levels to bring their creative ideas to fruition. This module describes how you can take advantage of the rich design features of Figma to create a Power Apps canvas app. Additionally, you learn how to create an app design by using the Figma UI Kit and then create a canvas app based on that design.
+abstract: | 
+    This module explains how to: 
+    - Use Figma to design an app.
+    - Work with the Figma UI Kit.
+    - Create a canvas app based on a Figma design.
+prerequisites: |  
+    - Power Apps license
+    - Access to Figma
+    - Basic understanding of Power Apps and app design
+    - Access to OneDrive for Business
+iconUrl: /learn/achievements/design-canvas-app-figma.svg 
+levels: 
+- beginner 
+roles: 
+- maker 
+- functional-consultant 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.design-canvas-app-figma.introduction 
+- learn-bizapps.design-canvas-app-figma.design-app 
+- learn-bizapps.design-canvas-app-figma.exercise-bicycle-repair-shop-app 
+- learn-bizapps.design-canvas-app-figma.create-canvas-app 
+- learn-bizapps.design-canvas-app-figma.exercise-canvas-app 
+- learn-bizapps.design-canvas-app-figma.check 
+- learn-bizapps.design-canvas-app-figma.summary 
+badge: 
+  uid: learn-bizapps.design-canvas-app-figma.badge 

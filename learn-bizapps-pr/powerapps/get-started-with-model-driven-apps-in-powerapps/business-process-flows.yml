@@ -1,0 +1,14 @@
+﻿### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-design-model-driven-apps.business-process-flows
+title: Incorporate business process flows
+metadata:
+  title: Incorporate business process flows
+  description: Use a business process flow in Power Apps when you need business logic in your app.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/business-process-flows.md)]

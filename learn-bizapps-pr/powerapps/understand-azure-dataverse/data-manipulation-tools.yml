@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.understand-azure-dataverse.data-manipulation-tools 
+title: Use Dataverse community tools for data manipulation
+metadata: 
+  title: Use Dataverse community tools for data manipulation
+  description: Learn how to use data manipulation tools.
+  ms.date: 12/15/2022 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/data-manipulation-tools.md)] 

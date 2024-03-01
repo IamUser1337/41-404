@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-automate-architecture.4-error-handling
+title: Error handling
+metadata:
+  title: Error handling
+  description: Learn about error handling in Power Automate.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-error-handling.md)]

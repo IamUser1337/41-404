@@ -1,0 +1,1 @@
+Now that core functionality is in place for the suppliers and the styling aligns with Contoso Coffee's brand, you can use Microsoft Power Pages to customize your pages. If you prefer, you can use your own logo and image assets.

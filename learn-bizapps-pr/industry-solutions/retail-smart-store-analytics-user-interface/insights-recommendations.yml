@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.smart-store-analytics-user-interface.insights-recommendations
+title: Insights and recommendations page
+metadata:
+  title: Insights and recommendations page
+  description: Learn about the Insights and recommendations page of Smart Store Analytics.
+  ms.date: 12/18/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/insights-recommendations.md)]

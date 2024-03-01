@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.how-to-build-basic-chatbot.analyze-chatbot
+title: Analyze a chatbot
+metadata:
+  title: Analyze a chatbot
+  description: "Analyze a chatbot"
+  ms.date: 04/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 5
+content: |
+  [!include[](includes/6-analyze-chatbot.md)]

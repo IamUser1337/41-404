@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-apps-model-driven-apps-online-workshop.exercise-form-view-modification 
+title: Exercise - Modify the form and view
+metadata: 
+  title: Exercise - Modify the form and view
+  description: Follow the steps to modify the machine order form and add more columns.
+  ms.date: 02/16/2024
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-form-view-modification.md)] 

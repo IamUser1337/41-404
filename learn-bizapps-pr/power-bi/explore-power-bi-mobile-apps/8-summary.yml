@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-to-power-bi-mobile-apps.8-summary
+title: Summary
+metadata: 
+  title:  Summary
+  description: Review what you've learned about what you can do with the Power BI Mobile apps. 
+  ms.date: 06/24/2023 
+  author: paulinbar
+  manager: kfollis 
+  ms.author: painbar 
+  ms.topic: unit
+   
+durationInMinutes: 12 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/8-summary.md)] 
+

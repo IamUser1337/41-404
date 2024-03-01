@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-power-query.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/12/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Jim creates a dataflow by using Power Query to import a list of conference attendees into an existing contact table in Dataverse. The process adds the attendees to the contact table, even when they already exist, based on their email address, which is a key column in Dataverse. Why did the existing contact records fail to update?
+    choices: 
+    - content: Duplicate rules must be configured for email addresses.
+      isCorrect: false 
+      explanation: Incorrect. Duplicate rules in Dataverse help identify similar records but have no implications with dataflow imports.
+    - content: Column mapping must be set for the email address as a key.
+      isCorrect: true 
+      explanation: Correct. A key column can be used to ensure existing records aren't duplicated when using dataflow imports.
+    - content: The dataflow incremental refresh setting is set to full refresh.
+      isCorrect: false 
+      explanation: Incorrect. Incremental refresh settings have no implications on how duplicates are processed.
+  - content: You create a dataflow that imports records in a Dataverse table based on an Excel spreadsheet located in a OneDrive for Business folder. After you update the file and save it, the new records aren't visible in the destination table. What could cause this situation?
+    choices: 
+    - content: The automatic refresh setting should be set to trigger on file updates.
+      isCorrect: false 
+      explanation: Incorrect. The automatic refresh setting can be configured based on frequency or for specific days and time, but not based on file updates.
+    - content: The file property for last modification must be changed. 
+      isCorrect: false 
+      explanation: Incorrect. The file properties have no impact on dataflow refresh.
+    - content: The refresh setting is set to refresh manually and must be triggered. 
+      isCorrect: true 
+      explanation: Correct. When a dataflow is configured to refresh manually, it must be triggered by a user on demand.
+  - content: A transformed column containing the street number and name is missing during import to a Dataverse table. What could cause this situation?
+    choices: 
+    - content: The column must be mapped to a column of the Dataverse table.
+      isCorrect: true 
+      explanation: Correct. The column must be mapped for the value to be imported in the Dataverse table.
+    - content: The source columns for this transformed column are already mapped.
+      isCorrect: false 
+      explanation: Incorrect. There's no limitation to map source and transformed columns to Dataverse.
+    - content: Transformed columns are unavailable to map to Dataverse columns.
+      isCorrect: false 
+      explanation: Incorrect. It's possible to map a transformed column to a Dataverse column.

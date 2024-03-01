@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.pad-build-expertise
+metadata:
+  title: Build expertise with Power Automate for desktop
+  description: Build expertise with using advanced actions in Power Automate for desktop.
+  ms.date: 02/09/2021
+  author: DaveBeasley  
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Build expertise with Power Automate for desktop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Learn how to use Power Automate for desktop to work with Power Automate, OCR technologies, and scripting.
+prerequisites: |
+  - Basic familiarity with Power Automate for desktop
+  - Fluency with technologies involved
+iconUrl: /training/achievements/pad-build-expertise.svg
+levels:
+- advanced
+roles: 
+- maker  
+- developer 
+- functional-consultant  
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+modules:
+- learn-bizapps.pad-power-automate
+- learn-bizapps.pad-database-handling
+- learn-bizapps.pad-active-directory
+- learn-bizapps.pad-scripting
+- learn-bizapps.pad-ocr
+trophy: 
+  uid: learn-bizapps.pad-build-expertise.trophy

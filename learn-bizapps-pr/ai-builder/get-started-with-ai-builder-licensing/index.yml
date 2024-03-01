@@ -1,0 +1,52 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-with-ai-builder-licensing
+metadata: 
+ title: Get started with AI Builder licensing
+ description: Learn about AI Builder licensing and how to buy and manage your AI Builder licenses.
+ ms.date: 04/30/2020  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+  
+title: Get started with AI Builder licensing
+summary: |   
+  [!include[](../includes/module-banner.md)] 
+  Learn about AI Builder licensing and how to buy and manage your AI Builder licenses.
+abstract: |  
+    In this module, you will: 
+    - Learn about AI Builder as an add-on to your Microsoft Power Platform license agreement.
+    - Discover the two levels of licensing: Included and Premium.
+    - Learn how included AI Builder features can be used.
+    - Discover the different types of included AI Builder features.
+    - Learn how premium AI Builder features can be used.
+    - Review the different types of premium AI Builder features.
+    - Identify the product that you need to buy to receive AI Builder capacity.
+    - Learn how you can purchase the specific product add-on.
+    - Identify how to manage the AI Builder capacity through assign and unassign.
+    - Examine how you can check the AI Builder capacity assignment.
+    - Distinguish the different ways to perform AI Builder actions.
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+    - [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
+iconUrl: /training/achievements/get-started-with-ai-builder-licensing.svg  
+levels:  
+- beginner   
+roles:  
+- maker
+- business-user
+products:  
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- productivity
+units:
+- learn-bizapps.get-started-with-ai-builder-licensing.1-introduction
+- learn-bizapps.get-started-with-ai-builder-licensing.2-included-premium-features 
+- learn-bizapps.get-started-with-ai-builder-licensing.3-get-premium-license 
+- learn-bizapps.get-started-with-ai-builder-licensing.4-manage-capacity 
+- learn-bizapps.get-started-with-ai-builder-licensing.4a-check 
+- learn-bizapps.get-started-with-ai-builder-licensing.5-summary 
+badge: 
+  uid: learn-bizapps.get-started-with-ai-builder-licensing.badge

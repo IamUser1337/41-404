@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-waste-solution.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/21/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit 
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following Destination and Source field requires mapping before import?  
+    choices: 
+    - content: Diversion site 
+      isCorrect: false 
+      explanation: Incorrect. Diversion site doesn't require mapping before import. 
+    - content: Diversion period 
+      isCorrect: false 
+      explanation: Incorrect. Diversion period doesn't require mapping before import. 
+    - content: Diversion method
+      isCorrect: true 
+      explanation: Correct. Diversion method requires mapping before import. 
+    - content: Organization
+      isCorrect: false 
+      explanation: Incorrect. Organization doesn't require mapping before import. 
+  - content: Which functionality helps transform the data to match the Microsoft Sustainability Manager data schema? 
+    choices: 
+    - content: Power Query
+      isCorrect: true 
+      explanation: Correct. Power Query functionality helps transform the data to match Microsoft Sustainability Manager data schema. 
+    - content: Excel 
+      isCorrect: false 
+      explanation: Incorrect. Excel functionality isn't used to transform the data to match Microsoft Sustainability Manager data schema. 
+    - content: Microsoft Power BI datasets
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Power BI datasets aren't used to transform the data to match Microsoft Sustainability Manager data schema.
+    - content: Microsoft Power Platform dataflows
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Power Platform dataflows aren't used to transform the data to match Microsoft Sustainability Manager data schema. 
+  - content: The Waste insights dashboard includes which of the following tabs?
+    choices: 
+    - content: Waste generated
+      isCorrect: false 
+      explanation: Incorrect. Waste generated isn't the only tab included on the Waste insights dashboard. 
+    - content: Waste disposed
+      isCorrect: false 
+      explanation: Incorrect. Waste disposed isn't the only tab included on the Waste insights dashboard.
+    - content: Waste recovered
+      isCorrect: false 
+      explanation: Incorrect. Waste recovered isn't the only tab included on the Waste insights dashboard.
+    - content: All the above 
+      isCorrect: true 
+      explanation: Correct. The Waste insights dashboard includes the Waste generated, Waste disposed, and Waste recovered tabs.

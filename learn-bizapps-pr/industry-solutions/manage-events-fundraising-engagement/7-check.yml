@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-events-fundraising-engagement.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You need the ability to record details about an attendee’s accessibility requirements for an event. Where would you set this up?
+    choices: 
+    - content: As a preference when setting up an event.
+      isCorrect: true 
+      explanation: It should be set up as a preference. If accessibility details for an attendee need to be captured, it can be noted as a preference during the registration process.
+    - content: As a ticket type when setting up an event.
+      isCorrect: false 
+      explanation: As a ticket type it will not be possible to record unique attendee details. 
+    - content: As an event disclaimer.
+      isCorrect: false 
+      explanation: It is not possible to record unique attendee details as a disclaimer.
+    - content: As a note on the attendee’s contact record.
+      isCorrect: false 
+      explanation: As a note on the attendee’s contact record, the requirement will not be associated with the event.
+  - content: What record is used to register attendees for an event?
+    choices: 
+    - content: Registration Package
+      isCorrect: true 
+      explanation: Attendees are registered by creating a registration package. This includes a package of all tickets and event components purchased by an event attendee.
+    - content: Ticket Registrations
+      isCorrect: false 
+      explanation: Ticket Registrations are used to see all the event tickets created. Attendees should not be registered by creating a new ticket registration.
+    - content: Event Tables
+      isCorrect: false 
+      explanation: Event Tables are used to associate registrations to tables.
+    - content: Event Setup
+      isCorrect: false 
+      explanation: Event setup is used to create the event itself.
+  - content: Which of the following is not a step in the registration process?
+    choices: 
+    - content: Attendees
+      isCorrect: false
+      explanation: Adding Attendees is a step in the registration process.
+    - content: Disclaimer
+      isCorrect: false 
+      explanation: Ensuring the attendee is aware of event disclaimers is a step in the registration process.
+    - content: Event tables
+      isCorrect: true 
+      explanation: Attendees are assigned to tables after the registration process is complete.
+    - content: Sponsors
+      isCorrect: false 
+      explanation: Selecting sponsorship is a step in the registration process.

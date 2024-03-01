@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.templates-governance-policies.3-templates 
+title: Discover and implement Power Automate governance templates
+metadata: 
+  title: Discover and implement Power Automate governance templates 
+  description: Learn about Power Automate governance templates.  
+  ms.date: 10/02/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-templates.md)] 

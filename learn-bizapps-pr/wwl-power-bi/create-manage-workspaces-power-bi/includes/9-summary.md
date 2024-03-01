@@ -1,0 +1,3 @@
+A workspace is a crucial feature of Power BI that allows you to share reports, build dashboards, and collaborate with your teams. Power BI workspaces can help increase performance in your reports, ensure that appropriate security requirements are applied, make it easier for you to share content, and more. With this information, you can add to your toolkit the ability to manage workspaces in Power BI service so that you can build your dashboards in the most efficient way possible. 
+
+For more information, see [Organize work in the new workspaces](/power-bi/collaborate-share/service-new-workspaces/?azure-portal=true).

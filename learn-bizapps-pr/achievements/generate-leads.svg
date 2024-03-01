@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Work with Dynamics for Marketing/generate-leads</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-9.4%" y="-7.8%" width="118.9%" height="117.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.102355072 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Work-with-Dynamics-for-Marketing" transform="translate(-50.000000, -260.000000)">
+            <g id="Work-with-Dynamics-for-Marketing/generate-leads" transform="translate(50.000000, 260.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <path d="M74.1393597,62.3822857 L57.243928,62.3822857 C54.2495748,62.3822857 51.8132535,59.9459644 51.8132535,56.9516112 C51.8132535,54.6216527 53.3029177,52.5742523 55.4867367,51.8291215 C55.9425332,46.8854759 60.0797719,43.0732209 65.0882355,43.0732209 C69.9694223,43.0732209 74.0730692,46.7525994 74.66027,51.5456885 C77.4112566,51.8087927 79.5700341,54.1328558 79.5700341,56.9516112 C79.5700341,59.9459644 77.1337129,62.3822857 74.1393597,62.3822857 Z" id="Cloud" fill="#FFFFFF" fill-rule="nonzero" opacity="0.900000036" mask="url(#mask-2)"></path>
+                    <g id="Group-19" filter="url(#filter-3)" mask="url(#mask-2)">
+                        <g transform="translate(47.489064, 51.000000) rotate(-315.000000) translate(-47.489064, -51.000000) translate(26.289064, 25.400000)">
+                            <path d="M32.0008,11.2008 L32.0008,30.4008 C32,36.5784 26.988,41.6 20.8008,41.6024 C14.6136,41.6024 9.6048,36.5864 9.6008,30.4024 C9.6008,30.4016 9.6008,30.4008 9.6008,30.4008 L9.6008,11.2008 L0.000799176212,11.2008 L0.0008,30.4008 C-0.0024,41.8864 9.3176,51.2 20.8016,51.2 C32.2832,51.1992 41.604,41.8864 41.6008,30.4008 L41.6008008,11.2008 L32.0008,11.2008" id="Fill-133" fill="#546670"></path>
+                            <path d="M40.0008,0.0008 L33.6008,0.0008 C32.7168,0.0008 32.0008,0.7168 32.0008,1.6008 L32.0008,12.0008 L41.6008,12.0008 L41.6008,1.6008 C41.6008,0.7168 40.884,0.0008 40.0008,0.0008" id="Fill-134" fill="#55B7D9"></path>
+                            <path d="M8.0008,0.0008 L1.6008,0.0008 C0.7168,0.0008 0.0008,0.7168 0.0008,1.6008 L0.0008,12.0008 L9.6008,12.0008 L9.6008,1.6008 C9.6008,0.7168 8.884,0.0008 8.0008,0.0008" id="Fill-135" fill="#DF5142"></path>
+                            <path d="M40.0008,0.0008 L36.8008,0.0008 L36.8008,12.0008 L41.6008,12.0008 L41.6008,1.6008 C41.6008,0.7168 40.884,0.0008 40.0008,0.0008" id="Fill-136" fill="#0095B2"></path>
+                            <path d="M8.0008,0.0008 L4.8008,0.0008 L4.8008,12.0008 L9.6008,12.0008 L9.6008,1.6008 C9.6008,0.7168 8.884,0.0008 8.0008,0.0008" id="Fill-137" fill="#AB3B37"></path>
+                            <path d="M20.8008,41.6024 C14.6136,41.6024 9.6048,36.5864 9.6008,30.4024 C9.6008,30.4016 9.6008,30.4008 9.6008,30.4008 L9.6008,12 L4.8008,12 L4.8008,30.4 C4.8008,37.9112 10.8896,42.4 18.4008,42.4 C19.1344,42.4 22.4008,41.6024 20.8008,41.6024" id="Fill-138" fill="#30404D"></path>
+                            <path d="M36.8008,12 L36.8008,30.4 C36.8008,40.5616 28.5624,49.6 18.4008,49.6 C17.4008,49.6 18.8672,51.2 20.8008,51.2 C32.288,51.2 41.6008,41.8872 41.6008,30.4 L41.6008,12 L36.8008,12" id="Fill-139" fill="#30404D"></path>
+                        </g>
+                    </g>
+                    <path d="M32.7749225,43.0732209 L23.8711563,43.0732209 C20.8708691,43.0732209 18.4299659,40.6323177 18.4299659,37.6320304 C18.4299659,34.6317432 20.8708691,32.19084 23.8711563,32.19084 C24.1465004,32.19084 24.4232937,32.2157161 24.7203778,32.2681296 C25.7724814,28.7038679 29.0181614,26.2549958 32.7749225,26.2549958 C37.411816,26.2549958 41.1840351,30.0272149 41.1840351,34.6641084 C41.1840351,39.3010018 37.411816,43.0732209 32.7749225,43.0732209 Z" id="Cloud" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

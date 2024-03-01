@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-with-ai-builder.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 03/15/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following statements is true?
+    choices: 
+    - content: AI Builder is only available in Power Apps.
+      isCorrect: false
+      explanation: AI Builder is available in both Power Apps and Power Automate.
+    - content: AI Builder is only available in Power Automate.
+      isCorrect: false 
+      explanation: AI Builder is available in both Power Apps and Power Automate.
+    - content: AI Builder is available in both Power Apps and Power Automate.
+      isCorrect: true
+      explanation: AI Builder is available in both Power Apps and Power Automate.
+  - content: You have customized a model by using the guided experience. What is the final step that you must take before you can use it?
+    choices: 
+    - content: Create it
+      isCorrect: false
+      explanation: A model must be published before it can be used.
+    - content: Publish it
+      isCorrect: true
+      explanation: A model must be published before it can be used.
+    - content: Save it
+      isCorrect: false
+      explanation: A model must be published before it can be used.
+    - content: Train it
+      isCorrect: false
+      explanation: A model must be published before it can be used.
+  - content: What do you need to do before you can use a prebuilt model?
+    choices: 
+    - content: Gather data
+      isCorrect: false
+      explanation: A prebuilt model is ready to be used.
+    - content: Train the model
+      isCorrect: false
+      explanation: A prebuilt model is ready to be used.
+    - content: Publish the model
+      isCorrect: false
+      explanation: A prebuilt model is ready to be used.
+    - content: Nothing
+      isCorrect: true
+      explanation: A prebuilt model is ready to be used.

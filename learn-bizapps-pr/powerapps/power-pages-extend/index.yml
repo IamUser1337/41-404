@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-extend 
+metadata: 
+ title: Extend Power Pages websites
+ description: Learn how to extend website functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy websites.
+ ms.date: 05/26/2023  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ ms.service: power-pages  
+title: Extend Power Pages websites
+summary: |  
+  [!include[](../includes/module-banner.md)]
+  The world of business software applications has embraced a movement toward building apps that use low-code/no-code methods. This movement is a pillar of Microsoft Power Platform, including Power Pages websites. However, many projects often include functionality or features that can only be addressed with advanced software development techniques. This module explains how you can extend website functionality by using software development and how to use application lifecycle management (ALM) techniques to deploy Power Pages websites.
+abstract: |  
+    In this module, you'll: 
+    - Discover where software development can resolve particular website feature requirements.
+    - Employ application lifecycle management (ALM) for Power Pages websites.
+    - Apply JavaScript code to website assets.
+    - Use Cascading Style Sheets (CSS) to address specific website development requirements.
+prerequisites: Basic understanding of Power Pages websites, Microsoft Power Platform application lifecycle management, and fundamental web technologies like HTML, JavaScript, and CSS. Familiarity with other related technologies like Microsoft Azure Functions, web API, and single-page applications would be beneficial.
+iconUrl: /training/achievements/power-pages-extend.svg  
+levels:  
+- advanced   
+roles:  
+- maker  
+- developer 
+products:  
+- power-platform 
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-extend.introduction 
+- learn-bizapps.power-pages-extend.application-lifecycle 
+- learn-bizapps.power-pages-extend.javascript 
+- learn-bizapps.power-pages-extend.css 
+- learn-bizapps.power-pages-extend.advanced-development 
+- learn-bizapps.power-pages-extend.exercise 
+- learn-bizapps.power-pages-extend.check 
+- learn-bizapps.power-pages-extend.summary 
+badge: 
+  uid: learn-bizapps.power-pages-extend.badge

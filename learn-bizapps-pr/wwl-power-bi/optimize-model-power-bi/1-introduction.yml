@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.optimize-model-power-bi.1-introduction
+title: Introduction to performance optimization
+metadata:
+  title: Introduction to performance optimization
+  description: "Introduction to performance optimization"
+  ms.date: 10/26/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 6
+content: |
+  [!include[](includes/1-introduction.md)]

@@ -1,0 +1,1 @@
+The recorder automatically interprets users' steps and generates blocks of actions that achieve the same result. The recording of desktop applications generates UI automation, mouse, and keyboard actions. Likewise, the recording of web applications generates web browser-related actions. Automatically generated actions may be viewed and edited, both during and after the recording.

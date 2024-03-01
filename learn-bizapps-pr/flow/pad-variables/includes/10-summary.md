@@ -1,0 +1,1 @@
+Variables are an essential concept in flow development and enable you to store and reuse any information. Power Automate for desktop supports more than 40 distinct data types that you can handle through the variable pane. To exchange data with other products of the Power Automate platform and increase the automation potentialities, you can use the input and output variables.

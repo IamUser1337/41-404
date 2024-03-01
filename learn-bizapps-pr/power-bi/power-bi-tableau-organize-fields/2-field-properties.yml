@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-organize-fields.2-field-properties 
+title: Learn the importance of field properties
+metadata: 
+  title: Learn the importance of field properties
+  description: Learn how to summarize, sort, format, and organize your data using field properties.
+  ms.date: 10/13/2023
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 11
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-field-properties.md)] 

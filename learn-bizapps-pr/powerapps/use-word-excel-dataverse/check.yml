@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.use-word-excel-dataverse.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/21/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Robert wants to create a Word template based on customer accounts in Dataverse. In the model-driven app, Robert navigates to the account view and discovers that access has been denied to the Word Templates menu. What could cause this situation?
+    choices: 
+    - content: Word templates can only be created for custom tables. Account is a standard table.
+      isCorrect: false 
+      explanation: Incorrect. No limitations are in place for Word templates to be created based on the table type.
+    - content: Word templates can only be created for a selected record in a table’s view.
+      isCorrect: true 
+      explanation: Correct. After a record has been selected, the menu option will be available.
+    - content: Word templates can only be created by system administrators or customizers.
+      isCorrect: false 
+      explanation: Incorrect. Users other than system administrators and customizers can create personal templates.
+  - content: You create an Excel template that includes a PivotTable and then upload it to Dataverse. A month later, when you generate a new file based on the updated data, you notice that the PivotTable isn't updated. What could cause this situation?
+    choices: 
+    - content: The Excel templates retain the original data as their data source.
+      isCorrect: false 
+      explanation: Incorrect. The concept of templates is to standardize documents but have dynamic data as their data source.
+    - content: The Excel template was linked to a different table than the one that was used to generate the new file. 
+      isCorrect: false 
+      explanation: Incorrect. Templates are available only to the table that they were created for.
+    - content: The option to refresh data when opening the file wasn't set or the Refresh All option wasn't selected. 
+      isCorrect: true 
+      explanation: Correct. PivotTable data isn't automatically updated when you open a file unless that option has been set or if a user selects the Refresh All option when they open the file.
+  - content: You create a Word template based on the contact table. When you try to add the list of addresses for a contact to the document, the address table isn't available. What could cause this situation?
+    choices: 
+    - content: The contact-to-address relationship wasn't selected when you downloaded the template from Dataverse.
+      isCorrect: true 
+      explanation: Correct. You need to select the relationship for the address table to be available in the Word template.
+    - content: The contact-to-address relationship is of type 1:N, which is unsupported in Word templates.
+      isCorrect: false 
+      explanation: Incorrect. The different relationship types are supported in Word templates.
+    - content: The contact-to-address relationship can only be accessed in a related Word template because only one table can be referenced.
+      isCorrect: false 
+      explanation: Incorrect. You can include multiple tables in a single Word template.

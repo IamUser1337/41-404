@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: You learned that with Microsoft Sustainability Manager, organizations can gain continuous visibility into their emissions activities and reliably report impact in near real-time.
+  ms.date: 09/20/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/summary.md)] 

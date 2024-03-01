@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-integrate-dataverse.form-configure
+title: Set up multistep forms
+metadata:
+  title: Set up multistep forms
+  description: Learn how to set up multistep form properties and steps and how to add the multistep form to your website.
+  ms.date: 01/04/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/form-configure.md)]

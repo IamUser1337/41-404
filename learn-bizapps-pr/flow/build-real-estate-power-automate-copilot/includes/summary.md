@@ -1,0 +1,3 @@
+In this module, you built a workflow for a real estate showing request by using Copilot in Power Automate. You learned how to use Copilot to create a flow from the beginning and how to refine it.
+
+Copilot in Power Automate is a powerful tool that can help you build your workflows faster and more efficiently. By providing suggestions and recommendations based on best practices and industry standards, Copilot can help you create workflows that are more effective and efficient. We recommend that you try using Copilot in your own workflows to determine how it can help you streamline your business processes. With Copilot, you can take your Power Automate workflows to the next level.

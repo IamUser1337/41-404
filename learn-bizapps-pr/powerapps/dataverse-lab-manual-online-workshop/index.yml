@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.dataverse-lab-manual-online-workshop
+metadata:
+ title: Create a Dataverse table for the machine ordering app - Online workshop
+ description: Learn about Microsoft Dataverse tables and columns and how to connect data to a canvas app.
+ ms.date: 02/16/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Create a Dataverse table for the machine ordering app  - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [Microsoft Dataverse](/powerapps/maker/data-platform/data-platform-intro/?azure-portal=true) adds data storage and modeling capabilities to Power Apps that are scalable and straightforward to provision. In this module, you use Microsoft Dataverse to model and store the data from the machine ordering canvas app that you built in a previous module. In the next module, you'll build a model-driven application by using the same data that is used by the back-office staff to process machine orders. These apps that you build on Dataverse use the same technology framework (Dataverse) that Microsoft Dynamics 365 apps are built on.
+abstract: |
+    This module explains how to:
+    - Create a custom table and add custom columns to it.
+    - Use the Power Apps form control to populate the table.
+    - View the table data.
+    - Create a calculated column.
+    - Implement a server-side business rule.
+prerequisites: |
+  It's recommended to complete each module in sequence of the [Create a machine ordering app with Power Apps - Online Workshop](/training/paths/power-apps-online-workshop/) Learning Path.
+  This module is designed for use with the App in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?search=App%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=06:00&endTime=11:00).
+iconUrl: /learn/achievements/dataverse-lab-manual-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-apps
+- power-automate
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.dataverse-lab-manual-online-workshop.introduction
+- learn-bizapps.dataverse-lab-manual-online-workshop.exercise-explore
+- learn-bizapps.dataverse-lab-manual-online-workshop.exercise-tables-columns
+- learn-bizapps.dataverse-lab-manual-online-workshop.exercise-connect-data
+- learn-bizapps.dataverse-lab-manual-online-workshop.exercise-optional-ai-copilot
+- learn-bizapps.dataverse-lab-manual-online-workshop.check
+- learn-bizapps.dataverse-lab-manual-online-workshop.summary
+badge:
+  uid: learn-bizapps.dataverse-lab-manual-online-workshop.badge

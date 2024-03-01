@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-dynamics.get-started-with-form-processing 
+metadata: 
+ title: Process custom documents with AI Builder
+ description: Learn the basics of Document processing in AI Builder and how it can benefit your organization.
+ ms.date: 07/26/2023  
+ author: jadaphillips  
+ ms.author: jadaphillips 
+ ms.topic: module
+  
+title: Process custom documents with AI Builder
+summary: | 
+  [!include[](../includes/module-banner.md)]
+  Learn the basics of Document processing in AI Builder and how it can benefit your organization.
+abstract: |  
+    In this module, you will: 
+    - Explore how automating document processing can help save time.
+    - Create your first Document processing model.
+    - Learn how to use your Document processing models in Power Apps and Power Automate.
+prerequisites: |
+    - A Power Apps or Power Automate [license](https://go.microsoft.com/fwlink/?linkid=2085130)
+    - Access to [Microsoft Dataverse](https://powerapps.microsoft.com/common-data-service/)
+    - An [AI Builder](https://powerapps.microsoft.com/ai-builder/) add-on or trial 
+iconUrl: /training/achievements/get-started-with-form-processing.svg  
+levels:  
+- beginner   
+roles:  
+- business-user
+- maker
+products:   
+- ai-builder 
+- power-platform
+- power-automate
+subjects:
+- artificial-intelligence
+units:
+- learn-dynamics.get-started-with-form-processing.1-intro-to-form-processing 
+- learn-dynamics.get-started-with-form-processing.2-create-first-model 
+- learn-dynamics.get-started-with-form-processing.3-use-model 
+- learn-dynamics.get-started-with-form-processing.4-check 
+- learn-dynamics.get-started-with-form-processing.5-summary 
+badge: 
+  uid: learn-dynamics.get-started-with-form-processing.badge

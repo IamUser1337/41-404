@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.custom-code-connectors.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/28/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When you create custom code for a custom connector operation, what is the ExecuteAsync method expected to do? 
+    choices: 
+    - content: Transform the output only. 
+      isCorrect: false 
+      explanation: Incorrect. You can transform the input and output in this method.
+    - content: Transform the input and output along with forwarding the request to the network. 
+      isCorrect: true 
+      explanation: Correct. The ExecuteAsync method has full ability to transform the input and output and decide if the network is called.
+    - content: Transform the input only. 
+      isCorrect: false 
+      explanation: Incorrect. You can transform the input and output in this method. 
+    - content: Bypass the API security. 
+      isCorrect: false 
+      explanation: Incorrect. Calling the network from the ExecuteAsync method would still be subject to any API security mechanisms.
+  - content: How many custom code classes can you upload and set up? 
+    choices: 
+    - content: One for each operation that’s defined on the connector 
+      isCorrect: false 
+      explanation: Incorrect. Only one Script class that’s implementing custom code is supported.
+    - content: Up to three classes
+      isCorrect: false 
+      explanation: Incorrect. Only one Script class that’s implementing custom code is supported.
+    - content: Only one class 
+      isCorrect: true 
+      explanation: Correct. The one script class must handle any operation that’s set up to use custom code.
+    - content: Depends on the type of security that’s set up for the connector 
+      isCorrect: false 
+      explanation: Incorrect. Only one Script class that’s implementing custom code is supported, regardless of the type of security that’s set up. 
+  - content: You’ve added a new operation to your custom connector, and your custom code transformations aren’t being applied. What should you do? 
+    choices: 
+    - content: Check in the Code Details section of the custom connector definition to ensure that your operation is set up to implement the custom code. 
+      isCorrect: true 
+      explanation: Correct. Each operation must be enabled, or if none is specified, all will implement the custom code.
+    - content: Reimport the connector definition. 
+      isCorrect: false 
+      explanation: Incorrect. Reimporting the connector definition doesn't resolve the issue.
+    - content: Use the Microsoft Power Platform CLI to enable the new operation. 
+      isCorrect: false 
+      explanation: Incorrect. Using the Microsoft Power Platform CLI to enable the new operation doesn't resolve the issue.
+    - content: Check the Swagger editor. 
+      isCorrect: false 
+      explanation: Incorrect. Checking the Swagger editor doesn’t help resolve your issue. 

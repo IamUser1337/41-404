@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.configure-volunteer-management-settings.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What does a qualification need in order to use an onboarding template?
+    choices: 
+    - content: It must have the onboarding type selected.
+      isCorrect: true 
+      explanation: Correct. The qualification should be set up with the onboarding type.
+    - content: It must have the skill or onboarding type selected.
+      isCorrect: false 
+      explanation: Incorrect. Onboarding templates cannot be used on a qualification set up as with the skill type.
+    - content: It must have the skill and onboarding type selected.
+      isCorrect: false 
+      explanation: Incorrect. A qualification can only be set up with one type.
+    - content: There is no prerequisite, all qualifications can use an onboarding template.
+      isCorrect: false 
+      explanation: Incorrect. All qualifications can use an onboarding template.
+  - content: In which of the following examples would it be appropriate to use an onboarding template?
+    choices: 
+    - content: A volunteer informs you that they have experience working with children.
+      isCorrect: false 
+      explanation: Incorrect. The qualification can be added without an onboarding process. It would not be necessary as there are no further steps to be completed.
+    - content: A volunteer would like to see environment-related engagements that are available.
+      isCorrect: false 
+      explanation: Incorrect. It would be appropriate as a preference.
+    - content: A volunteer needs to undergo training before they can manage a fundraising stall during your engagements.
+      isCorrect: true 
+      explanation: Correct. An onboarding process can be used to track the volunteer's progress through the required training before they are qualified to manage a fundraising stall.
+    - content: It would be appropriate in all the above scenarios.
+      isCorrect: false 
+      explanation: Incorrect.   
+  - content: For what purpose can preferences NOT be used in Volunteer Engagement and Volunteer Management?
+    choices: 
+    - content: A volunteer manager wants to attract volunteers with a certain preference to an engagement opportunity.
+      isCorrect: false 
+      explanation: Incorrect. This is a valid purpose to use preferences.
+    - content: A volunteer manager wants to see all their volunteers who meet a certain preference.
+      isCorrect: false 
+      explanation: Incorrect. This is a valid purpose to use preferences.
+    - content: A volunteer wants to browse engagement opportunities based on a certain preference.
+      isCorrect: false 
+      explanation: Incorrect. This is a valid purpose to use preferences. 
+    - content: A volunteer wants to see other volunteers who have the same preferences as themselves.
+      isCorrect: true 
+      explanation: Correct. It is not possible for a volunteer to see other volunteers who have the same preferences as themselves.

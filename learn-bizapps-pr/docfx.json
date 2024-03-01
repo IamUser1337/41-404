@@ -1,0 +1,469 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "achievements.yml"
+        ],
+        "dest": "achievements/bizapps/"
+      },
+      {
+        "src": "dyn365-customer-service",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],        
+        "dest": "modules"
+      },
+            {
+        "src": "ai-builder",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],        
+        "dest": "modules"
+      },
+      {
+        "src": "dyn365-field-service",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],        
+        "dest": "modules"
+      },
+      {
+        "src": "dyn365-marketing",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],        
+        "dest": "modules"
+      },
+      {
+        "src": "flow",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],        
+        "dest": "modules"
+      },
+      {
+        "src": "industry-solutions",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],        
+        "dest": "modules"
+      },
+      {
+        "src": "power-bi",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "src": "power-virtual-agents",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "src": "powerapps",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl-power-apps",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl-power-automate",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl-power-bi",
+        "files": [
+          "**.yml",
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/includes/**"
+      ],
+        "dest": "modules"
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "README.md",
+          "LICENSE",
+          "LICENSE-CODE",
+          "ThirdPartyNotices",
+          "paths/sample-path/**",
+          "ai-builder/**",
+          "dyn365-customer-service/**",
+          "dyn365-field-service/**",
+          "flow/**",
+          "industry-solutions/**",
+          "power-bi/**",
+          "power-virtual-agents/**",
+          "powerapps/**",
+          "module_template/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "src": "ai-builder",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "dyn365-customer-service",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "dyn365-field-service",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "flow",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "industry-solutions",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "power-bi",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "power-virtual-agents",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "powerapps",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl-power-apps",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl-power-automate",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl-power-bi",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "src": "wwl",
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "dest": "modules"
+      },
+      {
+        "files": [
+          "**/*.gif",
+          "**/*.png",
+          "**/*.svg",
+          "**/*.jpg",
+          "**/*.jpeg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
+          "dyn365-customer-service/**",
+          "dyn365-field-service/**",
+          "flow/**",
+          "power-bi/**",
+          "powerapps/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/training/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "ms.suite": "office",
+      "feedback_system": "None",
+      "clicktale": true,
+      "uhfHeaderId":"MSDocsHeader-Learn"
+    },
+    "fileMetadata": {
+      "searchScope": {
+          "industry-solutions/**/*.yml": ["Power Platform", "Dynamics"],
+          "power-virtual-agents/**/*.yml": ["Power Platform", "Power Virtual Agents", "Copilot Studio"],
+          "powerapps/**/*.yml": ["Power Platform", "Power Apps"],
+          "wwl-power-apps/**/*.yml": ["Power Platform", "Power Apps"],
+          "power-bi/**/*.yml": ["Power Platform ", "Power BI"],
+          "wwl-power-bi/**/*.yml": ["Power Platform ", "Power BI"],
+          "flow/**/*.yml": ["Power Platform ", "Power Automate"],                               
+          "wwl-power-automate/**/*.yml": ["Power Platform ", "Power Automate"],                               
+          "ai-builder/**/*.yml": ["Power Platform ", "AI Builder"]                               
+      },
+      "ms.service": {
+        "ai-builder/**/*.yml": "aibuilder",
+        "industry-solutions/**/*.yml": "cloud-for-industries",
+        "flow/**/*.yml": "power-automate",
+        "power-bi/**/*.yml": "powerbi",
+        "powerapps/**/*.yml": "powerapps",
+        "wwl/**/*.yml": "powerapps",
+        "wwl-power-apps/**/*.yml": "powerapps",
+        "wwl-power-automate/**/*.yml": "power-automate",
+        "power-virtual-agents/**/*.yml": "copilot-studio",
+        "wwl-power-bi/**/*.yml": "powerbi"
+      },
+      "ms.collection": {
+        "power-virtual-agents/**/*.yml": "bap-ai-copilot"
+      },  
+    },
+    
+    "template": [],
+    "dest": "learn-bizapps-pr",
+    "markdownEngineName": "markdig",
+    "localization_scopes": {
+        "ai-builder/**/*.yml": [
+          "ar-sa",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "ja-jp",
+          "pt-br",
+          "zh-cn"
+        ],
+        "dyn365-customer-service/**/*.yml": [
+          "ar-sa",
+          "zh-cn",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "zh-cn",
+          "ja-jp",
+          "pt-br",
+          "zh-cn"
+        ],
+        "dyn365-field-service/**/*.yml": [
+          "ar-sa",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "zh-cn",
+          "it-it",
+          "ja-jp",
+          "pt-br",
+          "zh-cn"
+        ],
+        "dyn365-marketing/**/*.yml": [
+          "ar-sa",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "zh-cn",
+          "ja-jp",
+          "pt-br",
+          "zh-cn"
+        ],
+        "flow/**/*.yml": [
+          "ar-sa",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "ja-jp",
+          "pt-br",
+          "zh-cn"
+        ],
+        "power-bi/**/*.yml": [
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "ja-jp",
+          "pt-br",
+          "zh-cn",
+          "zh-tw",
+          "ko-kr",
+          "ru-ru",
+          "nl-nl",
+          "hu-hu",
+          "cs-cz",
+          "pl-pl",
+          "pt-pt",
+          "sv-se",
+          "tr-tr",
+          "da-dk",
+          "nb-no",
+          "fi-fi",
+          "sk-sk",
+          "el-gr",
+          "th-th",
+          "zh-cn"
+        ],
+        "powerapps/**/*.yml": [
+          "ar-sa",
+          "de-de",
+          "es-es",
+          "fr-fr",
+          "it-it",
+          "ja-jp",
+          "pt-br",
+          "zh-cn"
+        ]
+  }
+}
+}

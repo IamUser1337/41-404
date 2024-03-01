@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.analyze-business-process-minit.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/02/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What crucial hyperautomation steps does Power Automate Process Mining perform?
+    choices: 
+    - content: Automating processes
+      isCorrect: false 
+      explanation: Incorrect. Power Automate Process Mining identifies automation opportunities.
+    - content: Identifying automation opportunities
+      isCorrect: true 
+      explanation: Correct. Power Automate Process Mining identifies automation opportunities.
+    - content: Creating Power Automate flows
+      isCorrect: false 
+      explanation: Incorrect. Power Automate Process Mining identifies automation opportunities.
+    - content: None of the above
+      isCorrect: false 
+      explanation: Incorrect. Power Automate Process Mining identifies automation opportunities.
+  - content: What Power Automate Process Mining feature would you use to focus on specific cases in your process?
+    choices: 
+    - content: Custom metrics
+      isCorrect: false 
+      explanation: Incorrect. You'd use filtering to focus on specific cases of your process. 
+    - content: Process compare
+      isCorrect: false 
+      explanation: Incorrect. You'd use filtering to focus on specific cases of your process. 
+    - content: Root cause analysis
+      isCorrect: false 
+      explanation: Incorrect. You'd use filtering to focus on specific cases of your process. 
+    - content: Filtering
+      isCorrect: true 
+      explanation: Correct. You'd use filtering to focus on specific cases of your process. 
+  - content: On a map that's been created by using the process compare feature, which color nodes indicate activities that are common to both views that you're comparing?
+    choices: 
+    - content: Yellow
+      isCorrect: false 
+      explanation: Incorrect. Green nodes indicate activities that are common to both views that you're comparing.
+    - content: Blue
+      isCorrect: false 
+      explanation: Incorrect. Green nodes indicate activities that are common to both views that you're comparing.
+    - content: Green
+      isCorrect: true 
+      explanation: Correct. Green nodes indicate activities that are common to both views that you're comparing.
+    - content: Red
+      isCorrect: false 
+      explanation: Incorrect. Green nodes indicate activities that are common to both views that you're comparing.
+  - content: In this module's exercise, which Power Automate capability did you use to automate the time-consuming CCM activity?
+    choices: 
+    - content: Approvals
+      isCorrect: false 
+      explanation: Incorrect. You use the flows capability to automate the time-consuming CCM activity.
+    - content: Power Automate Process Mining
+      isCorrect: false 
+      explanation: Incorrect. You use the flows capability to automate the time-consuming CCM activity.
+    - content: Flows
+      isCorrect: true 
+      explanation: Correct. You use the flows capability to automate the time-consuming CCM activity.
+    - content: AI Builder
+      isCorrect: false 
+      explanation: Incorrect. You use the flows capability to automate the time-consuming CCM activity.

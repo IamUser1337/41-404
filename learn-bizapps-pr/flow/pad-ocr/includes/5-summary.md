@@ -1,0 +1,1 @@
+Power Automate for desktop enables you to read and extract data from the screen or files through OCR technologies. To deploy any of the available OCR actions, you have to initialize a Google Tesseract OCR engine. OCR engines are software tools used to convert typed content into a machine-readable format.

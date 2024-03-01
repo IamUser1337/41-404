@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.work-cloud-sustainability.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/20/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following data includes essential information, such as fuel types, vehicle types, facilities, spend types, and contractual instrument types, and is used for near real-time emissions calculations?
+    choices: 
+    - content: Reference data
+      isCorrect: true 
+      explanation: Correct - The system or master data is the reference data that supports the continuous flow of activity data, allowing for near real-time emissions calculations.
+    - content: Transactional data
+      isCorrect: false 
+      explanation: Incorrect - Transactional data represents the activity and includes everything that can produce emissions.
+    - content: Analytical data
+      isCorrect: false 
+      explanation: Incorrect – Analytical data is used to feed all insights and the scorecards.
+    - content: Supporting data
+      isCorrect: false 
+      explanation: Incorrect – Supporting data is usually the organization’s operations, facilities, or product lines.
+  - content: Which of the following steps in the data flow process allows you to automate data collection, break down data silos, and calculate emissions more accurately across organization scope?
+    choices: 
+    - content: Set up master data
+      isCorrect: false
+      explanation: Incorrect – Using master data allows you to collect data to help establish a baseline and to understand the environmental footprint of your organization and value chain across Scopes 1, 2, and 3.
+    - content: Record
+      isCorrect: true 
+      explanation: Correct – Record allows you to automate data collection, break down data silos, and calculate emissions more accurately across the organization scope.
+    - content: Report
+      isCorrect: false 
+      explanation: Incorrect – Report allows you to visualize your impact, track your performance against goals, gain actionable insights, and streamline reporting.
+    - content: Reduce
+      isCorrect: false 
+      explanation: Incorrect – Reduce allows you to set goals and take action to reduce your emissions footprint and transform your business.
+  - content: Which one of the following tabs would you use to get drill-down analytics from the company level to more granular levels of the organization and to access different levels of Scope 1, Scope 2, and Scope 3 emissions?
+    choices: 
+    - content: Deep analysis
+      isCorrect: true 
+      explanation: Correct - Deep analysis allows more flexibility to explore your data by using the decomposition tree.
+    - content: Key influencers
+      isCorrect: false 
+      explanation: Incorrect - Key influencers use machine learning to analyze patterns of data to help answer questions in a what-if type scenario.
+    - content: Reporting period
+      isCorrect: false 
+      explanation: Incorrect – Reporting period lets you prepare a report with different groupings of information.
+    - content: Top segments
+      isCorrect: false 
+      explanation: Incorrect - Top segments display groupings of data and an average of emissions and population counts for each segment.     

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.introduction-power-apps-cards.create-card-suggestions
+title: Exercise - Create a card to capture employee suggestions
+metadata:
+  title: Exercise - Create a card to capture employee suggestions
+  description: Follow the steps to create a card that captures employee suggestions.
+  ms.date: 12/11/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-card-suggestions.md)]

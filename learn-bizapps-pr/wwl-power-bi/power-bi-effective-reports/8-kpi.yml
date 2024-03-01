@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-reports.kpi
+title: Work with key performance indicators
+metadata:
+  title: Work with key performance indicators
+  description: "Learn how to work with key performance indicators (KPI) visuals in Power BI."
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 1
+content: |
+  [!include[](includes/8-kpi.md)]

@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-first-desktop-flow.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/26/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 2 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the indications that your actions are recording properly?
+    choices: 
+    - content: A red outline will show before you make the selection and, when selected, the action will appear in the recorder pane.
+      isCorrect: true 
+      explanation: Take a few seconds between actions to ensure that the red outline appears. After being selected, the action will appear in the recorder pane.
+    - content: A red recording button will be visible on the screen.
+      isCorrect: false 
+      explanation: A red recording button isn't visible on the screen, but a pause button is provided.
+    - content: A pop-up window will indicate that the recording has started.
+      isCorrect: false 
+      explanation: The recording pane will be visible, but not a pop-up window.
+    - content: Power Automate for desktop will minimize so that you can view your whole screen.
+      isCorrect: false 
+      explanation: The recording pane will be visible unless it's manually minimized so that you can view the actions as you record them.
+  - content: Which of the following actions can you perform within Power Automate designer?
+    choices: 
+    - content: Edit your previously recorded actions.
+      isCorrect: false
+      explanation: This option is partially correct. You can edit your previously recorded actions, delete previously recorded actions, and pause your recording to perform unrecorded actions with Power Automate designer.
+    - content: Delete previously recorded actions.
+      isCorrect: false 
+      explanation: This option is partially correct. You can edit your previously recorded actions, delete previously recorded actions, and pause your recording to perform unrecorded actions with Power Automate designer.
+    - content: Pause your recording to perform unrecorded actions.
+      isCorrect: false 
+      explanation: This option is partially correct. You can edit your previously recorded actions, delete previously recorded actions, and pause your recording to perform unrecorded actions with Power Automate designer.
+    - content: All of the above.
+      isCorrect: true 
+      explanation: This option is correct. You can edit your previously recorded actions, delete previously recorded actions, and pause your recording to perform unrecorded actions with Power Automate designer.
+  - content: Other than recording, how do you add actions to your flow?
+    choices: 
+    - content: Query a data table that you've created with the correct steps.
+      isCorrect: false
+      explanation: To add actions to your flow, you can record them or select the desired action and then drag it to the main canvas.
+    - content: Select the desired action and drag it to the main canvas.
+      isCorrect: true 
+      explanation: To add actions to your flow, you can record them or select the desired action and then drag it to the main canvas.
+    - content: Set your action to Published.
+      isCorrect: false 
+      explanation: To add actions to your flow, you can record them or select the desired action and then drag it to the main canvas.

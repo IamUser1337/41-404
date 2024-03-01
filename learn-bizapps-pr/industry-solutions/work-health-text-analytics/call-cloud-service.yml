@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-health-text-analytics.call-cloud-service
+title: Exercise - Call the cloud service
+metadata:
+  title: Exercise - Call the cloud service
+  description: Follow the steps to create an Azure subscription, a language resource, and a .NET application that analyzes documents in Microsoft Cloud for Healthcare.
+  ms.date: 02/28/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/call-cloud-service.md)]

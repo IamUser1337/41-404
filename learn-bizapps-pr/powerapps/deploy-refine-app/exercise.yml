@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.deploy-refine-app.exercise
+title: Exercise - Embed your app into other Microsoft applications
+metadata:
+  title: Exercise - Embed your app into other Microsoft applications
+  description: Follow the steps to embed your app into another Microsoft applications.
+  ms.date: 06/30/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

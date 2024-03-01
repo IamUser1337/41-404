@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-power-bi.describe-using-ai-insights-spot-trends-anomalies
+title: Describe using AI Insights to spot trends and anomalies
+metadata:
+  title: Describe using AI Insights to spot trends and anomalies
+  description: "Power BI's insights features that use artificial intelligence."
+  ms.date: 02/21/2024
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 7
+content: |
+  [!include[](includes/5-describe-using-ai-insights-spot-trends-anomalies.md)]

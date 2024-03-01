@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-health-text-analytics.use-sdk
+title: Use the Text Analytics for health SDK
+metadata:
+  title: Use the Text Analytics for health SDK
+  description: Learn how to reference the SDK, set up authentication, process documents, and use the results in Microsoft Cloud for Healthcare.
+  ms.date: 02/28/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/use-sdk.md)]

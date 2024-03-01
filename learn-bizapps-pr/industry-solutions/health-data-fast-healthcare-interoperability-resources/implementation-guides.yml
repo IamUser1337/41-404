@@ -1,0 +1,14 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.implementation-guides
+title: FHIR implementation guides
+metadata:
+  title: FHIR implementation guides
+  description: Learn about implementation guides that are defined by FHIR, and become familiar with the HL7 FHIR US Core implementation guide.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/implementation-guides.md)]

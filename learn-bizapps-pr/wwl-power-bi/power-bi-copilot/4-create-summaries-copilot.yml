@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-copilot.create-summaries-copilot
+title: Create summaries with Power BI Copilot
+metadata:
+  title: Create summaries with Power BI Copilot
+  description: Use Power BI Copilot to create summaries of your reports.
+  ms.date: 11/8/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/4-create-summaries-copilot.md)]

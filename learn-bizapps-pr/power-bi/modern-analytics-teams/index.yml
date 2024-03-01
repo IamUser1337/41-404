@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.modern-analytics-teams 
+metadata: 
+ title: Integrate Power BI in Microsoft Teams and SharePoint
+ description: This module explores the different ways users can incorporate Power BI reports or visuals into Microsoft Teams and SharePoint to collaborate with others. This functionality allows users to pair analytics with collaboration tools they are already familiar with.
+ ms.date: 06/29/2023  
+ author: maggiesMSFT 
+ manager: kfollis  
+ ms.author: maggies  
+ ms.topic: module
+ ms.service: powerbi  
+title: Integrate Power BI in Microsoft Teams and SharePoint
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module goes into the different ways users can incorporate Power BI reports or visuals into Microsoft Teams and SharePoint to collaborate with others. 
+abstract: |  
+    In this module, you will: 
+    - Share a Power BI report or visuals within Microsoft Teams and SharePoint Online.
+    - Develop Power BI reports based on SharePoint Online data.
+prerequisites: Microsoft Teams and SharePoint
+iconUrl: /training/achievements/modern-analytics-teams.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform 
+- power-bi 
+subjects:
+- data-visualization
+- collaboration
+units:
+- learn-bizapps.modern-analytics-teams.1-introduction 
+- learn-bizapps.modern-analytics-teams.2-teams 
+- learn-bizapps.modern-analytics-teams.3-sharepoint 
+- learn-bizapps.modern-analytics-teams.4-check 
+- learn-bizapps.modern-analytics-teams.5-summary 
+badge: 
+  uid: learn-bizapps.modern-analytics-teams.badge

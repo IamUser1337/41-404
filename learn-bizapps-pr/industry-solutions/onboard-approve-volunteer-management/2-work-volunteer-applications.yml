@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.onboard-approve-volunteer-management.2-work-volunteer-applications 
+title: Work with volunteer applications
+metadata: 
+  title: Work with volunteer applications
+  description: Learn to review and approve volunteer applications.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-work-volunteer-applications.md)] 

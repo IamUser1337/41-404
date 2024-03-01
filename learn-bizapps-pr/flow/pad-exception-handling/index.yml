@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-exception-handling
+metadata: 
+ title: Configure exception and error handling in Power Automate for desktop
+ description: In this module, we'll discuss how to configure exception handling behavior. 
+ ms.date: 10/01/2023 
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: module-standard-task-based
+title: Configure exception and error handling in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Exception handling is a mechanism that allows Power Automate for desktop to handle and recover from unexpected circumstances and issues that might occur during a flow run. 
+abstract: |  
+    In this module, you will: 
+    - Configure the exception handling properties of individual actions.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
+iconUrl: /training/achievements/pad-exception-handling.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- developer 
+- administrator
+- functional-consultant
+products:  
+- power-platform 
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-exception-handling.1-introduction 
+- learn-bizapps.pad-exception-handling.2-about-exceptions
+- learn-bizapps.pad-exception-handling.3-exception-handling
+- learn-bizapps.pad-exception-handling.4-exercise-exception-handling 
+- learn-bizapps.pad-exception-handling.5-check-knowledge 
+- learn-bizapps.pad-exception-handling.6-summary 
+badge: 
+  uid: learn-bizapps.pad-exception-handling.badge

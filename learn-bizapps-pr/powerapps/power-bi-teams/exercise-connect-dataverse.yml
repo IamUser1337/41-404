@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-teams.exercise-connect-dataverse 
+title: Exercise - Connect to Dataverse and transform data
+metadata: 
+  title: Exercise - Connect to Dataverse and transform data
+  description: Learn how to connect to Dataverse and transform data.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 20 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-connect-dataverse.md)] 

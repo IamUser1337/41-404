@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-web-api.odata
+title: Use OData to query data
+metadata:
+  title: Use OData to query data
+  description: Learn about using OData to query data.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/odata.md)]

@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.http-connectors.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/21/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How many authentication types does the HTTP connector have?
+    choices: 
+    - content: 2- Basic and Active Directory OAuth
+      isCorrect: false
+      explanation: The HTTP connector provides four authentication methods to make a connection to the data source or service to gather the required information. The methods are Basic, Client Certification, Active Directory OAuth, and Raw.
+    - content: 3- Basic, Active Directory OAuth, and Raw
+      isCorrect: false 
+      explanation: The HTTP connector provides four authentication methods to make a connection to the data source or service to gather the required information. The methods are Basic, Client Certification, Active Directory OAuth, and Raw.
+    - content: 4 - Basic, Client Certification, Active Directory OAuth, and Raw
+      isCorrect: true 
+      explanation: The HTTP connector provides four authentication methods to make a connection to the data source or service to gather the required information. The methods are Basic, Client Certification, Active Directory OAuth, and Raw.
+    - content: 1 - Active Directory OAuth
+      isCorrect: false 
+      explanation: The HTTP connector provides four authentication methods to make a connection to the data source or service to gather the required information. The methods are Basic, Client Certification, Active Directory OAuth, and Raw.
+  - content: How many triggers and actions does the HTTP with Azure AD connector have?
+    choices: 
+    - content: One trigger and two actions
+      isCorrect: false
+      explanation: The HTTP with Azure AD connector comes with no triggers and two actions. The actions include Get web resource and Invoke an HTTP request.
+    - content: No trigger and two actions
+      isCorrect: true 
+      explanation: The HTTP with Azure AD connector comes with no triggers and two actions. The actions include Get web resource and Invoke an HTTP request.
+    - content: Two triggers and two actions
+      isCorrect: false 
+      explanation: The HTTP with Azure AD connector comes with no triggers and two actions. The actions include Get web resource and Invoke an HTTP request.
+    - content: No trigger and one action
+      isCorrect: false 
+      explanation: The HTTP with Azure AD connector comes with no triggers and two actions. The actions include Get web resource and Invoke an HTTP request.
+  - content: What are the two methods that are used by the HTTP Webhook connector?
+    choices: 
+    - content: Trigger and actions
+      isCorrect: false
+      explanation: Subscribe and Unsubscribe are the two methods that the HTTP Webhook connector uses. This concept is similar to an email subscription service that you use with websites to get the latest information. You first have to subscribe to officially acknowledge that you are ready to get the information, and after you are finish, you need to unsubscribe.
+    - content: POST and GET
+      isCorrect: false 
+      explanation: Subscribe and Unsubscribe are the two methods that the HTTP Webhook connector uses. This concept is similar to an email subscription service that you use with websites to get the latest information. You first have to subscribe to officially acknowledge that you are ready to get the information, and after you are finish, you need to unsubscribe.
+    - content: POST and PATCH
+      isCorrect: false 
+      explanation: Subscribe and Unsubscribe are the two methods that the HTTP Webhook connector uses. This concept is similar to an email subscription service that you use with websites to get the latest information. You first have to subscribe to officially acknowledge that you are ready to get the information, and after you are finish, you need to unsubscribe.
+    - content: Subscribe and Unsubscribe
+      isCorrect: true 
+      explanation: Subscribe and Unsubscribe are the two methods that the HTTP Webhook connector uses. This concept is similar to an email subscription service that you use with websites to get the latest information. You first have to subscribe to officially acknowledge that you are ready to get the information, and after you are finish, you need to unsubscribe.
+  - content: How is the POST URL for the When an HTTP request is received connector created?
+    choices: 
+    - content: You must create a connector for it.
+      isCorrect: false
+      explanation: The URL is automatically generated after it has been saved. In addition to the URL, a JSON body is also added, which you can modify to match your flow requirements.
+    - content: It is a trigger where prerequisites need to be added manually.
+      isCorrect: false 
+      explanation: The URL is automatically generated after it has been saved. In addition to the URL, a JSON body is also added, which you can modify to match your flow requirements.
+    - content: Your site URL is needed.
+      isCorrect: false 
+      explanation: The URL is automatically generated after it has been saved. In addition to the URL, a JSON body is also added, which you can modify to match your flow requirements.
+    - content: The URL is automatically generated by the flow after it has been saved.
+      isCorrect: true 
+      explanation: The URL is automatically generated after it has been saved. In addition to the URL, a JSON body is also added, which you can modify to match your flow requirements.
+  - content: Which HTTP connectors are mentioned in this learning module?
+    choices: 
+    - content: HTTP, HTTP Webhook, HTTP with Azure AD, and When an HTTP request is received
+      isCorrect: true 
+      explanation: Four HTTP connectors are mentioned in this learning doc. HTTP + Swagger is part of the HTTP connector section.
+    - content: HTTP Webhook and HTTP with Azure AD
+      isCorrect: false 
+      explanation: Four HTTP connectors are mentioned in this learning doc. HTTP + Swagger is part of the HTTP connector section.
+    - content: HTTP and HTTP with Azure AD
+      isCorrect: false 
+      explanation: Four HTTP connectors are mentioned in this learning doc. HTTP + Swagger is part of the HTTP connector section.
+    - content: HTTP with Azure AD and When an HTTP request is received
+      isCorrect: false 
+      explanation: Four HTTP connectors are mentioned in this learning doc. HTTP + Swagger is part of the HTTP connector section.

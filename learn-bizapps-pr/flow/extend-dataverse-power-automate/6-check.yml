@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.extend-dataverse-power-automate.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+    - content: You're using Power Automate cloud flow to create a new row for a Dataverse table, the new row data includes an image column. What Dataverse connector action you would use to work with that column?
+      choices:
+      - content: Add a new row.
+        isCorrect: false
+        explanation: Incorrect. You can't use the Add a new row to upload images. Files and Images required you to use separate action to upload the content of the file or image.
+      - content: Upload a file or an image.
+        isCorrect: true
+        explanation: Correct. Upload a file or an image action is the action you would use to upload a file or an image.
+      - content: The Dataverse connector doesn't have an action to upload images. You must use the SharePoint connector to upload the image and then use the SharePoint file URL in Dataverse.
+        isCorrect: false
+        explanation: Incorrect. You can use the Upload a file or an image action of the Microsoft Dataverse connector.
+      - content: Upload file content bytes
+        isCorrect: false
+        explanation: Incorrect. The Microsoft Dataverse connector doesn't have a connector with the name Upload file content bytes.
+    - content: You're creating a Power Automate cloud flow that needs to use an instant low-code plugin, the plug-in targets a specific table. What Dataverse action do you use to run plugins that target specific tables?
+      choices:
+      - content: Use the Run table plug-in action.
+        isCorrect: false
+        explanation: Incorrect. Dataverse doesn't have an action with the name Run table plug-in action. You would use the Perform a bound action to run a plug-in that target a specific table.
+      - content: Use the Perform an unbound action.
+        isCorrect: false
+        explanation: Incorrect. You can't use the Perform an unbound action to run plug-ins that target specific tables.
+      - content: Use the Perform a bound action.
+        isCorrect: true
+        explanation: Correct. You can use the Perform a bound action when you want to use a plug-in that targets a specific table.
+      - content: Use the Perform a bound/unbound action and then select bound action from the target type dropdown.
+        isCorrect: false
+        explanation: Incorrect. Perform a bound and Perform an unbound are two separate actions of the Microsoft Dataverse connector.
+    - content: You're using a Dataverse search that returns search results from multiple tables, the Contact, Order, and Refund tables. You're creating a Power Automate flow that requires only the results from the Contact table. How would you configure the Dataverse search rows action to return only results from the Contact table?
+      choices:
+      - content: Add a Row filter expression that would ignore data from the other tables.
+        isCorrect: false
+        explanation: Incorrect. You can't use the filter expression to ignore results from Dataverse search rows action.
+      - content: Use Sort to return results from the Contact table.
+        isCorrect: false
+        explanation: Incorrect. You can't use the Sort to select what table to search.
+      - content: Use the Table filter to select what table I want the Dataverse search rows action to search.
+        isCorrect: true
+        explanation: Correct. The Dataverse search rows action allows you to select what table or tables you want to search.
+      - content: Edit the Dataverse search configuration and remove the other two tables from the selected tables for Dataverse search.
+        isCorrect: false
+        explanation: Incorrect. You don't need to change the Dataverse search configurations. You can use the Table filter of the Dataverse search rows action to select what table or tables you want to search.

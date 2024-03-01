@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.integration-http-connector
+metadata:
+ title: Integrate Power Automate with SharePoint HTTP actions
+ description: Learn how to use HTTP actions to integrate SharePoint and Power Automate.
+ ms.date: 09/22/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Integrate Power Automate with SharePoint HTTP actions
+summary: |
+  [!include[](../includes/module-banner.md)]
+  SharePoint includes a REST service that allows users to interact directly with SharePoint data by using web requests. This feature allows flow makers to access SharePoint offerings while still using Microsoft Power Automate flows. This module describes how the HTTP connector action can make API calls by using SharePoint REST services and can achieve tasks for unavailable flow actions.
+abstract: |
+    In this module, you will:
+    - Learn about the HTTP connection.
+    - Review the SharePoint REST service.
+    - Learn how to use Power Automate flow to add, edit, and delete a Microsoft Lists item.
+    - Learn how to use Power Automate flow to send an email directly from SharePoint.
+prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
+iconUrl: /training/achievements/integration-http-connector.svg
+levels:
+- intermediate
+roles:
+- business-user
+- maker
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.integration-http-connector.1-introduction
+- learn-bizapps.integration-http-connector.2-rest-service
+- learn-bizapps.integration-http-connector.3-list-item
+- learn-bizapps.integration-http-connector.4-send-email
+- learn-bizapps.integration-http-connector.use-filters
+- learn-bizapps.integration-http-connector.5-check
+- learn-bizapps.integration-http-connector.6-summary
+badge:
+  uid: learn-bizapps.integration-http-connector.badge

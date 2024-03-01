@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-publish-share.5-protect-data 
+title: Protect data in Power BI
+metadata: 
+  title: Protect data in Power BI
+  description: Learn how to protect data in Power BI.
+  ms.date: 09/28/2021 
+  author: paulinbar 
+  manager: kfollis 
+  ms.author: painbar 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-protect-data.md)] 

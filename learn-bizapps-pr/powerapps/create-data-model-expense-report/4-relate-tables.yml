@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-data-model-expense-report.4-relate-tables
+title: Exercise - Relate tables
+metadata:
+  title: Exercise - Relate tables
+  description: Define relationships inside Dataverse to relate information inside your app.
+  ms.date: 04/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-relate-tables.md)]

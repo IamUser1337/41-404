@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-power-virtual-agent-topics.6-fall-back-topics
+title: Work with system fallback topics
+metadata:
+  title: Work with system fallback topics
+  description: Learn to use and customize system fallback topics for unrecognized user input.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-fall-back-topics.md)]

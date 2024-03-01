@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-extend.configure-code 
+title: Determine when to configure or when to code
+metadata: 
+  title: Determine when to configure or when to code 
+  description: Learn how to determine when to configure or when to code. 
+  ms.date: 09/27/2023 
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 6 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/configure-code.md)] 
+

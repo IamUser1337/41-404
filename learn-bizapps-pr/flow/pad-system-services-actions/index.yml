@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.pad-system-services-actions 
+metadata: 
+ title: Automate system, workstation and services actions in Power Automate for desktop
+ description: Learn about the system, workstation, and services actions in Power Automate for desktop.
+ ms.date: 10/01/2023
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: module
+ 
+title: Automate system, workstation, and services actions in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Power Automate for desktop supports the automation of miscellaneous tasks, which are fundamental to the Microsoft Windows operating system, through the system, workstation, and services actions.
+abstract: |  
+    In this module, you will: 
+    - Automate system-related tasks with the system and workstation groups of actions.
+    - Automate the management of Windows services with the service group of actions.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml).
+iconUrl: /training/achievements/pad-system-services-actions.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+- developer 
+- functional-consultant 
+products:  
+- power-platform 
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-system-services-actions.1-introduction 
+- learn-bizapps.pad-system-services-actions.2-system-workstation-actions 
+- learn-bizapps.pad-system-services-actions.3-services-actions 
+- learn-bizapps.pad-system-services-actions.4-check-knowledge 
+- learn-bizapps.pad-system-services-actions.5-summary 
+badge: 
+  uid: learn-bizapps.pad-system-services-actions.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.3-building-blocks-of-power-bi
+title: Building blocks of Power BI
+metadata:
+  title: Building blocks of Power BI
+  description: "Building blocks of Power BI"
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-building-blocks-of-power-bi.md)]

@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.patient-outreach.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/23/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok  
+ ms.topic: unit
+durationInMinutes: 8
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following are key capabilities of Patient Outreach?
+    choices: 
+    - content: Patient Segmentation, Patient Dynamics, Event Management
+      isCorrect: false
+      explanation: Patient Segmentation, Patient Journey, and Event Management are the key capabilities of Patient Outreach.
+    - content: Patient Segmentation, Patient Journey, Patient Dynamics
+      isCorrect: false 
+      explanation: Patient Segmentation, Patient Journey, and Event Management are the key capabilities of Patient Outreach.
+    - content: Patient Journey, Patient Dynamics, Event Management
+      isCorrect: false 
+      explanation: Patient Segmentation, Patient Journey, and Event Management are the key capabilities of Patient Outreach.
+    - content: Patient Segmentation, Patient Journey, Event Management
+      isCorrect: true 
+      explanation: Patient Segmentation, Patient Journey, and Event Management are the key capabilities of Patient Outreach.
+  - content: Patient Outreach focuses on which of the following priority scenarios?
+    choices: 
+    - content: Enhance patient engagement
+      isCorrect: true 
+      explanation: Patient Outreach focuses on enhancing patient engagement.
+    - content: Enhance clinician experiences
+      isCorrect: false 
+      explanation: Patient Outreach focuses on enhancing patient engagement.
+    - content: Empower health team collaboration
+      isCorrect: false 
+      explanation: Patient Outreach focuses on enhancing patient engagement.
+    - content: Improve clinical and operational insights
+      isCorrect: false 
+      explanation: Patient Outreach focuses on enhancing patient engagement.
+  - content: How are patient segments used to group patients?
+    choices: 
+    - content: Last name
+      isCorrect: false
+      explanation: Patient segments group patients by similar characteristics.
+    - content: Similar characteristics
+      isCorrect: true 
+      explanation: Patient segments group patients by similar characteristics.
+    - content: Zip code
+      isCorrect: false 
+      explanation: Patient segments group patients by similar characteristics.
+    - content: Patient segments do not group patients
+      isCorrect: false 
+      explanation: Patient segments group patients by similar characteristics.
+  - content: Which one of the following options allows you to define a patient segment by using a set of rules and conditions that automatically change based on information in the database?
+    choices: 
+    - content: Static segments
+      isCorrect: false
+      explanation: Dynamic segments allow you to define a patient segment by using a set of rules and conditions that automatically change based on information in the database.
+    - content: Dynamic segments
+      isCorrect: true 
+      explanation: Dynamic segments allow you to define a patient segment by using a set of rules and conditions that automatically change based on information in the database.
+    - content: Dynamic cohorts
+      isCorrect: false 
+      explanation: Dynamic segments allow you to define a patient segment by using a set of rules and conditions that automatically change based on information in the database.
+    - content: Static journey
+      isCorrect: false 
+      explanation: Dynamic segments allow you to define a patient segment by using a set of rules and conditions that automatically change based on information in the database.

@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.pad-ocr
+metadata:
+ title: OCR technologies in Power Automate for desktop
+ description: This module covers the OCR actions in Power Automate for desktop.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: OCR technologies in Power Automate for desktop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Power Automate for desktop enables users to read, extract, and manage data within an assortment of files through OCR actions.
+abstract: |
+    This module explains how to:
+    - Configure OCR actions.
+    - Create a flow that extracts text from images using OCR technologies.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), [flow development](../pad-power-automate-desktop-development-essentials/index.yml) and [variables](../pad-variables/index.yml).
+iconUrl: /training/achievements/pad-ocr.svg
+levels:
+- intermediate
+roles:
+- maker
+- developer
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-ocr.1-introduction
+- learn-bizapps.pad-ocr.2-ocr-actions
+- learn-bizapps.pad-ocr.3-exercise-extract-data-image
+- learn-bizapps.pad-ocr.4-check-knowledge
+- learn-bizapps.pad-ocr.5-summary
+badge:
+  uid: learn-bizapps.pad-ocr.badge

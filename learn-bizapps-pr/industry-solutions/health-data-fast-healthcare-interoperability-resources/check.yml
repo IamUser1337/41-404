@@ -1,0 +1,53 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/30/2023
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is an implementation guide?
+    choices:
+    - content: A user training manual
+      isCorrect: false
+      explanation: Incorrect. Implementation guides contain the rules that allow organizations to standardize a data model.
+    - content: A resource that contains a set of logical statements that implementations must conform to
+      isCorrect: true
+      explanation: Correct. Implementation guides contain the rules that allow organizations to standardize a data model.
+    - content: An API specification for exchanging health data between systems
+      isCorrect: false
+      explanation: Incorrect. Implementation guides contain the rules that allow organizations to standardize a data model.
+  - content: What type of API does FHIR Service use for exchange of HL7 FHIR data?
+    choices:
+    - content: ws-trust
+      isCorrect: false
+      explanation: Incorrect. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
+    - content: SOAP
+      isCorrect: false
+      explanation: Incorrect. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
+    - content: RESTful HTTP
+      isCorrect: true
+      explanation: Correct. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
+    - content: RPC
+      isCorrect: false
+      explanation: Incorrect. FHIR service allows for the exchange of data through consistent, RESTful APIs based on the HL7 FHIR specification.
+  - content: Which of the following options is a mandatory data element that must be present in a patient profile?
+    choices:
+    - content: Patient name
+      isCorrect: true
+      explanation: Correct. Patient identifier, patient name and gender are mandatory.
+    - content: Contact details
+      isCorrect: false
+      explanation: Incorrect. Patient identifier, patient name, and gender are mandatory. This information must be supported, but isn't necessary for the patient profile.
+    - content: Address
+      isCorrect: false
+      explanation: Incorrect. Patient identifier, patient name, and gender are mandatory. This information must be supported, but isn't necessary for the patient profile.
+    - content: None of these options are mandatory, but all are recommended
+      isCorrect: false
+      explanation: Incorrect. Patient identifier, patient name, and gender are mandatory.

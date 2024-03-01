@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-power-bi.6-create-groups 
+title: Create workspaces in Power BI
+metadata: 
+  title: Create workspaces in Power BI
+  description: Learn how to create groups in Power BI.
+  ms.date: 06/20/2022
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 6 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-create-groups.md)] 

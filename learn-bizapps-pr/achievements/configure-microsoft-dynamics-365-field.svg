@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Implementing Microsoft Dynamics 365 for Field Service/configure-microsoft-dynamics-365-field</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="96" height="96" rx="48"></rect>
+        <filter x="-4.8%" y="-4.8%" width="109.6%" height="110.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-13.4%" y="-9.9%" width="133.7%" height="122.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-13.4%" y="-9.9%" width="133.7%" height="122.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-12.6%" y="-9.9%" width="126.3%" height="122.5%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Implementing-Microsoft-Dynamics-365-for-Field-Service" transform="translate(-579.000000, -327.000000)">
+            <g id="Implementing-Microsoft-Dynamics-365-for-Field-Service/configure-microsoft-dynamics-365-field" transform="translate(579.000000, 327.000000)">
+                <g id="Mask" transform="translate(2.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="BG" fill="#01B6C3" xlink:href="#path-1"></use>
+                    <g id="Group-2" mask="url(#mask-2)">
+                        <g transform="translate(7.200000, 10.150000)">
+                            <g id="Land-Chunk" filter="url(#filter-3)" transform="translate(0.000000, 0.672481)">
+                                <polygon id="Rectangle" fill="#A9B3B6" fill-rule="nonzero" transform="translate(41.578211, 41.968202) rotate(-45.000000) translate(-41.578211, -41.968202) " points="12.4112726 15.2686558 14.8786652 12.8012632 70.7451502 68.6677481 68.2777575 71.1351408 24.9348771 58.6115363"></polygon>
+                                <polygon id="Rectangle" fill="#C7CCCE" fill-rule="nonzero" transform="translate(27.251769, 47.439119) rotate(-45.000000) translate(-27.251769, -47.439119) " points="12.0836772 27.0013752 14.5510699 24.5339825 42.4198601 52.4027727 24.6072817 70.3442556"></polygon>
+                                <polygon id="Rectangle" fill="#E1E4E1" fill-rule="nonzero" transform="translate(41.578211, 40.217088) rotate(-45.000000) translate(-41.578211, -40.217088) " points="13.6449689 12.2838454 58.3461868 23.4491125 69.5114539 68.1503304 26.1685734 55.6267259"></polygon>
+                            </g>
+                            <g id="Roads" transform="translate(13.200000, 18.272481)">
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(18.106867, 18.479803) rotate(106.000000) translate(-18.106867, -18.479803) " points="-0.44494263 16.8962332 36.6586772 16.4244229 35.7731008 20.4865455 3.45839336 20.5351825"></polygon>
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(30.705173, 23.170042) rotate(118.000000) translate(-30.705173, -23.170042) " points="11.1144738 22.1325973 50.4868473 20.3039611 50.4160839 24.486917 10.9234987 26.0361224"></polygon>
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(35.470086, 33.528121) rotate(212.000000) translate(-35.470086, -33.528121) " points="29.58421 31.5440081 43.584466 31.4736528 43.3210108 35.2853121 27.3557069 35.5825893"></polygon>
+                                <polygon id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(9.787703, 18.575397) rotate(212.000000) translate(-9.787703, -18.575397) " points="0.865547917 16.6970483 19.0046663 16.5603598 17.0436162 20.4150216 0.570739977 20.5904352"></polygon>
+                                <path d="M56.4006751,28.9566418 L52.0674515,31.3646362 C48.6444461,28.7189536 47.1135114,25.4028826 47.1135114,21.5461083 C47.1135114,18.0370779 48.7936744,15.5462468 52.039151,13.0952381 L55.8927658,15.4261905 C53.6891279,17.0903947 51.7,19.5088739 51.7,21.5461083 C51.7,23.9736562 54.0106934,27.1093958 56.4006751,28.9566418 Z" id="Path-15" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                            <g id="Flag---Blue" filter="url(#filter-4)" transform="translate(14.300000, 19.372481)">
+                                <path d="M7.0125,23.4928571 C7.0125,24.4908518 5.44257656,25.3 3.50625,25.3 C1.56992344,25.3 0,24.4908518 0,23.4928571 C0,22.4948625 1.56992344,21.6857143 3.50625,21.6857143 C5.44257656,21.6857143 7.0125,22.4948625 7.0125,23.4928571" id="Fill-101" fill="#A9B3B6"></path>
+                                <g id="Group-20" transform="translate(2.337500, 0.000000)" fill-rule="nonzero">
+                                    <rect id="Rectangle" fill="#053A3E" x="0" y="0" width="2.3375" height="24.0952381"></rect>
+                                    <polygon id="Path-13" fill="#33A7CB" points="2.3375 0 16.3625 6.29065288 2.3375 13.252381"></polygon>
+                                    <polygon id="Path-13" fill="#0095B2" points="2.3375 -1.02140518e-14 16.3625 6.29065288 2.3375 6.62619048"></polygon>
+                                </g>
+                            </g>
+                            <g id="Flag---Red" filter="url(#filter-5)" transform="translate(37.400000, 7.272481)">
+                                <path d="M7.0125,23.4928571 C7.0125,24.4908518 5.44257656,25.3 3.50625,25.3 C1.56992344,25.3 0,24.4908518 0,23.4928571 C0,22.4948625 1.56992344,21.6857143 3.50625,21.6857143 C5.44257656,21.6857143 7.0125,22.4948625 7.0125,23.4928571" id="Fill-101" fill="#A9B3B6"></path>
+                                <g id="Group-20" transform="translate(2.337500, 0.000000)" fill-rule="nonzero">
+                                    <rect id="Rectangle" fill="#053A3E" x="0" y="0" width="2.3375" height="24.0952381"></rect>
+                                    <polygon id="Path-13" fill="#C2423D" points="2.3375 0 16.3625 6.29065288 2.3375 13.252381"></polygon>
+                                    <polygon id="Path-13" fill="#AB3B37" points="2.3375 -1.02140518e-14 16.3625 6.29065288 2.3375 6.62619048"></polygon>
+                                </g>
+                            </g>
+                            <g id="Flag---Green" filter="url(#filter-6)" transform="translate(50.600000, 22.672481)">
+                                <path d="M7.0125,23.4928571 C7.0125,24.4908518 5.44257656,25.3 3.50625,25.3 C1.56992344,25.3 0,24.4908518 0,23.4928571 C0,22.4948625 1.56992344,21.6857143 3.50625,21.6857143 C5.44257656,21.6857143 7.0125,22.4948625 7.0125,23.4928571" id="Fill-101" fill="#A9B3B6"></path>
+                                <g id="Group-20" transform="translate(2.337500, 0.000000)" fill-rule="nonzero">
+                                    <rect id="Rectangle" fill="#053A3E" x="0" y="0" width="2.3375" height="24.0952381"></rect>
+                                    <polygon id="Path-13" fill="#7CB65A" points="2.3375 0 16.3625 6.29065288 2.3375 13.252381"></polygon>
+                                    <polygon id="Path-13" fill="#69994E" points="2.3375 -1.02140518e-14 16.3625 6.29065288 2.3375 6.62619048"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Dynamic-Border" stroke="#1D8E96" stroke-width="4">
+                    <rect id="Azure-Border" x="2" y="2" width="96" height="96" rx="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

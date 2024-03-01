@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.enhance-power-virtual-agent-bots.3-agent-handoff 
+title: Transfer conversations to agents by using Omnichannel for Customer Service
+metadata: 
+  title: Transfer conversations to agents by using Omnichannel for Customer Service
+  description: Learn how to transfer conversations to agents by using Omnichannel for Customer Service.
+  ms.date: 08/17/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-agent-handoff.md)] 

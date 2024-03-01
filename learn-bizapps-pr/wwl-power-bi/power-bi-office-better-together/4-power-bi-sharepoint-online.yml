@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.power-bi-office-better-together.pbi-sharepoint-online
+title: Power BI and SharePoint online
+metadata:
+  title: Power BI and SharePoint online
+  description: "Power BI and SharePoint online"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 6
+content: |
+  [!include[](includes/4-power-bi-sharepoint-online.md)]

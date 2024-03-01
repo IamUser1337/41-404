@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="101px" viewBox="0 0 101 101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Bring AI to your business with AI Builder/Get-Start-with-business-card-reader</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="94.3396226" height="94.3396226" rx="47.1698113"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#4E4E57" offset="0%"></stop>
+            <stop stop-color="#2E2E34" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+        <rect id="path-5" x="0" y="0" width="100" height="100" rx="50"></rect>
+        <filter x="-0.5%" y="-0.5%" width="102.0%" height="102.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="4" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="1" dy="1" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.15 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <path d="M50,2.83018868 C76.0511674,2.83018868 97.1698113,23.9488326 97.1698113,50 C97.1698113,76.0511674 76.0511674,97.1698113 50,97.1698113 C23.9488326,97.1698113 2.83018868,76.0511674 2.83018868,50 C2.83018868,23.9488326 23.9488326,2.83018868 50,2.83018868 Z M50,6.60377358 C26.032926,6.60377358 6.60377358,26.032926 6.60377358,50 C6.60377358,73.967074 26.032926,93.3962264 50,93.3962264 C73.967074,93.3962264 93.3962264,73.967074 93.3962264,50 C93.3962264,26.032926 73.967074,6.60377358 50,6.60377358 Z" id="path-7"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#E8F6FE" offset="0%"></stop>
+            <stop stop-color="#B6E5F9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="0.0444876394" width="47" height="32" rx="2"></rect>
+        <filter x="-14.9%" y="-15.6%" width="129.8%" height="143.8%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Badges" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bring-AI-to-your-business-with-AI-Builder" transform="translate(-161.000000, -886.000000)">
+            <g id="Bring-AI-to-your-business-with-AI-Builder/Get-Start-with-business-card-reader" transform="translate(161.000000, 886.000000)">
+                <g id="Badge-Plates/Circle">
+                    <g id="BG" transform="translate(2.830189, 2.830189)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g></g>
+                        <g id="Colors/PowerApps/BG-Solid-1" mask="url(#mask-2)">
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+                            <g id="Rectangle">
+                                <use fill="#742774" xlink:href="#path-4"></use>
+                                <use fill-opacity="0.501092657" fill="#FFFFFF" xlink:href="#path-4"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Border">
+                        <g id="White-Border">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <rect stroke="#F2F1F0" stroke-width="4" stroke-linejoin="square" x="2" y="2" width="96" height="96" rx="48"></rect>
+                        </g>
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <use id="Boarder" fill="#0078D4" fill-rule="nonzero" xlink:href="#path-7"></use>
+                        <g id="Colors/PowerApps/Border" mask="url(#mask-8)" fill="#752375">
+                            <g transform="translate(2.830189, 2.830189)" id="Rectangle">
+                                <rect x="0" y="0" width="94.3396226" height="94.3396226"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="illustration" transform="translate(21.000000, 29.000000)">
+                    <g id="Credit-Card" transform="translate(6.000000, 5.000000)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                            <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        </g>
+                        <rect id="Rectangle" fill="#FFFFFF" x="5" y="20" width="25" height="2"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="5" y="23.0444876" width="13" height="2"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="20" y="23.0444876" width="2" height="2"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="24" y="23.0444876" width="2" height="2"></rect>
+                        <rect id="Rectangle" fill="#FFFFFF" x="28" y="23.0444876" width="2" height="2"></rect>
+                    </g>
+                    <path d="M8,1 L1,1 C0.44771525,1 -6.76353751e-17,1.44771525 0,2 L0,9 L0,9" id="Path-47" stroke="#FFFFFF" stroke-width="2"></path>
+                    <path d="M58,34 L51,34 C50.4477153,34 50,34.4477153 50,35 L50,42 L50,42" id="Path-47" stroke="#FFFFFF" stroke-width="2" transform="translate(54.000000, 38.000000) rotate(-180.000000) translate(-54.000000, -38.000000) "></path>
+                    <path d="M8,34 L1,34 C0.44771525,34 -6.76353751e-17,34.4477153 0,35 L0,42 L0,42" id="Path-47" stroke="#FFFFFF" stroke-width="2" transform="translate(4.000000, 38.000000) rotate(-90.000000) translate(-4.000000, -38.000000) "></path>
+                    <path d="M58,0 L51,0 C50.4477153,1.01453063e-16 50,0.44771525 50,1 L50,8 L50,8" id="Path-47" stroke="#FFFFFF" stroke-width="2" transform="translate(54.000000, 4.000000) rotate(-270.000000) translate(-54.000000, -4.000000) "></path>
+                    <rect id="Rectangle" fill="#1EA3C7" x="6" y="14" width="47" height="7"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

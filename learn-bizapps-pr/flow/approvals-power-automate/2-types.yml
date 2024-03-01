@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.approvals-power-automate.2-types
+title: Types of approval actions
+metadata:
+  title: Types of approval actions
+  description: Learn about the types of approval actions.
+  ms.date: 01/03/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-types.md)]

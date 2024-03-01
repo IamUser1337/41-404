@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-integrate.capture-report-views
+title: Capture report views
+metadata:
+  title: Capture report views
+  description: Explore the Capture report views showcase.
+  ms.date: 04/07/2022
+  author: mberdugo
+  manager: kfollis 
+  ms.author: monaberdugo
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/capture-report-views.md)]

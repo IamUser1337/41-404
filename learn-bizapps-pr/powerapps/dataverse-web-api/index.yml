@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.dataverse-web-api
+metadata:
+ title: Work with Microsoft Dataverse Web API
+ description: Learn about working with Dataverse Web API.
+ ms.date: 09/28/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+ ms.service: "power-platform"
+ ms.subservice: developer
+title: Work with Dataverse Web API
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn about working with the Dataverse Web API.
+abstract: |
+    This module explains how to:
+    - Interact with Dataverse Web API by using Postman.
+    - Authorize against Dataverse with OAuth.
+    - Use OData to query data.
+prerequisites: None
+iconUrl: /training/achievements/dataverse-web-api.svg
+levels:
+- advanced
+roles:
+- developer
+products:
+- dataverse
+- power-platform
+subjects:
+- devops
+units:
+- learn-bizapps.dataverse-web-api.introduction
+- learn-bizapps.dataverse-web-api.authenticate
+- learn-bizapps.dataverse-web-api.postman
+- learn-bizapps.dataverse-web-api.odata
+- learn-bizapps.dataverse-web-api.fetch-xml
+- learn-bizapps.dataverse-web-api.power-automate
+- learn-bizapps.dataverse-web-api.impersonate
+- learn-bizapps.dataverse-web-api.change-tracking
+- learn-bizapps.dataverse-web-api.check
+- learn-bizapps.dataverse-web-api.summary
+badge:
+  uid: learn-bizapps.dataverse-web-api.badge

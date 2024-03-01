@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-integrate-dataverse.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You've created a Contact Us form and want to ensure that users are redirected to a Thank You page after successful submission. How can you achieve this task?
+    choices:
+    - content: Change the form title to "Contact Us - Thank You."
+      isCorrect: false
+      explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
+    - content: Set the form column to Thank You Page on the Contact Us form.
+      isCorrect: false
+      explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
+    - content: Add a redirect step to the form.
+      isCorrect: false
+      explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
+    - content: Edit the On Success Settings to redirect to a Thank You page.
+      isCorrect: true
+      explanation: The On Success Settings feature defines behavior on the form on successful submission. Options are to display a message or to redirect to another page or URL.
+  - content: What do you need to do to display a multistep form on a webpage?
+    choices:
+    - content: Specify the target webpage as property of the form.
+      isCorrect: false
+      explanation: A multistep form defines the required behavior but doesn't contain information about how and where on the website that the form should be rendered. You’ll need to insert a multistep form Liquid tag into a webpage to be rendered within the site. You can complete this task manually by using Liquid or by inserting and setting up the multistep form component.
+    - content: Enable the multistep form.
+      isCorrect: false
+      explanation: A multistep form defines the required behavior but doesn't contain information about how and where on the website that the form should be rendered. You’ll need to insert a multistep form Liquid tag into a webpage to be rendered within the site. You can complete this task manually by using Liquid or by inserting and setting up the multistep form component.
+    - content: Add the multistep form component by using Power Pages design studio.
+      isCorrect: true
+      explanation: A multistep form defines the required behavior but doesn't contain information about how and where on the website that the form should be rendered. You’ll need to insert a multistep form Liquid tag into a webpage to be rendered within the site. You can complete this task manually by using Liquid or by inserting and setting up the multistep form component.
+    - content: Select Display on the Website checkbox.
+      isCorrect: false
+      explanation: A multistep form defines the required behavior but doesn't contain information about how and where on the website that the form should be rendered. You’ll need to insert a multistep form Liquid tag into a webpage to be rendered within the site. You can complete this task manually by using Liquid or by inserting and setting up the multistep form component.
+  - content: Your company's rules don't allow you to delete cases from your Dynamics 365 Customer Service deployment. A new background Escalate Case workflow has been added to your instance. The company wants to make this workflow available for the website users on the Case View form. How would you achieve that task?
+    choices:
+    - content: Add a real-time workflow on the Delete button, invoke the Escalate Case workflow as the first step, and then rename the Delete button to Escalate.
+      isCorrect: false
+      explanation: Lists, forms, and multistep forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Microsoft Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+    - content: Ask a developer to write JavaScript that invokes the Escalate Case workflow.
+      isCorrect: false
+      explanation: Lists, forms, and multistep forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Microsoft Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+    - content: Add the Workflow action under the Action Button Configuration feature in the Portal Management app.
+      isCorrect: true
+      explanation: Lists, forms, and multistep forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Microsoft Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.
+    - content: Background classic workflows aren't available in Power Pages.
+      isCorrect: false
+      explanation: Lists, forms, and multistep forms include the Action Button Configuration feature, which adds actions for each record. The Workflow action runs a classic Microsoft Dataverse workflow of your choice against the record. Both background and real-time workflows are supported.

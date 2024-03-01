@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.clean-data-power-bi
+metadata:
+  title: Clean, transform, and load data in Power BI
+  description: "Power Query has an incredible number of features that are dedicated to helping you clean and prepare your data for analysis. You'll learn how to simplify a complicated model, change data types, rename objects, and pivot data. You'll also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: azure
+title: Clean, transform, and load data in Power BI
+summary: Power Query has an incredible number of features that are dedicated to helping you clean and prepare your data for analysis. You'll learn how to simplify a complicated model, change data types, rename objects, and pivot data. You'll also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.
+abstract: |
+  By the end of this module, you’ll be able to:
+   - Resolve inconsistencies, unexpected or null values, and data quality issues.
+   - Apply user-friendly value replacements.
+   - Profile data so you can learn more about a specific column before using it.
+   - Evaluate and transform column data types.
+   - Apply data shape transformations to table structures.
+   - Combine queries.
+   - Apply user-friendly naming conventions to columns and queries.
+   - Edit M code in the Advanced Editor.
+prerequisites: |
+  None
+iconUrl: /training/achievements/clean-transform-and-load-data-in-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.clean-data-power-bi.1-introduction
+- learn-bizapps.clean-data-power-bi.2-shape-data
+- learn-bizapps.clean-data-power-bi.3-data-structure
+- learn-bizapps.clean-data-power-bi.4-column-data-types
+- learn-bizapps.clean-data-power-bi.5-combine-tables
+- learn-bizapps.clean-data-power-bi.6-profile-data
+- learn-bizapps.clean-data-power-bi.7-advanced-editor
+- learn-bizapps.clean-data-power-bi.8-lab
+- learn-bizapps.clean-data-power-bi.9-check
+- learn-bizapps.clean-data-power-bi.10-summary
+badge:
+  uid: learn-bizapps.clean-transform-and-load-data-in-power-bi.badge

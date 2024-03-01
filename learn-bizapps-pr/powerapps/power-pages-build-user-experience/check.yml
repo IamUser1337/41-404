@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-build-user-experience.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/08/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You created a new Partner Price list page, but you accidentally saved it under public company announcements instead of a partner channel page. How can you fix the mistake?
+    choices:
+    - content: Create a shortcut under Correct Parent Page and then point it to the price list page. Hide the price list page from the site map.
+      isCorrect: false
+      explanation: You can change any page attribute that includes Parent Page when you're editing the page. You can't rearrange pages in the site map tree. Other suggestions don't achieve the desired result.
+    - content: Change the page's partial URL to point to the correct parent.
+      isCorrect: false
+      explanation: You can change any page attribute that includes Parent Page when you're editing the page. You can't rearrange pages in the site map tree. Other suggestions don't achieve the desired result.
+    - content: Edit the page and then select the correct value in the Parent Page column.
+      isCorrect: true
+      explanation: You can change any page attribute that includes Parent Page when you're editing the page. You can't rearrange pages in the site map tree. Other suggestions don't achieve the desired result.
+    - content: Drag and drop the page in the site map tree.
+      isCorrect: false
+      explanation: You can change any page attribute that includes Parent Page when you're editing the page. You can't rearrange pages in the site map tree. Other suggestions don't achieve the desired result.
+  - content: You created a Customers Only page on the website that doesn't allow anonymous access, and you added this page to the main menu. Business users complained that the page isn't visible in the main menu until visitors have signed in, and they want the link to be visible always. How can you implement this requirement?
+    choices:
+    - content: Edit the web link and point it to the Sign In page but keep Customers Only as a title.
+      isCorrect: false
+      explanation: When a web link is linked to a webpage, the security and publishing state of the webpage apply to the web link as well. You can disable this feature by selecting the Disable Page Validation option of the web link.
+    - content: Power Pages doesn't support this functionality.
+      isCorrect: false
+      explanation: When a web link is linked to a webpage, the security and publishing state of the webpage apply to the web link as well. You can disable this feature by selecting the Disable Page Validation option of the web link.
+    - content: Select the Ignore Security option on the main menu's web link set.
+      isCorrect: false
+      explanation: When a web link is linked to a webpage, the security and publishing state of the webpage apply to the web link as well. You can disable this feature by selecting the Disable Page Validation option of the web link.
+    - content: Edit the web link and then select the Disable Page Validation option.
+      isCorrect: true
+      explanation: When a web link is linked to a webpage, the security and publishing state of the webpage apply to the web link as well. You can disable this feature by selecting the Disable Page Validation option of the web link.
+  - content: Business users have complained that website search results don't include matching content of the web files attachments. You have set the Search/IndexNotesAttachments site setting to true, but the results still aren’t returned. What’s your next step?
+    choices:
+    - content: Check that Dataverse search is enabled in your instance.
+      isCorrect: true
+      explanation: To search within the web file attachments, you must set the Search/IndexNotesAttachments site setting to true and enable Dataverse search in your Dataverse instance.
+    - content: Set the KnowledgeManagement/DisplayNotes site setting to true.
+      isCorrect: false
+      explanation: To search within the web file attachments, you must set the Search/IndexNotesAttachments site setting to true and enable Dataverse search in your Dataverse instance.
+    - content: Restart the website.
+      isCorrect: false
+      explanation: To search within the web file attachments, you must set the Search/IndexNotesAttachments site setting to true and enable Dataverse search in your Dataverse instance.
+    - content: Web file attachments can't be searched in Power Pages.
+      isCorrect: false
+      explanation: To search within the web file attachments, you must set the Search/IndexNotesAttachments site setting to true and enable Dataverse search in your Dataverse instance.
+  - content: You’ve been asked to make the background darker on the website's Home page only. The designer has provided you with a snippet of CSS that applies the effect. How would you use this CSS?
+    choices:
+    - content: Add a new home.css web file.
+      isCorrect: false
+      explanation: The content of the Custom CSS column of a webpage row is editable in Visual Studio Code and applies to that page only. Setting this column to the provided CSS snippet achieves the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets don't affect the appearance of a website unless it's used in a template.
+    - content: Replace the content of the bootstrap.min.css file.
+      isCorrect: false
+      explanation: The content of the Custom CSS column of a webpage row is editable in Visual Studio Code and applies to that page only. Setting this column to the provided CSS snippet achieves the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets don't affect the appearance of a website unless it's used in a template.
+    - content: Add a new content snippet called Home/Background.
+      isCorrect: false
+      explanation: The content of the Custom CSS column of a webpage row is editable in Visual Studio Code and applies to that page only. Setting this column to the provided CSS snippet achieves the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets don't affect the appearance of a website unless it's used in a template.
+    - content: Use Visual Studio Code editor on the Home page to add the CSS snippet.
+      isCorrect: true
+      explanation: The content of the Custom CSS column of a webpage row is editable in Visual Studio Code and applies to that page only. Setting this column to the provided CSS snippet achieves the desired effect. Any CSS in the file with the .css extension applies to the parent page and all its descendants. Content snippets don't affect the appearance of a website unless it's used in a template.

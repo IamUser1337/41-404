@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.dax-power-bi-models 
+metadata: 
+ title: Describe Power BI Desktop models
+ description: In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.
+ ms.date: 12/18/2023
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Describe Power BI Desktop models 
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.
+abstract: |  
+    By the end of this module, you'll be able to: 
+    - Describe the structure of a Power BI Desktop model.
+    - Explain star schema design basics.
+    - Define the term analytic query and its phases.
+    - Describe how fields can be used to configure a report visual, which then generates an analytic query.
+prerequisites: Experience creating Power BI Desktop models and designing Power BI report layouts 
+iconUrl: /training/achievements/dax-power-bi-models.svg  
+levels:  
+- intermediate   
+roles: 
+- maker  
+- data-analyst 
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-modeling
+units:
+- learn-bizapps.dax-power-bi-models.1-introduction 
+- learn-bizapps.dax-power-bi-models.2-star-schema-design 
+- learn-bizapps.dax-power-bi-models.3-analytic-queries 
+- learn-bizapps.dax-power-bi-models.4-report-visuals 
+- learn-bizapps.dax-power-bi-models.5-check 
+- learn-bizapps.dax-power-bi-models.6-summary 
+badge: 
+  uid: learn-bizapps.dax-power-bi-models.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-site-design-online-workshop.customize-web-pages 
+title: Customize webpages
+metadata: 
+  title: Customize webpages
+  description: Follow the steps to practice customizing webpages.
+  ms.date: 01/24/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 12
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/customize-web-pages.md)] 

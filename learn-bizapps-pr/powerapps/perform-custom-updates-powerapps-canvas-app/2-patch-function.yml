@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-custom-updates.2-patch-function 
+title: Using the Patch function to create and edit records
+metadata: 
+  title: Using the Patch function to create and edit records 
+  description: Using the Patch function to create and edit records 
+  ms.date: 06/29/2021 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+   
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/2-patch-function.md)] 
+

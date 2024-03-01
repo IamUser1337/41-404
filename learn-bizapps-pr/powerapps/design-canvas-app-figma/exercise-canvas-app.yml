@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-canvas-app-figma.exercise-canvas-app 
+title: Exercise – Build the bicycle repair shop canvas app
+metadata: 
+  title: Exercise – Build the bicycle repair shop canvas app
+  description: Follow the steps to build the bicycle repair shop canvas app.
+  ms.date: 07/24/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-canvas-app.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.obtain-microsoft-office
+title: Exercise - Obtain a Microsoft Office E5 trial
+metadata:
+  title: Exercise - Obtain a Microsoft Office E5 trial
+  description: Follow the steps to get a Microsoft Office E5 trial.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/obtain-microsoft-office.md)]

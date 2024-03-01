@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.sustainability-water-waste-overview
+metadata:
+ title: Water and waste sustainability overview
+ description: Learn about water and waste sustainability in Microsoft Sustainability Manager.
+ ms.date: 11/10/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.service: microsoft-cloud-sustainability
+ ms.topic: module
+title: Water and waste sustainability overview
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Water sustainability enables organizations to record, estimate, analyze, and report on water quantity and quality data to meet use cases such as water sustainability disclosures and regulatory water quality reporting. 
+  Sustainable waste management features in Sustainability Manager enable organizations to unify, prepare, analyze, and report on waste quantity and quality characteristics for use cases such as filing sustainability disclosures and meeting compliance requirements on hazardous and radioactive waste sent to landfills.
+abstract: |
+    This module explains the following concepts:
+    - Water and waste sustainability
+    - Key scenarios for water and waste management
+    - The water and waste data models
+    - How Microsoft Sustainability Manager is used for the waste and water sustainability journey
+prerequisites: Good understanding of Microsoft Sustainability Manager
+iconUrl: /learn/achievements/sustainability-water-waste-overview.svg
+levels:
+- intermediate
+roles:
+- business-analyst
+- functional-consultant
+products:
+- industry-solutions
+- mscloud-sustainability
+subjects:
+- business-applications
+units:
+- learn-bizapps.sustainability-water-waste-overview.introduction
+- learn-bizapps.sustainability-water-waste-overview.water-overview
+- learn-bizapps.sustainability-water-waste-overview.water-sustainability
+- learn-bizapps.sustainability-water-waste-overview.water-data-model
+- learn-bizapps.sustainability-water-waste-overview.water-sustainability-manager
+- learn-bizapps.sustainability-water-waste-overview.waste-overview
+- learn-bizapps.sustainability-water-waste-overview.waste-sustainability
+- learn-bizapps.sustainability-water-waste-overview.waste-data-model
+- learn-bizapps.sustainability-water-waste-overview.waste-sustainability-manager
+- learn-bizapps.sustainability-water-waste-overview.check
+- learn-bizapps.sustainability-water-waste-overview.summary
+badge:
+  uid: learn-bizapps.sustainability-water-waste-overview.badge

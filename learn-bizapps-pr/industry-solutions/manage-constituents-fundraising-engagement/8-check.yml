@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-constituents-fundraising-engagement.8-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which types of constituents can make gifts in Fundraising and Engagement?
+    choices: 
+    - content: Contacts only
+      isCorrect: false
+      explanation: Both contacts and organizations can make donations.
+    - content: Contacts and organizations
+      isCorrect: true 
+      explanation: Both contacts and organizations can behave as donors in Fundraising and Engagement.
+    - content: Contacts and households
+      isCorrect: false 
+      explanation: Households cannot make donations. Donations are made by individual members of the household (contact) and rolled up to the household.
+    - content: Contacts, organizations, and households
+      isCorrect: false 
+      explanation: Households cannot make donations. Donations are made by individual members of the household (contact) and rolled up to the household.
+  - content: What information can be viewed from the Giving Details section of a contact or organization record?
+    choices: 
+    - content: A list of all transactions from the constituent’s giving history.
+      isCorrect: false
+      explanation: This information is found in the Donation Information tab of the record.
+    - content: A summary of the constituent’s transactions for each year since their first donation.
+      isCorrect: false 
+      explanation: Giving Details does not provide a summary for each year since the constituent first donated.
+    - content: A summary of the constituent’s transactions during the last five years.
+      isCorrect: true 
+      explanation: Giving Details displays a summary and totals of transactions related to a constituent during the last five years.
+  - content: You learn that a donor is interested in the work your organization is doing on Maternal Health. Where would you record this in Fundraising and Engagement?
+    choices: 
+    - content: Add it to the list of Supporting Objectives on the contact record
+      isCorrect: true 
+      explanation: Supporting Objectives is a list of interest areas for a constituent that helps you tailor and target your asks and communications.
+    - content: Add it as a note on the timeline of the contact record
+      isCorrect: false 
+      explanation: You should use the Supporting Objectives section to add a new interest.
+    - content: Create Maternal Health as a Primary Membership for the contact
+      isCorrect: false 
+      explanation: Memberships are used for paid or free membership groups, not interests. You should use the Supporting Objectives section to add a new interest.

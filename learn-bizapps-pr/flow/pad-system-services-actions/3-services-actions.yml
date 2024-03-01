@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-system-services-actions.3-services-actions 
+title: Services actions
+metadata: 
+  title: Services actions
+  description: Learn about the services group of actions.
+  ms.date: 09/24/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+  
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-services-actions.md)] 

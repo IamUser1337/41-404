@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-power-apps-component.package-code-component 
+title: Create a code component solution package
+metadata: 
+  title: Create a code component solution package
+  description: Learn how to create a custom Power Apps component solution package.
+  ms.date: 10/30/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.subservice: mda-developer
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/package-code-component.md)] 

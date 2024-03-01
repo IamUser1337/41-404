@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.enhance-power-virtual-agent-bots 
+metadata: 
+ title: Enhance Microsoft Copilot Studio bots
+ description: This module examines some of the methods that you can use to enhance your Microsoft Copilot Studio bots. 
+ ms.date: 1/12/2023
+ author: DaveBeasley
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: copilot-studio
+  
+title: Enhance Microsoft Copilot Studio bots
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Many times, you may need to leverage or integrate other technologies for your bot to provide the experience you want.  This module examines some of the methods that you can use to enhance your Microsoft Copilot Studio bots such as leveraging Power Automate flow to add actions, and transferring conversations from a bot to Omnichannel for Customer Service.
+abstract: |  
+    In this module, you will: 
+    - Initiate Power Automate flows directly from topics in your bot.
+    - Configure bots to pass conversations to applications such as Omnichannel for Customer Service.
+    - Extract content from support pages and configure it into bot topics that you can use in conversations.
+prerequisites: Access to Microsoft Copilot Studio
+iconUrl: /training/achievements/enhance-power-virtual-agent-bots.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products:  
+ 
+- ms-copilot
+subjects:
+- chatbot
+units:
+- learn-bizapps.enhance-power-virtual-agent-bots.1-introduction 
+- learn-bizapps.enhance-power-virtual-agent-bots.2-power-automate 
+- learn-bizapps.enhance-power-virtual-agent-bots.3-agent-handoff 
+- learn-bizapps.enhance-power-virtual-agent-bots.4-create-topics-content 
+- learn-bizapps.enhance-power-virtual-agent-bots.5-performance-analysis 
+- learn-bizapps.enhance-power-virtual-agent-bots.6-check 
+- learn-bizapps.enhance-power-virtual-agent-bots.7-summary 
+badge: 
+  uid: learn-bizapps.enhance-power-virtual-agent-bots.badge

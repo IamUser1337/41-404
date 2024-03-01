@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.publish-share-power-bi.12-check 
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/20/2022
+ author: ajburnle 
+ manager: kfollis 
+ ms.author: ajburnle 
+ ms.topic: unit
+title: Check your knowledge 
+durationInMinutes: 10
+quiz: 
+  title: Answer the following questions to see what you've learned.  
+  questions: 
+  - content: In Power BI, what does the "Publish" button do?
+    choices: 
+    - content: Packaging your report and data on Power BI Desktop and sending them to the Power BI service.
+      isCorrect: true 
+      explanation: The "Publish" button in Power BI packages your report and data, including visualizations, queries, and custom measures, and uploads them to the Power BI service.
+    - content: Packaging your report and data on the Power BI service and sending them to Power BI Desktop.
+      isCorrect: false 
+      explanation: The "Publish" button in Power BI packages your report and data, including visualizations, queries, and custom measures, and uploads them to the Power BI service. 
+    - content: Packaging your report and data and share it as an app.
+      isCorrect: false 
+      explanation: The "Publish" button in Power BI packages your report and data, including visualizations, queries, and custom measures, and uploads them to the Power BI service. 
+    - content: Packaging your report and data and saving it to PDF.
+      isCorrect: false 
+      explanation: The "Publish" button in Power BI packages your report and data, including visualizations, queries, and custom measures, and uploads them to the Power BI service.
+  - content: What is the purpose of a "workspace" in Power BI?
+    choices: 
+    - content: To create a custom bundle of dashboards, reports, and data. 
+      isCorrect: false 
+      explanation: Workspaces are places to collaborate with colleagues to create collections of dashboards, reports, and paginated reports. 
+    - content: To define the working area of a canvas. 
+      isCorrect: false 
+      explanation: Workspaces are places to collaborate with colleagues to create collections of dashboards, reports, and paginated reports. 
+    - content: To designate the relationship between two tables. 
+      isCorrect: false 
+      explanation: Workspaces are places to collaborate with colleagues to create collections of dashboards, reports, and paginated reports. 
+    - content: To define a set of colleagues who have access to specific dashboards, reports, and data.
+      isCorrect: true 
+      explanation: Workspaces are places to collaborate with colleagues to create collections of dashboards, reports, and paginated reports. 
+  - content: What happens when you click **Update** after changing content that's part of an app you already published?
+    choices: 
+    - content: Nothing. You have now created a new fork of that content. 
+      isCorrect: false 
+      explanation: When you click **Update**, users of your app will receive a message. They can choose whether to accept or ignore your updates to the app. 
+    - content: The new content will automatically update anyone who has connected to your app
+      isCorrect: false 
+      explanation: When you click **Update**, users of your app will receive a message. They can choose whether to accept or ignore your updates to the app. 
+    - content: Anyone who has connected to your app will receive a message and they can decide whether to accept the changes or keep the older version
+      isCorrect: true 
+      explanation: When you click **Update**, users of your app will receive a message. They can choose whether to accept or ignore your updates to the app. 
+    - content: Anyone who has connected to your app will automatically update but they can roll back to the older version whenever they choose
+      isCorrect: false 
+      explanation: When you click **Update**, users of your app will receive a message. They can choose whether to accept or ignore your updates to the app. 

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-virtual-agents.explore-power-pages
+title: Explore Power Pages
+metadata:
+  title: Explore Power Pages
+  description: "Introduction to Power Pages."
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+  [!include[](includes/4-explore-power-pages.md)]

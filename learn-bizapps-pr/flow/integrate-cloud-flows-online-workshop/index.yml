@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.integrate-cloud-flows-online-workshop
+metadata:
+ title: Integrate with cloud flows - Online workshop
+ description: Learn how to integrate with cloud flows.
+ ms.date: 02/07/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Integrate with cloud flows - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  You'll create a cloud flow and connect it with the desktop flow that you've created so that business data for your Contoso Coffee shop can flow from the cloud to your desktop.
+abstract: |
+    In this module, you'll:
+    - Create your first cloud flow.
+    - Set up a machine connection to enable the cloud flow to run the desktop flow on your computer.
+    - Add the Enter invoice with input desktop flow to the new cloud flow.
+    - Perform a test run of the new cloud flow that will run the desktop flow on your computer.
+prerequisites: |
+   Completion of prior modules that are associated with this online workshop learning path.
+
+   This module is designed for use with the Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+iconUrl: /learn/achievements/integrate-cloud-flows-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.integrate-cloud-flows-online-workshop.introduction
+- learn-bizapps.integrate-cloud-flows-online-workshop.import-solution
+- learn-bizapps.integrate-cloud-flows-online-workshop.exercise-create-cloud-flow
+- learn-bizapps.integrate-cloud-flows-online-workshop.exercise-monitor-machines
+- learn-bizapps.integrate-cloud-flows-online-workshop.optional-exercise-describe-design
+- learn-bizapps.integrate-cloud-flows-online-workshop.optional-exercise-work-queues
+- learn-bizapps.integrate-cloud-flows-online-workshop.check
+- learn-bizapps.integrate-cloud-flows-online-workshop.summary
+badge:
+  uid: learn-bizapps.integrate-cloud-flows-online-workshop.badge

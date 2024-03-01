@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.configure-volunteer-management-settings.7-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of qualifications, onboarding templates, and preferences configured in Volunteer Engagement.
+  ms.date: 11/1/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-summary.md)] 

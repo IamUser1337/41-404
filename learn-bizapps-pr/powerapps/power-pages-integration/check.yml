@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-integration.check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 05/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How would you add a SharePoint document library to a Power Pages webpage?
+    choices:
+    - content: Add an iframe element that points to the SharePoint URL.
+      isCorrect: false
+      explanation: A document location subgrid on the form displays as a SharePoint document library on the webpage. A SharePoint Liquid tag and SharePoint component aren't valid. Adding an iframe element that points to the SharePoint URL doesn't show the documents that are related to that table or provide security or an integrated layout.
+    - content: Use the `{% sharepoint %}` Liquid tag.
+      isCorrect: false
+      explanation: A document location subgrid on the form displays as a SharePoint document library on the webpage. A SharePoint Liquid tag and SharePoint component aren't valid. Adding an iframe element that points to the SharePoint URL doesn't show the documents that are related to that table or provide security or an integrated layout.
+    - content: Add a Document Location subgrid on a model-driven form.
+      isCorrect: true
+      explanation: A document location subgrid on the form displays as a SharePoint document library on the webpage. A SharePoint Liquid tag and SharePoint component aren't valid. Adding an iframe element that points to the SharePoint URL doesn't show the documents that are related to that table or provide security or an integrated layout.
+    - content: Add a SharePoint component to the page in Power Pages Studio.
+      isCorrect: false
+      explanation: A document location subgrid on the form displays as a SharePoint document library on the webpage. A SharePoint Liquid tag and SharePoint component aren't valid. Adding an iframe element that points to the SharePoint URL doesn't show the documents that are related to that table or provide security or an integrated layout.
+  - content: You added a Power BI component to your webpage by using the Publish to web access type, and you added filtering by using Liquid tag. However, website users can still view the entire dataset. What could be the issue?
+    choices:
+    - content: The website users need to be signed in.
+      isCorrect: false
+      explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI ignores the filter. Website users don't need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security doesn't affect Publish to web Power BI reports.
+    - content: You need to refresh the website cache.
+      isCorrect: false
+      explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI ignores the filter. Website users don't need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security doesn't affect Publish to web Power BI reports.
+    - content: The Power BI Liquid tag doesn't have Microsoft Entra ID authentication set by using the `authentication_type:"Microsoft Entra ID"` parameter.
+      isCorrect: true
+      explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI ignores the filter. Website users don't need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security doesn't affect Publish to web Power BI reports.
+    - content: You need to set up row-level security in a Power BI dashboard.
+      isCorrect: false
+      explanation: By default, the Power BI Liquid tag uses anonymous authentication, which means that Power BI ignores the filter. Website users don't need to be signed in. Refreshing the cache has no effect on Power BI data. Row-level security doesn't affect Publish to web Power BI reports.
+  - content: Document management in Power Pages works with what version of SharePoint?
+    choices:
+    - content: SharePoint 2013 or above
+      isCorrect: false
+      explanation: Document management works only with SharePoint Online.
+    - content: SharePoint Online
+      isCorrect: true
+      explanation: Document management works only with SharePoint Online.
+    - content: SharePoint 2015 or above
+      isCorrect: false
+      explanation: Document management works only with SharePoint Online.
+    - content: SharePoint 2019 or above
+      isCorrect: false
+      explanation: Document management works only with SharePoint Online.
+  - content: You embedded a chart on a webpage that's designed to serve anonymous users; however, all page visitors receive an access denied message. How do you resolve this issue?
+    choices:
+    - content: Restart the website.
+      isCorrect: false
+      explanation: Chart embedding requires read privilege for the target table that's being queried in the chart. For anonymous users to view the chart, you'll need to ensure that the appropriate table permissions are created and assigned to applicable web roles.
+    - content: Refresh the website cache.
+      isCorrect: false
+      explanation: Chart embedding requires read privilege for the target table that's being queried in the chart. For anonymous users to view the chart, you'll need to ensure that the appropriate table permissions are created and assigned to applicable web roles.
+    - content: Add global read permissions for the table that's used in the chart and then associate it with the Anonymous Users role.
+      isCorrect: true
+      explanation: Chart embedding requires read privilege for the target table that's being queried in the chart. For anonymous users to view the chart, you'll need to ensure that the appropriate table permissions are created and assigned to applicable web roles.
+    - content: Charts can't be displayed for anonymous website visitors.
+      isCorrect: false
+      explanation: Chart embedding requires read privilege for the target table that's being queried in the chart. For anonymous users to view the chart, you'll need to ensure that the appropriate table permissions are created and assigned to applicable web roles.

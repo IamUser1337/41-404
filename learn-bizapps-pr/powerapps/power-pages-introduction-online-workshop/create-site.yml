@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-introduction-online-workshop.create-site
+title: Create a website with Power Pages
+metadata:
+  title: Create a website with Power Pages
+  description: Follow the steps to create a website with Power Pages.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-site.md)]

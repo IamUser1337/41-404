@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-first-chatbot-online-workshop.copilot-creation
+title: Get started with Generative AI - Copilot creation
+metadata:
+  title: Get started with Generative AI - Copilot creation
+  description: Learn about getting started with Generative AI - Copilot creation
+  ms.date: 01/16/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/copilot-creation.md)]

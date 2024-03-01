@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.monitor-to-troubleshoot.2-common-problems 
+title: Identify and resolve common problems
+metadata: 
+  title: Identify and resolve common problems
+  description: Learn how to identify and resolve common problems.
+  ms.date: 11/10/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 9 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-common-problems.md)]

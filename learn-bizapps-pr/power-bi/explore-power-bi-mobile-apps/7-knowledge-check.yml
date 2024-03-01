@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.intro-to-power-bi-mobile-apps.7-knowledge-check 
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/24/2023
+ author: paulinbar 
+ manager: kfollis 
+ ms.author: painbar 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What best describes the Power BI app for mobile devices?
+    choices:
+    - content: The best place to view and interact with your Power BI data while you're away from your desk or out in the field.
+      isCorrect: true
+      explanation: The Power BI Mobile app provides much of the functionality of the Power BI service for viewing and analyzing your Power BI data. Moreover, you can also filter geographic data based on your location, get data from objects in the field via barcode scanning, and even access reports and dashboards offline.
+    - content: A convenient app for creating reports and dashboards when you're traveling.
+      isCorrect: false
+      explanation: You can't create reports and dashboards in the mobile app. Reports are created in Power BI Desktop and in the Power BI service. Dashboards are created in the Power BI service.
+    - content: The best place to see notifications about changes to your Power BI data.
+      isCorrect: false	
+      explanation: It's true that while using the mobile app you can receive and view notifications about your data based on alerts you have set up. However, this capability is also available in the Power BI service.
+  - content: "All of the following scenarios are supported by the mobile app except:"
+    choices:
+    - content: Getting product inventory data by scanning barcodes of products on location.
+      isCorrect: false
+      explanation: With the mobile app, you can use the device's camera to scan barcodes on items on location, and if there is a corresponding report that has barcode data for that report, the report will open filtered to the relevant information.
+    - content: Sharing filtered views of data with colleagues.
+      isCorrect: false
+      explanation: In the mobile apps, you can apply filters to a report, then share that filtered view with colleagues.
+    - content: Viewing reports you're creating in Power Desktop but haven't yet published to the Power BI service.
+      isCorrect: true	
+      explanation: In the mobile apps, you can only view content that is available to you in your Power BI service account. You cannot see content that you're working on in Power BI Desktop.
+  - content: Which of the following can you do in the mobile app but not in the Power BI service?
+    choices:
+    - content: Cross-highlight data in visuals by selecting data points.
+      isCorrect: false 
+      explanation: Cross-highlighting is supported in both the Power BI service and in the mobile apps.
+    - content: View reports and dashboards when you're offline.
+      isCorrect: true 
+      explanation: While you're offline, you can access and interact with dashboards you've accessed previously from the mobile app. You also have read-only access to any Power BI reports you've accessed previously from the mobile app. While offline, you can see the full report, but you cannot not filter, cross-filter, sort, or use slicers on it.
+    - content: Define personal bookmarks to define a configured view of your data. 
+      isCorrect: false 
+      explanation: You can't define bookmarks in the mobile app. Report bookmarks are defined in Power BI Desktop, and personal bookmarks are defined in the Power BI service. While you cannot define bookmarks in the mobile app, you can mark an existing personal bookmark as the default bookmark, which means that each time you open the report, it will open to the view defined by that bookmark.
+  - content: Which of the following is not true with the mobile app?
+    choices: 
+    - content: You can filter geographic data based on your current location.
+      isCorrect: false 
+      explanation: If a report contains geographic data, the app can use your device's location capabilities to filter the report based on your current location.           
+    - content: You can annotate and share reports and dashboards.
+      isCorrect: false 
+      explanation: In the mobile app, it's easy to annotate a report and share it with colleagues.
+    - content: You can define filters for reports and visuals.
+      isCorrect: true 
+      explanation: In the mobile app you can apply filters, but you can't define them. Filters are defined in Power BI Desktop or in the Power BI service.
+  - content: "In the Power BI Mobile app, you can do all of the following except:"
+    choices: 
+    - content: Share reports and dashboards with colleagues.  
+      isCorrect: false 
+      explanation: You can share reports and dashboards with the Power BI Mobile app. Just open the report or dashboard, and then in the header open the More options (...) menu and tap the Share icon.  
+    - content: Create reports and dashboards.
+      isCorrect: true 
+      explanation: Reports must be created in Power BI Desktop or in the Power BI service. Dashboards are created in the Power BI service.  
+    - content: Analyze anomalous spikes and dips in your data. 
+      isCorrect: false 
+      explanation: The Power BI Mobile app supports anomaly detection. If anomaly detection has been enabled for a report, spikes and dips in your data that exceed defined thresholds are indicated on the report. By tapping the anomalous data points, you open the Anomalies pane where you can view possible explanations for the anomalous values.

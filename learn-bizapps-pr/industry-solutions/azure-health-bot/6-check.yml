@@ -1,0 +1,64 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.azure-health-bot.6-check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 10/30/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Where do you create a new Health Bot instance?
+    choices:
+    - content: Dynamics 365 Portal Management
+      isCorrect: false
+      explanation: The correct answer is Azure portal.
+    - content: Power Apps portal
+      isCorrect: false
+      explanation: The correct answer is Azure portal.
+    - content: Azure portal
+      isCorrect: true
+      explanation: The correct answer is Azure portal.
+    - content: Dynamics 365 Omnichannel Administration
+      isCorrect: false
+      explanation: The correct answer is Azure portal.
+  - content: Registering which of the following entities establishes a trust relationship between your Dynamics 365 app and the Microsoft Identity platform?
+    choices:
+    - content: Microsoft Entra ID Application ID
+      isCorrect: true
+      explanation: The correct answer is Microsoft Entra ID Application ID.
+    - content: Azure Application Name
+      isCorrect: false
+      explanation: The correct answer is Microsoft Entra ID Application ID.
+    - content: Microsoft Entra ID GUID
+      isCorrect: false
+      explanation: The correct answer is Microsoft Entra ID Application ID.
+    - content: Azure Subscription ID
+      isCorrect: false
+      explanation: The correct answer is Microsoft Entra ID Application ID.
+  - content: Where do you set up your users, queues, bot, and chat widgets?
+    choices:
+    - content: Dynamics 365 Customer Service Workspace
+      isCorrect: false
+      explanation: The correct answer is Dynamics 365 Customer Service admin center.
+    - content: Power Apps portal
+      isCorrect: false
+      explanation: The correct answer is Dynamics 365 Customer Service admin center.
+    - content: Dynamics 365 Portal Management
+      isCorrect: false
+      explanation: The correct answer is Dynamics 365 Customer Service admin center.
+    - content: Dynamics 365 Customer Service admin center
+      isCorrect: true
+      explanation: The correct answer is Dynamics 365 Customer Service admin center.
+  - content: Automatic welcome scenarios don't work with multi-step scenarios.
+    choices:
+    - content: Yes
+      isCorrect: true
+      explanation: Automatic welcome scenarios don't work with multi-step scenarios.
+    - content: No
+      isCorrect: false
+      explanation: The answer is True. Automatic welcome scenarios don't work with multi-step scenarios.

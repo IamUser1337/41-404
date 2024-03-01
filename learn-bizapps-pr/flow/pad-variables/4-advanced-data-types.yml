@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-variables.4-advanced-data-types 
+title: Advanced data types
+metadata: 
+  title: Advanced data types
+  description: Advanced data types
+  ms.date: 10/01/2023 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+durationInMinutes: 12
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-advanced-data-types.md)] 

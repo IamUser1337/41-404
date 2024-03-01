@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-introduction-store-operations-teams
+metadata:
+ title: Introduction to using Store Operations Assist with Microsoft Teams
+ description: Learn how Store Operations Assist integrated with Microsoft Teams creates a unified and dependable platform for store associates in Microsoft Cloud for Retail.
+ ms.date: 02/22/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module
+ ms.service: microsoft-cloud-retail
+title: Introduction to using Store Operations Assist with Microsoft Teams
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Store Operations Assist integrated with Microsoft Teams creates a unified and dependable platform for store associates.
+abstract: |
+  In this module, you'll:
+    - Learn about the benefits of integrating Store Operations Assist with Microsoft Teams. 
+    - Learn about the pre-requisites to set up Store Operations Assist Teams. 
+    - Review the retail story and scenarios that are set up for use in other modules in this learning path.
+prerequisites: You must complete the entire learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) before you can complete this one.
+iconUrl: /learn/achievements/retail-introduction-store-operations-teams.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator 
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-introduction-store-operations-teams.introduction
+- learn-bizapps.retail-introduction-store-operations-teams.retail-story
+- learn-bizapps.retail-introduction-store-operations-teams.check
+- learn-bizapps.retail-introduction-store-operations-teams.summary
+badge:
+  uid: learn-bizapps.retail-introduction-store-operations-teams.badge

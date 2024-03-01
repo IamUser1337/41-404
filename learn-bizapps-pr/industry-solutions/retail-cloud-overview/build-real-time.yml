@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-cloud-overview.build-real-time
+title: Build a real-time retail supply chain
+metadata:
+  title: Build a real-time retail supply chain
+  description: Learn how supply chain visibility, demand planning and optimization, and flexible fulfillment can help you build a real-time, retail supply chain.
+  ms.date: 01/24/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/build-real-time.md)]

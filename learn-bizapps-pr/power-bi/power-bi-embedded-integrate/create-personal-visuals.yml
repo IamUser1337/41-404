@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-integrate.create-personal-visuals
+title: Create personalized visuals
+metadata:
+  title: Create personalized visuals
+  description: Explore the Create personalized visuals showcase.
+  ms.date: 04/07/2022
+  author: mberdugo
+  manager: kfollis 
+  ms.author: monaberdugo
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-personal-visuals.md)]

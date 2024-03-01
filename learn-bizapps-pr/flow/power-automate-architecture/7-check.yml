@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-automate-architecture.7-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You need to perform a calculation using related rows in a one-to-many relationship. Which automation method should you use?
+    choices: 
+    - content: Power Automate cloud flow
+      isCorrect: true
+      explanation: Power Automate cloud flow can access rows in one-to-many relationships and can loop through and process the data.
+    - content: Classic workflow
+      isCorrect: false
+      explanation: A classic workflow can't access rows in one-to-many relationships.
+    - content: Business rules
+      isCorrect: false
+      explanation: Business rules can't access rows in one-to-many relationships.
+    - content: Calculated column
+      isCorrect: false
+      explanation: A calculated column can't access rows in one-to-many relationships.
+  - content: Which connector should you use to run a Dataverse custom action?
+    choices: 
+    - content: Dynamics 365
+      isCorrect: false
+      explanation: The Dynamics 365 connector is deprecated and can only perform CRUD operations.
+    - content: Dataverse 
+      isCorrect: true
+      explanation: The Dataverse  connector can perform CRUD and other advanced operations such as perform a bound action and perform an unbound action.
+    - content: Power Apps 
+      isCorrect: false
+      explanation: The Power Apps connector allows Power Automate flows to be called from canvas apps. The Power Apps connector can't run Dataverse custom actions.
+  - content: You create a business process flow named BPF1 for the table named Tab1. The business process flow spans to the Tab2 table and finishes with the Tab3 table. Which table do you use to create a chart that shows the number of instances of BPF1 that are run by current stage?
+    choices: 
+    - content: BPF1
+      isCorrect: true
+      explanation: When the BPF1 business process flow is created, a table also named BPF1 is created that contains information on when an instance of BPF1 is initiated and then tracks the status and current stage of the business process flow.
+    - content: Tab1
+      isCorrect: false
+      explanation: The tracking of the business process flow does update the Tab1 table. The business process flow is initiated when a row for Tab1 is created.
+    - content: Tab2
+      isCorrect: false
+      explanation: The tracking of the business process flow does update the Tab2 table.
+    - content: Tab3
+      isCorrect: false
+      explanation: The tracking of the business process flow does update the Tab3 table.

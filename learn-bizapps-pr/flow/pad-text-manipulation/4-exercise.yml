@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-text-manipulation.4-exercise 
+title: Exercise – Text actions
+metadata:
+  title: Exercise – Text actions
+  description: Practice using text actions in Power Automate for desktop.
+  ms.date: 09/22/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-exercise.md)] 

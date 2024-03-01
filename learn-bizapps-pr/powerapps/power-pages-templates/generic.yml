@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-templates.generic
+title: Site design templates
+metadata:
+  title: Site design templates
+  description: Learn about site design templates available to use when your business scenario doesn't align with any of the scenario-based templates.
+  ms.date: 01/06/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/generic.md)]

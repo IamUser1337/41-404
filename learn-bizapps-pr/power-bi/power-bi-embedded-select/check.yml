@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-embedded-select.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 04/10/2022 
+ author: KesemSharabi 
+ manager: kfollis 
+ ms.author: kesharab 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Isabelle is a developer at Tailspin Toys who is developing an internal app to help the company’s sales people monitor their progress toward sales targets. Embedded analytics will integrate alongside forms that will allow adjustment of target values in the sales database. Which embedding scenario should Isabelle use?
+    choices: 
+    - content: For your customers
+      isCorrect: false
+      explanation: Incorrect. The app isn’t for external users, so the For your customers scenario shouldn’t be used.
+    - content: For your organization
+      isCorrect: true 
+      explanation: Correct. The app is for internal users, so the For your organization scenario should be used.
+    - content: Publish to web
+      isCorrect: false 
+      explanation: Incorrect. Publish to web isn’t a scenario. It’s a Power BI feature that allows Power BI reports to be accessed by anyone on the internet. This feature isn't suited for the development requirements.
+  - content: Rohini is a developer at Tailspin Toys who has developed an app for external users. Rohini expects that demand for opening Power BI reports will increase significantly for the first few days of each month. The Power BI reports reside in a workspace that is set with the **Embedded** license mode. Reports connect to an Azure SQL database. Rohini wants to ensure that accessing the report is reliable and responsive. Which scale method should Rohini use to obtain report page state?
+    choices: 
+    - content: Adjust the database scale by using read scale-out
+      isCorrect: false
+      explanation: Incorrect. The requirement is to scale Power BI compute and memory. Scaling the database won't meet requirements.
+    - content: Autoscale
+      isCorrect: false 
+      explanation: Incorrect. Autoscale isn't supported for Power BI Embedded capacities.
+    - content: Azure alert-triggered scale
+      isCorrect: true 
+      explanation: Correct. To manage automatic scale of Embedded capacity, Rohini should set up an alert to monitor capacity metrics and then use a script to modify the capacity product SKU.
+    - content: No need to set up a scale method because Power BI automatically scales to meet demand
+      isCorrect: false 
+      explanation: Incorrect. If required, automatic scaling must be expressly set up.
+  - content: At Tailspin Toys, Marcus is a developer who is responsible for a new app for an external user audience that must embed analytics. In the early stages of the project, Marcus needs to set up an environment to evaluate Power BI and test how external users can access Power BI content. Currently, Tailspin Toys hasn’t purchased any Power BI capacity-based licenses. The environment must be set up without requiring the purchase of Power BI products. What should Marcus do?
+    choices: 
+    - content: Create a trial tenant.
+      isCorrect: true 
+      explanation: Correct. A trial tenant can be created at no cost for one month, if it’s not used for production purposes.
+    - content: Use the organization tenant and Marcus’s personal workspace.
+      isCorrect: false 
+      explanation: Incorrect. The requirement to embed for external users requires a capacity-based license. It’s not possible to embed content for customers by using a personal workspace.
+    - content: Use the organization tenant and create a new workspace with its license mode set to **Embedded**.
+      isCorrect: false 
+      explanation: Incorrect. The requirement to embed for external users requires a capacity-based license. It doesn’t achieve the objective to evaluate Power BI without the purchase of Power BI products.
+    - content: Use the organization tenant and create a new workspace with its license mode set to **Premium per capacity**.
+      isCorrect: false 
+      explanation: Incorrect. The requirement to embed for external users requires a capacity-based license. It doesn’t achieve the objective to evaluate Power BI without the purchase of Power BI products.

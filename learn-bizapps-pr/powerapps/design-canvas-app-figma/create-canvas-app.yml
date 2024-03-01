@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.design-canvas-app-figma.create-canvas-app 
+title: Create a canvas app based on a Figma design
+metadata: 
+  title: Create a canvas app based on a Figma design
+  description: Learn how to create a canvas app based on a Figma design.
+  ms.date: 07/24/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/create-canvas-app.md)] 

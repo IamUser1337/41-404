@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.reduce-complexity-dataverse-table.1-introduction 
+title: Introduction
+metadata: 
+  title: Introduction
+  description: Introduction to reducing complexity in your data model with Dataverse table relationships
+  ms.date: 11/16/2021 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+   
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

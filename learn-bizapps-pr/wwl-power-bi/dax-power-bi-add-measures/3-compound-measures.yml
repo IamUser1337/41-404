@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dax-power-bi-add-measures.3-compound-measures 
+title: Create compound measures
+metadata: 
+  title: Create compound measures 
+  description: Learn about creating compound measures.  
+  ms.date: 06/15/2022 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-compound-measures.md)] 

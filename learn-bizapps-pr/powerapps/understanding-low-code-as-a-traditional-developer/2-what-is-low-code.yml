@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.2-what.is.low.code
+title: What is low code?
+metadata:
+  title: What is low code?
+  description: Taking a look at the differences between low code and traditional code
+  ms.date: 04/22/2021
+  author: ghurlman
+  ms.author: grhurl
+  ms.topic: unit
+  ms.contributors:
+  - grhurl-04072021
+durationInMinutes: 5
+content: | 
+  [!include[](includes/2-what-is-low-code.md)]

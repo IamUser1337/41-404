@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn.wwl.power-bi-excel-better-together
+metadata:
+  title: 'Prepare to teach the module: Power BI & Excel better together'
+  description: "Prepare to teach the module: Power BI & Excel better together"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Power BI & Excel better together'
+summary: Deliver the &quot;Power BI &amp; Excel better together&quot; module of instructor-led course &quot;Modern Excel Analyst in a day&quot; to teach your Data Analyst customers to use Excel and Power PI together.
+abstract: |
+  After the completion of this module, you will be able to explain and demonstrate how to:
+  - Identify the Excel and Power BI ecosystem
+  - Connect from Excel to Power BI
+  - Set Microsoft Information Protection/Row Level Security (RLS) options in Excel and Power BI
+prerequisites: |
+  - Basic familiarity with data analysis and reporting tools.
+  - Experience with Excel.
+iconUrl: /training/achievements/power-bi-excel-better-together.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- business-analyst
+products:
+- office-excel
+- power-bi
+subjects:
+- productivity
+units:
+- learn.wwl.power-bi-excel-better-together.introduction
+- learn.wwl.power-bi-excel-better-together.create-pivot-tables-from-certified-data-sets
+- learn.wwl.power-bi-excel-better-together.formatted-excel-report-from-promoted-dataset
+- learn.wwl.power-bi-excel-better-together.lab03-desktop-excel
+- learn.wwl.power-bi-excel-better-together.knowledge-check
+- learn.wwl.power-bi-excel-better-together.summary
+badge:
+  uid: learn.wwl.power-bi-excel-better-together.badge

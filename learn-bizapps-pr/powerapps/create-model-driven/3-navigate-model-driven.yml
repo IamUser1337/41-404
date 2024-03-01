@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-model-driven.3-navigate-model-driven
+title: Navigate the model-driven app
+metadata:
+  title: Navigate the model-driven app
+  description: Follow the steps to create new records by using the model-driven app.
+  ms.date: 11/07/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 15
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-navigate-model-driven.md)]

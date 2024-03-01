@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.import-sample-data
+title: Exercise - Import the sample data package for training
+metadata:
+  title: Exercise - Import the sample data package for training
+  description: Follow the steps to import the sample data package for training.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/import-sample-data.md)]

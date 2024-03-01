@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-ui-elements.4-check
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/02/2020 
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: UI elements can be added in which of the following Power Automate for desktop entities?
+    choices: 
+    - content: Power Automate for desktop console
+      isCorrect: false
+      explanation: UI elements are added in the flow designer.
+    - content: Flow designer
+      isCorrect: true 
+      explanation: UI elements are added in the flow designer.
+    - content: All of the above
+      isCorrect: false 
+      explanation: UI elements are added in the flow designer.
+    - content: None of the above
+      isCorrect: false 
+      explanation: UI elements are added in the flow designer.
+  - content: The optimal way for Power Automate for desktop to interact with application UIs is through which of the following elements?
+    choices: 
+    - content: UI elements
+      isCorrect: true
+      explanation: The best way to interact with application UIs is by using UI elements.
+    - content: On-screen coordinates
+      isCorrect: false 
+      explanation: The best way to interact with application UIs is by using UI elements.
+    - content: Image recognition
+      isCorrect: false 
+      explanation: The best way to interact with application UIs is by using UI elements.
+    - content: Keystrokes
+      isCorrect: false 
+      explanation: The best way to interact with application UIs is by using UI elements.
+  - content: Which one of the following elements are UI elements?
+    choices: 
+    - content: "UI elements"
+      isCorrect: false
+      explanation: Window UI elements and simple UI elements are two different types of UI elements.
+    - content: "Window UI elements "
+      isCorrect: false 
+      explanation: Window UI elements and simple UI elements are two different types of UI elements.
+    - content: "Both "
+      isCorrect: true 
+      explanation: Window UI elements and simple UI elements are two different types of UI elements.

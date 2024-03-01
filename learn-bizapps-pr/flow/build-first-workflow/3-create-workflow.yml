@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-first-workflow.3-create-workflow
+title: Exercise - Create a workflow that triggers when a new message is created
+metadata:
+  title: Exercise - Create a workflow that triggers when a new message is created
+  description: Practice creating a workflow that triggers when a new message is created.
+  ms.date: 11/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-create-workflow.md)]

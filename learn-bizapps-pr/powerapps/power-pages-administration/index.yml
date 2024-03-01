@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-pages-administration 
+metadata: 
+ title: Power Pages administration
+ description: This module focuses on Microsoft Power Pages administration and using the Microsoft Power Platform admin center. Additionally, other actions and features are available for you to use to enhance website functionality.
+ ms.date: 05/08/2023
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ ms.service: power-pages  
+title: Power Pages administration
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  [!include[](../includes/power-pages-banner.md)]
+  This module focuses on Microsoft Power Pages administration and using the Microsoft Power Platform admin center. Additionally, other actions and features are available for you to use to enhance website functionality.
+abstract: |  
+    In this module, you'll: 
+    - Identify the various Microsoft Power Platform admin center actions and capabilities for setting up a Power Pages website.
+    - Learn about the Power Pages website life cycle.
+    - Manage SSL certificates and custom domain names.
+    - Differentiate key features such as website visibility, maintenance mode, and IP address restriction.
+prerequisites: Basic understanding and usage of Microsoft Power Platform administration, solutions, and how data is stored in Microsoft Dataverse. Knowledge of web technologies such as SSL, custom URLs, IP addresses, and so on, will also be beneficial.
+iconUrl: /training/achievements/power-pages-administration.svg  
+levels:  
+- intermediate   
+roles:  
+- maker
+- administrator
+products:  
+- power-platform  
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-administration.introduction 
+- learn-bizapps.power-pages-administration.tools 
+- learn-bizapps.power-pages-administration.lifecycle
+- learn-bizapps.power-pages-administration.configuration 
+- learn-bizapps.power-pages-administration.check 
+- learn-bizapps.power-pages-administration.summary 
+badge: 
+  uid: learn-bizapps.power-pages-administration.badge

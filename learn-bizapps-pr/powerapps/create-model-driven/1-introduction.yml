@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-model-driven.1-introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to creating an accident tracking model-driven app in Power Apps
+  ms.date: 11/07/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/1-introduction.md)]

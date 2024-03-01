@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-dashboards-power-bi.6-configure-real-time-dashboard
+title: Configure a real-time dashboard
+metadata:
+  title: Configure a real-time dashboard
+  description: "Configure a real-time dashboard"
+  ms.date: 12/19/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 2
+content: |
+  [!include[](includes/7-configure-real-time-dashboard.md)]

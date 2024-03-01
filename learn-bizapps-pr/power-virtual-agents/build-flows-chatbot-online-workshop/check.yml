@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-flows-chatbot-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you learned.
+ ms.date: 12/06/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: How does Power Automate connect with Microsoft Copilot Studio?
+    choices:
+    - content: By providing the automation of business processes
+      isCorrect: false
+      explanation: Incorrect. Automation of business process is arbitrary and doesn't reference how Power Automate connects to Microsoft Copilot Studio. Whilst it can automate business processes, the specifics are missing and found in another answer.
+    - content: By acting as a display for customer's data in a table format
+      isCorrect: false
+      explanation: Incorrect. Power Automate doesn't display customer data and acts instead as a tool for connecting and utilizing data from different sources.
+    - content: Via 'Call an Action' selection within the Authoring Canvas in Microsoft Copilot Studio, users can pass variables from user's responses using Power Automate and retrieve data from several different data sources, back to Microsoft Copilot Studio
+      isCorrect: true
+      explanation: Correct.
+  - content: What happens when you select 'Create a Flow' after clicking 'Call an Action' in Microsoft Copilot Studio?
+    choices:
+    - content: Power Automate opens in a new window within the browser you're working on and opens with the templated input and output actions already built in Power Automate. At the same time, a popup opens in Microsoft Copilot Studio saying that the new window is open to configure Power Automate and to select Done to refresh PVA Authoring Canvas
+      isCorrect: true
+      explanation: Correct.
+    - content: Microsoft Copilot Studio closes, and Power Automate Opens
+      isCorrect: false
+      explanation: Incorrect.
+    - content: A popup asks you to open Power Automate and configure your flow
+      isCorrect: false
+      explanation: Incorrect.
+  - content: You created a Power Automate flow that connects to Microsoft Copilot Studio, and has input and output variables. After selecting the flow in the Authoring Canvas in Microsoft Copilot Studio, what do you need to do?
+    choices:
+    - content: Select which flow to use
+      isCorrect: false
+      explanation: Incorrect. You already selected the flow to use, and instead the flow would require some configuration - similar to taking an order in a restaurant, you know you want some food, but what food specifically do you wish to eat?
+    - content: Author custom YAML to connect to Power Automate
+      isCorrect: false
+      explanation: Incorrect. A user doesn't need to manually author any YAML to connect to Power Automate, it's already done for you! You need to select the input and output data you want Power Automate to reference, which can be done using the interface.
+    - content: Select the input variable in PVA, which stores the data you send as input to the Power Automate flow, and then select the output variable in PVA that stores the data Power Automate sends back to Microsoft Copilot Studio.
+      isCorrect: true
+      explanation: Correct.

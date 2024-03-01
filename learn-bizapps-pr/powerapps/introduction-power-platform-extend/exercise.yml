@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-extend.exercise 
+title: Exercise - Create a custom API
+metadata: 
+  title: Exercise - Create a custom API 
+  description: Practice creating a custom API. 
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 15 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/exercise.md)] 
+

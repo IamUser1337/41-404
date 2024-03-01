@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-teams-approval-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/10/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Can you copy and paste flow actions?
+    choices:
+    - content: No, you can't.
+      isCorrect: false
+      explanation: Incorrect. You can copy flow steps to your clipboard and then use them instead of re-creating similar steps.
+    - content: Yes, you can.
+      isCorrect: true
+      explanation: Correct. You can copy flow steps to your clipboard and then use them instead of re-creating similar steps.
+    - content: You can only copy Dataverse flow steps to your clipboard.
+      isCorrect: false
+      explanation: Incorrect. You can copy flow steps to your clipboard and then use them instead of re-creating similar steps.
+    - content: You can only copy Teams flow steps to your clipboard.
+      isCorrect: false
+      explanation: Incorrect. You can copy flow steps to your clipboard and then use them instead of re-creating similar steps.
+  - content: When you enter "Yes" in "choose a value field" in the Condition action, you'll need to ensure that the capitalization is the same as the options in the Teams action.
+    choices:
+    - content: This statement is true.
+      isCorrect: true
+      explanation: Correct. If the capitalization is different, it doesn't meet the condition.
+    - content: This statement is false.
+      isCorrect: false
+      explanation: Incorrect. If the capitalization is different, it doesn't meet the condition.
+  - content: After selecting **Add an action** under the If no branch, you'll need to communicate to your email recipient that their invoice wasn't approved. What action do you need to select?
+    choices:
+    - content: Reply to email
+      isCorrect: true
+      explanation: Correct. **Reply to email** allows your email to look like a reply to the original email, giving it a personal touch.
+    - content: Run child flow
+      isCorrect: false
+      explanation: Incorrect. **Reply to email** allows your email to look like a reply to the original email, giving it a personal touch.
+    - content: Run a flow built with Power Automate Desktop
+      isCorrect: false
+      explanation: Incorrect. **Reply to email** allows your email to look like a reply to the original email, giving it a personal touch.
+    - content: Run a flow built with Selenium IDE
+      isCorrect: false
+      explanation: Incorrect. **Reply to email** allows your email to look like a reply to the original email, giving it a personal touch.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-admin-intro.tools 
+title: Power Pages administrative tools
+metadata: 
+  title: Power Pages administrative tools 
+  description: Learn about Power Pages administrative tools.   
+  ms.date: 10/12/2022
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/tools.md)] 

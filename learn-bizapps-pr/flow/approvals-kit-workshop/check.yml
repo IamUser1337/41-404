@@ -1,0 +1,65 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.approvals-kit-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you learned. 
+ ms.date: 11/02/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you learned. 
+  questions:
+  - content: What is the main purpose of the Approvals Kit in relation to the [Approvals Connector](/power-automate/get-started-approvals?azure-portal=true)?
+    choices:
+      - content: To provide a preconfigured, no-code solution that extends the Approvals Connector and enables multistage and delegated approvals
+        isCorrect: true
+        explanation: The Approvals Kit extends the Approvals Connector by providing a preconfigured, no-code solution built on Power Apps, Power Automate, and Dataverse. It helps you react to real-world scenarios. For example, when you’re approving a purchase order, you could model a process where a purchase order might require approvals from multiple departments or individuals before you can finalize it. For example, the purchasing department might need to approve the initial request, followed by approval from the finance department for budget allocation and then final approval from a senior manager.
+      - content: To replace the Approvals Connector with a more advanced tool
+        isCorrect: false
+        explanation: The Approvals Connector is a valuable tool for basic approval workflows. The Approvals Kit is complementary and intended to provide more functionality for more complex workflows, such as when you need more features like multistage approvals or delegated approval scenarios.
+      - content: To provide a solution for managing emails
+        isCorrect: false
+        explanation: The Approvals Kit is primarily for managing approval workflows that might involve email notifications. While the Approvals Kit can send email notifications as part of an approval workflow, it isn't primarily designed for email management tasks such as organizing or filtering emails.
+      - content: To provide a tool for managing documents
+        isCorrect: false
+        explanation: The Approvals Kit can use data from documents in an approval workflow. However, its main purpose isn't to manage documents. You can use data from sources other than documents, such as databases or web services, if needed.
+      - content: To provide a preconfigured solution for managing customer data
+        isCorrect: false
+        explanation: You can use data that comes from [Microsoft Power Platform Connectors](https://powerplatform.microsoft.com/connectors/?azure-portal=true) as input into how your approval workflow works. For example, you can use defined data variables from your data for conditional logic in multistage approvals. One scenario could be a customer refund request that requires approval from multiple departments.
+      - content: To provide a preconfigured solution for managing inventory
+        isCorrect: false
+        explanation: You can use the Approvals Kit as part of your approvals workflow for managing inventory. However, you can use the workflows to model many approval scenarios, not only inventory management. One inventory example could be a request to purchase more inventory that requires approval from a manager and the finance department.
+  - content: What is the best way to trigger a business approval process from a Power Automate cloud flow?
+    choices:
+      - content: Defining and publishing a workflow saves to Power Automate and triggers the workflow automatically.
+        isCorrect: false
+        explanation: Defining and publishing a workflow only saves to Dataverse. To trigger and begin the workflow, you need to use Power Automate.
+      - content: A cloud flow isn't needed because triggers are defined as part of the Business Approval Management application.
+        isCorrect: false
+        explanation: A cloud flow is needed to trigger a business approval process from a Power Automate cloud flow. Triggers aren't defined as part of the Business Approval Management application.
+      - content: Use a cloud flow trigger.
+        isCorrect: true
+        explanation: To trigger a business approval process from a Power Automate cloud flow, you need to use a cloud flow trigger. As a result, you can start the workflow when a specific event occurs, such as when a new item is added to a SharePoint list or when an email is received.
+      - content: You can only trigger a business approval process from a Power Automate cloud flow if you have a multistage approval scenario.
+        isCorrect: false
+        explanation: While a multistage approval scenario is one choice, it isn't the only scenario that you might use to model as an approval workflow. You can also use the Approval Kit for other features, such as handling out of office.
+  - content: What is the recommended way to set the Out of Office feature in the Business Approval Management application?
+    choices:
+      - content: Setting out of office in Microsoft Office is enough
+        isCorrect: false
+        explanation: You need to edit the out of office settings in the My Settings section of the Business Approval Management application.
+      - content: By using the Out of Office Holiday Schedule and Work Days feature
+        isCorrect: true
+        explanation: The Business Approval Management application has an option for users to set out of office holiday schedules and work days. You can use this feature to ensure that approvals are routed to the appropriate delegated approvers during the user's absence.
+      - content: Asking a colleague to approve on your behalf
+        isCorrect: false
+        explanation: Asking a colleague to approve on your behalf isn't a recommended way of handling out-of-office scenarios. You need to have a proper delegation process in place to ensure that approvals are routed to the appropriate delegated approvers during the user's absence.
+      - content: Leaving approvals unattended until return
+        isCorrect: false
+        explanation: Leaving approvals unattended until you return it isn't a recommended way of handling out-of-office scenarios. You need to have a proper delegation process in place to ensure that approvals are routed to the appropriate delegated approvers during the user's absence.
+      - content: Contacting the IT help desk for assistance
+        isCorrect: false
+        explanation: Contacting the IT help desk for assistance isn't a recommended way of handling out-of-office scenarios. You need to have a proper delegation process in place to ensure that approvals are routed to the appropriate delegated approvers during the user's absence.

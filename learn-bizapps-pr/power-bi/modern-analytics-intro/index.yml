@@ -1,0 +1,44 @@
+### YamlMime:Module 
+uid: learn-bizapps.modern-analytics-intro 
+metadata: 
+ title: Introduction to modern analytics using Excel and Power BI
+ description: This module introduces the Microsoft modern analytics core suite of tools. Including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.
+ ms.date: 07/06/2023  
+ author: mihart  
+ manager: kfollis 
+ ms.author: mihart  
+ ms.topic: module
+ ms.service: powerbi  
+title: Introduction to modern analytics using Excel and Power BI
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn how Microsoft Office 365/Microsoft Excel 2016+, combined with Microsoft Power Query, Data Model, Power BI Desktop, and Power BI service come together to provide Microsoft modern analytics capabilities.
+abstract: |  
+  In this module, you will: 
+    - Learn about modern analytics.
+    - Discover the benefits of the Microsoft modern analytics technology suite of tools. Including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service.
+    - Learn about the ecosystem of modern analytics and the roles of people in your organization who use the technologies.
+    - Install and update modern analytics applications.
+prerequisites: Office 365/Excel 2016+
+iconUrl: /training/achievements/modern-analytics-intro.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- business-analyst 
+products: 
+- power-platform
+- power-bi 
+subjects:
+- data-analytics
+- data-visualization
+units:
+- learn-bizapps.modern-analytics-intro.1-introduction 
+- learn-bizapps.modern-analytics-intro.2-benefits
+- learn-bizapps.modern-analytics-intro.3-ecosystem 
+- learn-bizapps.modern-analytics-intro.4-roles 
+- learn-bizapps.modern-analytics-intro.5-modern-analytics-applications
+- learn-bizapps.modern-analytics-intro.6-check
+- learn-bizapps.modern-analytics-intro.7-summary
+badge: 
+  uid: learn-bizapps.modern-analytics-intro.badge

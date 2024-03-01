@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-effective-bots.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/11/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: If a call is abandoned, which rate decreases?
+    choices:
+    - content: Engagement rate
+      isCorrect: false
+      explanation: Incorrect. An increase in abandoned calls doesn't only affect the engagement rate because you don't know what the outcome would have been.
+    - content: Resolution rate or Escalation rate
+      isCorrect: true
+      explanation: Correct. An abandoned call would affect the resolution or escalation rate based on what the outcome would have been.
+    - content: Resolution rate
+      isCorrect: false
+      explanation: Incorrect. An increase in abandoned calls doesn't only affect the resolution rate because you don't know what the outcome would have been.
+  - content: Select the best trigger phrase for the "Return an item" topic.
+    choices:
+    - content: I want to return an item.
+      isCorrect: true
+      explanation: Correct. This option is the best choice because it's simple and direct.
+    - content: Last night, my refrigerator stopped working. Can I return it?
+      isCorrect: false
+      explanation: Incorrect. This phrase is too complicated. It introduces too many irrelevant keywords, which could potentially connect to the wrong topics.
+    - content: I don't like any of the items I purchased from your store.
+      isCorrect: false
+      explanation: Incorrect. This phrase isn't necessarily a return-related phrase. It could potentially connect to the wrong topics.
+  - content: Which one of the following statements is correct?
+    choices:
+    - content: If the user reaches the end of conversation but they don't respond to the survey, it decreases the resolution rate.
+      isCorrect: false
+      explanation: Incorrect. Post conversation surveys have no effect on the conversation's resolution rate. The fact that the survey is being provided to the customer typically indicates that the conversation was resolved.
+    - content: Adding a good variety of trigger phrases can help increase the resolution rate.
+      isCorrect: true
+      explanation: Correct. Well-designed trigger phrases, along with defining phrases that are relevant to the topic, will increase the likelihood of the correct topic being provided to a user. Presenting the correct topic increases the resolution rate.
+    - content: Adding more escalate nodes in the conversation can increase the resolution rate.
+      isCorrect: false
+      explanation: Incorrect. Adding more escalate nodes only increases the escalation rate.

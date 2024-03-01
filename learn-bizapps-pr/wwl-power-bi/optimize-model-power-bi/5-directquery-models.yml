@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.optimize-model-power-bi.5-directquery-models
+title: Optimize DirectQuery models with table level storage
+metadata:
+  title: Optimize DirectQuery models with table level storage
+  description: "Optimize DirectQuery models with table level storage"
+  ms.date: 10/26/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+  ms.custom:
+  - N/A
+durationInMinutes: 18
+content: |
+  [!include[](includes/5-directquery-models.md)]

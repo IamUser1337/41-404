@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-setup-online-workshop.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/14/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following entities are not part of the go-live checklist?
+    choices: 
+    - content: Pick and allocate licenses
+      isCorrect: false 
+      explanation: Incorrect. Pick and allocate licenses is part of the go-live checklist.
+    - content: Enable CDN to load site faster
+      isCorrect: false 
+      explanation: Incorrect. Enable CDN to load site faster is part of the go-live checklist.
+    - content: Enable WAF to secure your site
+      isCorrect: false 
+      explanation: Incorrect. Enable WAF to secure your site is part of the go-live checklist.
+    - content: All options are part of the go-live checklist.
+      isCorrect: true 
+      explanation: Correct. All options are part of the go-live checklist.
+  - content: Does Site checker scan your custom code?
+    choices: 
+    - content: Yes
+      isCorrect: true 
+      explanation: Correct. Site checker is a self-service diagnostic tool that site administrators use to identify common configuration issues in their site. Site checker helps to identify issues with a site by looking at various configuration parameters and provides suggestions on how to fix them.
+    - content: No
+      isCorrect: false 
+      explanation: Incorrect. Site checker is a self-service diagnostic tool that site administrators use to identify common configuration issues in their site. Site checker helps to identify issues with a site by looking at various configuration parameters and provides suggestions on how to fix them.
+  - content: Are all Power Pages sites public by default?
+    choices: 
+    - content: Yes
+      isCorrect: false 
+      explanation: Incorrect. You need to modify the site for it to be public.
+    - content: No
+      isCorrect: true 
+      explanation: Correct. You need to modify the site for it to be public.

@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.power-apps-canvas-app-online-workshop
+metadata:
+ title: Create a machine ordering Power Apps canvas app - Online Workshop
+ description: Learn how to build the Microsoft Power Platform solution, starting with a Power Apps canvas app.
+ ms.date: 02/16/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Create a machine ordering Power Apps canvas app - Online Workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  In this module, you'll begin building the Microsoft Power Platform solution, starting with a Power Apps canvas app. This canvas app will be a machine ordering app that allows different Contoso locations to order coffee machines. Later, in other exercises, you'll build the data model, build a model-driven app, and add automation with a Power Automate cloud flow for approvals.
+abstract: |
+    This module explains how to:
+    - Create a canvas app.
+    - Add screens to your app.
+    - Use Power Fx formulas in your app.
+    - Navigate between screens.
+    - Customize galleries on your screens.
+    - Capture a collection from your app.
+prerequisites: |
+  This module is designed for use with the App in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/allevents/?search=App%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=06:00&endTime=11:00).
+
+  You'll need an environment with a licensed user to complete these exercises. Ensure that you've completed the setup steps that have been previously outlined. Download the Microsoft Excel file for use in the following exercises.
+iconUrl: /learn/achievements/power-apps-canvas-app-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-apps-canvas-app-online-workshop.introduction
+- learn-bizapps.power-apps-canvas-app-online-workshop.exercise-create-app
+- learn-bizapps.power-apps-canvas-app-online-workshop.exercise-add-machine-gallery-connect-data-source
+- learn-bizapps.power-apps-canvas-app-online-workshop.exercise-add-compare-screen
+- learn-bizapps.power-apps-canvas-app-online-workshop.check
+- learn-bizapps.power-apps-canvas-app-online-workshop.summary
+badge:
+  uid: learn-bizapps.power-apps-canvas-app-online-workshop.badge

@@ -1,0 +1,85 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.share-buttons.9-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 06/21/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 10 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Can an end user that a button has been shared with share it with someone else?
+    choices: 
+    - content: No. The end user cannot share the button.
+      isCorrect: false
+      explanation: A user with whom a button has been shared, can share it with others only if the new users are part of the same tenant.
+    - content: Yes. The end user can share the button regardless of which tenant.
+      isCorrect: false 
+      explanation: A user with whom a button has been shared, can share it with others only if the new users are part of the same tenant.
+    - content: No. The end user does not have any access.
+      isCorrect: false 
+      explanation: A user with whom a button has been shared, can share it with others only if the new users are part of the same tenant.
+    - content: Yes. The end user can share the button but only with users in the same tenant.
+      isCorrect: true
+      explanation: A user with whom a button has been shared, can share it with others only if the new users are part of the same tenant.
+  - content: What are the ways to share a button?
+    choices: 
+    - content: Only through the desktop by accessing Power Automate site.
+      isCorrect: false
+      explanation: Power Automate provides the flexibility to allow users to share their buttons using the Power Automate website and the mobile app.
+    - content: Using the Power Automate site and the mobile app.
+      isCorrect: true
+      explanation: Power Automate provides the flexibility to allow users to share their buttons using the Power Automate website and the mobile app.
+    - content: Only using the mobile app.
+      isCorrect: false 
+      explanation: Power Automate provides the flexibility to allow users to share their buttons using the Power Automate website and the mobile app.
+    - content: Only using the mobile and tablet app.
+      isCorrect: false 
+      explanation: Power Automate provides the flexibility to allow users to share their buttons using the Power Automate website and the mobile app.
+  - content: Will run only users always have access to the connectors?
+    choices: 
+    - content: The run only users will never have access to connectors.
+      isCorrect: false
+      explanation: Power Automate provides a security boundary by allowing button users to use a connector tied to flow only when the flow is running. They will not have access to these connectors outside the flow.
+    - content: The run only users can access the all the connectors the maker has.
+      isCorrect: false 
+      explanation: Power Automate provides a security boundary by allowing button users to use a connector tied to flow only when the flow is running. They will not have access to these connectors outside the flow.
+    - content: The run only users will not have access to the connectors outside the flow.
+      isCorrect: true
+      explanation: Power Automate provides a security boundary by allowing button users to use a connector tied to flow only when the flow is running. They will not have access to these connectors outside the flow.
+    - content: Any users can access all connectors available in their tenant.
+      isCorrect: false 
+      explanation: Power Automate provides a security boundary by allowing button users to use a connector tied to flow only when the flow is running. They will not have access to these connectors outside the flow.
+  - content: Who can the flow button be shared with?
+    choices: 
+    - content: Users, security groups and Microsoft 365 groups.
+      isCorrect: true 
+      explanation: Power Automate buttons can be shared with individual users and with groups. The two groups being security and Microsoft 365 groups.
+    - content: Users only.
+      isCorrect: false 
+      explanation: Power Automate buttons can be shared with individual users and with groups. The two groups being security and Microsoft 365 groups.
+    - content: Office 365 groups only.
+      isCorrect: false 
+      explanation: Power Automate buttons can be shared with individual users and with groups. The two groups being security and Microsoft 365 groups.
+    - content: Security groups only.
+      isCorrect: false 
+      explanation: Power Automate buttons can be shared with individual users and with groups. The two groups being security and Microsoft 365 groups.
+  - content: Can a person who received a shared button remove it from their Power Automate mobile app?
+    choices: 
+    - content: Yes. The user can remove a shared button.
+      isCorrect: true 
+      explanation: An individual user has access to remove a button that was shared with him or her. No additional permission access is required by the owner of the button.
+    - content: No. A user does not have access to remove a shard button.
+      isCorrect: false 
+      explanation: An individual user has access to remove a button that was shared with him or her. No additional permission access is required by the owner of the button.
+    - content: Yes. The user can remove a shared button and remove access to the app.
+      isCorrect: false 
+      explanation: An individual user has access to remove a button that was shared with him or her. No additional permission access is required by the owner of the button.
+    - content: No. Once an app is shared it can never be removed.
+      isCorrect: false 
+      explanation: An individual user has access to remove a button that was shared with him or her. No additional permission access is required by the owner of the button.

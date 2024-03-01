@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-power-platform-teams
+metadata:
+  title: Create apps, copilots, and flows with Microsoft Dataverse and Teams
+  description: Learn how to create apps, flows, and more with Microsoft Dataverse for Teams
+  ms.date: 04/20/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Create apps, copilots, flows, and more with Microsoft Dataverse and Teams
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Microsoft Dataverse for Teams is a built-in, low-code data platform for Microsoft Teams that lets users build custom apps, copilots, and flows in Microsoft Teams by using Power Apps, Copilot Studio, and Power Automate. Dataverse for Teams—built on Microsoft Dataverse—provides relational data storage, rich data types, enterprise-grade governance, and one-click solution deployment to the Microsoft Teams app store. 
+prerequisites: Familiarity with Teams.
+iconUrl: /training/achievements/work-power-platform-teams.svg
+levels:
+- beginner
+roles: 
+- business-user  
+- maker
+products:
+- power-platform
+- power-apps
+- power-automate
+- ms-copilot
+- office-teams
+- dataverse
+subjects:
+- chatbot
+- custom-app-development
+modules:
+- learn-bizapps.get-started-dataverse-teams 
+- learn-bizapps.build-app-dataverse-teams
+- learn-bizapps.build-first-workflow
+- learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams 
+- learn-bizapps.dataverse-teams-power-bi 
+trophy: 
+  uid: learn-bizapps.work-power-platform-teams.trophy

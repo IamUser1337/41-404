@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-design-model-driven-apps
+metadata:
+  title: Get started with model-driven apps in Power Apps
+  description: Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With little to no code, you can make apps that are simple or complex. Unlike in canvas app development, where the designer has total control over the app layout, much of the layout in model-driven apps is determined by the components you add. In other words, the emphasis is more on quickly viewing your business data and making decisions than on intricate app design.
+  ms.date: 01/05/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: module-standard-task-based
+title: Get started with model-driven apps in Power Apps
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Model-driven app design is an approach that focuses on quickly adding components to your apps. These components include dashboards, forms, views, and charts. With little or no code, you can make apps that are simple or complex.
+abstract: |
+    This module explains these concepts:
+    - Model-driven app design
+    - Creating a model-driven app
+prerequisites: A Microsoft Power Apps account. If you don't already have a Power Apps account, select the **Get started free** link on the Power Apps home page.
+iconUrl: /training/achievements/get-started-with-model-driven-apps-in-powerapps.svg
+levels:
+- beginner
+roles:
+- business-user
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.powerapps-design-model-driven-apps.1-introduction
+- learn-bizapps.powerapps-design-model-driven-apps.2-building-blocks-of-model-driven-apps
+- learn-bizapps.powerapps-design-model-driven-apps.2b-design-apps
+- learn-bizapps.powerapps-design-model-driven-apps.3-create-a-model-driven-app
+- learn-bizapps.powerapps-design-model-driven-apps.5-control-security-when-sharing-model-driven-apps
+- learn-bizapps.powerapps-design-model-driven-apps.business-process-flows
+- learn-bizapps.powerapps-design-model-driven-apps.5b-create-model-driven-application
+- learn-bizapps.powerapps-design-model-driven-apps.6-knowledge-check
+- learn-bizapps.powerapps-design-model-driven-apps.7-summary
+badge:
+  uid: learn.powerapps-design-model-driven-apps.badge

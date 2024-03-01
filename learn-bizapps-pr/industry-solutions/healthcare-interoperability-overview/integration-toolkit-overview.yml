@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-interoperability-overview.integration-toolkit-overview 
+title: Data Integration Toolkit overview
+metadata: 
+  title: Data Integration Toolkit overview
+  description: Learn about Data Integration Toolkit.
+  ms.date: 02/19/2024 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 10 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/integration-toolkit-overview.md)] 

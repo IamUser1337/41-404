@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-capability-mapping.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/22/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which one of the following licenses is required to use Intelligent order management capability in Microsoft Cloud for Retail?
+    choices:
+    - content: Dynamics 365 Customer Insights - Journeys
+      isCorrect: false
+      explanation: Incorrect. Dynamics 365 Customer Insights - Journeys isn't required to use Intelligent order management capability.
+    - content: Dynamics 365 Intelligent Order Management trial
+      isCorrect: true
+      explanation: Correct. Dynamics 365 Intelligent Order Management trial is required to use Intelligent order management capability.
+    - content: Dynamics 365 Inventory Management trial
+      isCorrect: false
+      explanation: Incorrect. Dynamics 365 Inventory Management trial isn't required to use Intelligent order management capability.
+    - content: Dynamics 365 Field Service
+      isCorrect: false
+      explanation: Incorrect. Dynamics 365 Field Service isn't required to use Intelligent order management capability.
+  - content: Which one of the following technologies is used to deploy the licenses?
+    choices:
+    - content: Microsoft Power Platform admin center
+      isCorrect: false
+      explanation: Incorrect. You don't go to Microsoft Power Platform admin center to deploy Microsoft Cloud for Retail.
+    - content: Power Apps maker portal
+      isCorrect: false
+      explanation: Incorrect. You don't go to Power Apps maker portal to deploy Microsoft Cloud for Retail.
+    - content: Microsoft admin center
+      isCorrect: false
+      explanation: Incorrect. You don't go to Microsoft 365 admin center to deploy Microsoft Cloud for Retail.
+    - content: Microsoft Cloud Solutions Center
+      isCorrect: true
+      explanation: Correct. You go to Microsoft Cloud Solutions Center to deploy Microsoft Cloud for Retail.
+  - content: Which of the following options isn't required to deploy Unified customer profile in Microsoft Cloud for Retail?
+    choices:
+    - content: Dynamics 365 Customer Insights - Data
+      isCorrect: false
+      explanation: Incorrect. Dynamics 365 Customer Insights - Data is required to deploy Unified customer profile.
+    - content: Microsoft Cloud for Retail SKU
+      isCorrect: false
+      explanation: Incorrect. Microsoft Cloud for Retail SKU is required to deploy Unified customer profile.
+    - content: Dynamics 365 Customer Service
+      isCorrect: true
+      explanation: Correct. Dynamics 365 Customer Service isn't required to deploy Unified customer profile.
+    - content: None of the above
+      isCorrect: false
+      explanation: Incorrect. One of the previous options isn't required for deploying Unified customer profile.

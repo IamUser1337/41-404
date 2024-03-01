@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.perform-custom-updates.1-more-than-forms 
+title: Sometimes you need something more than forms
+metadata: 
+  title: Sometimes you need something more than forms 
+  description: Sometimes you need something more than forms 
+  ms.date: 06/29/2021 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+   
+   
+durationInMinutes: 6 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-more-than-forms.md)] 
+

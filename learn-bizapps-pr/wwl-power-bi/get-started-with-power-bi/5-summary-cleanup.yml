@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-with-power-bi.5-summary-cleanup
+title: Summary
+metadata:
+  title: Summary
+  description: "Summary"
+  ms.date: 02/22/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 1
+content: |
+  [!include[](includes/5-summary-cleanup.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.smart-store-analytics-user-interface.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to getting familiar with the Smart Store Analytics user interface
+  ms.date: 12/18/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

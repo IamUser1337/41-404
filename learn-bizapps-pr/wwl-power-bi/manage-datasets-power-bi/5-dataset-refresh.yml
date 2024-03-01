@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-datasets-power-bi.5-dataset-refresh
+title: Configure a semantic model scheduled refresh
+metadata:
+  title: Configure a semantic model scheduled refresh
+  description: "Configure a semantic model scheduled refresh"
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 4
+content: |
+  [!include[](includes/5-dataset-refresh.md)]

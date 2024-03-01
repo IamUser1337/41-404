@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-bots-power-virtual-agents-copilot.introduction 
+title: Introduction 
+metadata: 
+  title: Introduction
+  description: Introduction to creating bots by using Microsoft Copilot Studio 
+  ms.date: 09/25/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/introduction.md)] 

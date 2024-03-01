@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.dataverse-organization-service.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/28/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How can you check if the ServiceClient is ready for making requests?
+    choices:
+    - content: Use a try / catch with your requests.
+      isCorrect: false
+      explanation: You can check if it's ready for use by checking the **IsReady** property
+    - content: Check the IsReady property.
+      isCorrect: true
+      explanation: You can check if it's ready for use by checking the **IsReady** property
+    - content: Check if LastError property has an authentication exception
+      isCorrect: false
+      explanation: You can check if it's ready for use by checking the **IsReady** property
+  - content: What is Dataverse's XML-based query language called?
+    choices:
+    - content: FetchXML
+      isCorrect: true
+      explanation: Dataverse's XML-based query language is FetchXML.
+    - content: XAML
+      isCorrect: false
+      explanation: Dataverse's XML-based query language is FetchXML.
+    - content: QueryExpression
+      isCorrect: false
+      explanation: Dataverse's XML-based query language is FetchXML.
+  - content: What name is used to refer to changeset data when you're tracking against a table?
+    choices:
+    - content: Variance
+      isCorrect: false
+      explanation: Delta is used to refer to changeset data when you're tracking against a table.
+    - content: Deviation
+      isCorrect: false
+      explanation: Delta is used to refer to changeset data when you're tracking against a table.
+    - content: Delta
+      isCorrect: true
+      explanation: Delta is used to refer to changeset data when you're tracking against a table.

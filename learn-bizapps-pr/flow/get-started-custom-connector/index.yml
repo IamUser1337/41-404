@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.get-started-custom-connector 
+metadata: 
+ title: Get started with custom connectors in Microsoft Power Platform
+ description: Learn how to configure and use custom connectors with Microsoft Power Apps, Microsoft Power Automate, and Microsoft Azure Logic Apps.
+ ms.date: 05/12/2023
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: module
+title: Get started with custom connectors in Microsoft Power Platform
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Connectors help make it easier for app and flow makers to connect to other apps, data, and devices in the cloud. Learn how to configure and use custom connectors with Microsoft Power Apps, Microsoft Power Automate, and Microsoft Azure Logic Apps.
+abstract: |  
+    In this module, you will: 
+    - Learn about the role of custom connectors.
+    - Build a connector and use it in a Power Automate flow.
+prerequisites: None
+iconUrl: /training/achievements/get-started-custom-connector.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products:  
+- power-automate
+- power-platform
+subjects:
+- process-workflow
+units:
+- learn-bizapps.get-started-custom-connector.1-introduction 
+- learn-bizapps.get-started-custom-connector.2-demo 
+- learn-bizapps.get-started-custom-connector.3-explore 
+- learn-bizapps.get-started-custom-connector.4-build 
+- learn-bizapps.get-started-custom-connector.5-use 
+- learn-bizapps.get-started-custom-connector.6-use-power-automate 
+- learn-bizapps.get-started-custom-connector.7-check 
+- learn-bizapps.get-started-custom-connector.8-summary 
+badge: 
+  uid: learn-bizapps.get-started-custom-connector.badge

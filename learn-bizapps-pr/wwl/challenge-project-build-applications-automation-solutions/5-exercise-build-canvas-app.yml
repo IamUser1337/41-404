@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.challenge-project-build-applications-automation-solutions.exercise-build-canvas-app
+title: 'Exercise - Build a canvas app '
+metadata:
+  title: Exercise - Build a canvas app
+  description: "Exercise - Build a canvas app"
+  ms.date: 06/29/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: unit
+durationInMinutes: 60
+content: |
+  [!include[](includes/5-exercise-build-canvas-app.md)]

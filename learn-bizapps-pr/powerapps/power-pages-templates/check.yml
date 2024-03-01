@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-templates.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 01/06/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: You're creating a new Power Pages site in an environment without any of the Dynamics 365 apps. What Dynamics 365 portal templates are available for you to provision?
+    choices:
+    - content: Customer service portal
+      isCorrect: false
+      explanation: Dynamics 365 portals templates require Dynamics 365 apps as a prerequisite.
+    - content: Community portal
+      isCorrect: false
+      explanation: Dynamics 365 portals templates require Dynamics 365 apps as a prerequisite.
+    - content: None
+      isCorrect: true
+      explanation: Dynamics 365 portals templates require Dynamics 365 apps as a prerequisite.
+    - content: Not for Profit portal
+      isCorrect: false
+      explanation: Dynamics 365 portals templates require Dynamics 365 apps as a prerequisite.
+  - content: What is NOT a valid template type?
+    choices:
+    - content: Scenario-based templates
+      isCorrect: false
+      explanation: Site design (including blank page template), scenario-based, and Dynamics 365 are the template types available in Power Pages.
+    - content: eCommerce templates
+      isCorrect: true
+      explanation: Site design (including blank page template), scenario-based, and Dynamics 365 are the template types available in Power Pages.
+    - content: Dynamics 365 templates
+      isCorrect: false
+      explanation: Site design (including blank page template), scenario-based, and Dynamics 365 are the template types available in Power Pages.
+    - content: Site design templates
+      isCorrect: false
+      explanation: Site design (including blank page template), scenario-based, and Dynamics 365 are the template types available in Power Pages.
+  - content: What is NOT included as part of the site design templates?
+    choices:
+    - content: Azure integration components
+      isCorrect: true
+      explanation: Common pages, forms, and customizable tables are provided in each of the site design templates. You can modify these components to align functionality and design with your specific project needs.
+    - content: Common pages
+      isCorrect: false
+      explanation: Common pages, forms, and customizable tables are provided in each of the site design templates. You can modify these components to align functionality and design with your specific project needs.
+    - content: Forms
+      isCorrect: false
+      explanation: Common pages, forms, and customizable tables are provided in each of the site design templates. You can modify these components to align functionality and design with your specific project needs.
+    - content: Customizable tables
+      isCorrect: false
+      explanation: Common pages, forms, and customizable tables are provided in each of the site design templates. You can modify these components to align functionality and design with your specific project needs.

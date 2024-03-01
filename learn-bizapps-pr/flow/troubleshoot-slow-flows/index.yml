@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.troubleshoot-slow-flows 
+metadata: 
+ title: Troubleshoot slow-running flows in Power Automate
+ description: Learn how to troubleshoot slow-running flows in Microsoft Power Automate.
+ ms.date: 04/23/2021  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: Troubleshoot slow-running flows in Power Automate
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Integration of Power Automate flows and SharePoint has resulted in an exponential growth of flows that are triggered by adding, editing, or deleting Microsoft Lists or documents. Occasionally, flows fail or are stuck while running. Flows streamline repetitive tasks and paperless processes, so it's important to know how to troubleshoot failures and return flows to successful runs.
+abstract: |  
+    In this module, you will: 
+    - Discover SharePoint connector limits.
+    - Use the Compose and Variable actions to view data.
+    - Learn about Power Automate analytics.
+    - Review data policies.
+    - Redesign your flows.
+prerequisites: Basic understanding of how to create flows with SharePoint as the trigger
+iconUrl: /training/achievements/troubleshoot-slow-flows.svg  
+levels:  
+- intermediate   
+roles:  
+- maker 
+- business-user 
+products: 
+- power-platform 
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.troubleshoot-slow-flows.1-introduction 
+- learn-bizapps.troubleshoot-slow-flows.2-compose-variables 
+- learn-bizapps.troubleshoot-slow-flows.3-analytics 
+- learn-bizapps.troubleshoot-slow-flows.4-admin-center 
+- learn-bizapps.troubleshoot-slow-flows.5-redesign 
+- learn-bizapps.troubleshoot-slow-flows.6-check 
+- learn-bizapps.troubleshoot-slow-flows.7-summary 
+badge: 
+  uid: learn-bizapps.troubleshoot-slow-flows.badge

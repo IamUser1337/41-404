@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.flow.pad-custom-forms.check-knowledge
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/29/2022
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: "Custom forms can only request input of a single data type per dialog."
+    choices: 
+    - content: "True"
+      isCorrect: false 
+      explanation: "Custom forms can request multiple types of data in a single dialog."
+    - content: "False"
+      isCorrect: true 
+      explanation: "Custom forms can request multiple types of data in a single dialog."
+  - content: "Which custom form elements offer an ID property?"
+    choices: 
+    - content: "Input elements"
+      isCorrect: false 
+      explanation: "All the available custom form elements offer an ID property."
+    - content: "Input elements and actions"
+      isCorrect: false 
+      explanation: "All the available custom form elements offer an ID property."
+    - content: "Input elements, actions and non-input elements"
+      isCorrect: true 
+      explanation: "All the available custom form elements offer an ID property."
+  - content: "The %CustomFormData['ElementID']% expression allows you to check which action has been selected in the custom form."
+    choices: 
+    - content: "True"
+      isCorrect: false 
+      explanation: "The %CustomFormData['ElementID']% expression allows you to access the provided data. To check which action has been selected, you must use the ButtonPressed variable."
+    - content: "False"
+      isCorrect: true 
+      explanation: "The %CustomFormData['ElementID']% expression allows you to access the provided data. To check which action has been selected, you must use the ButtonPressed variable."
+  - content: "Multiple custom form elements can have the same ID."
+    choices: 
+    - content: "True"
+      isCorrect: false 
+      explanation: "Each custom form element must have a unique ID."
+    - content: "False"
+      isCorrect: true 
+      explanation: "Each custom form element must have a unique ID."

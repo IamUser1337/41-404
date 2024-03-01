@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-retail-insights-dashboard.deploy-dashboard
+title: Exercise - Verify the Retail Insights dashboard deployment
+metadata:
+  title: Exercise - Verify the Retail Insights dashboard deployment
+  description: Follow the steps to verify the deployment of the Retail Insights dashboard.
+  ms.date: 02/08/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/deploy-dashboard.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-publish-share.8-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of securing, publishing, and sharing data in Power BI.
+  ms.date: 09/28/2021 
+  author: paulinbar 
+  manager: kfollis 
+  ms.author: painbar 
+  ms.topic: unit
+durationInMinutes: 1 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/8-summary.md)] 

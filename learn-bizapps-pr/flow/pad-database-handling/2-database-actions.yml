@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-database-handling.2-database-actions 
+title: Database actions
+metadata: 
+  title: Database actions
+  description: Learn about database actions in Power Automate for desktop.
+  ms.date: 02/02/2021  
+  author: DaveBeasley  
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-database-actions.md)] 

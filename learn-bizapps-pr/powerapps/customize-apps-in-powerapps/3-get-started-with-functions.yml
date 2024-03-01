@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-customize.3-powerapps-functions
+title: Exercise - Introduction to formulas in canvas apps
+metadata:
+  title: Exercise - Introduction to formulas in canvas apps
+  description: Get started with default functions in apps that Power Apps generates.
+  ms.date: 01/03/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-powerapps-functions.md)]

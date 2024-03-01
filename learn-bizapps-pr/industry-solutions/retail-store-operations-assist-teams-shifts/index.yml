@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.retail-store-operations-assist-teams-shifts
+metadata:
+ title: Use Store Operations Assist with Microsoft Teams Shifts
+ description: Learn how to integrate the Microsoft Teams Shifts app with Store Operations Assist.
+ ms.date: 02/22/2024
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: module-standard-task-based
+ ms.service: microsoft-cloud-retail
+title: Use Store Operations Assist with Microsoft Teams Shifts
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Store Operations Assist store managers can plan store tasks while considering the store department shift start and end timings. Through integration with the Microsoft Teams Shifts app, Store Operations Assist can fetch shift-related information by using Microsoft Shifts API.
+abstract: |
+    This module explains how to:
+    - Create a schedule for store associates in Teams.
+    - Enable and set up Shifts integration in Store Operations Assist.
+    - Turn on the integration flows in Power Apps.
+prerequisites: You must complete the entire learning path [Get started with Store Operations Assist in Microsoft Cloud for Retail - Training | Microsoft Learn](/training/paths/get-started-store-operations-assist/?azure-portal=true) before you can complete this one.
+iconUrl: /learn/achievements/retail-store-operations-assist-teams-shifts.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- administrator
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+units:
+- learn-bizapps.retail-store-operations-assist-teams-shifts.introduction
+- learn-bizapps.retail-store-operations-assist-teams-shifts.create-schedule
+- learn-bizapps.retail-store-operations-assist-teams-shifts.enable-shifts-integration
+- learn-bizapps.retail-store-operations-assist-teams-shifts.configure-integration
+- learn-bizapps.retail-store-operations-assist-teams-shifts.switch-integration-flow
+- learn-bizapps.retail-store-operations-assist-teams-shifts.check
+- learn-bizapps.retail-store-operations-assist-teams-shifts.summary
+badge:
+  uid: learn-bizapps.retail-store-operations-assist-teams-shifts.badge

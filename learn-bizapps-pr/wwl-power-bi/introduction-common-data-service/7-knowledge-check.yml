@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-common-data-service.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Test your knowledge by completing these questions"
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/7-knowledge-check.md)]
+quiz:
+  title: "Check your knowledge"
+  questions:
+  - content: "Someone adds an item in SharePoint, which prompts a flow to run in Power Automate. What type of operation was used to start your flow?"
+    choices:
+    - content: "Trigger."
+      isCorrect: true
+      explanation: "Correct. A trigger is an operation that tells a workflow to begin or prompts some type of action."
+    - content: "Action."
+      isCorrect: false
+      explanation: "Incorrect. The user input the data into Power Apps that used a connector to write to SharePoint. That process would be an action operation."
+    - content: "Function-based."
+      isCorrect: false
+      explanation: "Incorrect. Function-based is a type of data source, not a connector operation."
+  - content: "A client likes the idea of implementing a Microsoft Power Platform solution but is concerned about the ability to interact with a custom API. How should you respond?"
+    choices:
+    - content: "Microsoft Power Platform has over 900 connectors to use in these situations."
+      isCorrect: false
+      explanation: "Incorrect. While the statement is accurate, a custom API would require a custom connector."
+    - content: "Microsoft Power Platform offers the ability to create custom connectors, which allow you to connect to Power Apps and Power Automate."
+      isCorrect: true
+      explanation: "Correct. You can build out a custom connector to bridge your app or workflow to the API."
+    - content: "Microsoft Power Platform uses connectors that hold a series of functions available for developers."
+      isCorrect: false
+      explanation: "Incorrect. APIs hold a series of functions available for developers. Connectors allow you to push the information and functions back and forth from your data source."
+  - content: "Someone asks you to describe a connector. How would you respond?"
+    choices:
+    - content: "Connectors hold a series of functions available for developers."
+      isCorrect: false
+      explanation: "Incorrect. APIs hold a series of functions available for developers. Connectors allow you to push the information and functions back and forth from your data source."
+    - content: "Connectors connect your data source to your app, workflow, or dashboard."
+      isCorrect: true
+      explanation: "Correct. Connectors allow functions and information to pass from your data source to your app or workflow."
+    - content: "Connectors are a cloud-based service that makes it practical and simple for line-of-business users to build workflows that automate time-consuming business tasks and processes across applications and services."
+      isCorrect: false
+      explanation: "Incorrect. This definition describes Power Automate."

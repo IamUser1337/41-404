@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-data-ingestion.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 05/04/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Default connectors in Microsoft Sustainability Manager use which data preparation and data transformation technology?
+    choices:
+    - content: Azure Data Factory
+      isCorrect: false
+      explanation: Default connectors don’t use Azure Data Factory.
+    - content: Power Query
+      isCorrect: true
+      explanation: Default connectors use Power Query technology.  
+    - content: Custom APIs
+      isCorrect: false
+      explanation: Default connectors don’t directly use custom APIs.
+    - content: JSON
+      isCorrect: false
+      explanation: JSON is a format for storing and transporting data, not a technology that default connectors would use.
+  - content: While setting up the connection for importing data into Microsoft Sustainability Manager, you turn on the **Import data automatically** toggle. What does that action do?
+    choices:
+    - content: Ensures that a persistent connection isn’t needed
+      isCorrect: false
+      explanation: Connections are the conduit for pulling data from source systems in Microsoft Sustainability Manager. 
+    - content: Ensures that the data is automatically imported whenever the source system has fresh data  
+      isCorrect: false
+      explanation: Turning on the **Import data automatically** toggle allows users to schedule the data import.  
+    - content: Allows the option to set a schedule for the data to be imported automatically
+      isCorrect: true
+      explanation: Turning on the **Import data automatically** toggle allows users to schedule the data import. 
+    - content: Removes all previously imported data
+      isCorrect: false
+      explanation: You would use the Replace previously imported data toggle to remove previously imported data. 
+  - content: You’re using Power Query graphical interface during data transformation. What does the **Map to Entity** option do?
+    choices:
+    - content: Provides an opportunity to rename the source and destination column names
+      isCorrect: false
+      explanation: Map to Entity doesn’t allow for column name changes.
+    - content: It’s an optional step
+      isCorrect: false
+      explanation: Map to Entity is a critical step for achieving the data transformation objectives. 
+    - content: Provides the opportunity to add new fields in Dataverse tables    
+      isCorrect: false
+      explanation: Power Query doesn’t allow you to add new Dataverse fields to a table. 
+    - content: Provides the opportunity to map the columns from the source data schema to the Dataverse table columns 
+      isCorrect: true
+      explanation: Map to Entity ensures that the data schema is mapped between source and destination tables.
+  - content: How do you review the imported activity data from within Microsoft Sustainability Manager? 
+    choices:
+    - content: You can view activity data from Data Management.
+      isCorrect: true
+      explanation: You can view activity data from the Data Management section in Microsoft Sustainability Manager. 
+    - content: You can view activity data by using the Dataverse table.
+      isCorrect: false
+      explanation: Dataverse is the database of Microsoft Sustainability Manager.
+    - content: You can’t view activity data from within Microsoft Sustainability Manager.  
+      isCorrect: false
+      explanation: You can view activity data from the Data Management section in Microsoft Sustainability Manager. 
+    - content: You can’t view activity data but can only report it by using Microsoft Sustainability Manager.  
+      isCorrect: false
+      explanation: You can review and report activity data from within Microsoft Sustainability Manager.  

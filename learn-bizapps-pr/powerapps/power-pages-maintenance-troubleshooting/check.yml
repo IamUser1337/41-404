@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-maintenance-troubleshooting.check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 05/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: A website user reports that a page has an error message. A developer wants to view more details directly on the page. Which option should you consider in the Power Pages admin center?
+    choices:
+    - content: Restart the site
+      isCorrect: false
+      explanation: Selecting the Disable custom errors action shows detailed information directly on the website page where the error has occurred. Restarting the website doesn't resolve the issue or provide extra information. You need to download the diagnostics logs from Azure Blob Storage, and you can view the Tracelog plug-in by using the model-driven app only.
+    - content: Enable diagnostics logs
+      isCorrect: false
+      explanation: Selecting the Disable custom errors action shows detailed information directly on the website page where the error has occurred. Restarting the website doesn't resolve the issue or provide extra information. You need to download the diagnostics logs from Azure Blob Storage, and you can view the Tracelog plug-in by using the model-driven app only.
+    - content: Disable custom errors
+      isCorrect: true
+      explanation: Selecting the Disable custom errors action shows detailed information directly on the website page where the error has occurred. Restarting the website doesn't resolve the issue or provide extra information. You need to download the diagnostics logs from Azure Blob Storage, and you can view the Tracelog plug-in by using the model-driven app only.
+    - content: Review the Tracelog plug-in from Microsoft Dataverse
+      isCorrect: false
+      explanation: Selecting the Disable custom errors action shows detailed information directly on the website page where the error has occurred. Restarting the website doesn't resolve the issue or provide extra information. You need to download the diagnostics logs from Azure Blob Storage, and you can view the Tracelog plug-in by using the model-driven app only.
+  - content: You want to deploy updates to your Dataverse application that affect website functionality. You decide to put the website in maintenance mode, but your manager wants website visitors to know how long the website will be unavailable. What can you do?
+    choices:
+    - content: Use IP address restrictions
+      isCorrect: false
+      explanation: Website maintenance mode allows redirection to a custom page. Using IP address restrictions makes it appear that the website is inaccessible. The default maintenance mode page doesn't provide detailed information. Website visitors can use the website after business hours.
+    - content: Enable the default maintenance mode page
+      isCorrect: false
+      explanation: Website maintenance mode allows redirection to a custom page. Using IP address restrictions makes it appear that the website is inaccessible. The default maintenance mode page doesn't provide detailed information. Website visitors can use the website after business hours.
+    - content: Enable Website Maintenance mode and redirect to a custom page on another site that indicates the downtime
+      isCorrect: true
+      explanation: Website maintenance mode allows redirection to a custom page. Using IP address restrictions makes it appear that the website is inaccessible. The default maintenance mode page doesn't provide detailed information. Website visitors can use the website after business hours.
+    - content: Deploy the updates after business hours
+      isCorrect: false
+      explanation: Website maintenance mode allows redirection to a custom page. Using IP address restrictions makes it appear that the website is inaccessible. The default maintenance mode page doesn't provide detailed information. Website visitors can use the website after business hours.
+  - content: Website visitors are reporting an issue when they're creating support cases on a Customer self-service portal. Where should you investigate first?
+    choices:
+    - content: Verify that diagnostic logging has been enabled
+      isCorrect: false
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a website issue. Enabling the various other options could help, but those options shouldn't be the first ones to check.
+    - content: Disable custom errors
+      isCorrect: false
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a website issue. Enabling the various other options could help, but those options shouldn't be the first ones to check.
+    - content: Set the Site/EnableCustomPluginError site setting and then set the value to True
+      isCorrect: false
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a website issue. Enabling the various other options could help, but those options shouldn't be the first ones to check.
+    - content: Determine if the issue occurs when you create a case in the Dynamics 365 Customer Service app
+      isCorrect: true
+      explanation: If the issue is happening in the Dynamics 365 Customer Service app, it's likely not a website issue. Enabling the various other options could help, but those options shouldn't be the first ones to check.
+  - content: What part of the Power Pages system isn't automatically updated?
+    choices:
+    - content: The website admin and maker tools
+      isCorrect: false
+      explanation: Most of the website assets are updated automatically except for the website solutions that need to be updated in the Power Pages admin center.
+    - content: The Azure Power Pages web app
+      isCorrect: false
+      explanation: Most of the website assets are updated automatically except for the website solutions that need to be updated in the Power Pages admin center.
+    - content: Dataverse
+      isCorrect: false
+      explanation: Most of the website assets are updated automatically except for the website solutions that need to be updated in the Power Pages admin center.
+    - content: The Power Pages solutions in the environment
+      isCorrect: true
+      explanation: Most of the website assets are updated automatically except for the website solutions that need to be updated in the Power Pages admin center.

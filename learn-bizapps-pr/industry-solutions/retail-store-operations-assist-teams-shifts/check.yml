@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-store-operations-assist-teams-shifts.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 12/01/2023
+ author: lavanyapg
+ ms.author: lsuresh
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you learned.
+  questions:
+  - content: Which role should you assign to a user to integrate Shifts with Store Operations Assist?
+    choices:
+    - content: Store Manager
+      isCorrect: false
+      explanation: Incorrect. Only the Microsoft Power Platform Manager role can integrate Shifts with Store Operations Assist.
+    - content: Microsoft Power Platform Manager
+      isCorrect: true
+      explanation: Correct. Only the Microsoft Power Platform Manager role can integrate Shifts with Store Operations Assist.
+    - content: Microsoft Teams Manager
+      isCorrect: false
+      explanation: Incorrect. Only the Microsoft Power Platform Manager role can integrate Shifts with Store Operations Assist.
+    - content: Store Associate
+      isCorrect: false
+      explanation: Incorrect. Only the Microsoft Power Platform Manager role can integrate Shifts with Store Operations Assist.
+  - content: Where can you find the Schedule Team ID?
+    choices:
+    - content: In the link of the corresponding team
+      isCorrect: true
+      explanation: Correct. You can find the Schedule Team ID in the link of the corresponding team.
+    - content: In the settings of the corresponding team
+      isCorrect: false
+      explanation: Incorrect. You can find the Schedule Team ID in the link of the corresponding team.
+    - content: In the Schedule settings of the corresponding team
+      isCorrect: false
+      explanation: Incorrect. You can find the Schedule Team ID in the link of the corresponding team.
+    - content: From the more options dropdown menu of the corresponding team
+      isCorrect: false
+      explanation: Incorrect. You can find the Schedule Team ID in the link of the corresponding team.
+  - content: In which area of the Store Operations Assist solution can you find Shifts?
+    choices:
+    - content: Action Center
+      isCorrect: false
+      explanation: Incorrect. You can find Shifts in the App setup area.
+    - content: Settings
+      isCorrect: false
+      explanation: Incorrect. You can find Shifts in the App setup area.
+    - content: App setup
+      isCorrect: true
+      explanation: Correct. You can find Shifts in the App setup area.
+    - content: All the above
+      isCorrect: false
+      explanation: Incorrect. You can find Shifts in the App setup area.

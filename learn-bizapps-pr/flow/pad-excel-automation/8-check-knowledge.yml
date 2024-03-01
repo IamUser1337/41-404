@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-excel-automation.8-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/09/2020 
+ author: DaveBeasley  
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following Excel actions uses an open Excel file instead of launching Excel?
+    choices: 
+    - content: Attach to running Excel
+      isCorrect: true 
+      explanation: The Attach to running Excel action attaches to an Excel file that's already open.
+    - content: Launch Excel
+      isCorrect: false 
+      explanation: The Launch Excel action launches a new Excel file.
+    - content: Set active Excel worksheet
+      isCorrect: false 
+      explanation: The Set active Excel worksheet action uses an already defined Excel instance.
+    - content: Activate cell in Excel worksheet
+      isCorrect: false 
+      explanation: The activate cell in Excel worksheet action uses an already defined Excel instance.
+  - content: Which one of the following statements about Excel actions is true?
+    choices: 
+    - content: "To read data from an Excel worksheet, you must select the cells first."
+      isCorrect: false 
+      explanation: You are not required to select cells to read data from an Excel file.
+    - content: "To write data to an Excel worksheet, you have to specify a cell."
+      isCorrect: true 
+      explanation: You are required to specify cells to write data to an Excel file.
+  - content: "Which cells do you have to specify to select a specific range of data in an Excel worksheet?"
+    choices: 
+    - content: "The cells in the upper-left and lower-right corners"
+      isCorrect: true 
+      explanation: The range of cells is specified by the upper-left and lower-right corners.
+    - content: "The cells in the upper-right and lower-left corners"
+      isCorrect: false 
+      explanation: The range of cells is specified by the upper-left and lower-right corners.
+  - content: Which one of the following Excel actions is necessary for subsequent actions to be carried out on a specific worksheet of an Excel file?
+    choices: 
+    - content: Get active Excel worksheet
+      isCorrect: false 
+      explanation: The Get active Excel worksheet action retrieves an Excel file's active worksheet.
+    - content: Activate cell in Excel worksheet
+      isCorrect: false 
+      explanation: The activate cell in Excel worksheet action activates specific cells in an Excel file.
+    - content: Set active Excel worksheet
+      isCorrect: true 
+      explanation: The Set active Excel worksheet action activates a specific worksheet in an Excel file.
+    - content: Get selected cell range from Excel worksheet
+      isCorrect: false 
+      explanation: The Get selected cell range from Excel worksheet action selects a specified range of cells.

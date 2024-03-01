@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.model-driven-app-solution.4-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/14/2022 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Where is the data stored in model-driven apps?
+    choices: 
+    - content: Azure SQL
+      isCorrect: false
+      explanation: The data source for model-driven apps is stored in Dataverse tables.
+    - content: SharePoint
+      isCorrect: false 
+      explanation: The data source for model-driven apps is stored in Dataverse tables.
+    - content: Access
+      isCorrect: false 
+      explanation: The data source for model-driven apps is stored in Dataverse tables.
+    - content: Dataverse
+      isCorrect: true 
+      explanation: The data source for model-driven apps is stored in Dataverse tables.
+  - content: What are the benefits of using Dataverse together with model-driven apps?
+    choices: 
+    - content: You can build apps by using complex code and SQL.
+      isCorrect: false
+      explanation: Common advantages for using Dataverse and model-driven apps together include the ability to manage data and metadata and the simple reporting and editing capabilities.
+    - content: Data and metadata are simple to build and maintain. Additionally, the process of building, viewing, and editing forms is simple.
+      isCorrect: true 
+      explanation: Common advantages for using Dataverse and model-driven apps together include the ability to manage data and metadata and the simple reporting and editing capabilities.
+    - content: Using SharePoint as a data source is simple when you are building model-driven apps.
+      isCorrect: false 
+      explanation: Common advantages for using Dataverse and model-driven apps together include the ability to manage data and metadata and the simple reporting and editing capabilities.
+    - content: No benefits exist for using Dataverse with model-driven apps.
+      isCorrect: false 
+      explanation: Common advantages for using Dataverse and model-driven apps together include the ability to manage data and metadata and the simple reporting and editing capabilities.
+  - content: Which one of the following options is not a Dataverse relationship type? 
+    choices: 
+    - content: Many-to-many relationship
+      isCorrect: false
+      explanation: The three main relationship types that Dataverse supports are one-to-many, many-to-one, and many-to-many. 
+    - content: One-to-many relationship
+      isCorrect: false 
+      explanation: The three main relationship types that Dataverse supports are one-to-many, many-to-one, and many-to-many. 
+    - content: Many-to-one relationship
+      isCorrect: false 
+      explanation: The three main relationship types that Dataverse supports are one-to-many, many-to-one, and many-to-many. 
+    - content: Inner Joins relationship
+      isCorrect: true 
+      explanation: The three main relationship types that Dataverse supports are one-to-many, many-to-one, and many-to-many. 

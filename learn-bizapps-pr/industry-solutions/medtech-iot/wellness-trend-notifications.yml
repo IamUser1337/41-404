@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.medtech-iot.wellness-trend-notifications 
+title: Use case 1 - Enable partners and customers to build wellness trend notifications
+metadata: 
+  title: Use case 1 - Enable partners and customers to build wellness trend notifications
+  description: Learn how to enable partners and customers to build wellness trend notifications.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/wellness-trend-notifications.md)] 

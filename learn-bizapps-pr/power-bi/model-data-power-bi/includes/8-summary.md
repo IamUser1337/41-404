@@ -1,0 +1,1 @@
+Congratulations. In this module, you learned how to create relationships between your data sources and optimize data. These skills will help you pull clean data from several different sources. 

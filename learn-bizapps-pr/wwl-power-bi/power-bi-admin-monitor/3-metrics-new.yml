@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-monitor.3-metrics-new 
+title: Usage metrics for dashboards and reports - new version
+metadata: 
+  title: Usage metrics for dashboards and reports - new version
+  description: Learn about enhancements in the new version of usage metrics.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/3-metrics-new.md)] 

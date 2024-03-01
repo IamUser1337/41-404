@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-extend-store-operations-assist.extract-survey-response
+title: Exercise - Use Power Automate flows to extract survey response data
+metadata:
+  title: Exercise - Use Power Automate flows to extract survey response data
+  description: Follow the steps to import the predeveloped sample solution for Power Automate flows and then use Power Automate flow templates to extract survey responses.
+  ms.date: 05/24/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 17
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/extract-survey-response.md)]

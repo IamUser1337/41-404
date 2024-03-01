@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-your-first-report.6-summary-cleanup
+metadata:
+  title: Summary
+  description: Summary
+  ms.date: 05/04/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi
+  ms.topic: unit
+   
+title: Summary
+durationInMinutes: 2
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-summary-cleanup.md)]
+

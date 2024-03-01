@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.nonprofit-designations.3-manage-campaigns 
+title: Manage campaigns
+metadata: 
+  title: Manage campaigns
+  description: Learn to manage campaigns, appeals, packages, and reporting hierarchies.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-manage-campaigns.md)] 

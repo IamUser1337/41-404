@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.make-app.tables-data-connectors
+title: Set up tables and data connectors
+metadata:
+  title: Set up tables and data connectors
+  description: Learn how to set up tables and data connectors.
+  ms.date: 05/03/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 11
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/tables-data-connectors.md)]

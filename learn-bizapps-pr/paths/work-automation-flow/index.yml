@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.work-automation-flow
+metadata:
+  title: Automate processes with Robotic Process Automation and Power Automate for desktop
+  description: Learn how use Robotic Process Automation to automate business processes.
+  ms.date: 06/21/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Automate processes with Robotic Process Automation and Power Automate for desktop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Automate routine tasks, eliminate the chance for errors, and free up time for more important work with robotic process automation (RPA) and Power Automate for desktop. This course allows you to experience the utility of RPA and Power Automate for desktop and use out of box actions such as manipulating Excel documents as part of an end-to-end invoice processing solution.
+prerequisites: Experience with Power Automate.
+iconUrl: /training/achievements/work-automation-flow.svg
+levels:
+- intermediate
+roles: 
+- maker
+- business-user
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+modules:
+- learn-bizapps.build-first-desktop-flow
+- learn-bizapps.input-parameters
+- learn-bizapps.connect-cloud-desktop-flow
+- learn-bizapps.integrate-flow-outlook
+- learn-bizapps.use-ai-builder-process-invoice
+- learn-bizapps.use-teams-connector
+- learn-bizapps.flow-unattended-mode
+- learn-bizapps.business-process-optimization-process-advisor 
+trophy: 
+  uid: learn-bizapps.work-automation-flow.trophy

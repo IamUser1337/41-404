@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manufacturing-overview.modernize-manufacturing
+title: Modernize the manufacturing customer experience
+metadata: 
+  title: Modernize the manufacturing customer experience
+  description: Learn how to modernize the manufacturing customer experience.
+  ms.date: 12/22/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok  
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/modernize-manufacturing.md)] 

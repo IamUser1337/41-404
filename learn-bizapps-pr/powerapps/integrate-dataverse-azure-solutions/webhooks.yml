@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrate-dataverse-azure-solutions.webhooks
+title: Publish Microsoft Dataverse events with webhooks
+metadata:
+  title: Publish Dataverse events with webhooks
+  description: Learn about publishing Dataverse events with webhooks.
+  ms.date: 09/28/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: powerapps
+  ms.subservice: dataverse-developer
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/webhooks.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.retail-set-up-store-operations-assist-teams.exercise-templates 
+title: Exercise – Use retail team templates to create teams (optional)
+metadata: 
+  title: Exercise – Use retail team templates to create teams (optional)
+  description: Follow the steps to use retail team templates to create teams.
+  ms.date: 10/04/2023
+  author: lavanyapg 
+  ms.author: lsuresh 
+  ms.topic: interactive-tutorial 
+  ms.service: microsoft-cloud-retail
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-templates.md)] 

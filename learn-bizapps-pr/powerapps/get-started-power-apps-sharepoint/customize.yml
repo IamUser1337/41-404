@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-sharepoint.customize
+title: Customize your Power Apps with SharePoint
+metadata:
+  title: Customize your Power Apps with SharePoint
+  description: Watch a video to learn how to customize your Power Apps with SharePoint.
+  ms.date: 06/29/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/customize.md)]

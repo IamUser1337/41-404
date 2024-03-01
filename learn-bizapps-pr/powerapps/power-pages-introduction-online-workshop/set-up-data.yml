@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-introduction-online-workshop.set-up-data
+title: Enhanced data model setup (Optional)
+metadata:
+  title: Enhanced data model setup (Optional)
+  description: Follow the optional steps for setting up the enhanced data model.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/set-up-data.md)]

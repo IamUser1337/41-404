@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.visuals-in-power-bi.5-map-visualizations 
+title: Map visualizations
+metadata: 
+  title: Map visualizations
+  description: Learn how to map visualizations in Power BI.
+  ms.date: 06/02/2022
+  author: davidiseminger 
+  manager: kfollis 
+  ms.author: davdi 
+  ms.topic: unit
+   
+durationInMinutes: 5 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/5-map-visualizations.md)] 
+

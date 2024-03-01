@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.specialized-components-model-form
+metadata:
+ title: Use specialized components in a model-driven form
+ description: Learn how to use specialized components in a model-driven form.
+ ms.date: 06/21/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ 
+title: Use specialized components in a model-driven form
+summary: |
+  [!include[](../includes/module-banner.md)]
+  A model-driven app is a powerful app development tool within Microsoft Power Platform. Model-driven apps can build enterprise applications that run on user desktops or mobile devices. A form is an important component of a model-driven app. Forms function as an interface between the user and data that's stored in Microsoft Dataverse. Forms consist of controls, data, and business logic. Apart from regular controls, specialized controls are available to help you complete typical business requirements.
+abstract: |
+    In this module, you'll:
+    - Learn about other components in a model-driven form.
+    - Create a business process flow.
+    - Embed a canvas app in a model-driven form.
+    - Add a timeline in a model-driven form.
+    - Create a report in a model-driven form.
+prerequisites: A Microsoft Power Apps trial environment
+iconUrl: /training/achievements/specialized-components-model-form.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+- business-user
+- business-analyst
+- developer
+products:
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.specialized-components-model-form.introduction
+- learn-bizapps.specialized-components-model-form.create-business-process-flows
+- learn-bizapps.specialized-components-model-form.exercise
+- learn-bizapps.specialized-components-model-form.embed-canvas-app
+- learn-bizapps.specialized-components-model-form.add-timeline
+- learn-bizapps.specialized-components-model-form.create-report
+- learn-bizapps.specialized-components-model-form.check
+- learn-bizapps.specialized-components-model-form.summary
+badge:
+  uid: learn-bizapps.specialized-components-model-form.badge

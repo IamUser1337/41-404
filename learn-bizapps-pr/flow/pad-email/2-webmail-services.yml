@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-email.2-webmail-services 
+title: Automate webmail services
+metadata: 
+  title: Automate webmail services
+  description: Automate webmail services
+  ms.date: 10/29/2020 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-webmail-services.md)] 

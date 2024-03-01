@@ -1,0 +1,1 @@
+Now you've learned how to use AI Builder in Power Automate, a low-code AI technology that can help you understand and pull data information automatically from the email attachment invoice file. You also learned how to use the data from the invoice file as inputs for the desktop flow to use when it enters information in the management app system.

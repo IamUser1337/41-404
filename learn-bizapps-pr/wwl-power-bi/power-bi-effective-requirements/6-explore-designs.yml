@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-requirements.6-explore-designs 
+title: Explore report designs
+metadata: 
+  title: Explore report designs
+  description: Look at a live report that demonstrates three factors of design.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 8
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/6-explore-designs.md)] 

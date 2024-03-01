@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-analytics-microsoft.6-summary
+title: 'Summary '
+metadata:
+  title: Summary
+  description: "Summary of the Discover data analysis module"
+  ms.date: 07/03/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+  [!include[](includes/6-summary.md)]

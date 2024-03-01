@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.4-create-your-first-app-as-a-traditional-developer
+title: Exercise - Create Your First Power Apps App as a Traditional Developer
+metadata:
+  title: Exercise - create your first Power Apps app as a traditional developer
+  description: This exercise leads a new user of Power Apps creating their first app from scratch, mapping concepts to traditional development concepts as we go
+  ms.date: 04/06/2023
+  author: ghurlman
+  ms.author: grhurl
+  ms.topic: unit
+  ms.contributors:
+  - grhurl-04192021
+durationInMinutes: 10
+content: | 
+  [!include[](includes/4-create-your-first-app-as-traditional-developer.md)]

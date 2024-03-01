@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.7-conditional 
+title: Apply conditional formatting
+metadata: 
+  title: Apply conditional formatting
+  description: Learn how to use color scale, rules, and field values for conditional formatting.
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-conditional.md)] 

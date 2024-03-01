@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-dataverse-developers.check 
+title: Check your knowledge 
+metadata: 
+  title: Check your knowledge 
+  description: Answer the following questions to see what you've learned. 
+  ms.date: 09/28/2023 
+  author: DaveBeasley
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which of the following isn't a first party application that Microsoft has built on Microsoft Dataverse?
+    choices: 
+    - content: Dynamics 365 for Sales
+      isCorrect: false
+      explanation: SharePoint isn't a first party application that Microsoft has built on Dataverse. 
+    - content: Dynamics 365 for Talent
+      isCorrect: false 
+      explanation: SharePoint isn't a first party application that Microsoft has built on Dataverse. 
+    - content: SharePoint 
+      isCorrect: true
+      explanation: SharePoint isn't a first party application that Microsoft has built on Dataverse. 
+  - content: What do we call .NET assemblies that automate business logic via server-side execution?
+    choices: 
+    - content: Functions
+      isCorrect: false
+      explanation: Plug-ins are .NET assemblies that automate business logic via server-side execution.
+    - content: Plug-ins
+      isCorrect: true
+      explanation: Plug-ins are .NET assemblies that automate business logic via server-side execution.
+    - content: PowerApp Modules
+      isCorrect: false 
+      explanation: Plug-ins are .NET assemblies that automate business logic via server-side execution.
+  - content: When is it appropriate to handle the Pre-Validation event?
+    choices: 
+    - content: To run custom validation logic and cancel the operation before the transaction occurs.
+      isCorrect: true
+      explanation: Handle the Pre-Validation event to run a custom validation logic and cancel the operation before the transaction occurs.
+    - content: To run custom validation logic and cancel the operation after the transaction occurs. 
+      isCorrect: false
+      explanation: Handle the Pre-Validation event to run a custom validation logic and cancel the operation before the transaction occurs. 
+    - content: To update entity values before a save operation occurs.
+      isCorrect: false 
+      explanation: Handle the Pre-Validation event to run a custom validation logic and cancel the operation before the transaction occurs.

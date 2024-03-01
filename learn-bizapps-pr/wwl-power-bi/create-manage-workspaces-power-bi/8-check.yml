@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-manage-workspaces-power-bi.8-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: "Check your knowledge"
+  ms.date: 03/27/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/8-check.md)]
+quiz:
+  questions:
+  - content: "How is the Admin workspace role different from other types of workspace roles?"
+    choices:
+    - content: "Admin is the only role that can remove any users."
+      isCorrect: true
+      explanation: "Only Admins can add and remove users from a workspace."
+    - content: "Admin is the only role that can publish or update apps."
+      isCorrect: false
+      explanation: "Both Admins and Members can publish and update apps."
+    - content: "Admin is the only role that can create, edit, or delete content in a workspace."
+      isCorrect: false
+      explanation: "Admins, Members, and Contributors can create, edit, or delete content in a workspace."
+    - content: "Admin is the only role that can publish content to a workspace."
+      isCorrect: false
+      explanation: "Admins, Members, and Contributors can publish content to a workspace."
+  - content: "Which one of the following options is the best description of a workspace?"
+    choices:
+    - content: "A workspace is a feature in Power BI service that allows you to view reports only."
+      isCorrect: false
+      explanation: "A workspace is a centralized location or repository that allows you to collaborate with colleagues and teams to create collections of reports, dashboards, and so on."
+    - content: "A workspace is a feature of Power BI Desktop that allows you to build reports only."
+      isCorrect: false
+      explanation: "A workspace is a centralized location or repository that allows you to collaborate with colleagues and teams to create collections of reports, dashboards, and so on."
+    - content: "A workspace is a centralized location or repository that allows you to collaborate with colleagues and teams to create collections of reports, dashboards, and so on."
+      isCorrect: true
+      explanation: "A workspace is a centralized location or repository that allows you to collaborate with colleagues and teams to create collections of reports, dashboards, and so on."
+    - content: "A workspace is a feature that allows you to view and edit the semantic model, build visualizations, and transform the data."
+      isCorrect: false
+      explanation: "A workspace is a centralized location or repository that allows you to collaborate with colleagues and teams to create collections of reports, dashboards, and so on."
+  - content: "What feature in Power BI service can you use to troubleshoot the flow of data from its source to its destination?"
+    choices:
+    - content: "Usage Metrics report"
+      isCorrect: false
+      explanation: "Lineage view allows you to view and troubleshoot the data flow from source to destination."
+    - content: "Query Caching"
+      isCorrect: false
+      explanation: "Lineage view allows you to view and troubleshoot the data flow from source to destination."
+    - content: "Quick Insights"
+      isCorrect: false
+      explanation: "Lineage view allows you to view and troubleshoot the data flow from source to destination."
+    - content: "Lineage view"
+      isCorrect: true
+      explanation: "Lineage view allows you to view and troubleshoot the data flow from source to destination."

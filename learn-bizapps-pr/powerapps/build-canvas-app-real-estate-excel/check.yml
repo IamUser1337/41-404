@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-canvas-app-real-estate-excel.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/22/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What is the primary purpose of the Excel to App feature in Power Apps?
+    choices: 
+    - content: It allows you to create a Microsoft Power Pages website with data from an Excel file.
+      isCorrect: false 
+      explanation: Incorrect. The primary purpose is to allow the creation of a canvas app by using data from an Excel file. 
+    - content: It allows you to create a model-driven app by using data from an Excel file.
+      isCorrect: false 
+      explanation: Incorrect. The primary purpose is to allow the creation of a canvas app by using data from an Excel file. 
+    - content: It allows you to create a canvas app by using data from an Excel file.
+      isCorrect: true 
+      explanation: Correct. The primary purpose is to allow the creation of a canvas app by using data from an Excel file. 
+    - content: It allows you to create a canvas app by using data from a Microsoft Word file.
+      isCorrect: false 
+      explanation: Incorrect. The primary purpose is to allow the creation of a canvas app by using data from an Excel file. 
+  - content: What is the maximum file size limit for the Excel file that you can upload to Power Apps?
+    choices: 
+    - content: 1 GB
+      isCorrect: false 
+      explanation: Incorrect. The maximum file size limit is 5 GB. 
+    - content: 2 GB
+      isCorrect: false 
+      explanation: Incorrect. The maximum file size limit is 5 GB. 
+    - content: 3 GB
+      isCorrect: false 
+      explanation: Incorrect. The maximum file size limit is 5 GB. 
+    - content: 5 GB
+      isCorrect: true 
+      explanation: Correct. The maximum file size limit is 5 GB. 
+  - content: After you upload an Excel file in Power Apps by using the Excel to App feature and then create the app, which data source does the system use?
+    choices: 
+    - content: Dataverse
+      isCorrect: true 
+      explanation: Correct. The system uses Dataverse as the data source. 
+    - content: SharePoint
+      isCorrect: false 
+      explanation: Incorrect. The system uses Dataverse as the data source. 
+    - content: OneDrive
+      isCorrect: false 
+      explanation: Incorrect. The system uses Dataverse as the data source. 
+    - content: SQL Server
+      isCorrect: false 
+      explanation: Incorrect. The system uses Dataverse as the data source. 

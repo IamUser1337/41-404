@@ -1,0 +1,30 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.get-started-data-analytics
+metadata:
+  title: Get started with Microsoft data analytics                     
+  description: Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise.
+  ms.date: 01/08/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Get started with Microsoft data analytics                     
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise.
+
+  This learning path can help you prepare for the [Microsoft Certified: Data Analyst Associate certification](/certifications/data-analyst-associate/?azure-portal=true). 
+prerequisites: None
+iconUrl: /training/achievements/overview-data-analysis-power-bi.svg
+levels:
+- intermediate
+roles: 
+- data-analyst
+products:
+- power-bi 
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.data-analytics-microsoft 
+- learn-bizapps.get-started-with-power-bi
+trophy: 
+  uid: learn-bizapps.get-started-data-analytics.trophy

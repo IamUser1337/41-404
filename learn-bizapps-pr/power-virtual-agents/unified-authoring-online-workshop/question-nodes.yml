@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.unified-authoring-online-workshop.question-nodes 
+title: Question node behavior
+metadata: 
+  title: Question node behavior
+  description: Learn about question node behavior.
+  ms.date: 01/16/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 6 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/question-nodes.md)] 

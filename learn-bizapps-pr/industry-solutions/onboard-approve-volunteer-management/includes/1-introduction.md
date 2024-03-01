@@ -1,0 +1,1 @@
+In this module you'll learn how to manage incoming applications for volunteer engagement opportunities, including how to approve them, how to take volunteers through an onboarding process, assign them to a shift, and communicate with them throughout the process.

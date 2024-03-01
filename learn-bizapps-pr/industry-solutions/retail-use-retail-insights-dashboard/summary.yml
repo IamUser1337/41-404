@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-use-retail-insights-dashboard.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of using the Retail Insights dashboard in Store Operations Assist.
+  ms.date: 02/08/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-first-chatbot-online-workshop.ideation 
+title: Ideation
+metadata: 
+  title: Ideation
+  description: Follow the steps to set goals for the bot.
+  ms.date: 12/06/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/ideation.md)] 

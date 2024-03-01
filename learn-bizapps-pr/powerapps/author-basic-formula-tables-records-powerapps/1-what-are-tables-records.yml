@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.tables-and-records.1-what-are-tables-records
+title: Records and tables
+metadata: 
+  title: Introduction to records and tables
+  description: Learn about using records and tables.
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 7 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/1-what-are-tables-records.md)] 
+

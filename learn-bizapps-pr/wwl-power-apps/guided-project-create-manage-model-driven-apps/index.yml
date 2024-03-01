@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn.wwl.guided-project-create-manage-model-driven-apps
+metadata:
+  title: Guided Project - Create and manage model-driven apps with Power Apps and Dataverse
+  description: "In this module, you practice building model-driven apps by using Microsoft Power Apps. The skills validated include creating Dataverse tables, modifying forms and views, and configuring a model-driven app. The scenario in this experience represents real-world challenges faced by individuals with business-specific expertise who build model-driven apps. The lab combines both learning and hands-on practice."
+  ms.date: 12/13/2023
+  author: wwlpublish
+  ms.author: chsims
+  ms.topic: module
+  ms.service: power-platform
+  ms.subservice: app-mgmt
+title: Guided Project - Create and manage model-driven apps with Power Apps and Dataverse
+summary: In this module, practice building model-driven apps with Microsoft Power Apps, including creating Dataverse tables, modifying forms and views, and configuring apps. The lab offers interactive practice with real-world scenarios for business-specific challenges.
+abstract: |
+  In this module, you practice how to:
+  - Create Dataverse tables and columns
+  - Work with solutions
+  - Modify Dataverse forms
+  - Modify Dataverse views
+  - Configure model-driven apps
+prerequisites: |
+  - Candidates for this credential should be familiar with data modeling concepts in Microsoft Dataverse and with the Power Apps maker portal.
+iconUrl: /training/achievements/generic-badge.svg
+levels:
+- intermediate
+roles:
+- maker
+products:
+- power-apps
+- power-platform
+- dataverse
+units:
+- learn.wwl.guided-project-create-manage-model-driven-apps.introduction
+- learn.wwl.guided-project-create-manage-model-driven-apps.prepare
+- learn.wwl.guided-project-create-manage-model-driven-apps.exercise-create-tables
+- learn.wwl.guided-project-create-manage-model-driven-apps.exercise-forms-views
+- learn.wwl.guided-project-create-manage-model-driven-apps.exercise-model-app
+- learn.wwl.guided-project-create-manage-model-driven-apps.knowledge-check
+- learn.wwl.guided-project-create-manage-model-driven-apps.summary
+badge:
+  uid: learn.wwl.guided-project-create-manage-model-driven-apps.badge

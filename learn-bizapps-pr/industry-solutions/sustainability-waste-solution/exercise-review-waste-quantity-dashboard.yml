@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.sustainability-waste-solution.exercise-review-waste-quantity-dashboard 
+title: Exercise - Review the waste quantity dashboard
+metadata: 
+  title: Exercise - Review the waste quantity dashboard
+  description: Follow the steps to practice reviewing the waste quantity dashboard.
+  ms.date: 12/21/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit 
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-review-waste-quantity-dashboard.md)] 

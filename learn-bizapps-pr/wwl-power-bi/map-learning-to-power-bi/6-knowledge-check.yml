@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.mapping-learning-to-power-bi.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/6-knowledge-check.md)]
+quiz:
+  title: "Map learning to Power BI"
+  questions:
+  - content: "Which of the following is true about Power BI Desktop?"
+    choices:
+    - content: "There is a cost to download and use."
+      isCorrect: false
+      explanation: "That's incorrect. Power BI Desktop is free to download."
+    - content: "Excel skills are not applicable."
+      isCorrect: false
+      explanation: "That's incorrect."
+    - content: "Includes filtering, bookmarks and Drill-through."
+      isCorrect: true
+      explanation: "That's correct. These are all true."
+  - content: "A Matrix Visual is..."
+    choices:
+    - content: "A type of conditional formatting."
+      isCorrect: false
+      explanation: "That's incorrect. A Matrix Visual is the same as a Pivot Table in Excel."
+    - content: "An artificial intelligence (AI) visualization."
+      isCorrect: false
+      explanation: "That's incorrect. Decomposition tree visuals are an example of AI Visualizations."
+    - content: "The same as a Pivot Table in Excel."
+      isCorrect: true
+      explanation: "That's correct. A Matrix Visual is the same as a Pivot Table in Excel"
+  - content: "Limiting the data shown in reports based on the individual user is an example of..."
+    choices:
+    - content: "Using multiple files and locked filters{.{That's incorrect. This was the old way to protect data.}}"
+      isCorrect: false
+      explanation: "incorrect choice"
+    - content: "Row level security (RLS)."
+      isCorrect: true
+      explanation: "That's correct. RLS allows you to control access by role."
+    - content: "Sharing specific reports with specific people."
+      isCorrect: false
+      explanation: "That's incorrect. This was the old way to protect data."

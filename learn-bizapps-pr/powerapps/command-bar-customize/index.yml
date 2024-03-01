@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.command-bar-customize
+metadata:
+ title: Customize the command bar
+ description: Learn to customize the command bar in Power Apps.
+ ms.date: 12/19/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: powerapps
+title: Customize the command bar
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn to implement actions for customized commands on the command bar in Power Apps.
+abstract: |
+    In this module, you will:
+    - Create or edit modern commands
+    - Work with classic commands
+    - Use Power Fx
+    - Customize commands
+prerequisites: Experience with Power Apps
+iconUrl: /learn/achievements/command-bar-customize.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- developer
+products:
+-  power-apps
+subjects:
+- digital-application-innovation
+units:
+- learn-bizapps.command-bar-customize.introduction
+- learn-bizapps.command-bar-customize.create-edit
+- learn-bizapps.command-bar-customize.work-classic
+- learn-bizapps.command-bar-customize.power-fx
+- learn-bizapps.command-bar-customize.exercise
+- learn-bizapps.command-bar-customize.check
+- learn-bizapps.command-bar-customize.summary
+badge:
+  uid: learn-bizapps.command-bar-customize.badge

@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-insights-reporting.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/27/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: In Microsoft Sustainability Manager, how do you view and explore the Sustainability dashboards?
+    choices:
+    - content: Change area to Analytics and then select Insights.
+      isCorrect: true
+      explanation: You can view Sustainability dashboards by changing area to Analytics and then selecting Insights.
+    - content: Change area to Analytics and then select Reporting.
+      isCorrect: false
+      explanation: You can view Sustainability dashboards by changing area to Analytics and then selecting Insights.
+    - content: Change area to Analytics and then select Scorecards.
+      isCorrect: false
+      explanation: You can view Sustainability dashboards by changing area to Analytics and then selecting Insights.
+    - content: Change area to Settings and then select Data Management.
+      isCorrect: false
+      explanation: You can view Sustainability dashboards by changing area to Analytics and then selecting Insights.
+  - content: In Microsoft Sustainability Manager, how do you view and generate the Excel-based quantitative Emissions report?
+    choices:
+    - content: Change area to Analytics and then select Insights.
+      isCorrect: false
+      explanation: You can generate Excel-based reports by changing area to Analytics and then selecting Reporting.
+    - content: Change area to Analytics and then select All Emissions.
+      isCorrect: false
+      explanation: You can generate Excel-based reports by changing area to Analytics and then selecting Reporting.
+    - content: Change area to Analytics and then select Scorecard.
+      isCorrect: false
+      explanation: You can generate Excel-based reports by changing area to Analytics and then selecting Reporting.
+    - content: Change area to Analytics and then select Reporting.
+      isCorrect: true
+      explanation: You can generate Excel-based reports by changing area to Analytics and then selecting Reporting.
+  - content: Which of the following selections is an example of Scope 3 downstream category?
+    choices:
+    - content: Purchased goods and services
+      isCorrect: false
+      explanation: Purchased goods and services belong to Scope 3 upstream category.
+    - content: Capital goods
+      isCorrect: false
+      explanation: Capital goods belong to Scope 3 upstream category.
+    - content: Business travel
+      isCorrect: false
+      explanation: Business travel belongs to Scope 3 upstream category.
+    - content: Processing of sold products
+      isCorrect: true
+      explanation: Processing of sold products belongs to Scope 3 downstream category.

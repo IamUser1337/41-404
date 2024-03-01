@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.visualize-data.filter-sort-data
+title: Filter and sort data for Dataverse views
+metadata:
+  title: Filter and sort data for Dataverse views
+  description: Learn how to define which data to include and in what order.
+  ms.date: 10/03/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/filter-sort-data.md)]

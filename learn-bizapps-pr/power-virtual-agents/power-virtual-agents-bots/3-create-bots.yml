@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agent-bots.3-create-bots
+title: Create bots and work with the Microsoft Copilot Studio interface
+metadata:
+  title: Create bots and work with the Microsoft Copilot Studio interface
+  description: Learn how to create bots and work with the Microsoft Copilot Studio interface.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-create-bots.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-user-experience.7-design-built-in-assistance 
+title: Design reports with built-in assistance 
+metadata: 
+  title: Design reports with built-in assistance 
+  description: Built-in assistance helps consumers use and navigate reports.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 3 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/7-design-built-in-assistance.md)] 

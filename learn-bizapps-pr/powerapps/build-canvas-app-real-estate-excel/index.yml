@@ -1,0 +1,38 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-canvas-app-real-estate-excel 
+metadata: 
+ title: Build a Power Apps canvas app for a real estate solution with data from Excel
+ description: Learn how to build a Power Apps canvas app for a real estate solution by using data from Excel.
+ ms.date: 09/22/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module
+ ms.collection: bap-ai-copilot
+title: Build a Power Apps canvas app for a real estate solution with data from Excel
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  In this module, you begin creating a Microsoft Power Platform solution, which revolves around a real estate company and its operations. Your first step is to start with a Power Apps canvas app that the real estate agents use to manage their properties. The data for this app is stored in an Excel file, and you can use the AI Copilot Excel to App functionality to create the app. Additionally, you’ll use Power Apps Ideas to generate and accelerate the formula writing experience to add more functionality to the app.
+abstract: | 
+    This module explains how to: 
+    - Create a canvas app by using the Excel to App feature.
+    - Customize galleries by using Power Apps Ideas to generate Power Fx formulas.
+prerequisites: | 
+    - A Power Apps developer environment (based in the United States region) with a licensed user to complete these exercises
+    - Download the [RealEstateProperties.xlsx](https://github.com/MicrosoftDocs/mslearn-developer-tools-power-platform/raw/master/power-apps/copilot/RealEstateProperties.zip)
+iconUrl: /training/achievements/build-canvas-app-real-estate-excel.svg 
+levels: 
+- beginner 
+roles: 
+- maker 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development
+units: 
+- learn-bizapps.build-canvas-app-real-estate-excel.introduction 
+- learn-bizapps.build-canvas-app-real-estate-excel.exercise 
+- learn-bizapps.build-canvas-app-real-estate-excel.check 
+- learn-bizapps.build-canvas-app-real-estate-excel.summary 
+badge: 
+  uid: learn-bizapps.build-canvas-app-real-estate-excel.badge 

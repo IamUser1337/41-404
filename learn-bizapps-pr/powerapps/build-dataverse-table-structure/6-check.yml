@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.build-dataverse-table-structure.6-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: How do you create many-to-many relationships between Dataverse tables?
+    choices:
+    - content: Create a column of the type Lookup in the one side table.
+      isCorrect: false
+      explanation: In many-to-many relationships, no explicit columns are being created. Create the relationship by selecting the two tables that you want to create the relationship for.
+    - content: Create a column of the type Lookup in the many side table.
+      isCorrect: false
+      explanation: In many-to-many relationships, no explicit columns are being created. Create the relationship by selecting the two tables that you want to create the relationship for.
+    - content: Create a column of the type Lookup in the one and many side tables.
+      isCorrect: false
+      explanation: In many-to-many relationships, no explicit columns are being created. Create the relationship by selecting the two tables that you want to create the relationship for.
+    - content: Select the two tables that you want to create the relationship for in the relationship's menu of the tables.
+      isCorrect: true
+      explanation: In many-to-many relationships, no explicit columns are being created. Create the relationship by selecting the two tables that you want to create the relationship for.
+  - content: What does a custom Global choice option allow you to do?
+    choices:
+    - content: You can share your custom choices in the Microsoft app store.
+      isCorrect: false
+      explanation: A custom Global choice option allows you to reuse the custom choice that is set among other tables in the same Dataverse environment.
+    - content: You can only use the custom choice in the table where it was created.
+      isCorrect: false
+      explanation: A custom Global choice option allows you to reuse the custom choice that is set among other tables in the same Dataverse environment.
+    - content: It allows you to reuse the custom choice that is set among other tables in the same Dataverse environments.
+      isCorrect: true
+      explanation: A custom Global choice option allows you to reuse the custom choice that is set among other tables in the same Dataverse environment.
+    - content: It allows you to reuse the custom choice that is set among other tables in multiple Dataverse environments.
+      isCorrect: false
+      explanation: A custom Global choice option allows you to reuse the custom choice that is set among other tables in the same Dataverse environment.
+  - content: Is the many-to-one relationship the child perspective of a one-to-many relationship?
+    choices:
+    - content: Yes. A many-to-one relationship is the child perspective of a one-to-many relationship.
+      isCorrect: true
+      explanation: True. A many-to-one relationship is the child perspective of a one-to-many relationship.
+    - content: No. A many-to-one relationship isn't the child perspective of a one-to-many relationship.
+      isCorrect: false
+      explanation: A many-to-one relationship is the child perspective of a one-to-many relationship.

@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn-bizapps.build-dataverse-table-structure
+metadata:
+ title: Build the Dataverse table schema for the model-driven app
+ description: Create essential tables and table relationships to build the employee accident tracking model-driven app.
+ ms.date: 08/01/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ ms.subservice: dataverse-maker
+title: Build the Dataverse table schema for the model-driven app
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Create essential tables and table relationships to build the employee accident tracking model-driven app.
+abstract: |
+    This module explains how to:
+    - Create tables to build the sample model-driven app.
+    - Create relationships between the tables that are used in the solution.
+    - Discover the data model structure behind the model-driven app.
+prerequisites: Basic understanding of Microsoft model-driven apps and Microsoft Dataverse
+iconUrl: /training/achievements/build-dataverse-table-structure.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-apps
+- power-platform
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.build-dataverse-table-structure.1-introduction
+- learn-bizapps.build-dataverse-table-structure.2-create-dataverse-tables
+- learn-bizapps.build-dataverse-table-structure.3-exercise
+- learn-bizapps.build-dataverse-table-structure.4-dataverse-relationships
+- learn-bizapps.build-dataverse-table-structure.5-exercise
+- learn-bizapps.build-dataverse-table-structure.6-check
+- learn-bizapps.build-dataverse-table-structure.7-summary
+badge:
+  uid: learn-bizapps.build-dataverse-table-structure.badge

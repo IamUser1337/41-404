@@ -1,0 +1,3 @@
+In this module, you learned more about how to use Power Fx to build low-code plug-ins. You used plug-ins to explore how to implement validation logic to help enforce your unique data requirements. By modifying data in plug-ins, you can automate the creation of related data and modify existing data. You also learned how to use Microsoft Power Platform connectors in a plug-in as part of your Power Fx logic. Using connectors allows you to integrate capabilities of the connectors into the on-demand and automated plug-ins.
+
+Your automated plug-ins run based on the Dataverse data events that you set up. Additionally, this module explained how you can use your instant plug-ins from Power Apps canvas apps and Power Automate flows.

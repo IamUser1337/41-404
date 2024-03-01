@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.instrumentation-app-insights 
+metadata: 
+ title: Use Power Apps Instrumentation with Application Insights
+ description: This module explores how to set up a Microsoft Power Apps canvas app to send telemetry to Application Insights.
+ ms.date: 11/12/2021  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+ 
+title: Use Power Apps Instrumentation with Application Insights
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Explore how you can set up your Power Apps canvas app to send telemetry to Application Insights.
+abstract: |  
+    In this module, you will: 
+    - Set up your Power Apps canvas app for Application Insights.
+    - Evaluate analytics and app usage in Application Insights.
+    - Log custom events to Application Insights.
+prerequisites: Basic Power Apps maker experience
+iconUrl: /training/achievements/instrumentation-app-insights.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+products: 
+- power-platform
+- power-apps
+- azure-monitor
+- dataverse
+subjects:
+- data-analytics
+units:
+- learn-bizapps.instrumentation-app-insights.1-introduction 
+- learn-bizapps.instrumentation-app-insights.2-configure 
+- learn-bizapps.instrumentation-app-insights.3-view-app-insights 
+- learn-bizapps.instrumentation-app-insights.4-custom-logging 
+- learn-bizapps.instrumentation-app-insights.5-exercise 
+- learn-bizapps.instrumentation-app-insights.6-check 
+- learn-bizapps.instrumentation-app-insights.7-summary 
+badge: 
+  uid: learn-bizapps.instrumentation-app-insights.badge

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.unified-authoring-online-workshop.entities 
+title: Entities in Microsoft Copilot Studio 
+metadata: 
+  title: Entities in Microsoft Copilot Studio 
+  description: Learn how to use entities in Microsoft Copilot Studio.
+  ms.date: 01/16/2024 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/entities.md)] 

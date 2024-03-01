@@ -1,0 +1,84 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manufacturing-overview.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 12/22/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What approach does Microsoft use to help manufacturers unlock innovation and introduce new products?
+    choices: 
+    - content: Mixed reality 
+      isCorrect: false
+      explanation: Incorrect. Mixed reality isn't the approach that Microsoft uses to help manufacturers unlock innovation and introduce new products.
+    - content: Digital Engineering principles
+      isCorrect: true 
+      explanation: Correct. Microsoft integrates Digital Engineering principles to help manufacturers unlock innovation and introduce new products.
+    - content: Automation principles 
+      isCorrect: false 
+      explanation: Incorrect. Integrating automation principles isn't the approach that Microsoft uses to help manufacturers unlock innovation and introduce new products.
+    - content: Security standards 
+      isCorrect: false 
+      explanation: Incorrect. Applying security standards isn't the approach that Microsoft uses to help manufacturers unlock innovation and introduce new products.
+  - content: What helps manufacturers transform and bring products to market? 
+    choices: 
+    - content: Automation and AI 
+      isCorrect: false
+      explanation: Incorrect. Automation and AI aren’t the solutions that transform the way that manufacturers design, produce, and bring products to market.
+    - content: Advanced analytics
+      isCorrect: false  
+      explanation: Incorrect. Advanced analytics isn't the solution that transforms the way that manufacturers design, produce, and bring products to market.
+    - content: Product definition and configuration
+      isCorrect: false 
+      explanation: Incorrect. Product definition and configuration aren’t the solutions that transform the way that manufacturers design, produce, and bring products to market.
+    - content: Product life cycle and design
+      isCorrect: true 
+      explanation: Correct. Product life cycle and design solutions on the cloud are transforming the way that manufacturers design, produce, and bring products to market.
+  - content: Which of the following Microsoft technology supports visibility and risk management?
+    choices: 
+    - content: Dynamics 365 Supply Chain Management
+      isCorrect: true
+      explanation: Correct. The key Microsoft technology that supports visibility and risk management is Dynamics 365 Supply Chain Management.
+    - content: Microsoft AppSource
+      isCorrect: false 
+      explanation: Incorrect. Microsoft AppSource isn’t the key Microsoft technology that supports visibility and risk management.
+    - content: Microsoft Power Apps
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Power Apps isn’t the key Microsoft technology that supports visibility and risk management.
+    - content: Microsoft Viva
+      isCorrect: false 
+      explanation: Incorrect. Microsoft Viva isn’t the key Microsoft technology that supports visibility and risk management.
+  - content: Machine learning models enhance which of the following areas for manufacturers? 
+    choices: 
+    - content: Efficient operations 
+      isCorrect: false
+      explanation: Incorrect. Machine learning models don’t enhance efficient operations within the intelligent factory.
+    - content: Collaboration 
+      isCorrect: false 
+      explanation: Incorrect. Machine learning models don’t enhance collaboration within the intelligent factory.
+    - content: Upskilling 
+      isCorrect: false 
+      explanation: Incorrect. Machine learning models don’t enhance upskilling within the intelligent factory.
+    - content: Product quality 
+      isCorrect: true 
+      explanation: Correct. Machine learning models enhance product quality within the intelligent factory.
+  - content: Microsoft supports which of the following B2B customer engagement use cases? 
+    choices: 
+    - content: Omnichannel customer engagement
+      isCorrect: true
+      explanation: Correct. The top B2B customer engagement use cases that Microsoft supports includes Data estate management, Omnichannel customer engagement, and Connected commerce.
+    - content: Remote support
+      isCorrect: false 
+      explanation: Incorrect. Remote support isn’t the top B2B customer engagement use case that Microsoft supports.
+    - content: Issue resolution 
+      isCorrect: false 
+      explanation: Incorrect. Issue resolution isn’t the top B2B customer engagement use case that Microsoft supports.
+    - content: Personalized interaction
+      isCorrect: false
+      explanation: Incorrect. Personalized interaction isn’t the top B2B customer engagement use case that Microsoft supports.

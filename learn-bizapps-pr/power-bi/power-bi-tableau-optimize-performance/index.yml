@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-tableau-optimize-performance 
+metadata: 
+ title: Optimize Power BI performance for Tableau users 
+ description: This module demonstrates how performance can determine a visual's usefulness.
+ ms.date: 06/27/2023  
+ author: minewiskan  
+ manager: kfollis 
+ ms.author: owend  
+ ms.topic: module
+ ms.service: powerbi  
+title: Optimize Power BI performance for Tableau users  
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  This module provides guidance on how to produce and maintain optimized Microsoft Power BI solutions: models, functions, calculations, and visuals. 
+abstract: |  
+    In this module, you will: 
+    - Improve a model refresh and function.
+    - Learn about the importance of removing redundant and unnecessary fields.
+    - Identify the steps to improve a visual.
+    - Improve model calculations.
+prerequisites: |   
+    - Access to Power BI service
+    - Familiarity with Tableau
+    - Knowledge of key Tableau concepts such as data refresh, calculations, and building visualizations
+iconUrl: /training/achievements/power-bi-tableau-optimize-performance.svg  
+levels:  
+- beginner   
+roles:  
+- business-user   
+- maker 
+products:  
+- power-platform  
+- power-bi 
+subjects:
+- data-analytics
+units:
+- learn-bizapps.power-bi-tableau-optimize-performance.1-introduction 
+- learn-bizapps.power-bi-tableau-optimize-performance.2-model-refresh-fuction 
+- learn-bizapps.power-bi-tableau-optimize-performance.3-model-calculation 
+- learn-bizapps.power-bi-tableau-optimize-performance.4-improve-visual 
+- learn-bizapps.power-bi-tableau-optimize-performance.5-check 
+- learn-bizapps.power-bi-tableau-optimize-performance.6-summary 
+badge: 
+  uid: learn-bizapps.power-bi-tableau-optimize-performance.badge

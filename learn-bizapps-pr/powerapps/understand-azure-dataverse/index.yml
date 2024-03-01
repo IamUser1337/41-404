@@ -1,0 +1,43 @@
+### YamlMime:Module 
+uid: learn-bizapps.understand-azure-dataverse 
+metadata: 
+ title: Use Azure and external tools to manipulate data
+ description: Learn how to use Azure and external tools to manipulate data.
+ ms.date: 12/15/2022  
+ author: jadaphillips  
+ ms.author: jadaphillips  
+ ms.topic: module
+title: Use Azure and external tools to manipulate data
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Explore how Azure and external tools can provide solutions to help you manipulate Microsoft Dataverse records.
+abstract: |  
+    In this module, you'll: 
+    - Discover the features of Azure Synapse Link for Dataverse.
+    - Learn how Dataverse community tools can help with data manipulation.
+    - Discover how Power BI services and tools relate to Dataverse.
+prerequisites: |  
+    - A Power Apps license
+    - Access to Microsoft Dataverse
+    - Access to Microsoft Azure Synapse Analytics (optional)
+    - Power BI Desktop (optional)
+    - A basic understanding of what a database is and its role within a software solution
+iconUrl: /learn/achievements/understand-azure-dataverse.svg  
+levels:  
+- intermediate   
+roles:  
+- maker  
+- functional-consultant 
+products: 
+- power-platform
+- power-apps 
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.understand-azure-dataverse.introduction 
+- learn-bizapps.understand-azure-dataverse.data-manipulation-tools 
+- learn-bizapps.understand-azure-dataverse.integration 
+- learn-bizapps.understand-azure-dataverse.check 
+- learn-bizapps.understand-azure-dataverse.summary 
+badge: 
+  uid: learn-bizapps.understand-azure-dataverse.badge 

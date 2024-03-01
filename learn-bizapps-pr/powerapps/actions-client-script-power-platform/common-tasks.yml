@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.actions-client-script-power-platform.common-tasks
+title: Client scripting common tasks
+metadata:
+  title: Client scripting common tasks
+  description: Understand the common tasks you perform and the techniques to use to accomplish them.
+  ms.date: 10/30/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/common-tasks.md)]

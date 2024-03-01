@@ -1,0 +1,38 @@
+### YamlMime:Module 
+uid: learn-bizapps.create-bots-power-virtual-agents-copilot 
+metadata: 
+ title: Create copilots with Microsoft Copilot Studio
+ description: Learn how to create bots by using Microsoft Copilot Studio.
+ ms.date: 09/25/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: module
+ ms.service: copilot-studio
+title: Create copilots with Microsoft Copilot Studio
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  This module describes how to create copilots by using Microsoft Copilot Studio. Copilot is a new feature that you can use to create copilots by using natural language. It uses the power of GPT-3 to generate topics, trigger phrases, and responses for your copilot. This module also briefly covers how to use the Conversation Booster feature to improve your copilot responses.
+abstract: | 
+    This module explains the following concepts: 
+    - Microsoft Copilot Studio and Conversation Booster features.
+    - How to build a copilot by using Microsoft Copilot Studio to generate topics, trigger phrases, and responses.
+prerequisites: |
+    - A Power Apps developer environment (based in the United States region) with a licensed user to complete these exercises
+    - Complete the previous module in this learning path
+iconUrl: /learn/achievements/create-bots-power-virtual-agents-copilot.svg 
+levels: 
+- beginner 
+roles: 
+- maker 
+products: 
+ 
+- ms-copilot
+subjects: 
+- custom-app-development 
+units: 
+- learn-bizapps.create-bots-power-virtual-agents-copilot.introduction 
+- learn-bizapps.create-bots-power-virtual-agents-copilot.exercise 
+- learn-bizapps.create-bots-power-virtual-agents-copilot.check 
+- learn-bizapps.create-bots-power-virtual-agents-copilot.summary 
+badge: 
+  uid: learn-bizapps.create-bots-power-virtual-agents-copilot.badge 

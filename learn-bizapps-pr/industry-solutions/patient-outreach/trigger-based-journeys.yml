@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.patient-outreach.trigger-based-journeys 
+title: Exercise - Create a trigger-based patient journey
+metadata: 
+  title: Exercise - Create a trigger based patient journey
+  description: Learn how to create a trigger based patient journey.
+  ms.date: 11/23/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/trigger-based-journeys.md)] 

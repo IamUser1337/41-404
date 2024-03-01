@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.integrations
+metadata: 
+ title: "Solution Architect series: Implement integrations with Power Platform"
+ description: Learn how to implement integrations in Microsoft Power Platform solutions.
+ ms.date: 04/19/2021
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+ 
+title: "Solution Architect series: Implement integrations with Power Platform"
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Solution architects for Microsoft Power Platform lead the design of integrations. This module explores the issues that occur during integration with Power Platform solutions.
+abstract: |  
+    In this module, you will: 
+    - Learn about the solution architect’s role in integrations.
+    - Learn about integration and why it's necessary.
+    - Discover Power Platform features that help enable integration.
+    - Use the capabilities of Microsoft Azure.
+prerequisites: Experience working on Power Platform projects as either a junior solution architect, a senior functional consultant, or a senior developer.
+iconUrl: /training/achievements/integrations.svg  
+levels:  
+- advanced
+roles:  
+- solution-architect
+products:    
+- power-platform
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.integrations.1-introduction
+- learn-bizapps.integrations.2-challenges
+- learn-bizapps.integrations.3-inbound
+- learn-bizapps.integrations.4-outbound
+- learn-bizapps.integrations.5-check
+- learn-bizapps.integrations.6-summary
+badge: 
+  uid: learn-bizapps.integrations.badge

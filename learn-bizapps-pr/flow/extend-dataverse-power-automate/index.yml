@@ -1,0 +1,45 @@
+### YamlMime:Module
+uid: learn-bizapps.extend-dataverse-power-automate
+metadata:
+ title: Extend Dataverse with Power Automate
+ description: Learn how to extend Microsoft Dataverse with Microsoft Power Automate.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Extend Dataverse with Power Automate
+summary: |
+  [!include[](../includes/module-banner.md)]
+  With the Microsoft Dataverse connector, you can build Power Automate cloud flow automations that start on events within a Dataverse environment. In addition to the primary data operations, you can also work with files and images, perform custom actions, search data, and manage transactions on data operations.
+abstract: |
+    This module explains how to:
+    - Work with files and images stored in Dataverse columns
+    - Perform bound and unbound operations
+    - Search Dataverse data from a cloud flow
+    - Use changesets to create or modify Dataverse data in a transaction
+prerequisites: |
+  - Basic understanding of building cloud flows with Power Automate
+  - Basic understanding of using the Dataverse connector
+  - Access to an environment with Dataverse with sample apps installed if you want to do the included exercises
+iconUrl: /training/achievements/extend-dataverse-power-automate.svg
+levels:
+- intermediate
+roles:
+- maker
+- developer
+products:
+- power-platform
+- power-automate
+- dataverse
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.extend-dataverse-power-automate.1-introduction
+- learn-bizapps.extend-dataverse-power-automate.2-set-up-flow-trigger
+- learn-bizapps.extend-dataverse-power-automate.3-email-dataverse-record
+- learn-bizapps.extend-dataverse-power-automate.4-add-items
+- learn-bizapps.extend-dataverse-power-automate.5-test-run-flow
+- learn-bizapps.extend-dataverse-power-automate.6-check
+- learn-bizapps.extend-dataverse-power-automate.7-summary
+badge:
+  uid: learn-bizapps.extend-dataverse-power-automate.badge

@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.plan-manage-environment 
+metadata: 
+ title: Plan and manage your Microsoft Power Platform environment
+ description: Learn how to manage your Microsoft Power Platform environment
+ ms.date: 10/02/2023
+ author: jadaphillips
+ ms.author: jadaphillips  
+ ms.topic: module
+title: Plan and manage your Microsoft Power Platform environment 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Every organization has unique requirements based on their size, location, data residency requirements, and desire for democratized access to tools like Power Apps and Power Automate. This module discusses considerations that impact how an organization chooses to secure and govern their Microsoft Power Platform environments.
+abstract: |  
+    In this module, you will: 
+    - Identify cyber security risks and mitigation paths for those risks.
+    - Plan for environment variance, including handling exceptions.
+    - Layer Data Loss Prevention (DLP) policies for environments and the tenant.
+    - Discover how to prevent cross-tenant connections.
+    - Build DLP policy communication plans.
+prerequisites: A basic understanding of Power Apps and Power Automate, including their purpose and how these tools are used within an organization. In addition, students should be familiar with Microsoft Entra ID as an authentication source and a cursory understanding of establishing connections by using Microsoft Entra ID. Participants should have environment or tenant-wide administrative access to Microsoft Power Platform Admin center and Power Automate Admin center. 
+iconUrl: /training/achievements/plan-manage-environment.svg  
+levels:  
+- intermediate   
+roles:  
+- administrator
+- functional-consultant
+products:  
+- power-automate
+- power-platform
+- power-apps 
+subjects:
+- data-management
+units:
+- learn-bizapps.plan-manage-environment.1-introduction 
+- learn-bizapps.plan-manage-environment.2-prerequisites 
+- learn-bizapps.plan-manage-environment.3-risk-assessment 
+- learn-bizapps.plan-manage-environment.4-policy-communication 
+- learn-bizapps.plan-manage-environment.5-plan-environment 
+- learn-bizapps.plan-manage-environment.6-policies 
+- learn-bizapps.plan-manage-environment.7-exercise 
+- learn-bizapps.plan-manage-environment.8-check 
+- learn-bizapps.plan-manage-environment.9-summary 
+badge: 
+  uid: learn-bizapps.plan-manage-environment.badge

@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.flow-unattended-mode 
+metadata: 
+ title: Run a Power Automate for desktop flow in unattended mode
+ description: Learn how to run an unattended Microsoft Power Automate for desktop flow.
+ ms.date: 06/01/2022
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Run a Power Automate for desktop flow in unattended mode 
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Some business processes require supervision or input that’s impossible or risky to automate. However, you can fully automate other processes that don’t require human oversight or are inconvenient or impractical to constantly monitor. This module demonstrates the solution for these scenarios by explaining how to run your UI and API flows in unattended mode.
+abstract: |  
+    In this module, you'll: 
+    - Run a basic desktop flow in unattended mode.
+    - Run a desktop flow and cloud flow scenario in unattended mode.
+    - Learn about best practices and setup for unattended desktop flows.
+prerequisites: A paid unattended RPA license to do the exercises in this module. Unattended trial licensing is not available. Basic understanding of Microsoft Power Automate and completion of the six previous modules in this learning path because this module builds from them.
+iconUrl: /training/achievements/flow-unattended-mode.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- maker 
+products:  
+- power-platform 
+- power-automate 
+subjects:
+- productivity
+units:
+- learn-bizapps.flow-unattended-mode.1-introduction 
+- learn-bizapps.flow-unattended-mode.2-setup 
+- learn-bizapps.flow-unattended-mode.3-unattended-mode 
+- learn-bizapps.flow-unattended-mode.4-test-run 
+- learn-bizapps.flow-unattended-mode.5-best-practices 
+- learn-bizapps.flow-unattended-mode.6-check 
+- learn-bizapps.flow-unattended-mode.7-summary 
+badge: 
+  uid: learn-bizapps.flow-unattended-mode.badge

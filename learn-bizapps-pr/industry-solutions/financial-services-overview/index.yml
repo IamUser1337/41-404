@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.financial-services-overview 
+metadata: 
+ title: Microsoft Cloud for Financial Services overview
+ description: This module describes the overall capabilities that are included in Microsoft Cloud for Financial Services. 
+ ms.date: 01/31/2024 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-financial-services
+title: Microsoft Cloud for Financial Services overview
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Learn about the overall capabilities that come with the Microsoft Cloud for Financial Services solution templates. The solution templates discussed in this module focus on the retail-banking and to some extent the wealth management sub-verticals of this broad industry.
+abstract: |  
+    In this module, you'll: 
+    - Learn about Microsoft Cloud for Financial Services solution templates.
+    - Discover Cloud for Financial Services industry trends and prioritization of functional capabilities.
+    - Get an overview of the architecture of Cloud for Financial Services 
+prerequisites: None
+iconUrl: /training/achievements/financial-services-overview.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- power-platform
+- industry-solutions 
+- mscloud-financial
+subjects:
+- business-applications
+units:
+- learn-bizapps.financial-services-overview.1-introduction 
+- learn-bizapps.financial-services-overview.2-customer-experiences 
+- learn-bizapps.financial-services-overview.4-security-compliance 
+- learn-bizapps.financial-services-overview.5-architecture 
+- learn-bizapps.financial-services-overview.well-architected
+- learn-bizapps.financial-services-overview.6-check 
+- learn-bizapps.financial-services-overview.7-summary 
+badge: 
+  uid: learn-bizapps.financial-services-overview.badge

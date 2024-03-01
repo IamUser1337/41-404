@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.dataverse-teams-power-bi.3-create-report 
+title: Create a Power BI report
+metadata: 
+  title: Create a Power BI report
+  description: Learn how to build a report with interactive visualizations by using the Report view in Power BI.
+  ms.date: 07/30/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 8
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-create-report.md)] 

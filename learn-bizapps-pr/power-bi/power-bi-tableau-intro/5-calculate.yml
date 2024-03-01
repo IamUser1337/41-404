@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.5-calculate 
+title: CALCULATE function
+metadata: 
+  title: CALCULATE function
+  description: Learn how to use the CALCULATE function to control row and filter context.
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-calculate.md)] 

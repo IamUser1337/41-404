@@ -1,0 +1,53 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.install-required-software-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 11/29/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: The installer installs which of the following on your computer?
+    choices:
+    - content: Power Automate for desktop app.
+      isCorrect: false
+      explanation: Incorrect. All of these are required and installed with the installer.
+    - content: Power Automate for desktop browser extension for Microsoft Edge Chromium and Google Chrome.
+      isCorrect: false
+      explanation: Incorrect. All of these are required and installed with the installer.
+    - content: Power Automate machine-runtime management app.
+      isCorrect: false
+      explanation: Incorrect. All of these are required and installed with the installer.
+    - content: All of these.
+      isCorrect: true
+      explanation: Correct. All of these are required and installed with the installer.
+  - content: Where do you add and manage machines?
+    choices:
+    - content: Machine group settings
+      isCorrect: true
+      explanation: Correct. Use the Machine group settings to add more machines to one machine group and manage them together.
+    - content: Device manager on your PC
+      isCorrect: false
+      explanation: Incorrect. Use the Machine group settings to add more machines to one machine group and manage them together.
+    - content: Power Platform admin center
+      isCorrect: false
+      explanation: Incorrect. Use the Machine group settings to add more machines to one machine group and manage them together.
+  - content: Which role will users need to register machines?
+    choices:
+    - content: Environment maker
+      isCorrect: false
+      explanation: Incorrect. Users need either an Environment Maker or desktop Flow Machine Owner role permission to register machines. Before registering a machine, make sure that you have the required permissions, and there's an available environment to register the new machine in.
+    - content: Flow machine owner
+      isCorrect: false
+      explanation: Incorrect. Users need either an Environment Maker or desktop Flow Machine Owner role permission to register machines. Before registering a machine, make sure that you have the required permissions, and there's an available environment to register the new machine in.
+    - content: Either of these
+      isCorrect: true
+      explanation: Correct. Users need either an Environment Maker or desktop Flow Machine Owner role permission to register machines. Before registering a machine, make sure that you have the required permissions, and there's an available environment to register the new machine in.
+    - content: Both of these
+      isCorrect: false
+      explanation: Incorrect. Users need either an Environment Maker or desktop Flow Machine Owner role permission to register machines. Before registering a machine, make sure that you have the required permissions, and there's an available environment to register the new machine in.

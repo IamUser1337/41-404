@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.4-5-design-app
+title: Designing a Power Apps app
+metadata:
+  title: Designing a Power Apps app
+  description: Learn how to design a Power Apps app.
+  ms.date: 01/03/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/4-5-design-app.md)]

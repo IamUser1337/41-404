@@ -1,0 +1,62 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.create-chatbot-power-virtual-agents-dataverse-teams.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/05/2024 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which app would you use to create and manage copilots in Dataverse for Teams?
+    choices: 
+    - content: Power Automate for Teams
+      isCorrect: false
+      explanation: Power Automate for Teams is used to create flows that automate business workflows. Microsoft Copilot Studio for Teams is the correct answer.
+    - content: Power Apps for Teams
+      isCorrect: false 
+      explanation: Power Apps for Teams is used to create custom apps. Microsoft Copilot Studio for Teams is the correct answer.
+    - content: Microsoft Copilot Studio for Teams
+      isCorrect: true 
+      explanation: Create, edit, publish, and delete copilots with Microsoft Copilot Studio for Teams.
+    - content: Power copilots for Teams
+      isCorrect: false 
+      explanation: Only Microsoft Copilot Studio for Teams can create and manage copilots in Dataverse for Teams.
+  - content: You have a new copilot that you want your team to start using. Everyone on your team is already a member of the team that is associated with the copilot. How do you share the copilot so they can install it from the Built by your colleagues section in Teams?
+    choices: 
+    - content: Because the copilot is already associated with the team, you should provide the shared link for the copilot.
+      isCorrect: false
+      explanation: The copilot shared link doesn't add the copilot to the Built by your colleagues section in Teams.
+    - content: Publish the copilot and then select Add to Teams when you're sharing the copilot by using Microsoft Copilot Studio for Teams.
+      isCorrect: true 
+      explanation: Adding to Teams will allow team members to install the copilot from the Built by your colleagues section in Teams.
+    - content: Add the team members to the security group that is associated with the copilot.
+      isCorrect: false 
+      explanation: You can't associate a security group with a copilot. You can only provide access to the copilot to the team that is associated with the copilot and, if needed, to the rest of the organization.
+    - content: Submit the copilot for admin approval after you publish the app in Microsoft Copilot Studio for Teams.
+      isCorrect: false 
+      explanation: Submit for admin approval is for requesting the copilot to be published to the entire organization.
+  - content: Which is a type of conversation node that doesn't exist?
+    choices: 
+    - content: Ask a Question
+      isCorrect: false
+      explanation: Question nodes are used to ask questions and get a response from the user.
+    - content: Add a Condition
+      isCorrect: false 
+      explanation: Condition nodes are used for branching logic.
+    - content: Make a Decision
+      isCorrect: true  
+      explanation: No such conversation node named Make a decision exists.
+    - content: Show a Message
+      isCorrect: false 
+      explanation: Message nodes respond to the user with information.
+    - content: End with survey
+      isCorrect: false 
+      explanation: Survey nodes cause a survey to appear when the conversation ends.
+    - content: Call an action
+      isCorrect: false 
+      explanation: Action nodes call Power Automate flows.

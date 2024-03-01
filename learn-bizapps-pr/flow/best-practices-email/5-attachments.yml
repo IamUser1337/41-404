@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.best-practices-email.5-attachments 
+title: Attachments or links
+metadata: 
+  title: Attachments or links 
+  description: Learn about attachments and links. 
+  ms.date: 04/21/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-attachments.md)] 

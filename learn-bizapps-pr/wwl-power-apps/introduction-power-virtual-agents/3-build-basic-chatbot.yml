@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.introduction-to-power-virtual-agents.build-basic-chatbot
+title: Build a basic chatbot
+metadata:
+  title: Build a basic chatbot
+  description: "Introduction to the process of building a basic Power Virtual Agents chatbot."
+  ms.date: 10/06/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](includes/3-build-basic-chatbot.md)]

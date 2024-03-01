@@ -1,0 +1,54 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.monitor-to-troubleshoot.5-knowledge-check
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/10/2021 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: How do you start the Monitor tool? 
+    choices: 
+    - content: Monitor is always running when you are in Power Apps Studio. 
+      isCorrect: false 
+      explanation: Monitor is an on-demand feature and only runs when you start it manually by selecting the Advanced tools tab in Power Apps Studio.
+    - content: By selecting the Advanced tools tab in Power Apps Studio. 
+      isCorrect: true 
+      explanation: Selecting the Advanced tools tab in Power Apps Studio will open a new browser tab and connects it to your existing Power Apps Studio session.
+    - content: Launch it from the make.powerapps.com link.
+      isCorrect: false 
+      explanation: Edit the app first and then start Monitor by selecting the Advanced tools tab in Power Apps Studio.
+    - content: Install it from Microsoft AppSource. 
+      isCorrect: false 
+      explanation: Monitor is a built-in feature of Power Apps Studio. You will start Monitor by selecting the Advanced tools tab in Power Apps Studio.
+  - content: You want to run Monitor on a published app. What do you need to do?  
+    choices:
+    - content: Launch Monitor and invite the user. 
+      isCorrect: false 
+      explanation: First, you need to enable the Debug published app option in the Settings area.
+    - content: Enable the Debug published app setting and then launch Monitor and invite the user. 
+      isCorrect: false 
+      explanation: First, you need to save and publish the app after changing settings.
+    - content: Enable the Debug published app setting, save and publish the app, and then launch Monitor and invite the user.
+      isCorrect: true 
+      explanation: These steps are necessary to use Monitor with a published app.
+  - content: Monitor can't be used to identify which one of the following problems?  
+    choices:
+    - content: Accessibility issues 
+      isCorrect: true 
+      explanation: Accessibility issues are identified by using the App checker feature in Power Apps Studio.
+    - content: Delegation issues 
+      isCorrect: false 
+      explanation: Monitor helps to identify delegation issues in the event data.
+    - content: Slow queries of data
+      isCorrect: false 
+      explanation: Monitor includes the response time of the connector actions.
+    - content: Errors from Dataverse data source actions 
+      isCorrect: false 
+      explanation: Monitor event data shows Dataverse errors that occur.

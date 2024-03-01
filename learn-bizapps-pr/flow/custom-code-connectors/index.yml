@@ -1,0 +1,39 @@
+### YamlMime:Module 
+uid: learn-bizapps.custom-code-connectors 
+metadata: 
+ title: Use custom code in custom connectors for Microsoft Power Platform
+ description: Learn about custom code in custom connectors for Microsoft Power Platform. 
+ ms.date: 06/28/2023  
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok  
+ ms.topic: module
+title: Use custom code in custom connectors for Microsoft Power Platform
+summary: | 
+  [!include[](../includes/module-banner.md)] 
+  Learn how to use custom code in custom connectors.  
+abstract: | 
+    In this module, you'll: 
+    - Watch a demo of how to use custom code in a custom connector
+    - Build the script class
+    - Use custom code
+prerequisites: None
+iconUrl: /learn/achievements/custom-code-connectors.svg 
+levels: 
+- intermediate 
+roles: 
+- maker 
+- developer 
+products: 
+- power-platform
+- power-automate 
+subjects: 
+- process-workflow 
+units: 
+- learn-bizapps.custom-code-connectors.introduction 
+- learn-bizapps.custom-code-connectors.demo 
+- learn-bizapps.custom-code-connectors.build-script-class 
+- learn-bizapps.custom-code-connectors.exercise 
+- learn-bizapps.custom-code-connectors.check 
+- learn-bizapps.custom-code-connectors.summary 
+badge: 
+  uid: learn-bizapps.custom-code-connectors.badge 

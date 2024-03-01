@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps-get-started.3-powerapps-related-technologies
+title: Use Power Apps with Power Automate and Power BI
+metadata:
+  title: Use Power Apps with Power Automate and Power BI
+  description: Learn how you can use Power Apps with other technologies to build and share apps across your organization.
+  ms.date: 01/03/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-powerapps-related-technologies.md)]

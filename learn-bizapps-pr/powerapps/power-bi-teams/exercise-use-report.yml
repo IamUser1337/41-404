@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-teams.exercise-use-report 
+title: Exercise - Use the report
+metadata: 
+  title: Exercise - Use the report
+  description: Learn how to use the report.
+  ms.date: 10/06/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise-use-report.md)] 

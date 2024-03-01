@@ -1,0 +1,3 @@
+This module uses an existing solution as the basis for creating the AI model. The solution includes a desktop flow that is built into Microsoft Power Automate for desktop to perform actions in an invoicing application.
+
+The desktop flow contains various input and output variables and is connected to a cloud flow through a gateway that is triggered by receiving an email in Microsoft Outlook. These features are packaged together in a Power Automate solution. You can use this module to learn the concepts that are involved in creating and training AI models for your own solution, or you can build off the previous modules to re-create the example solution.

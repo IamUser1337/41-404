@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-intro.prepare-content
+title: Prepare Power BI content for embedding
+metadata:
+  title: Prepare Power BI content for embedding
+  description: Learn to create workspaces for embedded content, and to prepare datasets, reports, visuals, paginated reports, dashboards, and Q&A for embedding.
+  ms.date: 04/10/2022
+  author: mberdugo
+  manager: kfollis 
+  ms.author: monaberdugo
+  ms.topic: unit
+durationInMinutes: 7
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/prepare-content.md)]

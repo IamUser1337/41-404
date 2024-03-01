@@ -1,0 +1,47 @@
+### YamlMime:Module
+uid: learn-bizapps.powerapps-common-data-service
+metadata:
+  title: Create tables in Microsoft Dataverse
+  description: Dataverse lets you securely store and manage data that's used by business applications. Standard and custom tables within Dataverse provide a secure and cloud-based storage option for your data.
+  ms.date: 01/31/2024
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: module
+title: Create tables in Dataverse
+summary: |
+    [!include[](../includes/module-banner.md)]
+    Dataverse lets you securely store and manage data that's used by business applications. Standard and custom tables within Dataverse provide a secure and cloud-based storage option for your data.
+abstract: |
+    This module explains how to:
+    - Create tables with Dataverse
+    - Import data into a Dataverse database
+prerequisites: |
+  - A Microsoft Power Apps account. If you don't already have a Power Apps account, select the **Get started free** link on [powerapps.com](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc).
+iconUrl: /training/achievements/get-started-with-powerapps-common-data-service.svg
+levels:
+- beginner
+roles:
+- business-user
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+- dataverse
+subjects:
+- data-modeling
+units:
+- learn-bizapps.powerapps-common-data-service.1-introduction
+- learn-bizapps.powerapps-common-data-service.2-learn-about-entities
+- learn-bizapps.powerapps-common-data-service.3-create-a-cds-entity
+- learn-bizapps.powerapps-common-data-service.4-import-data-into-your-database
+- learn-bizapps.powerapps-common-data-service.learn-about-relationships
+- learn-bizapps.powerapps-common-data-service.create-table-relationships
+- learn-bizapps.powerapps-common-data-service.logic-security
+- learn-bizapps.powerapps-common-data-service.4a-use-data-cds-exercise
+- learn-bizapps.powerapps-common-data-service.auditing
+- learn-bizapps.powerapps-common-data-service.2b-dual-write-vs-virtual-table
+- learn-bizapps.powerapps-common-data-service.4b-check
+- learn-bizapps.powerapps-common-data-service.5-summary
+badge:
+  uid: learn.powerapps-common-data-service.badge

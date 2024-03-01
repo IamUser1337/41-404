@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.retail-setup-training-environment.deploy-store-operations
+title: Exercise - Deploy the Store Operations Assist solution
+metadata:
+  title: Exercise - Deploy the Store Operations Assist solution
+  description: Follow the steps to deploy the Store Operations Assist solution.
+  ms.date: 06/01/2023
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/deploy-store-operations.md)]

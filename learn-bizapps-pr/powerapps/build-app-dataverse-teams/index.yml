@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.build-app-dataverse-teams 
+metadata: 
+ title: Build your first app with Power Apps and Dataverse for Teams
+ description: Learn how to build an app by using Microsoft Dataverse for Teams.
+ ms.date: 04/28/2023
+ author: jadaphillips 
+ ms.author: jadaphillips
+ ms.topic: module
+ ms.subservice: dataverse-developer
+title: Build your first app with Power Apps and Dataverse for Teams
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Today’s business problems increasingly require modern digital solutions. With a low-code platform, anyone with a great idea can build a digital app. Dataverse for Teams allows you to build modern digital apps and deploy them to help you and your team solve those problems.
+abstract: |  
+    In this module, you will: 
+    - Create an app by using the hero template.
+    - Customize and publish your app.
+    - Install templates.
+prerequisites: Familiarity with Microsoft Teams
+iconUrl: /training/achievements/build-app-dataverse-teams.svg  
+levels:  
+- beginner   
+roles:  
+- maker  
+products:  
+- power-platform
+- power-apps
+- dataverse
+- office-teams
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.build-app-dataverse-teams.01-introduction 
+- learn-bizapps.build-app-dataverse-teams.02-create-app 
+- learn-bizapps.build-app-dataverse-teams.03-customize-app 
+- learn-bizapps.build-app-dataverse-teams.04-publish-app 
+- learn-bizapps.build-app-dataverse-teams.05-template 
+- learn-bizapps.build-app-dataverse-teams.06-check 
+- learn-bizapps.build-app-dataverse-teams.07-summary 
+badge: 
+  uid: learn-bizapps.build-app-dataverse-teams.badge

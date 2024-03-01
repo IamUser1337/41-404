@@ -1,0 +1,41 @@
+### YamlMime:Module 
+uid: learn-bizapps.connect-cloud-desktop-flow
+metadata: 
+ title: Connect a cloud flow to desktop flows in Power Automate for desktop
+ description: Learn how to create cloud flows in Microsoft Power Automate for desktop.
+ ms.date: 12/26/2022
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Connect a cloud flow to desktop flows in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Implementing business processes or completing everyday tasks often requires you to use multiple systems, data sources, or a combination of desktop applications and cloud services. This module explains how to use gateways to connect desktop flows to other technology and cloud services and use robotic process automation (RPA) to its fullest potential. 
+abstract: |  
+    In this module, you'll: 
+    - Learn how to install the Power Automate for desktop application and how to create a desktop and cloud flow. 
+    - Set up an on-premises data gateway to enable the cloud flow to run the desktop flow on your device.
+    - Add the desktop flow to the new cloud flow.
+    - Test the new desktop and cloud flows.
+prerequisites: Basic understanding of Microsoft Power Automate. This module builds from the Build your first Power Automate for desktop flow and the Use input and output parameters modules. 
+iconUrl: /training/achievements/connect-cloud-desktop-flow.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- maker 
+products:  
+- power-platform 
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.connect-cloud-desktop-flow.introduction 
+- learn-bizapps.connect-cloud-desktop-flow.setup 
+- learn-bizapps.connect-cloud-desktop-flow.cloud-flow 
+- learn-bizapps.connect-cloud-desktop-flow.cloud-desktop 
+- learn-bizapps.connect-cloud-desktop-flow.test-connection 
+- learn-bizapps.connect-cloud-desktop-flow.check 
+- learn-bizapps.connect-cloud-desktop-flow.summary 
+badge: 
+  uid: learn-bizapps.connect-cloud-desktop-flow.badge

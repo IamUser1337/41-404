@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.incorporate-maps-address.configure-map-control
+title: Set up the interactive map control in a canvas app
+metadata:
+  title: Set up the interactive map control in a canvas app
+  description: Learn how to set up the interactive map control in a canvas app.
+  ms.date: 08/31/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/configure-map-control.md)]

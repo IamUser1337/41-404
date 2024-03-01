@@ -1,0 +1,35 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.ui-controls-canvas-app-powerapps
+metadata:
+  title: Use the UI and controls in a canvas app in Power Apps
+  description: The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls.
+  ms.date: 03/29/2019
+  author: KevSch
+  ms.author: kschimke
+  ms.topic: learning-path
+title: Use the UI and controls in a canvas app in Power Apps
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  The app user experience often defines the success of your app. This learning path will focus on how to provide the best app navigation, and build the best UI using themes, icons, images, personalization, different form factors, and controls. 
+
+  This learning path can help you prepare for the [Microsoft Certified: Microsoft Power Platform App Maker Associate certification](/certifications/power-platform-app-maker/?azure-portal=true).
+  
+prerequisites: A basic understanding of how to create a Power Apps canvas app and some experience working with controls in Power Apps is helpful but not required.
+iconUrl: /training/achievements/ui-controls-canvas-app-powerapps.svg
+levels:
+- intermediate
+roles:  
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+modules:
+- learn-bizapps.navigation-canvas-app
+- learn-bizapps.how-to-build-ui-canvas-app
+- learn-bizapps.controls-canvas-apps
+- learn-bizapps.use-documentation 
+trophy:
+  uid: learn-bizapps.ui-controls-canvas-app-powerapps.trophy

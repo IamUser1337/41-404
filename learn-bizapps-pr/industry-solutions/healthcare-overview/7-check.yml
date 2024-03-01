@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-overview.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/27/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: unit
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: What are the four prioritized scenarios that Microsoft Cloud for Healthcare focuses on?
+    choices: 
+    - content: Educate patients, foster patient collaboration, encourage care members, and increase care coordination
+      isCorrect: false
+      explanation: Microsoft Cloud for Healthcare focuses on creating connected patient experiences, fostering health team collaboration, empowering healthcare workforce, and unlocking the value of health data.
+    - content: Engage patients, energize care teams, inform care coordinators, and improve insights
+      isCorrect: false 
+      explanation: Microsoft Cloud for Healthcare focuses on creating connected patient experiences, fostering health team collaboration, empowering healthcare workforce, and unlocking the value of health data.
+    - content: Create connected patient experiences, foster health team collaboration, empower healthcare workforce, and unlock the value of health data 
+      isCorrect: true 
+      explanation: Microsoft Cloud for Healthcare focuses on creating connected patient experiences, fostering health team collaboration, empowering healthcare workforce, and unlocking the value of health data.
+    - content: Enlighten patients, ensure quality care plans, initiate home visits, and use insights from health data 
+      isCorrect: false 
+      explanation: Microsoft Cloud for Healthcare focuses on creating connected patient experiences, fostering health team collaboration, empowering healthcare workforce, and unlocking the value of health data.
+  - content: Which Microsoft technologies does Microsoft Cloud for Healthcare use?
+    choices: 
+    - content: Dynamics 365 and Microsoft Power Platform
+      isCorrect: false
+      explanation: Microsoft Cloud for Healthcare uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+    - content: Microsoft 365
+      isCorrect: false 
+      explanation: Microsoft Cloud for Healthcare uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+    - content: Azure
+      isCorrect: false 
+      explanation: Microsoft Cloud for Healthcare uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+    - content: All the above
+      isCorrect: true 
+      explanation: Microsoft Cloud for Healthcare uses Dynamics 365, Microsoft Power Platform, Microsoft 365, and Azure.
+  - content: Which of the following components is a key component of data flow and interoperability in Microsoft Cloud for Healthcare?
+    choices: 
+    - content: Azure Health Data Services
+      isCorrect: false
+      explanation: Health data models are key components of data flow and interoperability.
+    - content: Health data models
+      isCorrect: true 
+      explanation: Health data models are key components of data flow and interoperability.
+    - content: Healthcare APIs
+      isCorrect: false 
+      explanation: Health data models are key components of data flow and interoperability.
+    - content: Healthcare connectors 
+      isCorrect: false 
+      explanation: Health data models are key components of data flow and interoperability.

@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-health-text-analytics.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 02/28/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: When you deploy a container with Text Analytics for health, which one of the following settings do you need to set up?
+    choices:
+    - content: API key only
+      isCorrect: false
+      explanation: Incorrect. You're required to provide an API Key and Endpoint URI for the service, and you're required to accept the EULA and RIA terms.
+    - content: API Key and Endpoint URI for the service, and you're required to accept the EULA and RIA terms
+      isCorrect: true
+      explanation: Correct. You're required to provide all four of these configuration settings to successfully use the service that's deployed in the container.
+    - content: API Key and Endpoint URI for the service
+      isCorrect: false
+      explanation: Incorrect. You're required to provide an API Key and Endpoint URI for the service, and you're required to accept the EULA and RIA terms.
+    - content: API Key, and you're required to accept the EULA and RIA terms
+      isCorrect: false
+      explanation: Incorrect. You're required to provide an API Key and Endpoint URI for the service, and you're required to accept the EULA and RIA terms.
+  - content: If you don't provide a language property value for a document, how does Text Analytics for health process the text?
+    choices:
+    - content: Processing defaults to English
+      isCorrect: true
+      explanation: Correct. Processing will default to English.
+    - content: It uses your computer's default language
+      isCorrect: false
+      explanation: Incorrect. Processing will default to English.
+    - content: It depends on which container you deployed
+      isCorrect: false
+      explanation: Incorrect. Processing will default to English, regardless of which container you deploy or if you use the cloud service.
+  - content: If an SDK doesn't exist for your programming language, what should you use to access Text Analytics for health?
+    choices:
+    - content: REST API
+      isCorrect: true
+      explanation: Correct. You can use the REST API with any programming language that's capable of REST operations.
+    - content: Language Studio
+      isCorrect: false
+      explanation: Incorrect. Language Studio is a good test tool, but the REST API is how you would use the service with any programming language that's capable of REST operations.
+    - content: cURL
+      isCorrect: false
+      explanation: Incorrect. cURL is a tool that can use the REST API, but the REST API is how you would use the service with any programming language that's capable of REST operations.

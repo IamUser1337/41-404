@@ -1,0 +1,70 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.patient-access-service-center.6-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/21/2023  
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following options is an auxiliary work area that contains tools for supporting or expediting tasks when agents are resolving customer issues?
+    choices: 
+    - content: Scheduling board
+      isCorrect: false 
+      explanation: The Productivity pane is an auxiliary work area that contains tools for supporting or expediting tasks when agents are resolving customer issues.
+    - content: Healthcare Patient Portal
+      isCorrect: false 
+      explanation: The Productivity pane is an auxiliary work area that contains tools for supporting or expediting tasks when agents are resolving customer issues.
+    - content: Productivity pane
+      isCorrect: true 
+      explanation: The Productivity pane is an auxiliary work area that contains tools for supporting or expediting tasks when agents are resolving customer issues.
+    - content: Azure Health Bot
+      isCorrect: false 
+      explanation: The Productivity pane is an auxiliary work area that contains tools for supporting or expediting tasks when agents are resolving customer issues.
+  - content: Which portal template was originally deployed in your environment before you set it to the Healthcare Patient Portal template?
+    choices: 
+    - content: Customer Self-Service
+      isCorrect: true 
+      explanation: The Customer Self-Service portal template was originally deployed in your environment before you set it to the Healthcare Patient Portal template.
+    - content: Employee self-service
+      isCorrect: false 
+      explanation: The Customer Self-Service portal template was originally deployed in your environment before you set it to the Healthcare Patient Portal template.
+    - content: Community
+      isCorrect: false 
+      explanation: The Customer Self-Service portal template was originally deployed in your environment before you set it to the Healthcare Patient Portal template.
+    - content: Customer Portal
+      isCorrect: false 
+      explanation: The Customer Self-Service portal template was originally deployed in your environment before you set it to the Healthcare Patient Portal template.
+  - content: Which role is a user required to have to act as a live agent in Patient Service Center and accept patient escalations?
+    choices: 
+    - content: Productivity Tools User
+      isCorrect: false 
+      explanation: The user is required to have the Omnichannel agent role to act as a live agent in Patient Service Center and accept patient escalations.
+    - content: Knowledge Manager
+      isCorrect: false 
+      explanation: The user is required to have the Omnichannel agent role to act as a live agent in Patient Service Center and accept patient escalations.
+    - content: Field Service - Resource
+      isCorrect: false 
+      explanation: The user is required to have the Omnichannel agent role to act as a live agent in Patient Service Center and accept patient escalations.
+    - content: Omnichannel agent
+      isCorrect: true 
+      explanation: The user is required to have the Omnichannel agent role to act as a live agent in Patient Service Center and accept patient escalations.
+  - content: Which of the following features are displayed in the Patient Access portal?
+    choices: 
+    - content: Messages, Conditions, Claims, Emergency Contacts
+      isCorrect: false 
+      explanation: The Find a doctor, Appointments, Care plans, and Medical records features are displayed in the Patient portal.
+    - content: Find a doctor, Appointments, Care plans, and Medical records
+      isCorrect: true 
+      explanation: The Find a doctor, Appointments, Care plans, and Medical records features are displayed in the Patient portal.
+    - content: Appointments, Allergies, Care plans, Locations
+      isCorrect: false 
+      explanation: The Find a doctor, Appointments, Care plans, and Medical records features are displayed in the Patient portal.
+    - content: Care teams, Organizations, Messages, Medications
+      isCorrect: false 
+      explanation: The Find a doctor, Appointments, Care plans, and Medical records features are displayed in the Patient portal.

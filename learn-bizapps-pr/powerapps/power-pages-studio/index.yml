@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-studio
+metadata:
+ title: Create and customize sites with Power Pages design studio
+ description: Power Pages makers spend most of their time building sites in Power Pages design studio. It's important that makers have a full understanding of the capabilities and also the limitations of the design studio. This module will focus on understanding and using the design studio to create and customize sites. Power Pages design studio allows makers to add and configure pages, layout components, static content, custom CSS files, lists, and forms connected to Dataverse.
+ ms.date: 01/04/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+ ms.service: power-pages
+title: Explore Power Pages design studio
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  Power Pages makers spend most of their time building sites in Power Pages design studio. It's important that makers have a full understanding of the capabilities and also the limitations of the design studio. This module will focus on understanding and using the design studio to create and customize sites. Power Pages design studio allows makers to add and configure pages, layout components, static content, custom CSS files, lists, and forms connected to Dataverse.
+abstract: |
+    In this module, you'll:
+    - Learn how to launch and run Power Pages design studio.
+    - Identify the various workspaces, commands, and tools.
+    - Discover how to add new pages, how to place them in the site structure, and how to style the site appearance.
+    - Learn about the process of configuring specific layouts and adding and modifying different types of content to a page.
+    - Identify where to add or modify custom HTML, CSS, or code to the webpages by using the design studio.
+prerequisites: A basic understanding of how to use WYSIWYG tools to build web content. Knowledge of web technologies such as HTML and CSS will also be beneficial.
+iconUrl: /learn/achievements/power-pages-studio.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-pages
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.power-pages-studio.design-studio
+- learn-bizapps.power-pages-studio.web-pages
+- learn-bizapps.power-pages-studio.components
+- learn-bizapps.power-pages-studio.styling
+- learn-bizapps.power-pages-studio.exercise
+- learn-bizapps.power-pages-studio.check
+- learn-bizapps.power-pages-studio.summary
+badge:
+  uid: learn-bizapps.power-pages-studio.badge

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-flow-control.2-flow-control-actions 
+title: Flow control actions
+metadata: 
+  title: Flow control actions
+  description: Learn about the flow control actions in Power Automate for desktop.
+  ms.date: 09/28/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+  
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-flow-control-actions.md)] 

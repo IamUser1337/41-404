@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.author-basic-formula-tables-records-powerapps
+metadata: 
+  title: Author a basic formula that uses tables and records in a Power Apps canvas app 
+  description: Learn how to author a basic formula that uses tables and records in a Power Apps canvas app.
+  ms.date: 04/29/2021  
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  
+title: Author a basic formula that uses tables and records in a Power Apps canvas app  
+summary: |
+  [!include[](../includes/module-banner.md)]
+
+  Do you want to use tables and records and filter data in your canvas app? This module will focus on the differences between a table and a record and how to utilize both within your Power Apps canvas app.
+abstract: |  
+    In this module, you will: 
+    - Understand tables and records in Power Apps 
+    - Understand how to use Collect and ClearCollect to make multi-column tables
+    - Add a collection as a data source to a gallery
+    - Filter your table of data
+    - Use the LookUp function
+prerequisites: A basic understanding of how to create a canvas app in Power Apps.  This should include adding controls to the app and using a basic formula to edit a control and its behavior.  An understanding of working with data in Power Apps is also helpful but not required.          
+iconUrl: /training/achievements/tables-and-records.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user
+- maker   
+- functional-consultant 
+products:  
+- power-platform
+- power-apps
+subjects:
+- custom-app-development
+units:
+- learn-bizapps.tables-and-records.1-what-are-tables-records
+- learn-bizapps.tables-and-records.2-using-table-function
+- learn-bizapps.tables-and-records.3-store-a-table
+- learn-bizapps.tables-and-records.4-filter-your-table
+- learn-bizapps.tables-and-records.5-lookup-return-record
+- learn-bizapps.tables-and-records.6-additional-table-functions
+- learn-bizapps.tables-and-records.7a-exercise
+- learn-bizapps.tables-and-records.7-knowledge-check  
+- learn-bizapps.tables-and-records.8-summary
+badge: 
+  uid: learn-bizapps.author-basic-formula-tables-records-powerapps.badge

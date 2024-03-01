@@ -1,0 +1,38 @@
+### YamlMime:Module
+uid: learn-bizapps.create-data-model-expense-report
+metadata:
+ title: Create a data model for an expense report app
+ description: Learn how to create tables for your expense report canvas app and build the relationships between them in Microsoft Dataverse.
+ ms.date: 01/31/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Create a data model for an expense report app
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to create tables for your expense report canvas app and build the relationships between them in Microsoft Dataverse.
+abstract: |
+    In this module, you will:
+    - Create custom tables in Dataverse.
+    - Learn how to use existing tables in Dataverse.
+    - Relate tables in Dataverse.
+prerequisites: Basic understanding of Microsoft canvas apps and Dataverse
+iconUrl: /training/achievements/create-data-model-expense-report.svg
+levels:
+- beginner
+roles:
+- maker
+products:
+- power-apps
+- dataverse
+subjects:
+- data-modeling
+units:
+- learn-bizapps.create-data-model-expense-report.1-introduction
+- learn-bizapps.create-data-model-expense-report.2-use-predefined-tables
+- learn-bizapps.create-data-model-expense-report.3-create-expense-report-table
+- learn-bizapps.create-data-model-expense-report.4-relate-tables
+- learn-bizapps.create-data-model-expense-report.5-check
+- learn-bizapps.create-data-model-expense-report.6-summary
+badge:
+  uid: learn-bizapps.create-data-model-expense-report.badge

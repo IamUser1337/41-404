@@ -1,0 +1,34 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.share-collaborate-power-automate
+metadata:
+  title: Share and collaborate with Power Automate
+  description: Learn how to effectively collaborate with others while working in Power Automate.
+  ms.date: 04/07/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: learning-path
+title: Share and collaborate with Power Automate
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Collaborate effectively within Power Automate by using the comment feature, sharing flows, and buttons. This learning path will detail best practices when collaborating with others within Power Automate.
+prerequisites: |
+  - Basic familiarity with Power Automate. 
+iconUrl: /training/achievements/share-collaborate.svg
+levels:
+- beginner
+roles: 
+- business-user
+- functional-consultant
+- maker
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+modules:
+- learn-bizapps.share-cloud-flow
+- learn-bizapps.import-export-solutions
+- learn-bizapps.add-collaborative-comments
+- learn-bizapps.share-buttons 
+trophy: 
+  uid: learn-bizapps.share-collaborate.trophy

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.cognitive-service-power-virtual-agents.deploy-your-bot
+title: Deploy your bot
+metadata:
+  title: Deploy your bot
+  description: Learn how to deploy and test your bot.
+  ms.date: 09/28/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/deploy-your-bot.md)]

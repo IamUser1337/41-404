@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.implement-power-virtual-agents.6-administer
+title: Administer and manage
+metadata:
+  title: Administer and manage
+  description: Learn about the analytics that you can administer and how to manage security.
+  ms.date: 10/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 9
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6-administer.md)]

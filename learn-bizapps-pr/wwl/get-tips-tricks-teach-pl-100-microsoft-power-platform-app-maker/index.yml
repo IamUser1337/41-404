@@ -1,0 +1,41 @@
+### YamlMime:Module
+uid: learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker
+metadata:
+  title: Get tips and tricks for teaching PL-100 Microsoft Power Platform App Maker
+  description: "Learn tips and tricks about preparing for your first teaching session, which labs to use, when and how to introduce technical topics, as well as other resources and materials."
+  ms.date: 11/17/2023
+  author: wwlpublish
+  ms.author: tsheppard
+  ms.topic: module
+  ms.service: power-platform
+title: Get tips and tricks for teaching PL-100 Microsoft Power Platform App Maker
+summary: Learn tips and tricks about preparing for your first teaching session, which labs to use, when and how to introduce technical topics, as well as other resources and materials.
+abstract: |
+  After completing this module, you will be able to:
+  - Understand how to utilize the tips and tricks for teaching PL-100: Microsoft Power Platform App Maker Learning Path  in the classroom.
+  - Leverage the lab environment during the instructional portion of the class.
+  - Explain foundational course terminology and technical topics.
+  - Discover additional resources and materials to prepare students for success on their Microsoft certification exams.
+prerequisites: ""
+iconUrl: /training/achievements/get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.svg
+levels:
+- beginner
+roles:
+- higher-ed-educator
+products:
+- power-platform
+units:
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.introduction
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-objective-domains
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.module-best-practices
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-best-practices-module-1
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-best-practices-module-2
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-best-practices-module-3
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-best-practices-module-4
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-best-practices-module-5
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.explore-best-practices-module-6
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.bring-it-all-together
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.knowledge-check
+- learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.summary
+badge:
+  uid: learn.wwl.get-tips-tricks-teach-pl-100-microsoft-power-platform-app-maker.badge

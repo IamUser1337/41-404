@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.pad-first-steps
+metadata:
+ title: Take your first steps with Power Automate for desktop
+ description: This module covers the fundamental components of the Microsoft Power Automate for desktop platform.
+ ms.date: 10/01/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Take your first steps with Power Automate for desktop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to get started with the Microsoft Power Automate for desktop console and flow designer. The console helps you create and handle flows, while the flow designer is the development environment of the platform.
+abstract: |
+    In this module, you will:
+    - Explore the console and the flow designer.
+    - Learn how to use the core features of the Power Automate for desktop platform.
+    - Create and run a flow.
+prerequisites: |
+    [Power Automate for desktop](https://flow.microsoft.com/desktop/) should be installed.
+iconUrl: /training/achievements/pad-first-steps.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+- developer
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-first-steps.1-introduction
+- learn-bizapps.pad-first-steps.2-console-overview
+- learn-bizapps.pad-first-steps.3-flow-designer-overview
+- learn-bizapps.pad-first-steps.4-create-simple-flow
+- learn-bizapps.pad-first-steps.5-exercise-create-simple-flow
+- learn-bizapps.pad-first-steps.6-check-knowledge
+- learn-bizapps.pad-first-steps.7-summary
+badge:
+  uid: learn-bizapps.pad-first-steps.badge

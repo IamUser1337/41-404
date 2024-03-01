@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.integrations.4-outbound
+title: Outbound data integration
+metadata:
+  title: Outbound data integration
+  description: Learn about integrating from Dataverse to other systems.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+   
+durationInMinutes: 5
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/4-outbound.md)]

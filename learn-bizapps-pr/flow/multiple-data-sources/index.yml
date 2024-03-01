@@ -1,0 +1,43 @@
+### YamlMime:Module
+uid: learn-bizapps.multiple-data-sources
+metadata:
+ title: Power Automate's deep integration across multiple data sources
+ description: Learn to build flows across multiple data sources.
+ ms.date: 01/05/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Power Automate's deep integration across multiple data sources
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Power Automate is an online workflow service that automates actions across the most common apps and services. In this module, you'll build flows across multiple data sources.
+abstract: |
+    In this module, you will:
+    - Build a flow that uses Dataverse
+    - Build a flow that uses SQL
+    - Integrate Power Apps, Power Automate, and SharePoint
+    - Monitor flows
+prerequisites: You must have signed up for Power Automate, and have a OneDrive for Business account.
+iconUrl: /training/achievements/multiple-data-sources.svg
+levels:
+- beginner
+roles:
+- business-user
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+- data-management
+units:
+- learn-bizapps.multiple-data-sources.1-introduction
+- learn-bizapps.multiple-data-sources.2-event
+- learn-bizapps.multiple-data-sources.3-sql
+- learn-bizapps.multiple-data-sources.4-integrate
+- learn-bizapps.multiple-data-sources.5-monitor
+- learn-bizapps.multiple-data-sources.6-check
+- learn-bizapps.multiple-data-sources.7-summary
+badge:
+  uid: learn-bizapps.multiple-data-sources.badge

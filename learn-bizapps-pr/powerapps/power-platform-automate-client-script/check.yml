@@ -1,0 +1,49 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-platform-automate-client-script.check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 09/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  ms.service: "power-platform"
+  ms.subservice: developer
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: When would you use the Client API Xrm.WebAPI object?
+    choices:
+    - content: To display an interactive prompt to the user of a model-driven app.
+      isCorrect: false
+      explanation: Use the Client API Xrm.Navigation object's methods like openConfirmDialog to display an interactive prompt in a model-driven app.
+    - content: To capture an image using camera on the user's mobile device.
+      isCorrect: false
+      explanation: Use the Client API Xrm.Device object to interact with the mobile device capabilities like camera, microphone, location, etc.
+    - content: To interact with the underlying Dataverse of a model-driven app through its Web API.
+      isCorrect: true
+      explanation: Use the Client API Xrm.WebAPI Object to interact with the underlying Dataverse of a model-driven app through its Web API.
+  - content: What does Solution Checker allow you to do?
+    choices:
+    - content: Minimize and combine all JavaScript Web Resources in your solution.
+      isCorrect: false
+      explanation: Solution Checker does perform the analysis of the JavaScript Web Resources in your solution but doesn't modify or combine them.
+    - content: Detect the use of deprecated client script use in the solution's Web Resources.
+      isCorrect: true
+      explanation: Solution Checker flags the use of obsolete or deprecated methods including the deprecated Microsoft Dynamics CRM 2011 object model.
+    - content: Monitor runtime performance of your client scripts.
+      isCorrect: false
+      explanation: Solution Checker performs static analysis check of your solutions against a set of best practice rules but doesn't modify runtime behavior of any components.
+  - content: When would you use client script instead of business rules in a model-driven app?
+    choices:
+    - content: When you need to set a column as required when another Yes/No column has the value Yes selected.
+      isCorrect: false
+      explanation: Setting column as required based on a simple condition can be achieved using a business rule.
+    - content: When you need to stop the row import when two date columns have equal.
+      isCorrect: false
+      explanation: Client scripts don't run when rows are imported. Table-scoped business rules can be used in this scenario instead.
+    - content: When you need to display a custom form notification to a user.
+      isCorrect: true
+      explanation: When you need to display a custom form notification to a user in a model-driven app, you need to use client script because custom form notifications aren't available in business rules.

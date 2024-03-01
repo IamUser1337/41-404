@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-receipt-processing.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 07/20/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which one of the following selections is an example of a type of receipt that is not supported by receipt processing?
+    choices: 
+    - content: Restaurant receipts
+      isCorrect: false 
+      explanation: Full page receipts, such as hotel receipts or invoices, are not supported.
+    - content: Gas station receipts
+      isCorrect: false 
+      explanation: Full page receipts, such as hotel receipts or invoices, are not supported.
+    - content: Hotel receipts
+      isCorrect: true 
+      explanation: Full page receipts, such as hotel receipts or invoices, are not supported.
+    - content: Retail receipts
+      isCorrect: false 
+      explanation: Full page receipts, such as hotel receipts or invoices, are not supported.
+  - content: You need to make configurations prior to using receipt processing in your apps or flows. (True or False)
+    choices: 
+    - content: 'True'
+      isCorrect: false 
+      explanation: No training or prior configuration is required to use receipt processing.
+    - content: 'False'
+      isCorrect: true 
+      explanation: No training or prior configuration is required to use receipt processing.
+  - content: What type of information can you extract from a receipt when using receipt processing?
+    choices: 
+    - content: Commonly used receipt fields
+      isCorrect: false 
+      explanation: Receipt processing extracts commonly used receipt fields, confidence scores for each receipt field, and all detected text on the receipt.
+    - content: Confidence scores for each receipt field
+      isCorrect: false 
+      explanation: Receipt processing extracts commonly used receipt fields, confidence scores for each receipt field, and all detected text on the receipt.
+    - content: All detected text on the receipt
+      isCorrect: false 
+      explanation: Receipt processing extracts commonly used receipt fields, confidence scores for each receipt field, and all detected text on the receipt.
+    - content: All of the above
+      isCorrect: true 
+      explanation: Receipt processing extracts commonly used receipt fields, confidence scores for each receipt field, and all detected text on the receipt.

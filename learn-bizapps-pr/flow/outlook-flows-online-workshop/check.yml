@@ -1,0 +1,36 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.outlook-flows-online-workshop.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 07/10/2023
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Using a solution to manage your flows is a best practice, but what is the reason for using solutions in this lab? Is it because the AI Builder model in the next lab will only be supported within a solution-based flow?
+    choices:
+    - content: Yes
+      isCorrect: true
+      explanation: Correct. Calling an AI Builder model requires the use of a solution-aware flow.
+    - content: No
+      isCorrect: false
+      explanation: Incorrect. Calling an AI Builder model requires the use of a solution-aware flow.
+  - content: How do you check your Outlook connection after you’ve signed in to your Outlook to ensure that you're using the correct account?
+    choices:
+    - content: Open your Outlook manually.
+      isCorrect: false
+      explanation: Incorrect. Select the ellipsis (…) icon in the upper-right corner of the box, where the email address that was used to create the connection is displayed.
+    - content: Select Show advanced options.
+      isCorrect: false
+      explanation: Incorrect. Select the ellipsis (…) icon in the upper-right corner of the box, where the email address that was used to create the connection is displayed.
+    - content: Select the Outlook icon in the cloud flow.
+      isCorrect: false
+      explanation: Incorrect. Select the ellipsis (…) icon in the upper-right corner of the box, where the email address that was used to create the connection is displayed.
+    - content: Select the ellipsis (…) icon in the upper-right corner of the box.
+      isCorrect: true
+      explanation: Correct. Select the ellipsis (…) icon in the upper-right corner of the box, where the email address that was used to create the connection is displayed.

@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.configure-custom-connectors-api.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 05/12/2023 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+ 
+durationInMinutes: 8 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You have created a custom connector and want another user in the same environment to use it to create a Power Automate flow. What do you need to do to allow this accessibility?
+    choices: 
+    - content: Select the Save as option on the custom connector to create a copy for the other user.
+      isCorrect: false
+      explanation: Sharing the custom connector would allow the other person to use it without having to make a copy.
+    - content: Share the custom connector with the other user.
+      isCorrect: true 
+      explanation: By default, custom connectors aren't available to other users; you must share them to make them available to others.
+    - content: Change the authentication type to anonymous.
+      isCorrect: false 
+      explanation: The authentication type does not have bearing on whether another user can use the connector. By default, connectors aren't available to other users; you have to share them directly so that they can create a connection and build apps or a flow.
+    - content: Add the connector to a solution and then publish it.
+      isCorrect: false 
+      explanation: Connectors can be included as a component of a solution. However, they still need to be shared to be available to the other users.
+  - content: Which authentication scheme is recommended to help secure custom connectors to the API that is deployed by using Azure Functions?
+    choices: 
+    - content: No authentication
+      isCorrect: false
+      explanation: No authentication scheme allows any anonymous user to use a custom connector.
+    - content: Basic authentication
+      isCorrect: false 
+      explanation: Basic authentication is a valid authentication scheme, but it is not a recommended one to use within the Microsoft Entra ID environment.
+    - content: Microsoft Entra ID OAuth identity provider
+      isCorrect: true 
+      explanation: OAuth 2.0 authentication scheme with Azure AD provider is the recommended security scheme.
+    - content: Windows authentication
+      isCorrect: false 
+      explanation: Windows authentication is only available for custom connectors by using an on-premises connector.
+  - content: Which one of the following authentication types is not supported by custom connectors?
+    choices: 
+    - content: Basic
+      isCorrect: false
+      explanation: Basic authentication is supported by custom connectors.
+    - content: Cookies
+      isCorrect: true 
+      explanation: Cookies authentication is not supported by custom connectors.
+    - content: API Key
+      isCorrect: false 
+      explanation: API Key authentication is supported by custom connectors.
+    - content: OAuth 2.0
+      isCorrect: false 
+      explanation: OAuth 2.0 authentication is supported by custom connectors.
+  - content: When you are configuring OAuth 2.0 authentication for a custom connector, which of the following properties must you retrieve from the API identity provider to complete the security configuration?
+    choices: 
+    - content: API Key
+      isCorrect: false
+      explanation: An API key is only required when you are using API authentication for the custom connector. You must have a client ID and client secret from the identity provider of the API that you're using to configure a custom connector for OAuth 2.0.
+    - content: Client ID and Client secret
+      isCorrect: true 
+      explanation: The client ID and client secret are provided when the app for custom connector is registered with the identity provider. They are required to configure a custom connector to use OAuth 2.0 authentication.
+    - content: User and password
+      isCorrect: false 
+      explanation: This is only required for Basic authentication. You must have a client ID and client secret from the identity provider of the API that you're using to configure a custom connector for OAuth 2.0.
+    - content: A public key
+      isCorrect: false 
+      explanation: You must have a client ID and client secret from the identity provider of the API that you're using to configure a custom connector for OAuth 2.0.

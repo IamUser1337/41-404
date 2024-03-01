@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.plan-canvas-app.3-design-screen
+title: Exercise - Design your first screen
+metadata:
+  title: Exercise - Design your first screen
+  description: Follow the steps to design your first screen.
+  ms.date: 01/12/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+   
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-design-screen.md)]

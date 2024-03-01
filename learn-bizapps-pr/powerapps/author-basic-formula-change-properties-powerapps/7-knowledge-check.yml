@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.change-properties.7-knowledge-check
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+title: Check your knowledge
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following statements is true?
+    choices:
+    - content: All controls have the same properties.
+      isCorrect: false
+      explanation: Each type of control has a different set of properties. Some properties are common to almost every type of control, but other properties are specific to one type of control. 
+    - content: Controls don't share any of the same properties.
+      isCorrect: false
+      explanation: Each type of control has a different set of properties. Some properties are common to almost every type of control, but other properties are specific to one type of control. 
+    - content: Each control has a set of unique properties, but there are a few common properties to almost every type of control, such as the X and Y properties.
+      isCorrect: true
+      explanation:  You got it! Most controls have some common properties such as X and Y, but all controls have properties unique to them.
+    - content: A screen control has an X and Y property
+      isCorrect: false
+      explanation: The screen control doesn't have an X or Y property. Each type of control has a different set of properties. Some properties are common to almost every type of control, but other properties are specific to one type of control. 
+  - content: If you wanted to ensure that a user couldn't submit a form unless they provide an email address, what function would you use in combination with the **If** function on the **DisplayMode** property of your Submit button?
+    choices:
+    - content: Lookup
+      isCorrect: false
+      explanation: You should use IsMatch to accomplish this.
+    - content: IsMatch
+      isCorrect: true
+      explanation: You should use IsMatch to accomplish this.
+    - content: EmailMatch
+      isCorrect: false
+      explanation: You should use IsMatch to accomplish this.
+    - content: Equal
+      isCorrect: false
+      explanation: You should use IsMatch to accomplish this.
+  - content: Which of the following isn't a calculation function?
+    choices:
+    - content: Sum
+      isCorrect: false
+      explanation: Sum is a calculation function.
+    - content: Subtract
+      isCorrect: true
+      explanation: Subtract isn't a calculation function.
+    - content: Max
+      isCorrect: false
+      explanation: Max is a calculation function.
+    - content: Average
+      isCorrect: false
+      explanation: Average is a calculation function.

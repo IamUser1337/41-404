@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-apps-canvas-app-online-workshop.exercise-create-app
+title: Exercise - Create the app in Power Apps
+metadata:
+  title: Exercise - Create the app in Power Apps
+  description: Follow the steps to create the app in Power Apps.
+  ms.date: 02/16/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-create-app.md)]

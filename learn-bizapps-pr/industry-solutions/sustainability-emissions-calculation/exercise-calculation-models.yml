@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-emissions-calculation.exercise-calculation-models
+title: Exercise - Set up calculation models
+metadata:
+  title: Exercise - Set up calculation models
+  description: Follow the steps to set up calculation models.
+  ms.date: 09/26/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+  ms.service: microsoft-cloud-sustainability
+durationInMinutes: 20
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise-calculation-models.md)]

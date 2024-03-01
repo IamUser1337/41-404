@@ -1,0 +1,45 @@
+### YamlMime:Module 
+uid: learn-bizapps.dax-power-bi-write-formulas 
+metadata: 
+ title: Write DAX formulas for Power BI Desktop models
+ description: In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.
+ ms.date: 06/15/2022 
+ author: wwlpublish  
+ ms.author: anrudduc  
+ ms.topic: module
+ ms.service: powerbi  
+title: Write DAX formulas for Power BI Desktop models 
+summary: |  
+  [!include[](../../power-bi/includes/module-banner.md)] 
+  In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.
+abstract: |  
+    By the end of this module, you'll be able to:
+    - Describe the different DAX calculation types.
+    - Write DAX formulas.
+    - Describe DAX data types.
+    - Work with DAX functions.
+    - Use DAX operators.
+    - Use DAX variables.
+prerequisites: Experience creating Microsoft Power BI Desktop models and designing Power BI report layouts 
+iconUrl: /training/achievements/dax-power-bi-write-formulas.svg  
+levels:  
+- intermediate   
+roles: 
+- maker
+- data-analyst  
+products:  
+- power-bi 
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.dax-power-bi-write-formulas.1-introduction 
+- learn-bizapps.dax-power-bi-write-formulas.2-formulas 
+- learn-bizapps.dax-power-bi-write-formulas.3-data-types 
+- learn-bizapps.dax-power-bi-write-formulas.4-functions 
+- learn-bizapps.dax-power-bi-write-formulas.5-operators 
+- learn-bizapps.dax-power-bi-write-formulas.6-variables 
+- learn-bizapps.dax-power-bi-write-formulas.7-check 
+- learn-bizapps.dax-power-bi-write-formulas.8-summary 
+badge: 
+  uid: learn-bizapps.dax-power-bi-write-formulas.badge

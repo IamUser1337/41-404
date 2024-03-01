@@ -1,0 +1,16 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-effective-reports.lab
+title: Exercise - Design a report in Power BI desktop
+metadata:
+  title: Lab - Design a report in Power BI desktop
+  description: "Use a virtual machine hosted lab to complete an exercise to design a report in Power BI."
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labId: 72676
+labModal: true
+durationInMinutes: 45
+content: |
+  [!include[](includes/9-lab.md)]

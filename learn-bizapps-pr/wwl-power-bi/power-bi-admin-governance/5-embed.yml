@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-admin-governance.5-embed 
+title: Manage embed codes
+metadata: 
+  title: Manage embed codes
+  description: Learn to embed interactive Power BI content in blog posts, web sites, email, and social media.
+  ms.date: 04/30/2021 
+  author: wwlpublish 
+  ms.author: shlindsay 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/5-embed.md)] 

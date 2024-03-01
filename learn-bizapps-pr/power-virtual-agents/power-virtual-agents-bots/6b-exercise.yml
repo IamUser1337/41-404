@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agent-bots.6b-exercise
+title: Exercise - Build your first chatbot
+metadata:
+  title: Exercise - Build your first chatbot
+  description: Steps to build your first chatbot.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 16
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/6b-exercise.md)]

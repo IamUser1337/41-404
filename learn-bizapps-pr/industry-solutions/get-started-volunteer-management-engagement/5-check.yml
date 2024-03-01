@@ -1,0 +1,47 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-volunteer-management-engagement.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 11/01/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You want to create a new engagement opportunity and make it available for volunteers to apply online. What should you do?
+    choices: 
+    - content: Create the engagement opportunity in Volunteer Management and add requirements.
+      isCorrect: false
+      explanation: Volunteer Management is where you set up the engagement opportunity, but you need to publish it to the Volunteer Engagement portal to make it available online.
+    - content: Create the engagement opportunity in Volunteer Management and select Publish to Web.
+      isCorrect: true 
+      explanation: Publish to Web will publish the engagement opportunity to the Volunteer Engagement portal.
+    - content: Open the Volunteer Engagement portal and add a new engagement opportunity.
+      isCorrect: false 
+      explanation: You can’t create engagement opportunities directly in the Volunteer Engagement portal, they should be set up in Volunteer Management and published from there.
+  - content: What can you use the Daily Dashboard for?
+    choices: 
+    - content: Viewing a list of all active volunteers.
+      isCorrect: false
+      explanation: The dashboard doesn’t show all volunteers, just participations in review. To view all volunteers, select Volunteers in the main navigation menu.
+    - content: Viewing the number of engagements per month.
+      isCorrect: false 
+      explanation: You will find this on the Engagement Opportunity Tracking Dashboard, not the Daily Dashboard.
+    - content: Viewing a list of your published engagement opportunities together with the number of volunteers signed up for each.
+      isCorrect: true 
+      explanation: The daily dashboard is used to view a list of your published engagement opportunities together with the number of volunteers signed up for each.
+  - content: What type of application is Volunteer Management?
+    choices: 
+    - content: A Power App
+      isCorrect: true 
+      explanation: Volunteer Management is a model-driven app, a type of Power App.
+    - content: A portal
+      isCorrect: false 
+      explanation: Volunteer Management is a Power App. Volunteer Engagement is the portal.
+    - content: A Dynamics 365 app
+      isCorrect: false 
+      explanation: Volunteer Management is a Power App, not a Dynamics 365 app, although both use Microsoft Dataverse underneath.

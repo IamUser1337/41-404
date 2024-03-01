@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.visitors-waivers-photos
+title: Handle visitors, waivers, and photos
+metadata:
+  title: Handle visitors, waivers, and photos
+  description: Learn about handling visitors, waivers, and photos
+  ms.date: 04/05/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/visitors-waivers-photos.md)]

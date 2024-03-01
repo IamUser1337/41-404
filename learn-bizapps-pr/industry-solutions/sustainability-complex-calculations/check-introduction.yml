@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-complex-calculations.check-introduction
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/29/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What are some challenges that are associated with accounting for Scope 3 emissions?
+    choices:
+    - content: Lack of accurate data and off-the-shelf products
+      isCorrect: false
+      explanation: Incorrect. While a lack of accurate and specific data from suppliers is a factor, a lack of off-the-shelf products isn’t a challenge that’s associated with accounting for Scope 3 emissions.
+    - content: Lack of accurate data, organizational clarity, and methodology challenges
+      isCorrect: true
+      explanation: Correct. Lack of accurate and specific data from suppliers, organizational complexity, and accounting methodology challenges are the usual impediments to Scope 3 accounting.
+    - content: Lack of human resources
+      isCorrect: false
+      explanation: Incorrect. A lack of human resources can be a challenge for an organization, but it isn't immediately associated with accounting for Scope 3 emissions.
+    - content: Lack of industry-wide mandates
+      isCorrect: false
+      explanation: Incorrect. Many industry-wide mandates are in place across the globe for organizations to begin accounting for Scope 3 emissions.
+  - content: Which of the following challenges do organizations encounter while getting reliable data for Scope 3 emissions accounting?
+    choices:
+    - content: Getting relevant, granular data from an organization's suppliers is a tedious and challenging exercise.
+      isCorrect: true
+      explanation: Correct. Organizations struggle to collect relevant and sufficiently granular primary data from their suppliers to manage the amount of data that’s needed to calculate scope 3 emissions.
+    - content: Organizations seldom have the time and budget to engage with their suppliers.
+      isCorrect: false
+      explanation: Incorrect. Due to the mandates across the globe, organizations are making the time and adjusting their budgets to engage with their suppliers to retrieve reliable data.
+    - content: Organizations struggle with hiring the appropriate roles to seek and analyze data from suppliers.
+      isCorrect: false
+      explanation: Incorrect. Organizations often have the personnel and roles to analyze data from their suppliers.
+    - content: Organizations lack a focus on Scope 3 emissions accounting.
+      isCorrect: false
+      explanation: Incorrect. Organizations are focusing on Scope 3 emission accounting as mandates are created around the world.

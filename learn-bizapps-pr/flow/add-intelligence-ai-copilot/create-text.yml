@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.add-intelligence-ai-copilot.create-text
+title: Introduction to the Create text with GPT model in AI Builder
+metadata:
+  title: Introduction to the Create text with GPT model in AI Builder
+  description: Learn about the Create text with GPT model in AI Builder.
+  ms.date: 09/25/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/create-text.md)]

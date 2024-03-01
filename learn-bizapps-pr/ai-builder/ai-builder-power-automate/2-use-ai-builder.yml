@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.ai-builder-power-automate.2-use-ai-builder 
+title: AI Builder in Power Automate saves time  
+metadata: 
+  title: AI Builder in Power Automate saves time 
+  description: Learn how AI Builder in Power Automate can help you save time.
+  ms.date: 11/30/2023 
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit   
+durationInMinutes: 10
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-use-ai-builder.md)] 

@@ -1,0 +1,1 @@
+In this module, you learned how to create a goal for your scorecard and add check-ins to keep track of progress toward reducing the carbon footprint. You also learned how to turn on and set up a new entity for Microsoft Teams chats inside Dynamics 365 to create linked Microsoft Teams chats directly inside of Cloud for Sustainability to discuss specific records.

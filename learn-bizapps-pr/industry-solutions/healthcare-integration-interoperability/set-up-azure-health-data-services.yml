@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.healthcare-integration-interoperability.set-up-azure-health-data-services
+title: Set up Azure Health Data Services
+metadata:
+  title: Set up Azure Health Data Services
+  description: Learn how to set up Azure Health Data Services.
+  ms.date: 11/22/2023
+  author: AshokSudhaMCRSOFT
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/set-up-azure-health-data-services.md)]

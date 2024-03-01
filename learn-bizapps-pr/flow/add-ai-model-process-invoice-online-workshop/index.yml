@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.add-ai-model-process-invoice-online-workshop
+metadata:
+ title: Add an AI model to process invoice forms - Online workshop
+ description: Learn how to add an AI model to process invoice forms.
+ ms.date: 02/07/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module-standard-task-based
+title: Add an AI model to process invoice forms - Online workshop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn how to use AI Builder, a low-code AI technology, to understand and automatically pull data information from the email attachment invoice file. You can use data from the invoice file as inputs for the desktop flow to use when it enters details in the management app system.
+abstract: |
+    In this module, you'll:
+    - Build a new AI model for form processing.
+    - Train the new AI model to process Contoso invoice forms.
+    - Integrate the new AI model into the cloud flow from the module **Use Outlook email to trigger desktop flows and pass inputs - Online workshop**.
+    - Perform a test run of the updated cloud flow and the associated AI Builder-based predictions.
+prerequisites: |
+   - Complete the **Install required software - Online workshop** module.
+   - Complete the **Use Outlook email to trigger desktop flows and pass inputs - Online workshop** module or import the provided solution in the resources folder.
+   This module is designed for use with the Power Automate: Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://events.microsoft.com/en-us/allevents/?search=Robotic%20Process%20Automation%20in%20a%20Day&view=list&language=English&clientTimeZone=1&startTime=07:00&endTime=11:00).
+iconUrl: /learn/achievements/add-ai-model-process-invoice-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- functional-consultant
+products:
+- power-platform
+- power-apps
+subjects:
+- process-workflow
+units:
+- learn-bizapps.add-ai-model-process-invoice-online-workshop.introduction
+- learn-bizapps.add-ai-model-process-invoice-online-workshop.import-solution
+- learn-bizapps.add-ai-model-process-invoice-online-workshop.exercise
+- learn-bizapps.add-ai-model-process-invoice-online-workshop.check
+- learn-bizapps.add-ai-model-process-invoice-online-workshop.summary
+badge:
+  uid: learn-bizapps.add-ai-model-process-invoice-online-workshop.badge

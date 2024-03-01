@@ -1,0 +1,44 @@
+### YamlMime:Module
+uid: learn-bizapps.ai-builder-power-automate
+metadata:
+ title: Use AI Builder in Power Automate
+ description: Learn the basics of AI Builder usage in Microsoft Power Automate and how it can benefit your organization.
+ ms.date: 11/30/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+title: Use AI Builder in Power Automate
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Learn the basics of AI Builder usage in Power Automate and how it can benefit your organization.
+abstract: |
+    This module explains the concepts:
+    - How using AI Builder in Power Automate can save you time.
+    - How to use AI Builder actions in Power Automate.
+    - Advanced AI Builder usage in Power Automate.
+prerequisites: |
+    Before you begin this course, we recommend that you read the Get started with AI Builder module and the "What is AI Builder?" documentation.
+    - Access to Microsoft Dataverse
+    - An AI Builder add-on or trial
+iconUrl: /training/achievements/ai-builder-power-automate.svg
+levels:
+- intermediate
+roles:
+- maker
+products:
+- ai-builder
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+- artificial-intelligence
+units:
+- learn-bizapps.ai-builder-power-automate.1-introduction
+- learn-bizapps.ai-builder-power-automate.2-use-ai-builder
+- learn-bizapps.ai-builder-power-automate.exercise
+- learn-bizapps.ai-builder-power-automate.3-ai-builder-actions
+- learn-bizapps.ai-builder-power-automate.4-advanced-usage
+- learn-bizapps.ai-builder-power-automate.5-check
+- learn-bizapps.ai-builder-power-automate.6-summary
+badge:
+  uid: learn-bizapps.ai-builder-power-automate.badge

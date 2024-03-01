@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.physical-input-button.2-flic-app 
+title: Install and configure the Flic app
+metadata: 
+  title: Install and configure the Flic app 
+  description: Learn how to install and configure the Flic app.  
+  ms.date: 06/21/2021 
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-flic-app.md)] 

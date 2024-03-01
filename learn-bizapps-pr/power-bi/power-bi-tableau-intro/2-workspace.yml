@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-tableau-intro.2-workspace 
+title: Introduction to the Power BI Desktop
+metadata: 
+  title: Introduction to the Power BI Desktop
+  description: Learn how to connect and shape data, build reports, and share your work.
+  ms.date: 03/31/2021 
+  author: ajburnle 
+  manager: kfollis 
+  ms.author: ajburnle 
+  ms.topic: unit
+durationInMinutes: 2
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/2-workspace.md)] 

@@ -1,0 +1,1 @@
+In this module, you've learned how to establish and seamlessly integrate Shifts with Store Operations Assist. Also, you've learned how to create schedules within Teams and activate the synchronization flow, ensuring a smooth integration with Store Operations Assist.

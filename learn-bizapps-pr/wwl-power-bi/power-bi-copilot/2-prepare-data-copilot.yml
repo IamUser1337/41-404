@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-copilot.prepare-data-copilot
+
+title: Prepare your data for use with Power BI Copilot
+metadata:
+  title: Prepare your data for use with Power BI Copilot
+  description: Evaluate and prepare your data for use with Power BI Copilot.
+  ms.date: 11/8/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+  [!include[](includes/2-prepare-data-copilot.md)]

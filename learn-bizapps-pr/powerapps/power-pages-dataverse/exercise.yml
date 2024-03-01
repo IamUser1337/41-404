@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-dataverse.exercise 
+title: Exercise - Use the list and form components
+metadata: 
+  title: Exercise - Use the list and form components 
+  description: Learn how to use a list and a form to display and interact with Dataverse data.  
+  ms.date: 05/26/2023
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 15 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/exercise.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.export-dataverse-excel.summary
+title: Summary
+metadata:
+  title: Summary
+  description: Summary of exporting data from Microsoft Dataverse and using Microsoft Excel to edit records
+  ms.date: 11/21/2022
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 1
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/summary.md)]

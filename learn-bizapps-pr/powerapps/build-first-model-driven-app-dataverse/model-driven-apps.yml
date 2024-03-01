@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-first-model-driven-app-dataverse.model-driven-apps 
+title: Introduction to model-driven apps
+metadata: 
+  title: Introduction to model-driven apps
+  description: Learn about model-driven apps.
+  ms.date: 12/16/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/model-driven-apps.md)] 

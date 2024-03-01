@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-user-information.2-tokens
+title: Exercise - Build a flow that uses information like locations or date
+metadata:
+  title: Exercise - Build a flow that uses information like locations or date
+  description: Learn to build a flow that uses information already available to the flow, like location or date.
+  ms.date: 11/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/2-tokens.md)]

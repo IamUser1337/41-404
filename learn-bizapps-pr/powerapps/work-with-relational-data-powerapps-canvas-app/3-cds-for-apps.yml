@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-relational-data.3-cds-for-apps
+title: Microsoft Dataverse for apps makes relationships even easier
+metadata:
+  title: Dataverse for apps makes relationships even easier
+  description: Dataverse for apps makes relationships even easier
+  ms.date: 12/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/3-cds-for-apps.md)]

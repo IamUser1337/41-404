@@ -1,0 +1,42 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pva-voice.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 09/28/2022 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+durationInMinutes: 4
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which conversation node would you add to a bot to help initiate a transfer to a live agent?
+    choices: 
+    - content: Call an action
+      isCorrect: false
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.    
+    - content: End the conversation 
+      isCorrect: true
+      explanation: Correct. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.      
+    - content: Ask a question
+      isCorrect: false 
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.     
+    - content: Go to topic
+      isCorrect: false 
+      explanation: Incorrect. When you want to facilitate a handoff to a live agent directly from a topic in a bot, you can select the End the conversation node. The node contains two options to select from, End with survey or Transfer to agent. You can also escalate conversations by selecting the Escalate system topic.     
+  - content: You plan to develop a customer support bot that will be used across different voice channels. You need to ensure that items, such as the phone number that the customer engaged from, can be entered into bot conversations. Which of the following extensions do you need to deploy into your environment? 
+    choices: 
+    - content: Omnichannel Power Virtual Agent extension
+      isCorrect: false
+      explanation: Incorrect. The Microsoft Copilot Studio telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
+    - content: Microsoft Copilot Studio Omnichannel extension
+      isCorrect: false 
+      explanation: Incorrect. The Microsoft Copilot Studio telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
+    - content: Microsoft Copilot Studio telephony extension 
+      isCorrect: true
+      explanation: Correct. The Microsoft Copilot Studio telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.
+    - content: Omnichannel Voice Power Virtual Agent extension
+      isCorrect: false 
+      explanation: Incorrect. The Microsoft Copilot Studio telephony extension provides multiple capabilities to support voice-enabled bots. One capability is the addition of several variables that you can use to complete tasks, such as enter the phone number that the customer used to reach your organization.

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.modern-analytics-intro.4-roles
+title: Roles of modern analytics
+metadata: 
+  title: Roles of modern analytics
+  description: Learn about the roles of modern analytics.
+  ms.date: 09/13/2021 
+  author: mihart 
+  manager: kfollis 
+  ms.author: mihart 
+  ms.topic: unit
+durationInMinutes: 7 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-roles.md)] 

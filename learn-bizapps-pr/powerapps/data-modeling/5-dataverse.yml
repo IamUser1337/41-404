@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.data-modeling.5-dataverse
+title: Data modeling for Dataverse
+metadata:
+  title: Data modeling for Dataverse
+  description: Learn about data modeling for Power Platform and Microsoft Dataverse.
+  ms.date: 04/19/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 4
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/5-dataverse.md)]

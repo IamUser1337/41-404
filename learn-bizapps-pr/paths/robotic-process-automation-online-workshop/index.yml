@@ -1,0 +1,44 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.robotic-process-automation-online-workshop
+metadata:
+  title: "Power Automate: Automation - Online Workshop"
+  description: Learn how to create robotic process automation flows.
+  ms.date: 03/07/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: "Power Automate: Automation - Online Workshop"
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  In this learning path you complete hands-on activities using automation in Power Automate.    
+  
+  This module is designed for use with the Automation in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://aka.ms/nextAuIAD).
+prerequisites: |
+  - Power Automate per user with attended RPA plan trial
+  - Power Apps trial
+  - Exchange mailbox
+  - [Files for completing exercises](https://pahandsonlab.blob.core.windows.net/documents/AutomationIAD-Learn-student-files.zip). This also includes optional labs in PDF format.
+iconUrl: /training/achievements/robotic-process-automation-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- power-platform
+- power-apps
+- power-automate
+subjects:
+- business-applications
+- process-workflow
+modules:
+- learn-bizapps.install-required-software-online-workshop 
+- learn-bizapps.create-first-desktop-flow-online-workshop 
+- learn-bizapps.use-input-output-online-workshop
+- learn-bizapps.integrate-cloud-flows-online-workshop
+- learn-bizapps.outlook-flows-online-workshop
+- learn-bizapps.add-ai-model-process-invoice-online-workshop
+- learn-bizapps.integrate-teams-approval-online-workshop
+- learn-bizapps.create-subflows-web-automation-online-workshop
+trophy:
+  uid: learn.robotic-process-automation-online-workshop.trophy

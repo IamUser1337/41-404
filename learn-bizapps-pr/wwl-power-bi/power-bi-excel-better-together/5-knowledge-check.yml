@@ -1,0 +1,51 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.power-bi-excel-better-together.knowledge-check
+title: Knowledge check
+metadata:
+  title: Knowledge check
+  description: "Knowledge check"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/5-knowledge-check.md)]
+quiz:
+  title: "Power BI & Excel better together"
+  questions:
+  - content: "What is the difference between a Promoted and Certified dataset?"
+    choices:
+    - content: "Anyone can Certify a dataset, only IT can Promote a dataset"
+      isCorrect: false
+      explanation: "That's incorrect. Anyone can Promote a dataset, only IT can Certify a dataset."
+    - content: "Promoted datasets are the latest update, Certified datasets are the master copy"
+      isCorrect: false
+      explanation: "That's incorrect. Anyone can Promote a dataset, only IT can Certify a dataset."
+    - content: "Anyone can Promote a dataset, only IT can Certify a dataset"
+      isCorrect: true
+      explanation: "That's correct."
+  - content: "Lineage View is used to?"
+    choices:
+    - content: "Identify the versions of Excel and Power BI used to create a dataset, report, or dashboard"
+      isCorrect: false
+      explanation: "That's incorrect. Lineage View is used to visualize data flow."
+    - content: "Visualize data flow from data sources to datasets to reports to dashboards"
+      isCorrect: true
+      explanation: "That's correct. Lineage View is used to visualize data flow."
+    - content: "Show which users edited each dataset, report and dashboard"
+      isCorrect: false
+      explanation: "That's incorrect. Lineage View is used to visualize data flow."
+  - content: "In Excel, when building a Pivot Table connected to Power BI with Row Level Security (RLS), which is true?"
+    choices:
+    - content: "A user will only see the data available to them based on their “Role”"
+      isCorrect: true
+      explanation: "That's correct."
+    - content: "A user will only see the data available to the Power BI service creator’s “Role”"
+      isCorrect: false
+      explanation: "That's incorrect. A user will only see the data available to them based on their “Role”."
+    - content: "A user will see all of the data"
+      isCorrect: false
+      explanation: "That's incorrect. A user will only see the data available to them based on their “Role”."

@@ -1,0 +1,40 @@
+### YamlMime:Module 
+uid: learn-bizapps.integrate-flow-outlook 
+metadata: 
+ title: Integrate desktop flows with Outlook connector in Power Automate for desktop
+ description: Learn how to integrate desktop flows with Microsoft Outlook in Power Automate for desktop.
+ ms.date: 12/21/2022 
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module
+title: Integrate desktop flows with Outlook connector in Power Automate for desktop
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  A connector is a proxy, or a wrapper around an API, that allows a service to talk to Microsoft Power Automate and other applications. It enables you to take advantage of prebuilt actions and triggers that help build your desktop and cloud flows. For example, Outlook.com connector allows you to complete various actions such as send email, schedule meetings, and add contacts. This module explains how to build on an existing gateway to integrate Microsoft Outlook with a desktop UI flow.
+abstract: |  
+    In this module, you'll: 
+    - Create a new solution to package the complete Contoso invoice processing solution. 
+    - Create a new cloud flow that initiates the invoicing process through receipt of an email.
+    - Integrate a desktop flow into a cloud flow.
+    - Test the new cloud flow.
+prerequisites: Basic understanding of Microsoft Power Automate and completion of the first three modules in this learning path because this module builds from them 
+iconUrl: /training/achievements/integrate-flow-outlook.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- maker 
+products:  
+- power-platform  
+- power-automate 
+subjects:
+- process-workflow
+units:
+- learn-bizapps.integrate-flow-outlook.1-introduction 
+- learn-bizapps.integrate-flow-outlook.2-setup 
+- learn-bizapps.integrate-flow-outlook.3-cloud-flow 
+- learn-bizapps.integrate-flow-outlook.4-test-flow 
+- learn-bizapps.integrate-flow-outlook.5-check 
+- learn-bizapps.integrate-flow-outlook.6-summary 
+badge: 
+  uid: learn-bizapps.integrate-flow-outlook.badge

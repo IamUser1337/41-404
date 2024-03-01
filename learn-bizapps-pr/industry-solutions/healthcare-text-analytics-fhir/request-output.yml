@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-text-analytics-fhir.request-output 
+title: Request FHIR output
+metadata: 
+  title: Request FHIR output
+  description: Learn about requesting FHIR output in Microsoft Cloud for Healthcare.
+  ms.date: 10/25/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: interactive-tutorial 
+durationInMinutes: 4 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/request-output.md)] 

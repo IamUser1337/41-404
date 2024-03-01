@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-email.6-check-knowledge 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/29/2020 
+ author: DaveBeasley 
+ ms.author: dbeasley
+ ms.topic: unit
+ 
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+
+
+  - content: "Through which platforms does Power Automates for desktop support email handling?"
+    choices: 
+    - content: "Webmail services"
+      isCorrect: false 
+      explanation: "Power Automates for desktop supports email handling through webmail services, Microsoft Outlook and Exchange servers."
+    - content: "Webmail services and Microsoft Outlook"
+      isCorrect: false 
+      explanation: "Power Automates for desktop supports email handling through webmail services, Microsoft Outlook and Exchange servers."
+    - content: "Webmail services, Microsoft Outlook and Exchange servers"
+      isCorrect: true 
+      explanation: "Power Automates for desktop supports email handling through webmail services, Microsoft Outlook and Exchange servers."
+  - content: "Which of the following servers would you configure to retrieve emails with the Retrieve email messages action?"
+    choices: 
+    - content: "IMAP server"
+      isCorrect: true 
+      explanation: "IMAP servers are used to retrieve and process emails."
+    - content: "SMTP server"
+      isCorrect: false 
+      explanation: "SMTP servers are used to send emails."
+  - content: "In which mode can you launch Microsoft Outlook?"
+    choices: 
+    - content: "With a visible instance"
+      isCorrect: true 
+      explanation: "Outlook can be launched only with a visible instance."
+    - content: "With a invisible instance"
+      isCorrect: false 
+      explanation: "Outlook can be launched only with a visible instance."

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.perform-analytics-power-bi.what-if-parameters
+title: Create what-if parameters
+metadata:
+  title: Create what-if parameters
+  description: "Create what-if parameters"
+  ms.date: 03/15/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+azureSandbox: false
+labModal: false
+durationInMinutes: 3
+content: |
+  [!include[](includes/8-what-if-parameters.md)]

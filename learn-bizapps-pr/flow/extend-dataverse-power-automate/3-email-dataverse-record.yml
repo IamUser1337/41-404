@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.extend-dataverse-power-automate.3-email-dataverse-record
+title: Perform operations
+metadata:
+  title: Perform operations
+  description: Learn how to perform operations.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 11
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/3-email-dataverse-record.md)]

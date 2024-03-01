@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.manage-power-virtual-agent-topics.7-manage-topics
+title: Manage topics
+metadata:
+  title: Manage topics
+  description: Learn to manage topic status, work with errors, and copy a topic.
+  ms.date: 01/02/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/7-manage-topics.md)]

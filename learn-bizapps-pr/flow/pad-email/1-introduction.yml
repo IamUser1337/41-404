@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-email.1-introduction 
+title: Introducing email automation
+metadata: 
+  title: Introducing email automation
+  description: Introducing email automation
+  ms.date: 10/29/2020 
+  author: DaveBeasley  
+  ms.author: dbeasley
+  ms.topic: unit
+  
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/1-introduction.md)] 

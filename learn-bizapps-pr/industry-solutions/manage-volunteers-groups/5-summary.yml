@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.manage-volunteers-groups.5-summary 
+title: Summary
+metadata: 
+  title: Summary
+  description: Summary of manage volunteers and groups with Volunteer Management.
+  ms.date: 11/01/2021 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 1
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-summary.md)] 

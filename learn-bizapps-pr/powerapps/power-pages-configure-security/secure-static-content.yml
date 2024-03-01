@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-configure-security.secure-static-content
+title: Secure static content
+metadata:
+  title: Secure static content
+  description: Learn how to secure static content by using the Web Page Access Control Rule table.
+  ms.date: 06/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/secure-static-content.md)]

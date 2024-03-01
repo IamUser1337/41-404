@@ -1,0 +1,1 @@
+In this module, you learned how to create different types of templates and create recurring tasks by using plans.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-pages-workspace-setup-online-workshop.go-live-checklist 
+title: Go-live checklist
+metadata: 
+  title: Go-live checklist
+  description: Review the go-live checklist.
+  ms.date: 06/14/2023 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/go-live-checklist.md)] 

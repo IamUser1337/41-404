@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.embed-power-bi-analytics
+metadata:
+  title: Embed Power BI analytics
+  description: This learning path teaches you how to embed Power BI content in apps, develop programmatic solutions using the Power BI REST API and the Power BI Client APIs, enforce row-level security (RLS) for embedded content, automate common Power BI setup tasks, configure a development environment, and determine appropriate licensing.
+  ms.date: 04/29/2021
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Embed Power BI analytics
+video:
+  title: "Welcome to Power BI Embedded analytics"
+  url: https://www.microsoft.com/videoplayer/embed/RE4Vesl
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Learn how to programmatically embed Power BI content by using the Power BI REST API and the Power BI client APIs, enforce row-level security (RLS) for embedded content, automate common Power BI setup tasks, configure a development environment, and determine appropriate licensing.
+prerequisites: You should be an experienced app developer. It's an advantage if you have development experience with .NET, Visual C#, HTML, and JavaScript. Familiarity with Power BI is beneficial, but not essential.
+iconUrl: /training/achievements/embed-power-bi-analytics.svg
+levels:
+- advanced
+roles:
+- developer
+- business-analyst
+products:
+- power-platform
+- power-bi
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.power-bi-embedded-intro
+- learn-bizapps.power-bi-embedded-select
+- learn-bizapps.power-bi-embedded-permissions-content
+- learn-bizapps.power-bi-embedded-content
+- learn-bizapps.power-bi-embedded-integrate
+- learn-bizapps.power-bi-embedded-permissions-analytics
+- learn-bizapps.power-bi-embedded-automate
+trophy:
+  uid: learn-bizapps.embed-power-bi-analytics.trophy

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.work-with-external-data.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Data Source Introduction
+  ms.date: 08/01/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/introduction.md)]

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.plan-manage-environment.5-plan-environment 
+title: Plan environments and variance
+metadata: 
+  title: Plan environments and variance 
+  description: Learn about planning environments and variance.  
+  ms.date: 10/02/2023
+  author: jadaphillips
+  ms.author: jadaphillips  
+  ms.topic: interactive-tutorial   
+durationInMinutes: 12 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/5-plan-environment.md)] 

@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.clean-data-power-bi.3-data-structure
+title: Simplify the data structure
+metadata:
+  title: Simplify the data structure
+  description: "Learn how to simplify the data structure."
+  ms.date: 01/24/2024
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+  [!include[](includes/3-data-structure.md)]

@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.home-health 
+metadata: 
+ title: Home health in Microsoft Cloud for Healthcare
+ description: Learn how to empower health team collaboration within a healthcare organization by using the Home Health application in Microsoft Cloud for Healthcare. With the Home Health application, provider personnel can schedule appointments for the patient based on various factors. You can view patient information directly in context, and a guided business process flow ensures each measure is taken before and after booking the appointment.
+ ms.date: 12/06/2023 
+ author: AshokSudhaMCRSOFT 
+ ms.author: sudhaashok 
+ ms.topic: module
+ ms.service: microsoft-cloud-healthcare
+title: Home health in Microsoft Cloud for Healthcare
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  In this module you'll learn how to empower health team collaboration within a healthcare organization by using the Home Health application in the Microsoft Cloud for Healthcare. With the Home Health application, provider personnel can schedule appointments for the patient based on various factors. You can view patient information directly in context, and a guided business process flow ensures each measure is taken prior to and after booking the appointment. More information can be found at [Use Home Health](/dynamics365/industry/healthcare/use-home-health/?azure-portal=true).
+abstract: |  
+    After you complete this module, you'll be able to: 
+    - Create a bookable resource.
+    - Configure the schedule board.
+    - Use care management components with the Microsoft Dynamics 365 Field Service Mobile app.
+prerequisites: |  
+    - [Training environment preparation](/training/modules/training-environment-preparation-healthcare/) module
+    - [Care management](/training/modules/healthcare-care-management/) module 
+iconUrl: /training/achievements/home-health.svg  
+levels:  
+- intermediate   
+roles:  
+- business-user   
+- functional-consultant 
+products: 
+- industry-solutions 
+- mscloud-healthcare
+subjects:
+- business-applications
+units:
+- learn-bizapps.home-health.1-introduction 
+- learn-bizapps.home-health.2-bookable-resource 
+- learn-bizapps.home-health.3-schedule-board 
+- learn-bizapps.home-health.4-care-management 
+- learn-bizapps.home-health.5-check 
+- learn-bizapps.home-health.6-summary 
+badge: 
+  uid: learn-bizapps.home-health.badge

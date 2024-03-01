@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.deploy-refine-app.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 06/30/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+  
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What is the process of checking for dependencies within a model-driven app known as?
+    choices:
+    - content: User acceptance
+      isCorrect: false
+      explanation: Incorrect. User acceptance is used to ensure that what has been built by the makers matches the requirements that were initially requested by the user.
+    - content: Validation
+      isCorrect: true
+      explanation: Correct. The process of checking for dependencies within a model-driven app is known as validation.
+    - content: Mapping
+      isCorrect: false
+      explanation: Incorrect. Mapping is a process that's used during the planning phase.
+  - content: Which of the following associations are a requirement for model-driven apps?
+    choices:
+    - content: Access team
+      isCorrect: false
+      explanation: Incorrect. Access team isn't a requirement. An access team doesn't own records and doesn't have security roles assigned to the team.
+    - content: Business unit
+      isCorrect: false
+      explanation: Incorrect. Business unit isn't a requirement. This access level gives a user access to records in the user's business unit.
+    - content: Security role
+      isCorrect: true
+      explanation: Correct. Security role is a requirement for model-driven apps.
+  - content: Which of the following roles would you assign to a user if you want them to be able to use, edit, and share a canvas app but not delete or change owner privileges?
+    choices:
+    - content: Co-owner
+      isCorrect: true
+      explanation: Correct. A co-owner would need to be assigned so that they can use, edit, and share a canvas app, but not adjust owner privileges.
+    - content: Global Admin
+      isCorrect: false
+      explanation: Incorrect. Global Admin rights provide the user with administrator rights over all environments. Therefore, this elevated access level isn't necessary for this situation.
+    - content: System administrator
+      isCorrect: false
+      explanation: Incorrect. The System administrator security role is typically granted to administrators, giving them unrestricted access to the administrative (Settings) areas, which are used for managing and setting up features of customer engagement apps. Therefore, this elevated access level isn't necessary for this situation.

@@ -1,0 +1,46 @@
+### YamlMime:Module
+uid: learn-bizapps.pad-active-directory
+metadata:
+ title: Active Directory handling in Power Automate for desktop
+ description: Learn about the Active Directory actions in Power Automate for desktop.
+ ms.date: 08/01/2022
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: module
+ 
+title: Active Directory handling in Power Automate for desktop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Microsoft Active Directory (AD) is a directory service that enables administrators to manage permissions and access to network resources. Power Automate for desktop provides Active Directory actions to automate all related tasks.
+abstract: |
+    In this module, you will:
+    - Connect to an Active Directory server.
+    - Manage users, groups, and objects with Active Directory actions.
+prerequisites: |
+    - Basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml)
+    - Familiarity with Active Directory
+    - Windows Server 2016 or later
+    - Administrator rights
+    - Access to Active Directory users and computers
+    - Access to the command prompt
+iconUrl: /training/achievements/pad-active-directory.svg
+levels:
+- advanced
+roles:
+- administrator
+- developer
+- maker
+products:
+- power-platform
+- power-automate
+subjects:
+- identity-access
+- process-workflow
+units:
+- learn-bizapps.pad-active-directory.1-introduction
+- learn-bizapps.pad-active-directory.2-active-directory-actions
+- learn-bizapps.pad-active-directory.3-exercise
+- learn-bizapps.pad-active-directory.4-check-knowledge
+- learn-bizapps.pad-active-directory.5-summary
+badge:
+  uid: learn-bizapps.pad-active-directory.badge

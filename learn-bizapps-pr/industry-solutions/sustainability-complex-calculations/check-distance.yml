@@ -1,0 +1,43 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-complex-calculations.check-distance
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 03/29/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+ ms.service: microsoft-cloud-sustainability
+durationInMinutes: 4
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: Which of the following options will result in indirect emissions in Scope 3 Category 4 accounting?
+    choices:
+    - content: Leased assets and employee commuting
+      isCorrect: false
+      explanation: Incorrect. Leased assets and employee commuting are examples of Scope 3 Category 7, 8, and 13.
+    - content: Use of sold products
+      isCorrect: false
+      explanation: Incorrect. Use of sold products is an example of Scope 3 Category 11.
+    - content: Upstream transportation and distribution
+      isCorrect: true
+      explanation: Correct. Upstream transportation and distribution results in Scope 3 Category 1 emissions, which are emissions from sources that aren't owned or controlled by the reporting company but are a consequence of the company's activities.
+    - content: Business travel and generated waste
+      isCorrect: false
+      explanation: Incorrect. Business travel and generated waste are examples of Scope 3 Categories 5 and 6.
+  - content: What is the purpose of adding a new Stop count column to the Transportation and distribution table?
+    choices:
+    - content: It's meant to stop the ingestion of Excel rows beyond a set limit.
+      isCorrect: false
+      explanation: Incorrect. No method is in place for stopping the ingestion of Excel rows based on a set limit. It's limited by the number of rows in the imported spreadsheet.
+    - content: It's meant to account for the number of times the calculations need to be performed before stopping.
+      isCorrect: false
+      explanation: Incorrect. Calculations are only performed when the calculation profile is triggered to run. You can run it manually, or you can set the **Automatically run this calculation when data is refreshed** toggle to Yes, and then it will run only when the associated activity data refreshes.
+    - content: It's an optional field meant to analyze the efficiency of a delivery route.
+      isCorrect: false
+      explanation: Incorrect. While you could use this data for route efficiency analysis, it's important to carbon accounting to account for the number of stops that a shared load transportation provider makes. You'll only need to account for the portion of the shared load that an organization's shipment accounts for.
+    - content: It's meant to account for the number of stops that the transportation providers made while shipping the purchased goods and services.
+      isCorrect: true
+      explanation: Correct. Stop count will account for the number of stops that the transportation providers made while shipping the purchased goods and services in a shared load shipment. It allows an organization to only account for the portion of the shared load that their shipment accounts for.

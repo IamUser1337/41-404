@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-requirements.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/11/2021 
+ author: wwlpublish 
+ ms.author: anrudduc 
+ ms.topic: unit
+durationInMinutes: 6
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: At the Contoso Skateboard Company, Sally is responsible for managing staff rosters to determine when the inventory employees are required to work. Sally relies on a report that forecasts sales order demand to determine the number of employees that are required at any time. It also includes a button to open a Human Resources app to assign employees to rosters. What type of report audience does Sally represent?
+    choices: 
+    - content: Executive
+      isCorrect: false 
+      explanation: An executive audience makes plans and decisions, often with a medium or long-term focus.
+    - content: Analyst
+      isCorrect: false 
+      explanation: An analyst provides guidance to the organization.
+    - content: Information worker
+      isCorrect: true 
+      explanation: An information worker is someone who uses data to help them make decisions or to take actions. Typically, information workers make operational decisions that are made on a daily basis.
+    - content: Report designer
+      isCorrect: false 
+      explanation: A report designer is responsible for planning or creating a report layout.
+  - content: At the Contoso Skateboard Company, Sally is responsible for managing staff rosters to determine when the inventory employees are required to work. Sally relies on a report that forecasts sales order demand to determine the number of employees that are required at any time. It also includes a button to open a Human Resources app to assign employees to rosters. What type of report does Sally use?
+    choices: 
+    - content: Dashboard
+      isCorrect: false 
+      explanation: A dashboard report often presents high-level metrics that are shown on a single page.
+    - content: Analytical
+      isCorrect: false 
+      explanation: An analytical report allows the report consumer to discover answers to a broad array of questions, often involving interactive features like slicers.
+    - content: Operational
+      isCorrect: true 
+      explanation: An operational report is designed to give the report consumer the ability to monitor current or real-time data, make decisions, and act on those decisions.
+    - content: Educational
+      isCorrect: false 
+      explanation: An educational report assumes that the report consumer is unfamiliar with the data or context. So the report must provide clear narrative detail and guidance to aid in understanding.
+  - content: Which user interface requirement is an example of an accessibility requirement?
+    choices: 
+    - content: Augmented reality
+      isCorrect: false 
+      explanation: Augmented reality is a form factor. It doesn't have a direct affect on improving accessibility.
+    - content: Contrasting colors
+      isCorrect: true 
+      explanation: Contrasting colors is an accessibility requirement and helps report consumers with low or no vision to distinguish different colors.
+    - content: Organizational colors
+      isCorrect: false 
+      explanation: Organizational colors relate to style and theme requirements. Organizational colors might not include appropriately contrasting colors that are helpful for report consumers with low or no vision.
+    - content: Portrait orientation
+      isCorrect: false 
+      explanation: Portrait orientation is a form factor requirement. Page orientation doesn't have a direct affect on improving accessibility.

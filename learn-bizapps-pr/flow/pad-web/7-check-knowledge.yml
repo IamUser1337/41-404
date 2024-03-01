@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.pad-web.7-check-knowledge
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 08/01/2023
+ author: jadaphillips
+ ms.author: jadaphillips
+ ms.topic: unit
+durationInMinutes: 3
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: "Which forms of data can the Extract data from web page action extract?"
+    choices:
+    - content: "Only single values"
+      isCorrect: false
+      explanation: "The Extract data from web page action can extract single values, handpicked values, lists, and data tables."
+    - content: "Only lists of handpicked values"
+      isCorrect: false
+      explanation: "The Extract data from web page action can extract single values, handpicked values, lists, and data tables."
+    - content: "Single values, handpicked values, lists, and data tables"
+      isCorrect: true
+      explanation: "The Extract data from web page action can extract single values, handpicked values, lists, and data tables."
+  - content: "Which of the following parameters is required as input by the web form handling actions?"
+    choices:
+    - content: "A browser instance"
+      isCorrect: false
+      explanation: "The web form handling actions require as input parameters both a browser instance and a UI element describing the element to handle."
+    - content: "A UI element describing the element to handle"
+      isCorrect: false
+      explanation: "The web form handling actions require as input parameters both a browser instance and a UI element describing the element to handle."
+    - content: "Both"
+      isCorrect: true
+      explanation: "The web form handling actions require as input parameters both a browser instance and a UI element describing the element to handle."
+  - content: "Which one of the following actions is the most suitable for selecting download links?"
+    choices:
+    - content: "Click link on web page"
+      isCorrect: false
+      explanation: "The Click download link on web page action is the most suitable action for selecting download links."
+    - content: "Click download link on web page"
+      isCorrect: true
+      explanation: "The Click download link on web page action is the most suitable action for selecting download links."

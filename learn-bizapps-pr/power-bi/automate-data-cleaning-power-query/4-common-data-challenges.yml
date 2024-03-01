@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.automate-data-cleaning-power-query.4-common-data-challenges 
+title: Common data challenges and Power Query transformations
+metadata: 
+  title: Common data challenges and Power Query transformations 
+  description: Learn how to clean and format data and how to deal with empty rows.
+  ms.date: 09/09/2021 
+  author: DougKlopfenstein
+  ms.author: dougklo
+  ms.topic: unit
+durationInMinutes: 20
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/4-common-data-challenges.md)] 

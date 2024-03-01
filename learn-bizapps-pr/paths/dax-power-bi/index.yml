@@ -1,0 +1,36 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.use-dax-power-bi-desktop
+metadata:
+  title: Use DAX in Power BI Desktop                           
+  description: This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance semantic models with calculations. It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables and columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions using time intelligence functions and iterator functions.
+  ms.date: 06/15/2022
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Use DAX in Power BI Desktop                           
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance semantic models with calculations.
+  
+  It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables, calculated columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions by using time intelligence functions and iterator functions.
+prerequisites: None
+iconUrl: /training/achievements/use-dax-power-bi-desktop.svg
+levels:
+- intermediate
+roles: 
+- maker
+- data-analyst
+products:
+- power-bi 
+subjects:
+- data-analytics
+modules:
+- learn-bizapps.dax-power-bi-models 
+- learn-bizapps.dax-power-bi-write-formulas 
+- learn-bizapps.dax-power-bi-add-calculated-tables
+- learn-bizapps.dax-power-bi-add-measures 
+- learn-bizapps.dax-power-bi-iterator-functions
+- learn-bizapps.dax-power-bi-modify-filter
+- learn-bizapps.dax-power-bi-time-intelligence 
+trophy: 
+  uid: learn-bizapps.use-dax-power-bi-desktop.trophy

@@ -1,0 +1,17 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.introduction-power-platform-developer-resources.azure
+title: Extending Power Platform with Azure
+metadata: 
+  title: Extending Power Platform with Azure
+  description: This unit provides an overview of Azure and AI solutions for Power Apps developers. 
+  ms.date: 09/27/2023
+  author: davebeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+  ms.service: powerapps 
+  ms.subservice: dataverse-developer
+durationInMinutes: 10 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/azure.md)] 
+

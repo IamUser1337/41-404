@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.pad-variables.7-sensitive-variables
+title: Sensitive variables
+metadata: 
+  title: Sensitive variables
+  description: Sensitive variables
+  ms.date: 10/01/2023 
+  author: DaveBeasley  
+  ms.author: dbeasley  
+  ms.topic: unit
+durationInMinutes: 4
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/7-sensitive-variables.md)] 

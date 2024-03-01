@@ -1,0 +1,41 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.retail-store-operations-assist
+metadata:
+  title: Get started with Store Operations Assist 
+  description: Learn how to set up and use Store Operations Assist solution in Microsoft Cloud for Retail.
+  ms.date: 02/14/2024
+  author: lavanyapg
+  ms.author: lsuresh
+  ms.topic: learning-path
+  ms.collection: get-started
+title: Get started with Store Operations Assist in Microsoft Cloud for Retail
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  Store Operations Assist solution in Microsoft Cloud for Retail provides store associates with access to data and insights into their workflow. The solution enables retailers to improve bottom line by driving efficiency of store operations, improve customer experience by connecting store associates with customers and also give store associates tools for assistive selling.
+  In this Learning Path, you obtain a foundational understanding of how to use and customize Store Operations Assist Admin and Store Operations Assist Mobile.  
+prerequisites: |
+  - Microsoft Power Apps licenses with power platform credentials
+  - Microsoft Teams
+  - Microsoft Power BI Pro or Premium
+iconUrl: /learn/achievements/retail-store-operations-assist.svg
+levels:
+- intermediate
+roles:
+- functional-consultant
+- solution-architect
+- administrator
+products:
+- mscloud-retail
+- industry-solutions
+subjects:
+- business-applications
+modules:
+- learn-bizapps.retail-introduction-store-operations-assist
+- learn-bizapps.retail-setup-training-environment
+- learn-bizapps.retail-setup-master-data
+- learn-bizapps.retail-use-store-operations-assist
+- learn-bizapps.retail-extend-store-operations-assist
+- learn-bizapps.retail-use-store-operations-assist-mobile
+- learn-bizapps.retail-use-retail-insights-dashboard
+trophy:
+  uid: learn-bizapps.retail-store-operations-assist.trophy

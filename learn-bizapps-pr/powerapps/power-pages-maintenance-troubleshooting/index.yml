@@ -1,0 +1,42 @@
+### YamlMime:Module
+uid: learn-bizapps.power-pages-maintenance-troubleshooting
+metadata:
+  title: Power Pages maintenance and troubleshooting
+  description: Learn about Power Pages maintenance and troubleshooting.
+  ms.date: 05/08/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: module
+  ms.service: power-pages 
+title: Power Pages maintenance and troubleshooting
+summary: |
+  [!include[](../includes/module-banner.md)]
+  [!include[](../includes/power-pages-banner.md)]
+  When building a Microsoft Power Pages website, administrators should consider various techniques, best practices, and features. This module covers the various troubleshooting tools that are available and explains the importance of using the Site Checker tool.
+abstract: |
+    In this module, you'll:
+    - Apply strategies and techniques to troubleshoot Power Pages website issues.
+    - Learn how the Site Checker tool works and how to resolve potential website issues.
+    - Complete the website update process.
+prerequisites: Basic understanding of Power Pages structure, knowledge of how the various website components work together, and a good understanding of Microsoft Dataverse and model-driven apps
+iconUrl: /training/achievements/power-pages-maintenance-troubleshooting.svg
+levels:
+- intermediate
+roles:
+- maker
+- functional-consultant
+- administrator
+products:
+- power-platform
+- power-pages
+subjects:
+- productivity
+units:
+- learn-bizapps.power-pages-maintenance-troubleshooting.introduction
+- learn-bizapps.power-pages-maintenance-troubleshooting.maintenance
+- learn-bizapps.power-pages-maintenance-troubleshooting.troubleshooting
+- learn-bizapps.power-pages-maintenance-troubleshooting.exercise
+- learn-bizapps.power-pages-maintenance-troubleshooting.check
+- learn-bizapps.power-pages-maintenance-troubleshooting.summary
+badge:
+  uid: learn-bizapps.power-pages-maintenance-troubleshooting.badge

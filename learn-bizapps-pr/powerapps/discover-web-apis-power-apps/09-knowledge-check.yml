@@ -1,0 +1,52 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.discover-web-apis-power-apps.09-knowledge-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 04/16/2021
+  author: justinyoo
+  ms.author: juyoo
+  ms.topic: unit
+  ms.contributors:
+  - juyoo-04262021
+durationInMinutes: 5
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: What is the **LEAST** relevant while creating a custom connector from Azure API Management?
+    choices: 
+    - content: Each API in Azure API Management has the **Export** menu to create a custom connector
+      isCorrect: false
+      explanation: Azure API Management can export APIs to Power Apps by creating a custom connector.
+    - content: Azure API Management offers the feature for the direct creation of a custom connector for Power Apps
+      isCorrect: false
+      explanation: Azure API Management can export APIs to Power Apps by creating a custom connector.
+    - content: To use the custom connector within Power Apps, you don't need to create a connection for it.
+      isCorrect: true
+      explanation: Connector only defines the API contracts. To use the connector, you should create a connection that includes authentication details.
+  - content: There are several ways to create a custom connector for Power Apps. What is **NOT** the way to create the custom connector?
+    choices: 
+    - content: Export from Azure API Management
+      isCorrect: false
+      explanation: Power Apps can import APIs from the OpenAPI document. Azure API Management can directly export a custom connector.
+    - content: Import an OpenAPI file
+      isCorrect: false
+      explanation: Power Apps can import APIs from the OpenAPI document. Azure API Management can directly export a custom connector.
+    - content: Import a WSDL file
+      isCorrect: true
+      explanation: Power Apps can import APIs from the OpenAPI document. Azure API Management can directly export a custom connector.
+  - content: They discuss the differences between connector and connection. What is **NOT** correct?
+    choices: 
+    - content: A connector has information about what the APIs look like.
+      isCorrect: false
+      explanation: A connector defines contracts &ndash; what APIs look like and how you can connect to APIs. A connection knows the connection details to the APIs, like authentication details.
+    - content: A connector has information about how to communicate with the APIs.
+      isCorrect: false
+      explanation: A connector defines contracts &ndash; what APIs look like and how you can connect to APIs. A connection knows the connection details to the APIs, like authentication details.
+    - content: A connector knows the connection details to the APIs, like authentication details.
+      isCorrect: true
+      explanation: A connector defines contracts &ndash; what APIs look like and how you can connect to APIs. A connection knows the connection details to the APIs, like authentication details.
+    - content: A connection knows the connection details how to connect to the APIs, including authentication details.
+      isCorrect: false
+      explanation: A connector defines contracts &ndash; what APIs look like and how you can connect to APIs. A connection knows the connection details to the APIs, like authentication details.

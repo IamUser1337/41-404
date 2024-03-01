@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.dax-power-bi-time-intelligence
+metadata:
+  title: Use DAX time intelligence functions in Power BI Desktop models
+  description: "By the end of this module, you'll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others."
+  ms.date: 03/23/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Use DAX time intelligence functions in Power BI Desktop models
+summary: By the end of this module, you'll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model.
+abstract: |
+  By the end of this module, you'll be able to:
+  - Define time intelligence.
+  - Use common DAX time intelligence functions.
+  - Create useful intelligence calculations.
+prerequisites: |
+  You should have experience creating Microsoft Power BI Desktop models and designing Power BI report layouts. You should also understand how to create Data Analysis Expressions (DAX) measures and how to work with iterator functions and filter context.
+iconUrl: /training/achievements/use-dax-power-bi-desktop.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+- maker
+products:
+- power-bi
+- power-platform
+subjects:
+- data-analytics
+units:
+- learn-bizapps.dax-power-bi-time-intelligence.1-introduction
+- learn-bizapps.dax-power-bi-time-intelligence.2-functions
+- learn-bizapps.dax-power-bi-time-intelligence.3-calculations
+- learn-bizapps.dax-power-bi-time-intelligence.lab
+- learn-bizapps.dax-power-bi-time-intelligence.4-check
+- learn-bizapps.dax-power-bi-time-intelligence.5-summary
+badge:
+  uid: learn-bizapps.dax-power-bi-time-intelligence.badge

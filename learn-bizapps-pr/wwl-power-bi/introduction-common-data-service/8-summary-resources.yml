@@ -1,0 +1,13 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.wwl.introduction-common-data-service.summary-resources
+title: Summary and resources
+metadata:
+  title: Summary and resources
+  description: "Module summary and list of resources available for further study"
+  ms.date: 06/28/2023
+  author: wwlpublish
+  ms.author: ceabrams
+  ms.topic: unit
+durationInMinutes: 3
+content: |
+  [!include[](includes/8-summary-resources.md)]

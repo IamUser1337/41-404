@@ -1,0 +1,49 @@
+### YamlMime:Module 
+uid: learn-bizapps.access-cloud-sustainability 
+metadata: 
+ title: Access Microsoft Sustainability Manager data
+ description: Learn how Microsoft Sustainability Manager in Microsoft Cloud for Sustainability provides multiple options for accessing data. 
+ ms.date: 01/30/2024 
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Access Microsoft Sustainability Manager data
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Sustainability Manager delivers up-to-date insights through simple dashboards, enabling you to visualize your environmental impact so that you always know which areas require more attention and if you're on track to achieve your goals. Sustainability Manager, powered by Microsoft Power Platform, provides multiple options for accessing data. In this module, you’ll learn how to access and use the data that’s available in Sustainability Manager by using Power Apps. 
+abstract: |  
+    In this module, you'll: 
+    - Access sustainability data through Microsoft Dataverse API.
+    -	Build a Microsoft Azure Data Factory pipeline to copy sustainability data.
+    -	Query sustainability data by using the Azure Synapse Link for Dataverse.
+prerequisites: |
+ - Working knowledge of Microsoft Sustainability Manager
+ - Working knowledge of Power Apps
+ - Working knowledge of the Microsoft Azure portal
+ - Working knowledge of Visual Studio 2019
+ - An Azure subscription that’s linked to the same tenant where Sustainability Manager is deployed
+ - An Azure user account is a member of the contributor or owner role, or the user is an administrator of the Azure subscription
+iconUrl: /training/achievements/access-cloud-sustainability.svg  
+levels:  
+- advanced  
+roles:  
+- functional-consultant  
+- developer
+- administrator
+- solution-architect
+products: 
+- mscloud-sustainability
+- industry-solutions
+subjects: 
+- business-applications
+units: 
+- learn-bizapps.access-cloud-sustainability.introduction 
+- learn-bizapps.access-cloud-sustainability.exercise-microsoft-authentication 
+- learn-bizapps.access-cloud-sustainability.exercise-access-active-directory 
+- learn-bizapps.access-cloud-sustainability.exercise-build-azure-factory 
+- learn-bizapps.access-cloud-sustainability.exercise-query-data 
+- learn-bizapps.access-cloud-sustainability.check 
+- learn-bizapps.access-cloud-sustainability.summary 
+badge: 
+  uid: learn-bizapps.access-cloud-sustainability.badge 

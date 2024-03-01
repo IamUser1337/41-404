@@ -1,0 +1,1 @@
+In Power BI Desktop, you can use the built-in Performance Analyzer tool to find out how each of your report elements is performing. With Performance Analyzer, you can see and record logs that measure how each of your report elements performs when users interact with them, and which aspects of their performance are taking the most resources.

@@ -1,0 +1,50 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.common-low-code-plug-in.check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/10/2024 
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit 
+durationInMinutes: 6 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions:
+  - content: You create an instant low-code plug-in and set it as global. How would you invoke the plug-in from a canvas app?
+    choices:
+    - content: Use the plug-in by referencing from the Dataverse table, such as Accounts.IsValidAccountNumber()
+      isCorrect: false
+      explanation: Incorrect. You wouldn’t invoke the global low-code plug-in with this action.
+    - content: Use the plug-in by referencing from the environment language object, such as Environment.IsValidAccountNumber()
+      isCorrect: true
+      explanation: Correct. Global plug-ins aren't bound to a specific table, and you can call them from the environment language object.
+    - content: Use them as you would any other Power Fx function, such as IsValidAccountNumber()
+      isCorrect: false
+      explanation: Incorrect. You wouldn’t invoke the global low-code plug-in with this action.
+    - content: You can't use global low-code plug-ins from Power Apps
+      isCorrect: false
+      explanation: Incorrect. You can use global low-code plug-ins from Power Apps.
+  - content: What must you do first to use a Microsoft Power Platform connector from a low-code plug-in?
+    choices:
+    - content: Set up a connection reference for the connector in the same solution
+      isCorrect: true
+      explanation: Correct. This action allows you to use the connector actions in the Power Fx expression.
+    - content: Set up a connection for the connector
+      isCorrect: false
+      explanation: Incorrect. You wouldn’t complete this action first to use a Microsoft Power Platform connector from a low-code plug-in.
+    - content: No setup is required to use a Microsoft Power Platform connector from a low-code plug-in
+      isCorrect: false
+      explanation: Incorrect. A setup action is required before you can use a Microsoft Power Platform connector from a low-code plug-in.
+  - content:  You create an instant low-code plug-in and set it as Entity by using the Account table. How would you invoke the plug-in from a Power Automate cloud flow?
+    choices:
+    - content: Use the Dataverse connector and a step by using the Perform a bound action operation.
+      isCorrect: true
+      explanation: Correct. The Perform a bound action allows you to pass the reference to the table that’s required by a low-code plug-in that’s set up for a specific entity.
+    - content: Use the Dataverse connector and a step by using the Perform an unbound action operation.
+      isCorrect: false
+      explanation: Incorrect. You wouldn’t use this action to invoke the plug-in from a Power Automate cloud flow.
+    - content: You can't use an instant low-code plug-in that’s set as Entity from Power Automate
+      isCorrect: false
+      explanation: Incorrect. You can use an instant low-code plug-in that’s set as Entity from Power Automate.

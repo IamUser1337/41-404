@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-pages-solution-explorer-online-workshop.generate-data
+title: Generate data
+metadata:
+  title: Generate data
+  description: Follow the steps to generate data that you'll use in later units.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 10
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/generate-data.md)]

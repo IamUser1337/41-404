@@ -1,0 +1,76 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.get-started-ai-builder-document-automation.5-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 01/31/2021 
+ author: DaveBeasley 
+ ms.author: dbeasley 
+ ms.topic: unit
+  
+durationInMinutes: 5 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: Which scenario can the Document automation base kit address?
+    choices: 
+    - content: Invoice automation
+      isCorrect: false 
+      explanation: The Document automation base kit addresses invoice automation, purchase order automation, and receipt automation scenarios.
+    - content: Purchase order automation
+      isCorrect: false 
+      explanation: The Document automation base kit addresses invoice automation, purchase order automation, and receipt automation scenarios.
+    - content: Receipt automation
+      isCorrect: false 
+      explanation: The Document automation base kit addresses invoice automation, purchase order automation, and receipt automation scenarios.
+    - content: All of the above
+      isCorrect: true 
+      explanation: The Document automation base kit addresses invoice automation, purchase order automation, and receipt automation scenarios.
+  - content: Which licenses are required?
+    choices: 
+    - content: Power PBI
+      isCorrect: false 
+      explanation: Power Apps, Power Automate, and AI Builder licenses are required in order to use document automation.
+    - content: Power Apps, Power Automate, and AI Builder
+      isCorrect: true 
+      explanation: Power Apps, Power Automate, and AI Builder licenses are required in order to use document automation.
+    - content: Power Automate Robotic Process Automation
+      isCorrect: false 
+      explanation: Power Apps, Power Automate, and AI Builder licenses are required in order to use document automation.
+    - content: Dynamics 365
+      isCorrect: false 
+      explanation: Power Apps, Power Automate, and AI Builder licenses are required in order to use document automation.
+  - content: What document formats are supported?
+    choices: 
+    - content: GIF, DOCX, and JPEG
+      isCorrect: false 
+      explanation: JPEG, PNG, and PDF document formats are supported.
+    - content: JPEG, PNG, and PDF
+      isCorrect: true 
+      explanation: JPEG, PNG, and PDF document formats are supported.
+    - content: All images and document formats
+      isCorrect: false 
+      explanation: JPEG, PNG, and PDF document formats are supported.
+  - content: Can this reference implementation be customized to fit my business?
+    choices: 
+    - content: No, it is already pre-configured to fit all needs.
+      isCorrect: false 
+      explanation: It offers enough flexibility by default to adapt to your business specifics but can be extended as appropriate.
+    - content: Yes, using the low code capabilities of the Platform.
+      isCorrect: false 
+      explanation: It offers enough flexibility by default to adapt to your business specifics but can be extended as appropriate.
+    - content: It offers enough flexibility by default to adapt to your business specifics but can be extended as appropriate.
+      isCorrect: true 
+      explanation: It offers enough flexibility by default to adapt to your business specifics but can be extended as appropriate.
+  - content: What personas are enabled by this implementation and what is their role?
+    choices: 
+    - content: A manual reviewer who reviews the extracted data and a process owner who monitors the pipeline
+      isCorrect: true 
+      explanation: A manual reviewer who reviews the extracted data and a process owner who monitors the pipeline
+    - content: An administrator who installs, configures, and runs the process
+      isCorrect: false 
+      explanation: A manual reviewer who reviews the extracted data and a process owner who monitors the pipeline
+    - content: There is no role support, so all users can access the full range of features
+      isCorrect: false 
+      explanation: A manual reviewer who reviews the extracted data and a process owner who monitors the pipeline

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.input-parameters.3-define-input-variable 
+title: Define an input variable
+metadata: 
+  title: Define an input variable
+  description: Create variables to define fields that you want to enter for the flow.
+  ms.date: 10/03/2022
+  author: jadaphillips 
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 3
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-define-input-variable.md)] 

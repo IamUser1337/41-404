@@ -1,0 +1,44 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.powerapps.understanding-low-code-as-a-traditional-developer.5-knowledge-check
+title: Check your knowledge
+metadata:
+  title: Check your knowledge
+  description: Answer the following questions to see what you've learned.
+  ms.date: 04/22/2021
+  author: ghurlman
+  ms.author: grhurl
+  ms.topic: unit
+  ms.contributors:
+  - grhurl-04192021
+durationInMinutes: 3
+quiz: 
+  title: Answer the following questions to see what you've learned.
+  questions: 
+  - content: What is Power Fx?
+    choices: 
+    - content: A new UI control framework for building apps
+      isCorrect: false
+      explanation: Power Fx doesn't create UI directly, but rather is a language to define information about the UI so that Power Apps can build it.
+    - content: The formula language for canvas-based Power Apps.
+      isCorrect: true
+      explanation: A Power Fx expression by itself says nothing about what it's calculating. It's up to the maker to place it in a variable or pass it to a function.
+    - content: The new formula language for Microsoft Excel.
+      isCorrect: false 
+      explanation: Power Fx was modeled after how Microsoft Excel's language works, but is not a replacement for the existing Microsoft Excel formula language.
+    - content: A drop-in replacement for JavaScript to build apps.
+      isCorrect: false 
+      explanation: Power Fx is not a traditional programming language, and can't be used outside of Microsoft Power Apps at this time.
+  - content: What data sources can Power Apps connect to?
+    choices: 
+    - content: Only Microsoft products and services
+      isCorrect: false
+      explanation: There are hundreds of connectors to many Microsoft services, but also to 3rd party services as well.
+    - content: Only Office 365 services
+      isCorrect: false 
+      explanation: There are hundreds of connectors to many Microsoft services including Office 365, and also to 3rd party services as well.
+    - content: Only services that have been predefined.
+      isCorrect: false 
+      explanation: It is possible to create your own custom data connectors as well.
+    - content: To Microsoft services, to other cloud services, and to custom data sources.
+      isCorrect: true
+      explanation: There are hundreds of connectors to many Microsoft services and 3rd party services, and custom connectors can be built to connect to other service as well.

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.build-first-desktop-flow.3-get-familiar-power-automate-desktop 
+title: Explore Power Automate for desktop
+metadata: 
+  title: Explore Power Automate for desktop 
+  description: Learn about the features of Power Automate for desktop. 
+  ms.date: 12/26/2022 
+  author: DaveBeasley 
+  ms.author: dbeasley 
+  ms.topic: unit
+durationInMinutes: 2 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/3-get-familiar-power-automate-desktop.md)] 

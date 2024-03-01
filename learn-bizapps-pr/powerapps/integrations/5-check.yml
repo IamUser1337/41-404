@@ -1,0 +1,57 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.integrations.5-check
+title: Check your knowledge
+metadata: 
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/19/2021
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: unit
+  
+durationInMinutes: 4 
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: You need to allow an external system to push data into Dataverse. What should you use to make this integration efficient?
+    choices: 
+    - content: Change tracking
+      isCorrect: false
+      explanation: Change tracking is used to extract delta changes in data from Dataverse. Change tracking is not used to push data into Dataverse.
+    - content: Azure Service Bus
+      isCorrect: false
+      explanation: Azure Service Bus is used to received events from Dataverse. Azure Service Bus is not used to push data into Dataverse.
+    - content: Azure Functions
+      isCorrect: false
+      explanation: Azure Functions can be used to write data into Dataverse, but the functions don't enable writes into Dataverse to be efficient.
+    - content: Alternate keys
+      isCorrect: true
+      explanation: Alternate keys allow data to be pushed into Dataverse without knowing the unique ID (GUID) of the row. Alternate keys remove the need for a query to be run to find the GUID of the row.
+  - content: You need to integrate with another system. You must ensure that the other system processes the data successfully. What should you use?
+    choices: 
+    - content: Azure Service Bus queue
+      isCorrect: false
+      explanation: An Azure Service Bus queue allows messages to be posted, but the messages are sent with no response.
+    - content: Azure Relay
+      isCorrect: true
+      explanation: Azure Relay allows messages to be posted and a response posted in return with the success or failure of the transaction. 
+    - content: Azure Event Hubs
+      isCorrect: false
+      explanation: Azure Event Hubs allows messages to be posted, but the messages are sent with no response. Event Hubs distributes the message to the various subscribers.
+    - content: Webhook
+      isCorrect: false
+      explanation: A webhook can be called synchronously and return a message; however, a webhook will fail if the other system is not available.
+  - content: You need to integrate systems. The systems must not be dependent on the other being available or on changes that are made to each system. What sort of integration should you create?
+    choices: 
+    - content: Loosely coupled
+      isCorrect: true
+      explanation: Systems should be as independent as possible from each other so that changes to one do not heavily impact the other. Loosely coupled systems are interdependent of each other.
+    - content: Low cohesion
+      isCorrect: false
+      explanation: Low cohesion would mean that the functionality is spread out over your systems. This factor makes the integration interdependent between the systems.
+    - content: Batch
+      isCorrect: false
+      explanation: Whether the integration is batch or event-driven will have no bearing on the level of dependency between the systems.
+    - content: Tightly coupled
+      isCorrect: false
+      explanation: A high level of coupling means that your system knows too much about the inner workings of the other. Systems that know too much about other systems will make changes difficult to coordinate and make systems brittle. 

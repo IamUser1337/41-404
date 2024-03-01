@@ -1,0 +1,1 @@
+In this module, you learned how to build out a data model that was created from an existing, outdated solution. You also explored and edited predefined tables in Dataverse, created your own custom tables, and created and defined columns and relationships inside those tables. This approach will make your apps more powerful so that you can view relevant information more easily.

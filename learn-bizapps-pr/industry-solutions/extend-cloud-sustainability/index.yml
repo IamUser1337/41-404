@@ -1,0 +1,47 @@
+### YamlMime:Module 
+uid: learn-bizapps.extend-cloud-sustainability 
+metadata: 
+ title: Extend core capabilities of Microsoft Sustainability Manager 
+ description: Microsoft Sustainability Manager in Microsoft Cloud for Sustainability is built on top of Microsoft Power Platform as a model-driven application.
+ ms.date: 12/28/2023  
+ author: AshokSudhaMCRSOFT  
+ ms.author: sudhaashok  
+ ms.topic: module
+ ms.service: microsoft-cloud-sustainability
+title: Extend core capabilities of Microsoft Sustainability Manager
+summary: |  
+  [!include[](../includes/module-banner.md)] 
+  Microsoft Sustainability Manager is built on top of Microsoft Power Platform as a model-driven application. You get a set of low-code tools that can help your teams stay agile and build solutions that move your business forward. Sustainability Manager is built from the ground up to work together with strong security, management, and compliance&mdash;and still have room to grow.
+abstract: |  
+    In this module, you'll: 
+    - Use Microsoft Power Platform to create no-code extensions within Sustainability Manager.
+    -	Add customized dashboards to Sustainability Manager.
+    -	Create alerts to notify critical team members about task status.
+    -	Add a column to a table in the Sustainability data model.
+    -	Display data on a form in Sustainability Manager. 
+prerequisites: |
+  - Access to the deployment of Microsoft Sustainability Manager with demo data installed 
+  - Basic knowledge of working with Microsoft Power Platform
+iconUrl: /training/achievements/extend-cloud-sustainability.svg  
+levels:  
+- intermediate   
+roles:  
+- functional-consultant  
+- developer 
+- administrator
+products: 
+- mscloud-sustainability 
+- industry-solutions
+subjects: 
+- business-applications 
+units: 
+- learn-bizapps.extend-cloud-sustainability.introduction 
+- learn-bizapps.extend-cloud-sustainability.exercise-inventory-management-plan 
+- learn-bizapps.extend-cloud-sustainability.exercise-custom-dashboard 
+- learn-bizapps.extend-cloud-sustainability.exercise-embed-shared-workspace 
+- learn-bizapps.extend-cloud-sustainability.exercise-create-power-automate 
+- learn-bizapps.extend-cloud-sustainability.exercise-add-custom-field 
+- learn-bizapps.extend-cloud-sustainability.check 
+- learn-bizapps.extend-cloud-sustainability.summary 
+badge: 
+  uid: learn-bizapps.extend-cloud-sustainability.badge 

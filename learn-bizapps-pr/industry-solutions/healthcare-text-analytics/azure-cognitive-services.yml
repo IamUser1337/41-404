@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.healthcare-text-analytics.azure-cognitive-services 
+title: Azure Cognitive Services basics
+metadata: 
+  title: Azure Cognitive Services basics
+  description: Learn about the basics of Azure Cognitive Services in Microsoft Cloud for Healthcare.
+  ms.date: 10/25/2023 
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok 
+  ms.topic: unit
+durationInMinutes: 8 
+content: | 
+ [!include[](../includes/unit-banner.md)] 
+ [!include[](includes/azure-cognitive-services.md)] 

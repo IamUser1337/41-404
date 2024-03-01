@@ -1,0 +1,39 @@
+### YamlMime:Module
+uid: learn-bizapps.pad-scripting
+metadata:
+ title: Scripting in Power Automate for desktop
+ description: This module covers the scripting actions in Power Automate for desktop.
+ ms.date: 01/02/2024
+ author: DaveBeasley
+ ms.author: dbeasley
+ ms.topic: module
+title: Scripting in Power Automate for desktop
+summary: |
+  [!include[](../includes/module-banner.md)]
+  Power Automate for desktop enables you to automate complex scenarios using scripts in VBScript, JavaScript, PowerShell, and Python.
+abstract: |
+    This module explains:
+    - How to use scripting actions.
+    - Create two flows using VBScript and JavaScript.
+prerequisites: |
+    A basic understanding of [how to use the Power Automate for desktop console and flow designer](../pad-first-steps/index.yml), [flow development](../pad-power-automate-desktop-development-essentials/index.yml) and [variables](../pad-variables/index.yml).
+iconUrl: /training/achievements/pad-scripting.svg
+levels:
+- advanced
+roles:
+- developer
+- functional-consultant
+products:
+- power-platform
+- power-automate
+subjects:
+- process-workflow
+units:
+- learn-bizapps.pad-scripting.1-introduction
+- learn-bizapps.pad-scripting.2-scripting-actions
+- learn-bizapps.pad-scripting.3-exercise-vbscript
+- learn-bizapps.pad-scripting.4-exercise-javascript
+- learn-bizapps.pad-scripting.5-check-knowledge
+- learn-bizapps.pad-scripting.6-summary
+badge:
+  uid: learn-bizapps.pad-scripting.badge

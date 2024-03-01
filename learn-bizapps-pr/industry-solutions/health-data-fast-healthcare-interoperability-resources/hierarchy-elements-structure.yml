@@ -1,0 +1,14 @@
+## YamlMime:ModuleUnit
+uid: learn-bizapps.health-data-fast-healthcare-interoperability-resources.hierarchy-elements-structure
+title: Hierarchy and resource structure in FHIR
+metadata:
+  title: Hierarchy and resource structure in FHIR
+  description: Learn about the hierarchy and resource structure in FHIR.
+  ms.date: 11/30/2023
+  author: AshokSudhaMCRSOFT 
+  ms.author: sudhaashok
+  ms.topic: unit
+durationInMinutes: 6
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/hierarchy-elements-structure.md)]

@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.how-to-build-ui-canvas-app.6-use-table-phone-form-factors 
+title: Build for phones or tablets
+metadata: 
+  title: Build for phones or tablets
+  description: Learn how to build for phones or tablets. 
+  ms.date: 01/03/2024 
+  author: jadaphillips
+  ms.author: jadaphillips 
+  ms.topic: unit
+durationInMinutes: 6 
+content: |
+  [!include[](../includes/unit-banner.md)]
+  [!include[](includes/6-use-table-phone-form-factors.md)] 
+

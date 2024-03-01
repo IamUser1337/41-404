@@ -1,0 +1,40 @@
+### YamlMime:Module
+uid: learn-bizapps.create-paginated-reports-power-bi
+metadata:
+  title: 'Create paginated reports '
+  description: "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports."
+  ms.date: 07/05/2023
+  author: wwlpublish
+  ms.author: anrudduc
+  ms.topic: module
+  ms.service: powerbi
+title: Create paginated reports
+summary: Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.
+abstract: |
+  In this module, you will:
+  - Get data.
+  - Create a paginated report.
+  - Work with charts and tables on the report.
+  - Publish the report.
+prerequisites: |
+  Power BI paginated reports are a feature of Power BI Premium
+iconUrl: /training/achievements/create-paginated-reports-power-bi.svg
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+subjects:
+- data-visualization
+units:
+- learn-bizapps.create-paginated-reports-power-bi.1-introduction
+- learn-bizapps.create-paginated-reports-power-bi.2-get-data
+- learn-bizapps.create-paginated-reports-power-bi.3-paginated-report
+- learn-bizapps.create-paginated-reports-power-bi.4-charts
+- learn-bizapps.create-paginated-reports-power-bi.5-publish
+- learn-bizapps.create-paginated-reports-power-bi.7-check
+- learn-bizapps.create-paginated-reports-power-bi.8-summary
+badge:
+  uid: learn-bizapps.create-paginated-reports-power-bi.badge

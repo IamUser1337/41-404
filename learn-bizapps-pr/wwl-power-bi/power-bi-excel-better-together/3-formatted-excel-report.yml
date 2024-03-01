@@ -1,0 +1,15 @@
+### YamlMime:ModuleUnit
+uid: learn.wwl.power-bi-excel-better-together.formatted-excel-report-from-promoted-dataset
+title: Formatted Excel report from a promoted dataset
+metadata:
+  title: Formatted Excel report from a promoted dataset
+  description: "Formatted Excel report from a promoted dataset"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: unit
+   
+azureSandbox: false
+durationInMinutes: 20
+content: |
+  [!include[](includes/3-formatted-excel-report.md)]

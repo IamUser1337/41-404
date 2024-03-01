@@ -1,0 +1,37 @@
+### YamlMime:Module
+uid: learn.wwl.prepare-to-teach-module-power-bi-reporting
+metadata:
+  title: 'Prepare to teach the module: Power BI reporting'
+  description: "Prepare to teach the module: Power BI reporting"
+  ms.date: 12/03/2020
+  author: wwlpublish
+  ms.author: bgeoffro
+  ms.topic: module
+  ms.service: powerbi
+title: 'Prepare to teach the module: Power BI reporting'
+summary: Explain, demonstrate, and deliver to your Data Analyst customers the course “Power BI paginated reports in a day” that shows how to create, publish, and distribute Power BI paginated reports to their organization.
+abstract: |
+  Learn how to deliver the instructor-led course “Power BI paginated reports in a day”
+prerequisites: |
+  Experience with Paginated reports.
+iconUrl: /training/achievements/power-bi-reporting.svg
+hidden: true
+levels:
+- intermediate
+roles:
+- data-analyst
+products:
+- power-bi
+- power-platform
+- azure-powerbi-embedded
+subjects:
+- productivity
+units:
+- learn.wwl.prepare-to-teach-module-power-bi-reporting.introduction
+- learn.wwl.prepare-to-teach-module-power-bi-reporting.setup
+- learn.wwl.prepare-to-teach-module-power-bi-reporting.power
+- learn.wwl.prepare-to-teach-module-power-bi-reporting.lab-01a-get-started
+- learn.wwl.prepare-to-teach-module-power-bi-reporting.knowledge-check
+- learn.wwl.prepare-to-teach-module-power-bi-reporting.summary
+badge:
+  uid: learn.wwl.prepare-to-teach-module-power-bi-reporting.badge

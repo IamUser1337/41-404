@@ -1,0 +1,48 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-bi-embedded-permissions-content.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 04/10/2022
+ author: paulinbar
+ manager: kfollis 
+ ms.author: painbar
+ ms.topic: unit
+durationInMinutes: 6
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: François is a developer at Tailspin Toys who wants to evaluate Power BI embedded analytics. What's the easiest way for François to create an Azure AD app registration?
+    choices:
+    - content: Use the Azure portal.
+      isCorrect: false
+      explanation: Incorrect. While it's possible to create an Azure AD app registration in the Azure portal, it can be time consuming and complex.
+    - content: Use the Embedding setup tool.
+      isCorrect: true
+      explanation: Correct. The Embedding setup tool can quickly create an Azure AD app registration, in addition to setting up Power BI content and providing a downloadable C# ASP.NET web app.
+    - content: Develop a PowerShell script.
+      isCorrect: false
+      explanation: Incorrect. While it's possible to develop a PowerShell script to create an Azure AD app registration, it's likely to be a time consuming and complex task.
+  - content: Kelly is a developer at Tailspin Toys who is responsible for developing an internal business intelligence portal. Employees will use the portal to view Power BI reports and paginated reports. Which type of scenario should Kelly use?
+    choices:
+    - content: The *For your customers* scenario, using a master user account as the embedding identity.
+      isCorrect: false
+      explanation: Incorrect. The requirement is to develop an internal business intelligence portal for employees. You should use the *For your customers* scenario when embedding content for external users.
+    - content: The *For your customers* scenario, using a service principal as the embedding identity.
+      isCorrect: false
+      explanation: Incorrect. The requirement is to develop an internal business intelligence portal for employees. You should use the *For your customers* scenario when embedding content for external users.
+    - content: The *For your organization* scenario.
+      isCorrect: true
+      explanation: Correct. An internal business intelligence portal should use the *For your organization* scenario because Tailspin Toys employees will use it.
+  - content: Jaxon is a developer at Tailspin Toys who is responsible for developing an app that embeds Power BI reports and paginated reports for business partners. The business partners don't belong to the Tailspin Toys organization. When possible, the security design should follow Azure AD recommendations. Which type of scenario should Jaxon use?
+    choices:
+    - content: The *For your customers* scenario, using a master user account as the embedding identity.
+      isCorrect: false
+      explanation: Incorrect. You should use the *For your customers* scenario when embedding content for external users, like business partners. However, you shouldn't use a master user account as the embedding identity as it doesn't apply Azure AD recommendations. Also, it's not possible to embed paginated reports using a master user account.
+    - content: The *For your customers* scenario, using a service principal as the embedding identity.
+      isCorrect: true
+      explanation: Correct. You should use the *For your customers* scenario when embedding content for external users, like business partners. You should use a service principal as the embedding identity as it follows Azure AD recommendations.
+    - content: The *For your organization* scenario.
+      isCorrect: false
+      explanation: Incorrect. You can't use the *For your organization* scenario to embed Power BI content for external users, like business partners.

@@ -1,0 +1,38 @@
+### YamlMime:LearningPath
+uid: learn-bizapps.power-apps-online-workshop
+metadata:
+  title: Create a machine ordering app with Power Apps - Online Workshop
+  description: Learn how to create an app with Power Apps.
+  ms.date: 01/26/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: learning-path
+title: Create a machine ordering app with Power Apps - Online Workshop
+summary: |
+  [!include[](../../includes/lp-banner.md)]
+  In this learning path you'll complete hands on activities using Microsoft Power Platform. You'll build a solution to manage the process for ordering coffee machines for various Contoso locations.  
+  
+  This Learning Path is designed for use with the App in a Day instructor-led course. For more information on attending this free, instructor-led course, see [Microsoft Power Platform instructor-led training](https://powerplatform.microsoft.com/instructor-led-training/). On that page, you can [Register for an event](https://aka.ms/aiadevent).
+    
+prerequisites: |
+  - You'll need an environment with a licensed user to complete these exercises. 
+iconUrl: /training/achievements/power-apps-online-workshop.svg
+levels:
+- beginner
+roles:
+- maker
+- business-user
+products:
+- power-platform
+- power-apps
+- power-automate
+- dataverse
+subjects:
+- business-applications
+modules:
+- learn-bizapps.power-apps-canvas-app-online-workshop 
+- learn-bizapps.dataverse-lab-manual-online-workshop
+- learn-bizapps.power-apps-model-driven-apps-online-workshop
+- learn-bizapps.integrate-power-apps-online-workshop
+trophy:
+  uid: learn.power-apps-online-workshop.trophy

@@ -1,0 +1,50 @@
+### YamlMime:Module 
+uid: learn-bizapps.power-bi-embedded-integrate
+metadata:
+ title: Integrate content with Power BI client APIs
+ description: Learn how to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content.
+ ms.date: 06/28/2023
+ author: mberdugo
+ manager: kfollis 
+ ms.author: monaberdugo
+ ms.topic: module
+ ms.service: powerbi
+title: Integrate content with Power BI client APIs
+summary: |
+  [!include[](../includes/module-banner.md)]
+  <!-- > [!VIDEO https://www.microsoft.com/videoplayer/embed/] -->
+
+  Embedding Power BI content is only a first step because more potential exists. Power BI client APIs help you achieve tight integration between the app and the content. The app can set up and automate operations, and it can respond to user-initiated actions. Additionally, you can integrate Power BI capabilities, including navigation, writing, filters and slicers, menu operations, layout, and bookmarks.
+
+  > [!TIP]
+  > Power BI is in a constant state of evolution. Be sure to keep abreast of new features that are announced in the <a href="https://powerbi.microsoft.com/blog/" target="_blank">Microsoft Power BI Blog</a>. You might discover new features and capabilities that you can apply to improve your existing reports.
+abstract: |
+    In this module, you'll:
+    - Work with Power BI client APIs.
+    - Develop programmatic interactions with Power BI content.
+    - Develop solutions that respond to subscribable events.
+    - Create dynamic report layouts.
+prerequisites: Experience developing web apps, creating Power BI workspaces and content, and programmatically embedding Power BI content
+iconUrl: /training/achievements/power-bi-embedded-integrate.svg
+levels:
+- advanced
+roles:
+- developer
+- business-analyst
+products:
+- power-platform
+- power-bi
+subjects:
+- custom-app-development
+- data-modeling
+units:
+- learn-bizapps.power-bi-embedded-integrate.introduction
+- learn-bizapps.power-bi-embedded-integrate.insights-quick-action
+- learn-bizapps.power-bi-embedded-integrate.personalize-top-insights
+- learn-bizapps.power-bi-embedded-integrate.customize-report-theme
+- learn-bizapps.power-bi-embedded-integrate.capture-report-views
+- learn-bizapps.power-bi-embedded-integrate.create-personal-visuals
+- learn-bizapps.power-bi-embedded-integrate.check
+- learn-bizapps.power-bi-embedded-integrate.summary
+badge:
+  uid: learn-bizapps.power-bi-embedded-integrate.badge

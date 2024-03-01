@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.get-started-power-apps-sharepoint.exercise
+title: Exercise - Build an inventory app with SharePoint
+metadata:
+  title: Exercise - Build an inventory app with SharePoint
+  description: Follow the steps to build an inventory app with SharePoint.
+  ms.date: 09/22/2023
+  author: jadaphillips
+  ms.author: jadaphillips
+  ms.topic: unit
+durationInMinutes: 12
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/exercise.md)]

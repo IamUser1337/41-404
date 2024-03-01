@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.write-data.6-knowledge-check 
+metadata: 
+  title: Write data in a Power Apps canvas app knowledge check
+  description: Write data in a Power Apps canvas app knowledge check
+  ms.date: 06/28/2023
+  author: jadaphillips
+  ms.author: jadaphillips 
+  ms.topic: unit
+title: Check your knowledge 
+durationInMinutes: 6 
+quiz: 
+  title: Write data in a Power Apps canvas app knowledge check
+  questions: 
+  - content: Which of the following is NOT a display mode for an Edit form control?
+    choices: 
+    - content: View Mode
+      isCorrect: false
+      explanation: Interactive mode is not a display mode. 
+    - content: Edit Mode
+      isCorrect: false 
+      explanation: Interactive mode is not a display mode.  
+    - content: New Mode
+      isCorrect: false
+      explanation: Interactive mode is not a display mode.  
+    - content: Interactive Mode
+      isCorrect: true
+      explanation: Interactive mode is not a display mode.  
+  - content: What function do you use to save the data from your form back to your data source?
+    choices: 
+    - content: SaveForm
+      isCorrect: false
+      explanation: SubmitForm is used to do this. 
+    - content: Save
+      isCorrect: false 
+      explanation: SubmitForm is used to do this.  
+    - content: SubmitForm
+      isCorrect: true
+      explanation: SubmitForm is used to do this. 
+    - content: You do not need a function. Forms automatically save the data to the data source.
+      isCorrect: false 
+      explanation: SubmitForm is used to do this.  
+  - content: What is the correct way to run a formula after a form has been successfully submitted?
+    choices: 
+    - content: Put your formula in the OnSuccess property of the form.
+      isCorrect: true 
+      explanation: The correct way is to put the formula in the OnSuccess property of the form.
+    - content: Add the formula to a Button control
+      isCorrect: false 
+      explanation: The correct way is to put the formula in the OnSuccess property of the form.
+    - content: Put your formula in the OnReset property of the form.
+      isCorrect: false 
+      explanation: The correct way is to put the formula in the OnSuccess property of the form.
+    - content: It is not possible to run a formula after a form is submitted.
+      isCorrect: false 
+      explanation: The correct way is to put the formula in the OnSuccess property of the form.

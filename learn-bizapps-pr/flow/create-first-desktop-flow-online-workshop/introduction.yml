@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.create-first-desktop-flow-online-workshop.introduction
+title: Introduction
+metadata:
+  title: Introduction
+  description: Introduction to creating your first desktop flow
+  ms.date: 11/29/2023
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 2
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/introduction.md)]

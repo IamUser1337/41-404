@@ -1,0 +1,56 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.input-parameters.7-check 
+title: Check your knowledge 
+metadata: 
+ title: Check your knowledge 
+ description: Answer the following questions to see what you've learned. 
+ ms.date: 10/03/2022
+ author: jadaphillips 
+ ms.author: jadaphillips 
+ ms.topic: unit
+durationInMinutes: 2
+quiz: 
+  title: Answer the following questions to see what you've learned. 
+  questions: 
+  - content: When are input/output variables defined?
+    choices: 
+    - content: Input variables are defined before the flow, and output variables are defined along the process of the flow. 
+      isCorrect: true 
+      explanation: This statement defines when input and output variables are defined. 
+    - content: Output variables are defined before the flow, while input variables are defined during the flow. 
+      isCorrect: false 
+      explanation: Input variables are defined before the flow, and output variables are defined along the process of the flow. 
+    - content: Both are defined before the flow.
+      isCorrect: false 
+      explanation: Input variables are defined before the flow, and output variables are defined along the process of the flow. 
+    - content: Both are defined during the flow.
+      isCorrect: false 
+      explanation: Input variables are defined before the flow, and output variables are defined along the process of the flow. 
+  - content: When you need to pass parameters from a cloud flow into a desktop flow, where do you define these values? 
+    choices: 
+    - content: Desktop recorder 
+      isCorrect: false 
+      explanation: The desktop recorder is for capturing screen activities.
+    - content: Input/output variables 
+      isCorrect: true 
+      explanation: Input/output variables allow the maker to establish parameters that a cloud flow can send. In addition, you can use output variables to send data back to cloud flows.
+    - content: Run next action
+      isCorrect: false 
+      explanation: Your flow uses the Run next action command to initiate the next action. 
+    - content: Action Pane
+      isCorrect: false 
+      explanation: You'd use the Action Pane to bring connectors, triggers, and other actions into a desktop flow.
+  - content: Which one of the following actions allows you to use Invoice ID in downstream desktop flow actions or is required to return the value to a cloud flow? 
+    choices: 
+    - content: Increase variable 
+      isCorrect: false 
+      explanation: You'll use the increase variable action to increase or decrease a variable in your flow. 
+    - content: Set variable
+      isCorrect: true 
+      explanation: You can set an output type of variable that will capture the Invoice ID. It will allow you to use the Invoice ID in downstream processes or to send back to a cloud flow. 
+    - content: Start recorder 
+      isCorrect: false 
+      explanation: You'll use the start recorder function to record screen activity.
+    - content: Create a new list 
+      isCorrect: false 
+      explanation: The create a new list action will create a new list to store extra elements for use in your flow.  

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit 
+uid: learn-bizapps.power-bi-effective-user-experience.2-design-reports 
+title: Design reports to highlight values
+metadata: 
+  title:  Design reports to highlight values
+  description: Highlight values in reports to communicate important and relevant facts about data.
+  ms.date: 10/11/2021 
+  author: wwlpublish 
+  ms.author: anrudduc 
+  ms.topic: unit
+durationInMinutes: 5 
+content: | 
+ [!include[](../../power-bi/includes/unit-banner.md)] 
+ [!include[](includes/2-design-reports.md)] 

@@ -1,0 +1,14 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.power-virtual-agents-create-online-workshop.build-chatbot
+title: Exercise - Build your first copilot
+metadata:
+  title: Exercise - Build your first copilot
+  description: Follow the steps to build your first copilot.
+  ms.date: 01/24/2024
+  author: DaveBeasley
+  ms.author: dbeasley
+  ms.topic: unit
+durationInMinutes: 8
+content: |
+ [!include[](../includes/unit-banner.md)]
+ [!include[](includes/build-chatbot.md)]

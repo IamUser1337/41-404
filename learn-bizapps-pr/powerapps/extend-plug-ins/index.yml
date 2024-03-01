@@ -1,0 +1,42 @@
+### YamlMime:Module 
+uid: learn-bizapps.extend-plug-ins
+metadata: 
+ title: Extend plug-ins in Power Platform
+ description: The purpose of this module is to provide an in-depth overview of plug-ins as it relates to Microsoft Power Platform development. This module will review how and when plug-ins are implemented, how they're registered and deployed, and the various configuration options that are available during plug-in registration.
+ ms.date: 09/28/2023  
+ author: DaveBeasley  
+ ms.author: dbeasley  
+ ms.topic: module-standard-task-based
+ ms.service: powerapps
+ ms.subservice: dataverse-developer
+title: Extend plug-ins in Power Platform
+summary: |
+  [!include[](../includes/module-banner.md)]
+  The purpose of this module is to provide an in-depth overview of plug-ins as it relates to Microsoft Power Platform development. This module will review how and when plug-ins are implemented, how they're registered and deployed, and the various configuration options that are available during plug-in registration.
+abstract: |  
+    In this module, you will: 
+    - Learn how to extend plug-ins.
+prerequisites:  |
+    - Basic understanding of Microsoft Power Platform
+    - Experience in software development against the Microsoft stack and Visual Studio
+    - Experience in administering solutions in Azure is preferred 
+iconUrl: /training/achievements/extend-plug-ins.svg  
+levels:  
+- intermediate   
+roles:  
+- developer  
+- functional-consultant 
+products:  
+- dynamics-365
+- power-platform
+- power-apps
+- dataverse
+units:
+- learn-bizapps.extend-plug-ins.introduction 
+- learn-bizapps.extend-plug-ins.usage 
+- learn-bizapps.extend-plug-ins.execution 
+- learn-bizapps.extend-plug-ins.exercise
+- learn-bizapps.extend-plug-ins.check 
+- learn-bizapps.extend-plug-ins.summary 
+badge: 
+  uid: learn-bizapps.extend-plug-ins.badge

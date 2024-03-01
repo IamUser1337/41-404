@@ -1,0 +1,71 @@
+### YamlMime:ModuleUnit
+uid: learn-bizapps.sustainability-emissions-calculation.check
+title: Check your knowledge
+metadata:
+ title: Check your knowledge
+ description: Answer the following questions to see what you've learned.
+ ms.date: 09/26/2023
+ author: AshokSudhaMCRSOFT
+ ms.author: sudhaashok
+ ms.topic: unit
+durationInMinutes: 8
+quiz:
+  title: Answer the following questions to see what you've learned.
+  questions:
+  - content: What does a Calculation model represent
+    choices:
+    - content: A Calculation model dynamically connects activity data with greenhouse gas emissions
+      isCorrect: false
+      explanation: A Calculation model is a logical representation of the emission calculations.
+    - content: A Calculation model is a logical representation of the emission calculations
+      isCorrect: true
+      explanation: A Calculation model is a logical representation of the emission calculations.
+    - content: Calculation models can be run to dynamically calculate emissions with a set of activities
+      isCorrect: false
+      explanation: A Calculation model is a logical representation of the emission calculations.
+    - content: Calculation models are Power Fx based calculations to calculate total emissions.
+      isCorrect: false
+      explanation: A Calculation model is a logical representation of the emission calculations.
+  - content: What is the purpose of factor mappings?
+    choices:
+    - content: Factor mappings help map emission factors to reference data.
+      isCorrect: true
+      explanation: Factor mappings help map emission factors to reference data, such as contractual instruments.
+    - content: Factor mappings help map emission data columns to factor libraries.
+      isCorrect: false
+      explanation: Factor mappings help map emission factors to reference data, such as contractual instruments.
+    - content: Factor mappings are unit conversion factors.
+      isCorrect: false
+      explanation: Factor mappings help map emission factors to reference data, such as contractual instruments.
+    - content: Factor mappings help map factor libraries to activity data.
+      isCorrect: false
+      explanation: Factor mappings help map emission factors to reference data, such as contractual instruments.
+  - content: What is the purpose of estimation factors?
+    choices:
+    - content: Estimation factors are the same as emission factors.
+      isCorrect: false
+      explanation: Estimation factors and emission factors aren’t the same.
+    - content: Estimation factors are used to convert proxy data into activity data that you can use with emission factors.
+      isCorrect: true
+      explanation: Estimation factors help create estimated conversions from one unit type to another.
+    - content: Estimation library is a library of emission factors.
+      isCorrect: false
+      explanation: Estimation factors help create estimated conversions from one unit type to another.
+    - content: Estimation factors are required to calculate emissions.
+      isCorrect: false
+      explanation: Estimation factors help create estimated conversions from one unit type to another.
+  - content: In Microsoft Sustainability Manager, which component would you use for defining the steps and values to use for calculating emissions?
+    choices:
+    - content: Calculation job
+      isCorrect: false
+      explanation: You would use the Calculation profile component to define the steps and the instruction sets for emission calculations.
+    - content: Power Fx
+      isCorrect: false
+      explanation: You would use the Calculation profile component to define the steps and the instruction sets for emission calculations.
+    - content: Calculation profile
+      isCorrect: true
+      explanation: You would use the Calculation profile component to define the steps and the instruction sets for emission calculations.
+    - content: Emission library
+      isCorrect: false
+      explanation: You would use the Calculation profile component to define the steps and the instruction sets for emission calculations.
+
