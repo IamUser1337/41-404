@@ -27,6 +27,8 @@ In this exercise, you'll create users and assign the required licenses. Later mo
 
 1. Select **Dynamics 365 Customer Service Enterprise Admin**, **Office 365 E5**, and **Power BI Premium Per User** licenses and then select **Next**.
 
+    >[!alert] Some of the licenses may show as unavailable. Select the available options and proceed to the next step.
+
    > [!div class="mx-imgBorder"]
    > [![Screenshot of Add multiple users on the Licenses page with the three licenses selected.](../media/licenses.png)](../media/licenses.png#lightbox)
 
