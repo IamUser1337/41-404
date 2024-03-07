@@ -1,6 +1,6 @@
 In this exercise, you'll create users and assign the required licenses. Later modules will feature these users as different personas.
 
-1. Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true). (We recommend that you use an Incognito or InPrivate web browsing session.)
+1. Go to [Microsoft 365 admin center](https://admin.microsoft.com/?azure-portal=true).
 
 1. Sign in with your credentials.
 
