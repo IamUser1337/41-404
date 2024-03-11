@@ -1,4 +1,4 @@
-In this exercise, you'll learn how to create a new Microsoft Power Platform environment.
+In this exercise, you'll learn how to update a Microsoft Power Platform environment.
 
 1. Go to [Microsoft Power BI](https://app.powerbi.com/?azure-portal=true). This step is to help ensure that you have access to Power BI before you attempt to deploy dashboards as part of the Store Operations Assist solution.
 
