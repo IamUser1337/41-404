@@ -24,8 +24,6 @@
 
 !Instructions[](learn-bizapps-pr/industry-solutions/retail-setup-training-environment/includes/create-power-environment.md)
 
-!Instructions[](learn-bizapps-pr/industry-solutions/retail-setup-training-environment/includes/deploy-store-operations.md)
-
 !Instructions[](learn-bizapps-pr/industry-solutions/retail-setup-training-environment/includes/assign-role.md)
 
 !Instructions[](learn-bizapps-pr/industry-solutions/retail-setup-training-environment/includes/import-sample-data.md)
